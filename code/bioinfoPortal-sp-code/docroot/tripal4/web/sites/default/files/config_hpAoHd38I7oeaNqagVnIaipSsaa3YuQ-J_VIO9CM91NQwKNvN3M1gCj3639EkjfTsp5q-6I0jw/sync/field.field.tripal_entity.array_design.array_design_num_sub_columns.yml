@@ -1,0 +1,24 @@
+uuid: 07bc7dd7-3485-477a-ae94-4cbe2909573f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_num_sub_columns
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_num_sub_columns
+field_name: array_design_num_sub_columns
+entity_type: tripal_entity
+bundle: array_design
+label: 'Num Sub Columns'
+description: 'The number of sub columns.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: num_sub_columns
+  debug: false
+field_type: chado_integer_type_default

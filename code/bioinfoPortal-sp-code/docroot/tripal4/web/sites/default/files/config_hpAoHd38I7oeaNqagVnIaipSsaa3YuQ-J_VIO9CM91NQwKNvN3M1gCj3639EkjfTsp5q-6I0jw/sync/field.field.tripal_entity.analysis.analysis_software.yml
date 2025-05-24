@@ -1,0 +1,24 @@
+uuid: 8598f61b-e4c2-482c-9041-1d06ccadeff1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.analysis_software
+    - tripal.content_type.analysis
+  module:
+    - tripal_chado
+id: tripal_entity.analysis.analysis_software
+field_name: analysis_software
+entity_type: tripal_entity
+bundle: analysis
+label: 'Program, Pipeline, Workflow or Method Name'
+description: 'The program name (e.g. blastx, blastp, sim4, genscan. If the analysis was not derived from a software package then provide a very brief description of the pipeline, workflow or method.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SWO
+  termAccession: '0000001'
+  debug: false
+field_type: chado_string_type_default

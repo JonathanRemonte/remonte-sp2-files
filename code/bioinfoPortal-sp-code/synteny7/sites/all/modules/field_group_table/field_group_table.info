@@ -1,0 +1,11 @@
+name = Field Group Table
+description = Render fields in a 2-column table
+package = Fields
+dependencies[] = field_group
+core = 7.x
+
+; Information added by Drupal.org packaging script on 2021-11-16
+version = "7.x-1.7"
+core = "7.x"
+project = "field_group_table"
+datestamp = "1637071077"

@@ -1,0 +1,24 @@
+uuid: 9d209d34-43f3-4418-ace3-a54b58eec82a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.organism_abbreviation
+    - tripal.content_type.organism
+  module:
+    - tripal_chado
+id: tripal_entity.organism.organism_abbreviation
+field_name: organism_abbreviation
+entity_type: tripal_entity
+bundle: organism
+label: Abbreviation
+description: 'A shortened name (or abbreviation) for the organism (e.g. O. sativa).'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: abbreviation
+  debug: false
+field_type: chado_string_type_default

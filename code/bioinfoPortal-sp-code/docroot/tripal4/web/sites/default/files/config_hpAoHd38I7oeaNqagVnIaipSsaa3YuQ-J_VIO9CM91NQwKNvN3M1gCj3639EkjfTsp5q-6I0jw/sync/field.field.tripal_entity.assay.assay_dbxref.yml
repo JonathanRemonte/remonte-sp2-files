@@ -1,0 +1,24 @@
+uuid: fb69717b-9e3a-4dc9-beb8-1cdd4721390c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_dbxref
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_dbxref
+field_name: assay_dbxref
+entity_type: tripal_entity
+bundle: assay
+label: 'Primary Database Reference'
+description: 'The IDs where this record may be available in other external online databases.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SBO
+  termAccession: '0000554'
+  debug: false
+field_type: chado_dbxref_type_default

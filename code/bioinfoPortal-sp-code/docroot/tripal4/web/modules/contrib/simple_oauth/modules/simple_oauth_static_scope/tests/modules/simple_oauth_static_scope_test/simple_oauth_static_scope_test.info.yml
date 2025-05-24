@@ -1,0 +1,7 @@
+name: Simple OAuth Static Scope Test
+type: module
+description: Test module for Simple OAuth Static Scope
+package: Testing
+hidden: true
+dependencies:
+  - simple_oauth:simple_oauth_static_scope

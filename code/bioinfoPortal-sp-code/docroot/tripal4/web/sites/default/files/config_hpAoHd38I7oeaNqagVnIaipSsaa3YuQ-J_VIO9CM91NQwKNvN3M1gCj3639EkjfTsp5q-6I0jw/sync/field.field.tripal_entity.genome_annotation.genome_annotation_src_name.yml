@@ -1,0 +1,24 @@
+uuid: d1bba7a3-2057-4fcd-ac38-4f3d8bb8710a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.genome_annotation_src_name
+    - tripal.content_type.genome_annotation
+  module:
+    - tripal_chado
+id: tripal_entity.genome_annotation.genome_annotation_src_name
+field_name: genome_annotation_src_name
+entity_type: tripal_entity
+bundle: genome_annotation
+label: Name
+description: 'The name of the source where data was obtained for this analysis.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: name
+  debug: false
+field_type: chado_string_type_default

@@ -1,0 +1,24 @@
+uuid: 2add920d-aa99-4c19-b18e-0ff245ddea20
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_array_design
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_array_design
+field_name: assay_array_design
+entity_type: tripal_entity
+bundle: assay
+label: 'Array Design'
+description: 'An instrument design which describes the design of the array.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: EFO
+  termAccession: '0000269'
+  debug: false
+field_type: chado_array_design_type_default

@@ -1,0 +1,25 @@
+uuid: a9ff9c8d-ad4f-4233-91b5-682e1a525dff
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.assay_dbxref
+field_name: assay_dbxref
+entity_type: tripal_entity
+type: chado_dbxref_type_default
+settings:
+  termIdSpace: SBO
+  termAccession: '0000554'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: assay
+    base_column: dbxref_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

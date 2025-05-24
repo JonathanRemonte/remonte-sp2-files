@@ -1,0 +1,25 @@
+uuid: 12575029-9fdb-43fd-8be6-e0429f517520
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.qtl_dbxref
+field_name: qtl_dbxref
+entity_type: tripal_entity
+type: chado_dbxref_type_default
+settings:
+  termIdSpace: SBO
+  termAccession: '0000554'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: feature
+    base_column: dbxref_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

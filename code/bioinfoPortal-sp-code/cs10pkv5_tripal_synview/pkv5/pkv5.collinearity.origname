@@ -1,0 +1,3097 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# MATCH_SIZE: 5
+# GAP_PENALTY: -1
+# OVERLAP_WINDOW: 5
+# E_VALUE: 1e-05
+# MAX GAPS: 25
+############### Statistics ###############
+# Number of collinear genes: 5409, Percentage: 4.58
+# Number of all genes: 118040
+##########################################
+## Alignment 0: score=473.0 e_value=1.6e-24 N=10 pk1&pk1 plus
+  0-  0:	PKGMv1-21307_g	PKGMv1-21449_g	 4e-130
+  0-  1:	PKGMv1-21309_g	PKGMv1-21450_g	  1e-57
+  0-  2:	PKGMv1-21332_g	PKGMv1-21473_g	      0
+  0-  3:	PKGMv1-21334_g	PKGMv1-21474_g	      0
+  0-  4:	PKGMv1-21335_g	PKGMv1-21475_g	      0
+  0-  5:	PKGMv1-21336_g	PKGMv1-21476_g	      0
+  0-  6:	PKGMv1-21340_g	PKGMv1-21477_g	  3e-57
+  0-  7:	PKGMv1-21341_g	PKGMv1-21478_g	      0
+  0-  8:	PKGMv1-21342_g	PKGMv1-21479_g	  1e-91
+  0-  9:	PKGMv1-21343_g	PKGMv1-21480_g	      0
+## Alignment 1: score=446.0 e_value=4.6e-17 N=9 pk1&pk1 plus
+  1-  0:	PKGMv1-61298_g	PKGMv1-61337_g	 4e-110
+  1-  1:	PKGMv1-61300_g	PKGMv1-61338_g	 4e-152
+  1-  2:	PKGMv1-61301_g	PKGMv1-61339_g	  1e-16
+  1-  3:	PKGMv1-61302_g	PKGMv1-61340_g	      0
+  1-  4:	PKGMv1-61303_g	PKGMv1-61341_g	      0
+  1-  5:	PKGMv1-61304_g	PKGMv1-61342_g	  2e-89
+  1-  6:	PKGMv1-61305_g	PKGMv1-61343_g	      0
+  1-  7:	PKGMv1-61306_g	PKGMv1-61344_g	 3e-150
+  1-  8:	PKGMv1-61307_g	PKGMv1-61348_g	      0
+## Alignment 2: score=348.0 e_value=5.5e-13 N=7 pk1&pk1 plus
+  2-  0:	PKGMv1-22980_g	PKGMv1-22632_g	 3e-154
+  2-  1:	PKGMv1-22981_g	PKGMv1-22633_g	      0
+  2-  2:	PKGMv1-22982_g	PKGMv1-22635_g	 7e-149
+  2-  3:	PKGMv1-22983_g	PKGMv1-22636_g	 3e-176
+  2-  4:	PKGMv1-22984_g	PKGMv1-22637_g	      0
+  2-  5:	PKGMv1-22985_g	PKGMv1-22638_g	  3e-74
+  2-  6:	PKGMv1-22987_g	PKGMv1-22639_g	 1e-115
+## Alignment 3: score=299.0 e_value=1.7e-08 N=6 pk1&pk1 plus
+  3-  0:	PKGMv1-76916_g	PKGMv1-76937_g	      0
+  3-  1:	PKGMv1-76917_g	PKGMv1-76938_g	      0
+  3-  2:	PKGMv1-76918_g	PKGMv1-76939_g	      0
+  3-  3:	PKGMv1-76920_g	PKGMv1-76940_g	      0
+  3-  4:	PKGMv1-76921_g	PKGMv1-76941_g	      0
+  3-  5:	PKGMv1-76922_g	PKGMv1-76942_g	 5e-173
+## Alignment 4: score=298.0 e_value=5.3e-09 N=6 pk1&pk1 plus
+  4-  0:	PKGMv1-50536_g	PKGMv1-4755_g	      0
+  4-  1:	PKGMv1-50537_g	PKGMv1-4756_g	 1e-121
+  4-  2:	PKGMv1-50538_g	PKGMv1-4757_g	 2e-132
+  4-  3:	PKGMv1-50539_g	PKGMv1-4758_g	      0
+  4-  4:	PKGMv1-50541_g	PKGMv1-4760_g	  2e-56
+  4-  5:	PKGMv1-50543_g	PKGMv1-4762_g	      0
+## Alignment 5: score=296.0 e_value=8.1e-10 N=6 pk1&pk1 plus
+  5-  0:	PKGMv1-20558_g	PKGMv1-20460_g	      0
+  5-  1:	PKGMv1-20559_g	PKGMv1-20463_g	      0
+  5-  2:	PKGMv1-20560_g	PKGMv1-20464_g	      0
+  5-  3:	PKGMv1-20562_g	PKGMv1-20466_g	      0
+  5-  4:	PKGMv1-20563_g	PKGMv1-20467_g	      0
+  5-  5:	PKGMv1-20565_g	PKGMv1-20469_g	      0
+## Alignment 6: score=295.0 e_value=4.7e-09 N=6 pk1&pk1 plus
+  6-  0:	PKGMv1-21596_g	PKGMv1-83004_g	      0
+  6-  1:	PKGMv1-21597_g	PKGMv1-83005_g	      0
+  6-  2:	PKGMv1-21598_g	PKGMv1-83006_g	  7e-35
+  6-  3:	PKGMv1-21600_g	PKGMv1-83010_g	      0
+  6-  4:	PKGMv1-21602_g	PKGMv1-83011_g	 3e-129
+  6-  5:	PKGMv1-21604_g	PKGMv1-83012_g	      0
+## Alignment 7: score=584.0 e_value=8.5e-27 N=12 pk1&pk1 minus
+  7-  0:	PKGMv1-21708_g	PKGMv1-21765_g	  2e-82
+  7-  1:	PKGMv1-21709_g	PKGMv1-21761_g	      0
+  7-  2:	PKGMv1-21710_g	PKGMv1-21760_g	      0
+  7-  3:	PKGMv1-21716_g	PKGMv1-21759_g	  9e-54
+  7-  4:	PKGMv1-21717_g	PKGMv1-21756_g	  3e-72
+  7-  5:	PKGMv1-21718_g	PKGMv1-21755_g	  6e-80
+  7-  6:	PKGMv1-21719_g	PKGMv1-21754_g	  5e-39
+  7-  7:	PKGMv1-21720_g	PKGMv1-21750_g	      0
+  7-  8:	PKGMv1-21723_g	PKGMv1-21748_g	 2e-170
+  7-  9:	PKGMv1-21724_g	PKGMv1-21747_g	      0
+  7- 10:	PKGMv1-21725_g	PKGMv1-21746_g	      0
+  7- 11:	PKGMv1-21727_g	PKGMv1-21745_g	 9e-104
+## Alignment 8: score=542.0 e_value=1.1e-21 N=11 pk1&pk1 minus
+  8-  0:	PKGMv1-21281_g	PKGMv1-21318_g	 1e-144
+  8-  1:	PKGMv1-21282_g	PKGMv1-21316_g	      0
+  8-  2:	PKGMv1-21283_g	PKGMv1-21315_g	 3e-132
+  8-  3:	PKGMv1-21285_g	PKGMv1-21314_g	  2e-62
+  8-  4:	PKGMv1-21287_g	PKGMv1-21313_g	  3e-47
+  8-  5:	PKGMv1-21289_g	PKGMv1-21312_g	  9e-30
+  8-  6:	PKGMv1-21292_g	PKGMv1-21311_g	 5e-138
+  8-  7:	PKGMv1-21295_g	PKGMv1-21310_g	      0
+  8-  8:	PKGMv1-21296_g	PKGMv1-21309_g	 3e-126
+  8-  9:	PKGMv1-21297_g	PKGMv1-21308_g	 6e-133
+  8- 10:	PKGMv1-21298_g	PKGMv1-21307_g	  1e-96
+## Alignment 9: score=541.0 e_value=5.7e-25 N=11 pk1&pk1 minus
+  9-  0:	PKGMv1-65198_g	PKGMv1-65242_g	  4e-44
+  9-  1:	PKGMv1-65199_g	PKGMv1-65240_g	 2e-158
+  9-  2:	PKGMv1-65201_g	PKGMv1-65236_g	      0
+  9-  3:	PKGMv1-65203_g	PKGMv1-65235_g	      0
+  9-  4:	PKGMv1-65204_g	PKGMv1-65234_g	      0
+  9-  5:	PKGMv1-65205_g	PKGMv1-65231_g	      0
+  9-  6:	PKGMv1-65208_g	PKGMv1-65229_g	      0
+  9-  7:	PKGMv1-65209_g	PKGMv1-65228_g	      0
+  9-  8:	PKGMv1-65210_g	PKGMv1-65227_g	      0
+  9-  9:	PKGMv1-65211_g	PKGMv1-65226_g	      0
+  9- 10:	PKGMv1-65212_g	PKGMv1-65225_g	      0
+## Alignment 10: score=372.0 e_value=2.9e-15 N=8 pk1&pk1 minus
+ 10-  0:	PKGMv1-61638_g	PKGMv1-61783_g	  1e-30
+ 10-  1:	PKGMv1-61640_g	PKGMv1-61781_g	  2e-65
+ 10-  2:	PKGMv1-61645_g	PKGMv1-61775_g	  2e-72
+ 10-  3:	PKGMv1-61656_g	PKGMv1-61757_g	  8e-88
+ 10-  4:	PKGMv1-61657_g	PKGMv1-61756_g	      0
+ 10-  5:	PKGMv1-61659_g	PKGMv1-61755_g	  1e-87
+ 10-  6:	PKGMv1-61660_g	PKGMv1-61754_g	      0
+ 10-  7:	PKGMv1-61661_g	PKGMv1-61749_g	      0
+## Alignment 11: score=339.0 e_value=7.6e-13 N=7 pk1&pk1 minus
+ 11-  0:	PKGMv1-44888_g	PKGMv1-44916_g	 2e-169
+ 11-  1:	PKGMv1-44889_g	PKGMv1-44915_g	  6e-84
+ 11-  2:	PKGMv1-44890_g	PKGMv1-44913_g	      0
+ 11-  3:	PKGMv1-44891_g	PKGMv1-44910_g	 8e-158
+ 11-  4:	PKGMv1-44893_g	PKGMv1-44908_g	 4e-162
+ 11-  5:	PKGMv1-44896_g	PKGMv1-44900_g	 4e-109
+ 11-  6:	PKGMv1-44897_g	PKGMv1-44899_g	      0
+## Alignment 12: score=298.0 e_value=9.1e-10 N=6 pk1&pk1 minus
+ 12-  0:	PKGMv1-65188_g	PKGMv1-65276_g	      0
+ 12-  1:	PKGMv1-65189_g	PKGMv1-65275_g	  4e-88
+ 12-  2:	PKGMv1-65190_g	PKGMv1-65274_g	 6e-126
+ 12-  3:	PKGMv1-65191_g	PKGMv1-65273_g	  8e-92
+ 12-  4:	PKGMv1-65192_g	PKGMv1-65272_g	      0
+ 12-  5:	PKGMv1-65195_g	PKGMv1-65271_g	  1e-59
+## Alignment 13: score=297.0 e_value=2.1e-09 N=6 pk1&pk1 minus
+ 13-  0:	PKGMv1-36737_g	PKGMv1-36779_g	      0
+ 13-  1:	PKGMv1-36738_g	PKGMv1-36778_g	      0
+ 13-  2:	PKGMv1-36739_g	PKGMv1-36776_g	  4e-90
+ 13-  3:	PKGMv1-36742_g	PKGMv1-36774_g	  3e-60
+ 13-  4:	PKGMv1-36743_g	PKGMv1-36773_g	      0
+ 13-  5:	PKGMv1-36744_g	PKGMv1-36772_g	      0
+## Alignment 14: score=294.0 e_value=6.4e-09 N=6 pk1&pk1 minus
+ 14-  0:	PKGMv1-21453_g	PKGMv1-21492_g	      0
+ 14-  1:	PKGMv1-21454_g	PKGMv1-21491_g	 2e-148
+ 14-  2:	PKGMv1-21456_g	PKGMv1-21490_g	  3e-53
+ 14-  3:	PKGMv1-21458_g	PKGMv1-21487_g	      0
+ 14-  4:	PKGMv1-21462_g	PKGMv1-21484_g	 7e-129
+ 14-  5:	PKGMv1-21463_g	PKGMv1-21483_g	      0
+## Alignment 15: score=250.0 e_value=5.7e-06 N=5 pk1&pk1 minus
+ 15-  0:	PKGMv1-51909_g	PKGMv1-24409_g	  6e-77
+ 15-  1:	PKGMv1-51910_g	PKGMv1-24408_g	 3e-113
+ 15-  2:	PKGMv1-51911_g	PKGMv1-24407_g	      0
+ 15-  3:	PKGMv1-51912_g	PKGMv1-24406_g	 7e-147
+ 15-  4:	PKGMv1-51913_g	PKGMv1-24405_g	 1e-106
+## Alignment 16: score=796.0 e_value=5.7e-38 N=16 pk1&pk10 plus
+ 16-  0:	PKGMv1-21203_g	PKGMv1-25108_g	 2e-131
+ 16-  1:	PKGMv1-21204_g	PKGMv1-25109_g	      0
+ 16-  2:	PKGMv1-21205_g	PKGMv1-25110_g	 1e-143
+ 16-  3:	PKGMv1-21206_g	PKGMv1-25111_g	      0
+ 16-  4:	PKGMv1-21207_g	PKGMv1-25112_g	  1e-51
+ 16-  5:	PKGMv1-21210_g	PKGMv1-25113_g	  6e-83
+ 16-  6:	PKGMv1-21211_g	PKGMv1-25114_g	 2e-133
+ 16-  7:	PKGMv1-21212_g	PKGMv1-25115_g	      0
+ 16-  8:	PKGMv1-21213_g	PKGMv1-25116_g	      0
+ 16-  9:	PKGMv1-21215_g	PKGMv1-25117_g	      0
+ 16- 10:	PKGMv1-21216_g	PKGMv1-25118_g	 2e-132
+ 16- 11:	PKGMv1-21218_g	PKGMv1-25119_g	      0
+ 16- 12:	PKGMv1-21219_g	PKGMv1-25120_g	      0
+ 16- 13:	PKGMv1-21220_g	PKGMv1-25121_g	  1e-33
+ 16- 14:	PKGMv1-21221_g	PKGMv1-25122_g	      0
+ 16- 15:	PKGMv1-21222_g	PKGMv1-25123_g	      0
+## Alignment 17: score=495.0 e_value=3.5e-19 N=10 pk1&pk10 plus
+ 17-  0:	PKGMv1-21616_g	PKGMv1-54970_g	      0
+ 17-  1:	PKGMv1-21617_g	PKGMv1-54971_g	      0
+ 17-  2:	PKGMv1-21618_g	PKGMv1-54972_g	      0
+ 17-  3:	PKGMv1-21619_g	PKGMv1-54973_g	  1e-85
+ 17-  4:	PKGMv1-21620_g	PKGMv1-54974_g	      0
+ 17-  5:	PKGMv1-21623_g	PKGMv1-54976_g	      0
+ 17-  6:	PKGMv1-21624_g	PKGMv1-54977_g	      0
+ 17-  7:	PKGMv1-21627_g	PKGMv1-54979_g	 6e-112
+ 17-  8:	PKGMv1-21629_g	PKGMv1-54980_g	 2e-123
+ 17-  9:	PKGMv1-21630_g	PKGMv1-54981_g	  1e-64
+## Alignment 18: score=446.0 e_value=1.3e-18 N=9 pk1&pk10 plus
+ 18-  0:	PKGMv1-43411_g	PKGMv1-39123_g	 3e-140
+ 18-  1:	PKGMv1-43412_g	PKGMv1-39124_g	      0
+ 18-  2:	PKGMv1-43413_g	PKGMv1-39125_g	      0
+ 18-  3:	PKGMv1-43415_g	PKGMv1-39126_g	      0
+ 18-  4:	PKGMv1-43416_g	PKGMv1-39127_g	 4e-162
+ 18-  5:	PKGMv1-43417_g	PKGMv1-39128_g	      0
+ 18-  6:	PKGMv1-43419_g	PKGMv1-39129_g	 1e-152
+ 18-  7:	PKGMv1-43422_g	PKGMv1-39130_g	 3e-102
+ 18-  8:	PKGMv1-43423_g	PKGMv1-39131_g	      0
+## Alignment 19: score=350.0 e_value=9.4e-12 N=7 pk1&pk10 plus
+ 19-  0:	PKGMv1-42229_g	PKGMv1-25177_g	  8e-89
+ 19-  1:	PKGMv1-42230_g	PKGMv1-25178_g	 4e-109
+ 19-  2:	PKGMv1-42231_g	PKGMv1-25179_g	 3e-110
+ 19-  3:	PKGMv1-42232_g	PKGMv1-25180_g	      0
+ 19-  4:	PKGMv1-42233_g	PKGMv1-25181_g	 1e-133
+ 19-  5:	PKGMv1-42234_g	PKGMv1-25182_g	 4e-150
+ 19-  6:	PKGMv1-42235_g	PKGMv1-25183_g	      0
+## Alignment 20: score=298.0 e_value=4e-09 N=6 pk1&pk10 plus
+ 20-  0:	PKGMv1-13863_g	PKGMv1-39046_g	  2e-60
+ 20-  1:	PKGMv1-13864_g	PKGMv1-39049_g	      0
+ 20-  2:	PKGMv1-13865_g	PKGMv1-39050_g	 2e-114
+ 20-  3:	PKGMv1-13866_g	PKGMv1-39051_g	 3e-120
+ 20-  4:	PKGMv1-13867_g	PKGMv1-39052_g	  3e-45
+ 20-  5:	PKGMv1-13868_g	PKGMv1-39053_g	 2e-105
+## Alignment 21: score=298.0 e_value=9.4e-08 N=6 pk1&pk10 plus
+ 21-  0:	PKGMv1-61533_g	PKGMv1-74418_g	      0
+ 21-  1:	PKGMv1-61534_g	PKGMv1-74419_g	  1e-84
+ 21-  2:	PKGMv1-61536_g	PKGMv1-74420_g	  4e-89
+ 21-  3:	PKGMv1-61537_g	PKGMv1-74421_g	      0
+ 21-  4:	PKGMv1-61538_g	PKGMv1-74423_g	      0
+ 21-  5:	PKGMv1-61539_g	PKGMv1-74424_g	 1e-108
+## Alignment 22: score=250.0 e_value=7.6e-07 N=5 pk1&pk10 plus
+ 22-  0:	PKGMv1-47795_g	PKGMv1-74246_g	 1e-117
+ 22-  1:	PKGMv1-47796_g	PKGMv1-74247_g	 2e-102
+ 22-  2:	PKGMv1-47797_g	PKGMv1-74248_g	      0
+ 22-  3:	PKGMv1-47798_g	PKGMv1-74249_g	 4e-120
+ 22-  4:	PKGMv1-47799_g	PKGMv1-74250_g	 6e-107
+## Alignment 23: score=520.0 e_value=8.1e-29 N=11 pk1&pk10 minus
+ 23-  0:	PKGMv1-81757_g	PKGMv1-8423_g	  5e-87
+ 23-  1:	PKGMv1-4156_g	PKGMv1-8407_g	  2e-27
+ 23-  2:	PKGMv1-4158_g	PKGMv1-8406_g	      0
+ 23-  3:	PKGMv1-4159_g	PKGMv1-8404_g	      0
+ 23-  4:	PKGMv1-4160_g	PKGMv1-8403_g	  1e-82
+ 23-  5:	PKGMv1-4162_g	PKGMv1-8402_g	      0
+ 23-  6:	PKGMv1-4164_g	PKGMv1-8401_g	  3e-58
+ 23-  7:	PKGMv1-4166_g	PKGMv1-8397_g	  2e-71
+ 23-  8:	PKGMv1-4168_g	PKGMv1-8395_g	 5e-115
+ 23-  9:	PKGMv1-4171_g	PKGMv1-8394_g	      0
+ 23- 10:	PKGMv1-4172_g	PKGMv1-8393_g	 2e-145
+## Alignment 24: score=340.0 e_value=1.1e-10 N=7 pk1&pk10 minus
+ 24-  0:	PKGMv1-68431_g	PKGMv1-26396_g	      0
+ 24-  1:	PKGMv1-68433_g	PKGMv1-26395_g	      0
+ 24-  2:	PKGMv1-68437_g	PKGMv1-26394_g	      0
+ 24-  3:	PKGMv1-68440_g	PKGMv1-26391_g	      0
+ 24-  4:	PKGMv1-68443_g	PKGMv1-26389_g	  1e-67
+ 24-  5:	PKGMv1-68446_g	PKGMv1-26387_g	  1e-66
+ 24-  6:	PKGMv1-68447_g	PKGMv1-26386_g	      0
+## Alignment 25: score=297.0 e_value=2.3e-09 N=6 pk1&pk10 minus
+ 25-  0:	PKGMv1-33430_g	PKGMv1-38903_g	  6e-22
+ 25-  1:	PKGMv1-33431_g	PKGMv1-38902_g	 2e-140
+ 25-  2:	PKGMv1-33432_g	PKGMv1-38901_g	      0
+ 25-  3:	PKGMv1-33435_g	PKGMv1-38899_g	      0
+ 25-  4:	PKGMv1-33436_g	PKGMv1-38898_g	 7e-144
+ 25-  5:	PKGMv1-33438_g	PKGMv1-38897_g	  1e-31
+## Alignment 26: score=291.0 e_value=1.8e-09 N=6 pk1&pk10 minus
+ 26-  0:	PKGMv1-79883_g	PKGMv1-37506_g	  2e-97
+ 26-  1:	PKGMv1-79887_g	PKGMv1-37499_g	 4e-127
+ 26-  2:	PKGMv1-79888_g	PKGMv1-37496_g	      0
+ 26-  3:	PKGMv1-79889_g	PKGMv1-37495_g	      0
+ 26-  4:	PKGMv1-79890_g	PKGMv1-37494_g	  2e-70
+ 26-  5:	PKGMv1-79891_g	PKGMv1-37492_g	      0
+## Alignment 27: score=287.0 e_value=1.8e-08 N=6 pk1&pk10 minus
+ 27-  0:	PKGMv1-65246_g	PKGMv1-25063_g	  1e-48
+ 27-  1:	PKGMv1-65253_g	PKGMv1-25062_g	  3e-56
+ 27-  2:	PKGMv1-65254_g	PKGMv1-25060_g	  1e-33
+ 27-  3:	PKGMv1-65258_g	PKGMv1-25057_g	 1e-117
+ 27-  4:	PKGMv1-65259_g	PKGMv1-25056_g	  2e-38
+ 27-  5:	PKGMv1-65263_g	PKGMv1-25052_g	  1e-19
+## Alignment 28: score=546.0 e_value=3.9e-22 N=11 pk1&pk2 plus
+ 28-  0:	PKGMv1-21223_g	PKGMv1-25124_g	      0
+ 28-  1:	PKGMv1-21224_g	PKGMv1-25125_g	      0
+ 28-  2:	PKGMv1-21225_g	PKGMv1-25127_g	      0
+ 28-  3:	PKGMv1-21226_g	PKGMv1-25128_g	      0
+ 28-  4:	PKGMv1-21228_g	PKGMv1-25129_g	      0
+ 28-  5:	PKGMv1-21229_g	PKGMv1-25130_g	      0
+ 28-  6:	PKGMv1-21230_g	PKGMv1-25131_g	      0
+ 28-  7:	PKGMv1-21231_g	PKGMv1-25132_g	  5e-52
+ 28-  8:	PKGMv1-21234_g	PKGMv1-25133_g	  2e-76
+ 28-  9:	PKGMv1-21235_g	PKGMv1-25134_g	  9e-56
+ 28- 10:	PKGMv1-21236_g	PKGMv1-25135_g	      0
+## Alignment 29: score=445.0 e_value=3.3e-17 N=9 pk1&pk2 plus
+ 29-  0:	PKGMv1-65393_g	PKGMv1-23788_g	      0
+ 29-  1:	PKGMv1-65394_g	PKGMv1-23789_g	 2e-109
+ 29-  2:	PKGMv1-65396_g	PKGMv1-23790_g	  2e-81
+ 29-  3:	PKGMv1-65397_g	PKGMv1-23791_g	      0
+ 29-  4:	PKGMv1-65398_g	PKGMv1-23792_g	  3e-89
+ 29-  5:	PKGMv1-65399_g	PKGMv1-23793_g	  1e-36
+ 29-  6:	PKGMv1-65400_g	PKGMv1-23794_g	      0
+ 29-  7:	PKGMv1-65401_g	PKGMv1-23795_g	 3e-113
+ 29-  8:	PKGMv1-65402_g	PKGMv1-23800_g	      0
+## Alignment 30: score=377.0 e_value=2.8e-16 N=8 pk1&pk2 plus
+ 30-  0:	PKGMv1-65683_g	PKGMv1-46440_g	  2e-45
+ 30-  1:	PKGMv1-65706_g	PKGMv1-46460_g	      0
+ 30-  2:	PKGMv1-65707_g	PKGMv1-46461_g	  1e-88
+ 30-  3:	PKGMv1-65708_g	PKGMv1-46462_g	 2e-171
+ 30-  4:	PKGMv1-65709_g	PKGMv1-46463_g	      0
+ 30-  5:	PKGMv1-65711_g	PKGMv1-46464_g	      0
+ 30-  6:	PKGMv1-65712_g	PKGMv1-46465_g	 1e-178
+ 30-  7:	PKGMv1-65713_g	PKGMv1-46466_g	      0
+## Alignment 31: score=350.0 e_value=3.6e-12 N=7 pk1&pk2 plus
+ 31-  0:	PKGMv1-65215_g	PKGMv1-65171_g	  8e-76
+ 31-  1:	PKGMv1-65216_g	PKGMv1-65172_g	  2e-76
+ 31-  2:	PKGMv1-65217_g	PKGMv1-65173_g	      0
+ 31-  3:	PKGMv1-65218_g	PKGMv1-65174_g	      0
+ 31-  4:	PKGMv1-65219_g	PKGMv1-65175_g	      0
+ 31-  5:	PKGMv1-65220_g	PKGMv1-65176_g	      0
+ 31-  6:	PKGMv1-65221_g	PKGMv1-65177_g	  1e-32
+## Alignment 32: score=348.0 e_value=1e-10 N=7 pk1&pk2 plus
+ 32-  0:	PKGMv1-65377_g	PKGMv1-4126_g	  8e-16
+ 32-  1:	PKGMv1-65378_g	PKGMv1-4127_g	 7e-162
+ 32-  2:	PKGMv1-65379_g	PKGMv1-4128_g	      0
+ 32-  3:	PKGMv1-65380_g	PKGMv1-4130_g	      0
+ 32-  4:	PKGMv1-65381_g	PKGMv1-4132_g	      0
+ 32-  5:	PKGMv1-65382_g	PKGMv1-4133_g	      0
+ 32-  6:	PKGMv1-65383_g	PKGMv1-4134_g	      0
+## Alignment 33: score=345.0 e_value=3.8e-11 N=7 pk1&pk2 plus
+ 33-  0:	PKGMv1-79854_g	PKGMv1-59229_g	  7e-17
+ 33-  1:	PKGMv1-79855_g	PKGMv1-59230_g	 3e-111
+ 33-  2:	PKGMv1-79856_g	PKGMv1-59232_g	      0
+ 33-  3:	PKGMv1-79857_g	PKGMv1-59234_g	      0
+ 33-  4:	PKGMv1-79860_g	PKGMv1-59238_g	      0
+ 33-  5:	PKGMv1-79861_g	PKGMv1-59239_g	      0
+ 33-  6:	PKGMv1-79862_g	PKGMv1-59240_g	      0
+## Alignment 34: score=297.0 e_value=1.9e-08 N=6 pk1&pk2 plus
+ 34-  0:	PKGMv1-82078_g	PKGMv1-83634_g	      0
+ 34-  1:	PKGMv1-82079_g	PKGMv1-83636_g	  9e-64
+ 34-  2:	PKGMv1-82081_g	PKGMv1-83637_g	 3e-110
+ 34-  3:	PKGMv1-82082_g	PKGMv1-83638_g	 2e-128
+ 34-  4:	PKGMv1-82084_g	PKGMv1-83640_g	      0
+ 34-  5:	PKGMv1-82085_g	PKGMv1-83641_g	      0
+## Alignment 35: score=254.0 e_value=6.4e-10 N=6 pk1&pk2 plus
+ 35-  0:	PKGMv1-36015_g	PKGMv1-708_g	  1e-93
+ 35-  1:	PKGMv1-36036_g	PKGMv1-733_g	  1e-42
+ 35-  2:	PKGMv1-36047_g	PKGMv1-745_g	 1e-177
+ 35-  3:	PKGMv1-36050_g	PKGMv1-751_g	 1e-106
+ 35-  4:	PKGMv1-36054_g	PKGMv1-755_g	      0
+ 35-  5:	PKGMv1-36055_g	PKGMv1-759_g	 7e-147
+## Alignment 36: score=393.0 e_value=3.4e-16 N=8 pk1&pk3 plus
+ 36-  0:	PKGMv1-61070_g	PKGMv1-18225_g	      0
+ 36-  1:	PKGMv1-61071_g	PKGMv1-18226_g	      0
+ 36-  2:	PKGMv1-61072_g	PKGMv1-18227_g	      0
+ 36-  3:	PKGMv1-61076_g	PKGMv1-18228_g	  2e-93
+ 36-  4:	PKGMv1-61078_g	PKGMv1-18229_g	      0
+ 36-  5:	PKGMv1-61079_g	PKGMv1-18230_g	 3e-163
+ 36-  6:	PKGMv1-61080_g	PKGMv1-18231_g	      0
+ 36-  7:	PKGMv1-61081_g	PKGMv1-18235_g	      0
+## Alignment 37: score=345.0 e_value=2.1e-11 N=7 pk1&pk3 plus
+ 37-  0:	PKGMv1-21325_g	PKGMv1-58251_g	  1e-96
+ 37-  1:	PKGMv1-21326_g	PKGMv1-58252_g	      0
+ 37-  2:	PKGMv1-21328_g	PKGMv1-58253_g	 1e-151
+ 37-  3:	PKGMv1-21329_g	PKGMv1-58255_g	 4e-141
+ 37-  4:	PKGMv1-21330_g	PKGMv1-58256_g	      0
+ 37-  5:	PKGMv1-21331_g	PKGMv1-58257_g	 2e-140
+ 37-  6:	PKGMv1-21333_g	PKGMv1-58261_g	  3e-94
+## Alignment 38: score=548.0 e_value=3.9e-22 N=11 pk1&pk3 minus
+ 38-  0:	PKGMv1-14783_g	PKGMv1-32063_g	      0
+ 38-  1:	PKGMv1-14784_g	PKGMv1-32062_g	 8e-158
+ 38-  2:	PKGMv1-14785_g	PKGMv1-32059_g	  3e-89
+ 38-  3:	PKGMv1-14786_g	PKGMv1-32058_g	      0
+ 38-  4:	PKGMv1-14787_g	PKGMv1-32057_g	 9e-160
+ 38-  5:	PKGMv1-14788_g	PKGMv1-32056_g	      0
+ 38-  6:	PKGMv1-14789_g	PKGMv1-32055_g	      0
+ 38-  7:	PKGMv1-14790_g	PKGMv1-32054_g	 8e-114
+ 38-  8:	PKGMv1-14791_g	PKGMv1-32053_g	      0
+ 38-  9:	PKGMv1-14792_g	PKGMv1-32052_g	      0
+ 38- 10:	PKGMv1-14793_g	PKGMv1-32051_g	  6e-20
+## Alignment 39: score=394.0 e_value=1.7e-14 N=8 pk1&pk3 minus
+ 39-  0:	PKGMv1-78107_g	PKGMv1-58536_g	      0
+ 39-  1:	PKGMv1-78109_g	PKGMv1-58534_g	  1e-88
+ 39-  2:	PKGMv1-78110_g	PKGMv1-58533_g	  4e-75
+ 39-  3:	PKGMv1-78111_g	PKGMv1-58532_g	      0
+ 39-  4:	PKGMv1-78116_g	PKGMv1-58528_g	  3e-73
+ 39-  5:	PKGMv1-78117_g	PKGMv1-58527_g	  2e-57
+ 39-  6:	PKGMv1-78118_g	PKGMv1-58526_g	      0
+ 39-  7:	PKGMv1-78120_g	PKGMv1-58524_g	  2e-55
+## Alignment 40: score=289.0 e_value=5.2e-09 N=6 pk1&pk3 minus
+ 40-  0:	PKGMv1-82957_g	PKGMv1-66616_g	  1e-86
+ 40-  1:	PKGMv1-82958_g	PKGMv1-66615_g	  3e-96
+ 40-  2:	PKGMv1-82959_g	PKGMv1-66613_g	      0
+ 40-  3:	PKGMv1-82961_g	PKGMv1-66610_g	      0
+ 40-  4:	PKGMv1-82962_g	PKGMv1-66609_g	      0
+ 40-  5:	PKGMv1-82971_g	PKGMv1-66608_g	      0
+## Alignment 41: score=447.0 e_value=1.1e-16 N=9 pk1&pk4 minus
+ 41-  0:	PKGMv1-30174_g	PKGMv1-50161_g	      0
+ 41-  1:	PKGMv1-30176_g	PKGMv1-50160_g	      0
+ 41-  2:	PKGMv1-30177_g	PKGMv1-50159_g	      0
+ 41-  3:	PKGMv1-30178_g	PKGMv1-50158_g	      0
+ 41-  4:	PKGMv1-30179_g	PKGMv1-50157_g	  3e-20
+ 41-  5:	PKGMv1-30180_g	PKGMv1-50156_g	  9e-87
+ 41-  6:	PKGMv1-30182_g	PKGMv1-50155_g	      0
+ 41-  7:	PKGMv1-30183_g	PKGMv1-50153_g	      0
+ 41-  8:	PKGMv1-30184_g	PKGMv1-50152_g	  5e-85
+## Alignment 42: score=389.0 e_value=6.8e-15 N=8 pk1&pk4 minus
+ 42-  0:	PKGMv1-27345_g	PKGMv1-27416_g	  5e-32
+ 42-  1:	PKGMv1-27346_g	PKGMv1-27415_g	      0
+ 42-  2:	PKGMv1-27348_g	PKGMv1-27406_g	  6e-98
+ 42-  3:	PKGMv1-27350_g	PKGMv1-27404_g	 4e-173
+ 42-  4:	PKGMv1-27351_g	PKGMv1-27402_g	 5e-164
+ 42-  5:	PKGMv1-27352_g	PKGMv1-27401_g	 5e-130
+ 42-  6:	PKGMv1-27354_g	PKGMv1-27400_g	  1e-98
+ 42-  7:	PKGMv1-27355_g	PKGMv1-27399_g	  4e-47
+## Alignment 43: score=297.0 e_value=8.8e-09 N=6 pk1&pk4 minus
+ 43-  0:	PKGMv1-33471_g	PKGMv1-43051_g	  1e-39
+ 43-  1:	PKGMv1-33473_g	PKGMv1-43049_g	 1e-109
+ 43-  2:	PKGMv1-33474_g	PKGMv1-43048_g	      0
+ 43-  3:	PKGMv1-33475_g	PKGMv1-43047_g	      0
+ 43-  4:	PKGMv1-33476_g	PKGMv1-43045_g	  4e-66
+ 43-  5:	PKGMv1-33477_g	PKGMv1-43043_g	      0
+## Alignment 44: score=295.0 e_value=8.2e-09 N=6 pk1&pk6 plus
+ 44-  0:	PKGMv1-72210_g	PKGMv1-20374_g	 3e-134
+ 44-  1:	PKGMv1-72215_g	PKGMv1-20377_g	 6e-103
+ 44-  2:	PKGMv1-72216_g	PKGMv1-20379_g	 4e-129
+ 44-  3:	PKGMv1-72217_g	PKGMv1-20380_g	      0
+ 44-  4:	PKGMv1-72218_g	PKGMv1-20381_g	      0
+ 44-  5:	PKGMv1-72219_g	PKGMv1-20382_g	  4e-79
+## Alignment 45: score=644.0 e_value=1.7e-30 N=13 pk1&pk6 minus
+ 45-  0:	PKGMv1-76884_g	PKGMv1-6402_g	 4e-100
+ 45-  1:	PKGMv1-76888_g	PKGMv1-6401_g	      0
+ 45-  2:	PKGMv1-76889_g	PKGMv1-6400_g	  5e-81
+ 45-  3:	PKGMv1-76890_g	PKGMv1-6399_g	  1e-75
+ 45-  4:	PKGMv1-76892_g	PKGMv1-6398_g	      0
+ 45-  5:	PKGMv1-76893_g	PKGMv1-6397_g	  2e-16
+ 45-  6:	PKGMv1-76895_g	PKGMv1-6395_g	  7e-86
+ 45-  7:	PKGMv1-76897_g	PKGMv1-6394_g	  6e-47
+ 45-  8:	PKGMv1-76898_g	PKGMv1-6393_g	      0
+ 45-  9:	PKGMv1-76899_g	PKGMv1-6392_g	 1e-168
+ 45- 10:	PKGMv1-76900_g	PKGMv1-6391_g	  1e-86
+ 45- 11:	PKGMv1-76901_g	PKGMv1-6390_g	      0
+ 45- 12:	PKGMv1-76902_g	PKGMv1-6389_g	 8e-171
+## Alignment 46: score=346.0 e_value=1.9e-11 N=7 pk1&pk6 minus
+ 46-  0:	PKGMv1-14196_g	PKGMv1-34935_g	      0
+ 46-  1:	PKGMv1-14197_g	PKGMv1-34934_g	 4e-117
+ 46-  2:	PKGMv1-14198_g	PKGMv1-34933_g	 3e-176
+ 46-  3:	PKGMv1-14199_g	PKGMv1-34932_g	      0
+ 46-  4:	PKGMv1-14201_g	PKGMv1-34931_g	 1e-139
+ 46-  5:	PKGMv1-14205_g	PKGMv1-34929_g	  3e-38
+ 46-  6:	PKGMv1-14206_g	PKGMv1-34928_g	      0
+## Alignment 47: score=793.0 e_value=3.3e-40 N=16 pk1&pk7 plus
+ 47-  0:	PKGMv1-65331_g	PKGMv1-23825_g	      0
+ 47-  1:	PKGMv1-65333_g	PKGMv1-23826_g	      0
+ 47-  2:	PKGMv1-65334_g	PKGMv1-23827_g	 3e-130
+ 47-  3:	PKGMv1-65335_g	PKGMv1-23828_g	      0
+ 47-  4:	PKGMv1-65336_g	PKGMv1-23829_g	 1e-131
+ 47-  5:	PKGMv1-65337_g	PKGMv1-23830_g	      0
+ 47-  6:	PKGMv1-65338_g	PKGMv1-23831_g	  7e-63
+ 47-  7:	PKGMv1-65339_g	PKGMv1-23832_g	      0
+ 47-  8:	PKGMv1-65341_g	PKGMv1-23833_g	      0
+ 47-  9:	PKGMv1-65342_g	PKGMv1-23834_g	 5e-117
+ 47- 10:	PKGMv1-65343_g	PKGMv1-23835_g	  2e-88
+ 47- 11:	PKGMv1-65344_g	PKGMv1-23837_g	      0
+ 47- 12:	PKGMv1-65345_g	PKGMv1-23840_g	 2e-147
+ 47- 13:	PKGMv1-65348_g	PKGMv1-23842_g	  4e-60
+ 47- 14:	PKGMv1-65349_g	PKGMv1-23843_g	      0
+ 47- 15:	PKGMv1-65350_g	PKGMv1-23844_g	      0
+## Alignment 48: score=339.0 e_value=1.6e-12 N=7 pk1&pk7 plus
+ 48-  0:	PKGMv1-51903_g	PKGMv1-11260_g	 6e-130
+ 48-  1:	PKGMv1-51904_g	PKGMv1-11261_g	 2e-119
+ 48-  2:	PKGMv1-51907_g	PKGMv1-11262_g	  1e-87
+ 48-  3:	PKGMv1-51916_g	PKGMv1-11263_g	      0
+ 48-  4:	PKGMv1-51917_g	PKGMv1-11264_g	      0
+ 48-  5:	PKGMv1-51919_g	PKGMv1-11265_g	      0
+ 48-  6:	PKGMv1-51920_g	PKGMv1-11266_g	      0
+## Alignment 49: score=300.0 e_value=4.9e-09 N=6 pk1&pk7 plus
+ 49-  0:	PKGMv1-76922_g	PKGMv1-76959_g	 1e-102
+ 49-  1:	PKGMv1-76923_g	PKGMv1-76960_g	  4e-80
+ 49-  2:	PKGMv1-76924_g	PKGMv1-76961_g	      0
+ 49-  3:	PKGMv1-76925_g	PKGMv1-76962_g	  9e-68
+ 49-  4:	PKGMv1-76926_g	PKGMv1-76963_g	  1e-68
+ 49-  5:	PKGMv1-76927_g	PKGMv1-76964_g	  2e-84
+## Alignment 50: score=288.0 e_value=8.4e-12 N=6 pk1&pk7 plus
+ 50-  0:	PKGMv1-68468_g	PKGMv1-37307_g	      0
+ 50-  1:	PKGMv1-68469_g	PKGMv1-37308_g	      0
+ 50-  2:	PKGMv1-68470_g	PKGMv1-37309_g	      0
+ 50-  3:	PKGMv1-68471_g	PKGMv1-37310_g	      0
+ 50-  4:	PKGMv1-68472_g	PKGMv1-37311_g	  1e-83
+ 50-  5:	PKGMv1-68485_g	PKGMv1-24055_g	  4e-13
+## Alignment 51: score=545.0 e_value=2.7e-23 N=11 pk1&pk7 minus
+ 51-  0:	PKGMv1-62096_g	PKGMv1-41666_g	      0
+ 51-  1:	PKGMv1-62097_g	PKGMv1-41665_g	      0
+ 51-  2:	PKGMv1-62098_g	PKGMv1-41664_g	      0
+ 51-  3:	PKGMv1-62099_g	PKGMv1-41663_g	 2e-117
+ 51-  4:	PKGMv1-62101_g	PKGMv1-41662_g	 2e-157
+ 51-  5:	PKGMv1-62102_g	PKGMv1-41661_g	  2e-35
+ 51-  6:	PKGMv1-62104_g	PKGMv1-41659_g	      0
+ 51-  7:	PKGMv1-62105_g	PKGMv1-41658_g	 2e-111
+ 51-  8:	PKGMv1-62106_g	PKGMv1-41656_g	  2e-27
+ 51-  9:	PKGMv1-62107_g	PKGMv1-41655_g	      0
+ 51- 10:	PKGMv1-62110_g	PKGMv1-41654_g	      0
+## Alignment 52: score=446.0 e_value=1.1e-16 N=9 pk1&pk7 minus
+ 52-  0:	PKGMv1-61784_g	PKGMv1-41327_g	  3e-54
+ 52-  1:	PKGMv1-61786_g	PKGMv1-41326_g	 3e-131
+ 52-  2:	PKGMv1-61787_g	PKGMv1-41324_g	 6e-171
+ 52-  3:	PKGMv1-61788_g	PKGMv1-41322_g	      0
+ 52-  4:	PKGMv1-61789_g	PKGMv1-41321_g	  3e-61
+ 52-  5:	PKGMv1-61790_g	PKGMv1-41320_g	 3e-152
+ 52-  6:	PKGMv1-61792_g	PKGMv1-41319_g	      0
+ 52-  7:	PKGMv1-61793_g	PKGMv1-41318_g	  5e-84
+ 52-  8:	PKGMv1-61794_g	PKGMv1-41317_g	 5e-133
+## Alignment 53: score=398.0 e_value=6.9e-14 N=8 pk1&pk7 minus
+ 53-  0:	PKGMv1-79844_g	PKGMv1-2423_g	      0
+ 53-  1:	PKGMv1-79846_g	PKGMv1-2421_g	      0
+ 53-  2:	PKGMv1-79847_g	PKGMv1-2420_g	      0
+ 53-  3:	PKGMv1-79848_g	PKGMv1-2419_g	  1e-94
+ 53-  4:	PKGMv1-79849_g	PKGMv1-2418_g	      0
+ 53-  5:	PKGMv1-79850_g	PKGMv1-2417_g	      0
+ 53-  6:	PKGMv1-79851_g	PKGMv1-2416_g	 2e-124
+ 53-  7:	PKGMv1-79853_g	PKGMv1-2415_g	  3e-23
+## Alignment 54: score=444.0 e_value=9.7e-20 N=9 pk1&pk8 plus
+ 54-  0:	PKGMv1-22897_g	PKGMv1-62875_g	      0
+ 54-  1:	PKGMv1-22898_g	PKGMv1-62876_g	      0
+ 54-  2:	PKGMv1-22899_g	PKGMv1-62877_g	      0
+ 54-  3:	PKGMv1-22900_g	PKGMv1-62878_g	      0
+ 54-  4:	PKGMv1-22901_g	PKGMv1-62879_g	      0
+ 54-  5:	PKGMv1-22902_g	PKGMv1-62880_g	  2e-36
+ 54-  6:	PKGMv1-22903_g	PKGMv1-62881_g	      0
+ 54-  7:	PKGMv1-22905_g	PKGMv1-62882_g	 1e-130
+ 54-  8:	PKGMv1-22906_g	PKGMv1-62888_g	  4e-92
+## Alignment 55: score=1039.0 e_value=5.7e-59 N=21 pk1&pk8 minus
+ 55-  0:	PKGMv1-20623_g	PKGMv1-33899_g	      0
+ 55-  1:	PKGMv1-20624_g	PKGMv1-33895_g	  3e-81
+ 55-  2:	PKGMv1-20626_g	PKGMv1-33894_g	      0
+ 55-  3:	PKGMv1-20627_g	PKGMv1-33893_g	      0
+ 55-  4:	PKGMv1-20628_g	PKGMv1-33891_g	  5e-60
+ 55-  5:	PKGMv1-20629_g	PKGMv1-33890_g	      0
+ 55-  6:	PKGMv1-20630_g	PKGMv1-33889_g	      0
+ 55-  7:	PKGMv1-20631_g	PKGMv1-33888_g	  3e-84
+ 55-  8:	PKGMv1-20632_g	PKGMv1-33887_g	      0
+ 55-  9:	PKGMv1-20633_g	PKGMv1-33884_g	      0
+ 55- 10:	PKGMv1-20634_g	PKGMv1-33883_g	      0
+ 55- 11:	PKGMv1-20635_g	PKGMv1-33882_g	      0
+ 55- 12:	PKGMv1-20636_g	PKGMv1-33880_g	 1e-150
+ 55- 13:	PKGMv1-20637_g	PKGMv1-33878_g	      0
+ 55- 14:	PKGMv1-20638_g	PKGMv1-33877_g	      0
+ 55- 15:	PKGMv1-20639_g	PKGMv1-33876_g	 3e-135
+ 55- 16:	PKGMv1-20641_g	PKGMv1-33875_g	      0
+ 55- 17:	PKGMv1-20642_g	PKGMv1-33874_g	      0
+ 55- 18:	PKGMv1-20644_g	PKGMv1-33873_g	      0
+ 55- 19:	PKGMv1-20645_g	PKGMv1-33872_g	      0
+ 55- 20:	PKGMv1-20646_g	PKGMv1-33871_g	      0
+## Alignment 56: score=299.0 e_value=5.8e-10 N=6 pk1&pk8 minus
+ 56-  0:	PKGMv1-15326_g	PKGMv1-15387_g	      0
+ 56-  1:	PKGMv1-15327_g	PKGMv1-15386_g	 2e-151
+ 56-  2:	PKGMv1-15328_g	PKGMv1-15385_g	 6e-156
+ 56-  3:	PKGMv1-15329_g	PKGMv1-15384_g	      0
+ 56-  4:	PKGMv1-15330_g	PKGMv1-15383_g	      0
+ 56-  5:	PKGMv1-15332_g	PKGMv1-15381_g	      0
+## Alignment 57: score=299.0 e_value=1.4e-09 N=6 pk1&pk8 minus
+ 57-  0:	PKGMv1-50686_g	PKGMv1-50592_g	      0
+ 57-  1:	PKGMv1-50688_g	PKGMv1-50590_g	      0
+ 57-  2:	PKGMv1-50689_g	PKGMv1-50589_g	      0
+ 57-  3:	PKGMv1-50690_g	PKGMv1-50588_g	  3e-37
+ 57-  4:	PKGMv1-50691_g	PKGMv1-50587_g	  3e-68
+ 57-  5:	PKGMv1-50692_g	PKGMv1-50586_g	      0
+## Alignment 58: score=646.0 e_value=1.5e-30 N=13 pk1&pk9 plus
+ 58-  0:	PKGMv1-82053_g	PKGMv1-39892_g	      0
+ 58-  1:	PKGMv1-82054_g	PKGMv1-39893_g	      0
+ 58-  2:	PKGMv1-82056_g	PKGMv1-39894_g	 6e-143
+ 58-  3:	PKGMv1-82057_g	PKGMv1-39895_g	  5e-63
+ 58-  4:	PKGMv1-82058_g	PKGMv1-39896_g	  1e-55
+ 58-  5:	PKGMv1-82059_g	PKGMv1-39897_g	      0
+ 58-  6:	PKGMv1-82060_g	PKGMv1-39898_g	  7e-38
+ 58-  7:	PKGMv1-82061_g	PKGMv1-39900_g	 8e-138
+ 58-  8:	PKGMv1-82062_g	PKGMv1-39901_g	 2e-138
+ 58-  9:	PKGMv1-82063_g	PKGMv1-39902_g	      0
+ 58- 10:	PKGMv1-82065_g	PKGMv1-39903_g	      0
+ 58- 11:	PKGMv1-82066_g	PKGMv1-39904_g	 5e-138
+ 58- 12:	PKGMv1-82067_g	PKGMv1-39906_g	      0
+## Alignment 59: score=637.0 e_value=1.9e-29 N=13 pk1&pk9 plus
+ 59-  0:	PKGMv1-76863_g	PKGMv1-12383_g	 4e-171
+ 59-  1:	PKGMv1-76864_g	PKGMv1-12384_g	      0
+ 59-  2:	PKGMv1-76865_g	PKGMv1-12388_g	      0
+ 59-  3:	PKGMv1-76868_g	PKGMv1-12389_g	      0
+ 59-  4:	PKGMv1-76869_g	PKGMv1-12391_g	      0
+ 59-  5:	PKGMv1-76871_g	PKGMv1-12392_g	      0
+ 59-  6:	PKGMv1-76872_g	PKGMv1-12395_g	      0
+ 59-  7:	PKGMv1-76873_g	PKGMv1-12396_g	  9e-91
+ 59-  8:	PKGMv1-76874_g	PKGMv1-12399_g	      0
+ 59-  9:	PKGMv1-76877_g	PKGMv1-12400_g	      0
+ 59- 10:	PKGMv1-76878_g	PKGMv1-12401_g	      0
+ 59- 11:	PKGMv1-76879_g	PKGMv1-12402_g	      0
+ 59- 12:	PKGMv1-76880_g	PKGMv1-12403_g	      0
+## Alignment 60: score=448.0 e_value=3.4e-17 N=9 pk1&pk9 plus
+ 60-  0:	PKGMv1-21854_g	PKGMv1-48449_g	 2e-140
+ 60-  1:	PKGMv1-21855_g	PKGMv1-48450_g	  1e-76
+ 60-  2:	PKGMv1-21858_g	PKGMv1-48451_g	      0
+ 60-  3:	PKGMv1-21859_g	PKGMv1-48452_g	 4e-178
+ 60-  4:	PKGMv1-21860_g	PKGMv1-48453_g	 2e-116
+ 60-  5:	PKGMv1-21861_g	PKGMv1-48454_g	      0
+ 60-  6:	PKGMv1-21862_g	PKGMv1-48455_g	 2e-117
+ 60-  7:	PKGMv1-21863_g	PKGMv1-48456_g	  4e-36
+ 60-  8:	PKGMv1-21864_g	PKGMv1-48457_g	      0
+## Alignment 61: score=379.0 e_value=7.2e-16 N=8 pk1&pk9 plus
+ 61-  0:	PKGMv1-61498_g	PKGMv1-50770_g	      0
+ 61-  1:	PKGMv1-61518_g	PKGMv1-50776_g	      0
+ 61-  2:	PKGMv1-61519_g	PKGMv1-50777_g	  2e-69
+ 61-  3:	PKGMv1-61520_g	PKGMv1-50778_g	  2e-71
+ 61-  4:	PKGMv1-61521_g	PKGMv1-50779_g	 8e-127
+ 61-  5:	PKGMv1-61522_g	PKGMv1-50781_g	 9e-170
+ 61-  6:	PKGMv1-61524_g	PKGMv1-50782_g	      0
+ 61-  7:	PKGMv1-61525_g	PKGMv1-50783_g	      0
+## Alignment 62: score=298.0 e_value=4.6e-10 N=6 pk1&pk9 plus
+ 62-  0:	PKGMv1-52559_g	PKGMv1-52526_g	 3e-165
+ 62-  1:	PKGMv1-52560_g	PKGMv1-52527_g	      0
+ 62-  2:	PKGMv1-52561_g	PKGMv1-52528_g	 3e-138
+ 62-  3:	PKGMv1-52563_g	PKGMv1-52531_g	  7e-86
+ 62-  4:	PKGMv1-52564_g	PKGMv1-52532_g	      0
+ 62-  5:	PKGMv1-52565_g	PKGMv1-52533_g	  2e-19
+## Alignment 63: score=296.0 e_value=4.5e-08 N=6 pk1&pk9 plus
+ 63-  0:	PKGMv1-44989_g	PKGMv1-54138_g	  2e-13
+ 63-  1:	PKGMv1-44990_g	PKGMv1-54139_g	  3e-85
+ 63-  2:	PKGMv1-44992_g	PKGMv1-54141_g	      0
+ 63-  3:	PKGMv1-44994_g	PKGMv1-54143_g	      0
+ 63-  4:	PKGMv1-44997_g	PKGMv1-54145_g	      0
+ 63-  5:	PKGMv1-44998_g	PKGMv1-54146_g	  3e-40
+## Alignment 64: score=349.0 e_value=3.7e-11 N=7 pk1&pk9 minus
+ 64-  0:	PKGMv1-81858_g	PKGMv1-81220_g	 8e-141
+ 64-  1:	PKGMv1-81859_g	PKGMv1-81219_g	  3e-65
+ 64-  2:	PKGMv1-81861_g	PKGMv1-81218_g	  2e-60
+ 64-  3:	PKGMv1-81862_g	PKGMv1-81217_g	  3e-98
+ 64-  4:	PKGMv1-81863_g	PKGMv1-81216_g	      0
+ 64-  5:	PKGMv1-81864_g	PKGMv1-81215_g	      0
+ 64-  6:	PKGMv1-81865_g	PKGMv1-81214_g	  5e-83
+## Alignment 65: score=299.0 e_value=1e-08 N=6 pk1&pk9 minus
+ 65-  0:	PKGMv1-83049_g	PKGMv1-83102_g	      0
+ 65-  1:	PKGMv1-83050_g	PKGMv1-83101_g	 2e-130
+ 65-  2:	PKGMv1-83052_g	PKGMv1-83100_g	      0
+ 65-  3:	PKGMv1-83053_g	PKGMv1-83099_g	  6e-65
+ 65-  4:	PKGMv1-83054_g	PKGMv1-83098_g	      0
+ 65-  5:	PKGMv1-83055_g	PKGMv1-83097_g	 4e-136
+## Alignment 66: score=297.0 e_value=8e-09 N=6 pk1&pk9 minus
+ 66-  0:	PKGMv1-20082_g	PKGMv1-50294_g	 2e-114
+ 66-  1:	PKGMv1-20083_g	PKGMv1-50293_g	  1e-93
+ 66-  2:	PKGMv1-20084_g	PKGMv1-50291_g	  1e-66
+ 66-  3:	PKGMv1-20085_g	PKGMv1-50289_g	 4e-120
+ 66-  4:	PKGMv1-20086_g	PKGMv1-50287_g	      0
+ 66-  5:	PKGMv1-20087_g	PKGMv1-50286_g	  1e-90
+## Alignment 67: score=295.0 e_value=6.3e-10 N=6 pk1&pk9 minus
+ 67-  0:	PKGMv1-4186_g	PKGMv1-4264_g	      0
+ 67-  1:	PKGMv1-4187_g	PKGMv1-4262_g	      0
+ 67-  2:	PKGMv1-4189_g	PKGMv1-4261_g	  1e-53
+ 67-  3:	PKGMv1-4190_g	PKGMv1-4258_g	      0
+ 67-  4:	PKGMv1-4191_g	PKGMv1-4257_g	 6e-136
+ 67-  5:	PKGMv1-4193_g	PKGMv1-4256_g	      0
+## Alignment 68: score=287.0 e_value=3.8e-09 N=6 pk1&pk9 minus
+ 68-  0:	PKGMv1-65246_g	PKGMv1-3697_g	  4e-49
+ 68-  1:	PKGMv1-65253_g	PKGMv1-3696_g	  1e-69
+ 68-  2:	PKGMv1-65254_g	PKGMv1-3695_g	  2e-28
+ 68-  3:	PKGMv1-65258_g	PKGMv1-3691_g	 1e-107
+ 68-  4:	PKGMv1-65259_g	PKGMv1-3690_g	  3e-38
+ 68-  5:	PKGMv1-65263_g	PKGMv1-3685_g	  6e-20
+## Alignment 69: score=396.0 e_value=4.4e-14 N=8 pk10&pk10 plus
+ 69-  0:	PKGMv1-8358_g	PKGMv1-75916_g	      0
+ 69-  1:	PKGMv1-8359_g	PKGMv1-75917_g	 7e-164
+ 69-  2:	PKGMv1-8360_g	PKGMv1-75918_g	  1e-81
+ 69-  3:	PKGMv1-8363_g	PKGMv1-75920_g	  3e-51
+ 69-  4:	PKGMv1-8364_g	PKGMv1-75922_g	      0
+ 69-  5:	PKGMv1-8365_g	PKGMv1-75923_g	  2e-93
+ 69-  6:	PKGMv1-8366_g	PKGMv1-75924_g	 4e-122
+ 69-  7:	PKGMv1-8368_g	PKGMv1-75926_g	 2e-129
+## Alignment 70: score=278.0 e_value=3.1e-12 N=6 pk10&pk10 plus
+ 70-  0:	PKGMv1-83697_g	PKGMv1-78588_g	      0
+ 70-  1:	PKGMv1-83698_g	PKGMv1-78589_g	      0
+ 70-  2:	PKGMv1-83699_g	PKGMv1-78590_g	 9e-128
+ 70-  3:	PKGMv1-83700_g	PKGMv1-78591_g	      0
+ 70-  4:	PKGMv1-83701_g	PKGMv1-78592_g	      0
+ 70-  5:	PKGMv1-83724_g	PKGMv1-48865_g	  6e-37
+## Alignment 71: score=399.0 e_value=4e-14 N=8 pk10&pk10 minus
+ 71-  0:	PKGMv1-66770_g	PKGMv1-66742_g	 4e-140
+ 71-  1:	PKGMv1-66772_g	PKGMv1-66741_g	      0
+ 71-  2:	PKGMv1-66773_g	PKGMv1-66740_g	      0
+ 71-  3:	PKGMv1-66774_g	PKGMv1-66739_g	  3e-68
+ 71-  4:	PKGMv1-66775_g	PKGMv1-66738_g	  2e-44
+ 71-  5:	PKGMv1-66776_g	PKGMv1-66737_g	  4e-72
+ 71-  6:	PKGMv1-66777_g	PKGMv1-66736_g	      0
+ 71-  7:	PKGMv1-66778_g	PKGMv1-66735_g	      0
+## Alignment 72: score=343.0 e_value=4.6e-12 N=7 pk10&pk10 minus
+ 72-  0:	PKGMv1-67135_g	PKGMv1-25627_g	      0
+ 72-  1:	PKGMv1-67138_g	PKGMv1-25626_g	  2e-93
+ 72-  2:	PKGMv1-67139_g	PKGMv1-25624_g	  1e-76
+ 72-  3:	PKGMv1-67140_g	PKGMv1-25623_g	      0
+ 72-  4:	PKGMv1-67144_g	PKGMv1-25622_g	  4e-20
+ 72-  5:	PKGMv1-67145_g	PKGMv1-25621_g	      0
+ 72-  6:	PKGMv1-67147_g	PKGMv1-25620_g	      0
+## Alignment 73: score=298.0 e_value=8.1e-11 N=6 pk10&pk10 minus
+ 73-  0:	PKGMv1-64968_g	PKGMv1-64913_g	  3e-66
+ 73-  1:	PKGMv1-64969_g	PKGMv1-64912_g	 2e-153
+ 73-  2:	PKGMv1-64970_g	PKGMv1-64909_g	  1e-80
+ 73-  3:	PKGMv1-64971_g	PKGMv1-64908_g	  2e-80
+ 73-  4:	PKGMv1-64972_g	PKGMv1-64907_g	 2e-159
+ 73-  5:	PKGMv1-64973_g	PKGMv1-64906_g	      0
+## Alignment 74: score=646.0 e_value=2e-30 N=13 pk10&pk2 plus
+ 74-  0:	PKGMv1-37990_g	PKGMv1-24989_g	 5e-180
+ 74-  1:	PKGMv1-37991_g	PKGMv1-24990_g	      0
+ 74-  2:	PKGMv1-37992_g	PKGMv1-24991_g	 7e-142
+ 74-  3:	PKGMv1-37993_g	PKGMv1-24992_g	      0
+ 74-  4:	PKGMv1-37994_g	PKGMv1-24994_g	      0
+ 74-  5:	PKGMv1-37995_g	PKGMv1-24995_g	      0
+ 74-  6:	PKGMv1-37997_g	PKGMv1-24996_g	      0
+ 74-  7:	PKGMv1-37999_g	PKGMv1-24997_g	  4e-52
+ 74-  8:	PKGMv1-38000_g	PKGMv1-24998_g	 5e-134
+ 74-  9:	PKGMv1-38001_g	PKGMv1-24999_g	 1e-162
+ 74- 10:	PKGMv1-38002_g	PKGMv1-25001_g	      0
+ 74- 11:	PKGMv1-38003_g	PKGMv1-25002_g	  1e-46
+ 74- 12:	PKGMv1-38004_g	PKGMv1-25003_g	      0
+## Alignment 75: score=295.0 e_value=2.2e-12 N=6 pk10&pk2 plus
+ 75-  0:	PKGMv1-67117_g	PKGMv1-33814_g	 1e-148
+ 75-  1:	PKGMv1-67118_g	PKGMv1-33815_g	      0
+ 75-  2:	PKGMv1-67124_g	PKGMv1-33820_g	  4e-70
+ 75-  3:	PKGMv1-67125_g	PKGMv1-33821_g	  2e-38
+ 75-  4:	PKGMv1-67126_g	PKGMv1-33822_g	 9e-130
+ 75-  5:	PKGMv1-67127_g	PKGMv1-33823_g	  3e-93
+## Alignment 76: score=293.0 e_value=1.3e-10 N=6 pk10&pk2 plus
+ 76-  0:	PKGMv1-67176_g	PKGMv1-33802_g	  2e-41
+ 76-  1:	PKGMv1-67180_g	PKGMv1-33803_g	      0
+ 76-  2:	PKGMv1-67182_g	PKGMv1-33805_g	      0
+ 76-  3:	PKGMv1-67186_g	PKGMv1-33808_g	  8e-42
+ 76-  4:	PKGMv1-67187_g	PKGMv1-33809_g	  2e-46
+ 76-  5:	PKGMv1-67188_g	PKGMv1-33810_g	 8e-120
+## Alignment 77: score=250.0 e_value=6.9e-06 N=5 pk10&pk2 plus
+ 77-  0:	PKGMv1-37442_g	PKGMv1-62856_g	      0
+ 77-  1:	PKGMv1-37443_g	PKGMv1-62857_g	      0
+ 77-  2:	PKGMv1-37444_g	PKGMv1-62858_g	      0
+ 77-  3:	PKGMv1-37445_g	PKGMv1-62859_g	      0
+ 77-  4:	PKGMv1-37446_g	PKGMv1-62860_g	  1e-67
+## Alignment 78: score=746.0 e_value=2.6e-35 N=15 pk10&pk2 minus
+ 78-  0:	PKGMv1-8408_g	PKGMv1-4155_g	 2e-150
+ 78-  1:	PKGMv1-8410_g	PKGMv1-4153_g	      0
+ 78-  2:	PKGMv1-8411_g	PKGMv1-4152_g	  5e-74
+ 78-  3:	PKGMv1-8413_g	PKGMv1-4151_g	      0
+ 78-  4:	PKGMv1-8414_g	PKGMv1-4149_g	 4e-123
+ 78-  5:	PKGMv1-8415_g	PKGMv1-4148_g	 7e-130
+ 78-  6:	PKGMv1-8416_g	PKGMv1-4147_g	  2e-73
+ 78-  7:	PKGMv1-8417_g	PKGMv1-4146_g	      0
+ 78-  8:	PKGMv1-8418_g	PKGMv1-4145_g	      0
+ 78-  9:	PKGMv1-8419_g	PKGMv1-4144_g	 7e-178
+ 78- 10:	PKGMv1-8420_g	PKGMv1-4143_g	 5e-133
+ 78- 11:	PKGMv1-8421_g	PKGMv1-4142_g	  3e-21
+ 78- 12:	PKGMv1-8423_g	PKGMv1-4140_g	      0
+ 78- 13:	PKGMv1-8424_g	PKGMv1-4139_g	      0
+ 78- 14:	PKGMv1-8425_g	PKGMv1-4138_g	      0
+## Alignment 79: score=540.0 e_value=4.5e-24 N=11 pk10&pk2 minus
+ 79-  0:	PKGMv1-8702_g	PKGMv1-8738_g	      0
+ 79-  1:	PKGMv1-8705_g	PKGMv1-8737_g	 5e-106
+ 79-  2:	PKGMv1-8706_g	PKGMv1-8736_g	      0
+ 79-  3:	PKGMv1-8707_g	PKGMv1-8735_g	 1e-110
+ 79-  4:	PKGMv1-8708_g	PKGMv1-8733_g	      0
+ 79-  5:	PKGMv1-8709_g	PKGMv1-8730_g	      0
+ 79-  6:	PKGMv1-8710_g	PKGMv1-8727_g	 4e-124
+ 79-  7:	PKGMv1-8712_g	PKGMv1-8725_g	 3e-120
+ 79-  8:	PKGMv1-8713_g	PKGMv1-8723_g	  1e-86
+ 79-  9:	PKGMv1-8714_g	PKGMv1-8722_g	  4e-72
+ 79- 10:	PKGMv1-8716_g	PKGMv1-8721_g	      0
+## Alignment 80: score=497.0 e_value=1.7e-20 N=10 pk10&pk2 minus
+ 80-  0:	PKGMv1-16716_g	PKGMv1-37228_g	      0
+ 80-  1:	PKGMv1-16717_g	PKGMv1-37226_g	      0
+ 80-  2:	PKGMv1-16718_g	PKGMv1-37225_g	      0
+ 80-  3:	PKGMv1-16719_g	PKGMv1-37224_g	 1e-171
+ 80-  4:	PKGMv1-16720_g	PKGMv1-37223_g	 3e-104
+ 80-  5:	PKGMv1-16721_g	PKGMv1-37222_g	      0
+ 80-  6:	PKGMv1-16722_g	PKGMv1-37221_g	      0
+ 80-  7:	PKGMv1-16725_g	PKGMv1-37220_g	  7e-81
+ 80-  8:	PKGMv1-16726_g	PKGMv1-37219_g	      0
+ 80-  9:	PKGMv1-16727_g	PKGMv1-37218_g	      0
+## Alignment 81: score=445.0 e_value=3.6e-17 N=9 pk10&pk2 minus
+ 81-  0:	PKGMv1-83178_g	PKGMv1-7752_g	      0
+ 81-  1:	PKGMv1-83181_g	PKGMv1-7749_g	 3e-140
+ 81-  2:	PKGMv1-83182_g	PKGMv1-7748_g	  3e-81
+ 81-  3:	PKGMv1-83183_g	PKGMv1-7747_g	  2e-73
+ 81-  4:	PKGMv1-83184_g	PKGMv1-7746_g	  2e-50
+ 81-  5:	PKGMv1-83185_g	PKGMv1-7744_g	      0
+ 81-  6:	PKGMv1-83186_g	PKGMv1-7743_g	      0
+ 81-  7:	PKGMv1-83188_g	PKGMv1-7742_g	 3e-150
+ 81-  8:	PKGMv1-83190_g	PKGMv1-7740_g	  1e-46
+## Alignment 82: score=298.0 e_value=5.5e-08 N=6 pk10&pk2 minus
+ 82-  0:	PKGMv1-63658_g	PKGMv1-28391_g	      0
+ 82-  1:	PKGMv1-63660_g	PKGMv1-28390_g	  2e-40
+ 82-  2:	PKGMv1-63661_g	PKGMv1-28389_g	      0
+ 82-  3:	PKGMv1-63662_g	PKGMv1-28388_g	  2e-49
+ 82-  4:	PKGMv1-63663_g	PKGMv1-28387_g	  8e-27
+ 82-  5:	PKGMv1-63665_g	PKGMv1-28386_g	      0
+## Alignment 83: score=543.0 e_value=2.2e-23 N=11 pk10&pk3 plus
+ 83-  0:	PKGMv1-30871_g	PKGMv1-9602_g	      0
+ 83-  1:	PKGMv1-30873_g	PKGMv1-9603_g	      0
+ 83-  2:	PKGMv1-30876_g	PKGMv1-9604_g	  6e-42
+ 83-  3:	PKGMv1-30877_g	PKGMv1-9605_g	      0
+ 83-  4:	PKGMv1-30878_g	PKGMv1-9606_g	  3e-76
+ 83-  5:	PKGMv1-30879_g	PKGMv1-9607_g	  7e-84
+ 83-  6:	PKGMv1-30882_g	PKGMv1-9608_g	  2e-21
+ 83-  7:	PKGMv1-30883_g	PKGMv1-9610_g	 5e-148
+ 83-  8:	PKGMv1-30884_g	PKGMv1-9612_g	 2e-106
+ 83-  9:	PKGMv1-30885_g	PKGMv1-9613_g	  2e-58
+ 83- 10:	PKGMv1-30886_g	PKGMv1-9614_g	 1e-171
+## Alignment 84: score=273.0 e_value=1.6e-11 N=6 pk10&pk3 plus
+ 84-  0:	PKGMv1-17566_g	PKGMv1-75177_g	      0
+ 84-  1:	PKGMv1-17568_g	PKGMv1-75178_g	      0
+ 84-  2:	PKGMv1-17574_g	PKGMv1-75182_g	  2e-64
+ 84-  3:	PKGMv1-17575_g	PKGMv1-75183_g	 2e-110
+ 84-  4:	PKGMv1-17577_g	PKGMv1-75186_g	      0
+ 84-  5:	PKGMv1-17593_g	PKGMv1-75206_g	  4e-18
+## Alignment 85: score=693.0 e_value=4.2e-34 N=14 pk10&pk3 minus
+ 85-  0:	PKGMv1-24765_g	PKGMv1-66649_g	  5e-94
+ 85-  1:	PKGMv1-24766_g	PKGMv1-66648_g	 5e-114
+ 85-  2:	PKGMv1-24767_g	PKGMv1-66647_g	 8e-176
+ 85-  3:	PKGMv1-24769_g	PKGMv1-66646_g	      0
+ 85-  4:	PKGMv1-24770_g	PKGMv1-66644_g	 2e-119
+ 85-  5:	PKGMv1-24771_g	PKGMv1-66643_g	  1e-72
+ 85-  6:	PKGMv1-24772_g	PKGMv1-66642_g	 7e-149
+ 85-  7:	PKGMv1-24773_g	PKGMv1-66641_g	      0
+ 85-  8:	PKGMv1-24776_g	PKGMv1-66640_g	 3e-122
+ 85-  9:	PKGMv1-24777_g	PKGMv1-66639_g	      0
+ 85- 10:	PKGMv1-24779_g	PKGMv1-66637_g	      0
+ 85- 11:	PKGMv1-24780_g	PKGMv1-66636_g	      0
+ 85- 12:	PKGMv1-24782_g	PKGMv1-66635_g	      0
+ 85- 13:	PKGMv1-24784_g	PKGMv1-66633_g	 7e-117
+## Alignment 86: score=250.0 e_value=5e-06 N=5 pk10&pk3 minus
+ 86-  0:	PKGMv1-66780_g	PKGMv1-66734_g	      0
+ 86-  1:	PKGMv1-66781_g	PKGMv1-66733_g	      0
+ 86-  2:	PKGMv1-66782_g	PKGMv1-66732_g	  8e-17
+ 86-  3:	PKGMv1-66783_g	PKGMv1-66731_g	      0
+ 86-  4:	PKGMv1-66784_g	PKGMv1-66730_g	 2e-128
+## Alignment 87: score=446.0 e_value=1e-16 N=9 pk10&pk4 plus
+ 87-  0:	PKGMv1-65042_g	PKGMv1-11155_g	      0
+ 87-  1:	PKGMv1-65043_g	PKGMv1-11156_g	 2e-108
+ 87-  2:	PKGMv1-65044_g	PKGMv1-11158_g	      0
+ 87-  3:	PKGMv1-65045_g	PKGMv1-11160_g	 2e-145
+ 87-  4:	PKGMv1-65046_g	PKGMv1-11162_g	 1e-127
+ 87-  5:	PKGMv1-65047_g	PKGMv1-11163_g	  2e-82
+ 87-  6:	PKGMv1-65049_g	PKGMv1-11164_g	 6e-154
+ 87-  7:	PKGMv1-65050_g	PKGMv1-11165_g	 4e-165
+ 87-  8:	PKGMv1-65051_g	PKGMv1-11166_g	      0
+## Alignment 88: score=348.0 e_value=2.6e-11 N=7 pk10&pk4 plus
+ 88-  0:	PKGMv1-54710_g	PKGMv1-1626_g	  4e-73
+ 88-  1:	PKGMv1-54711_g	PKGMv1-1627_g	 8e-134
+ 88-  2:	PKGMv1-54713_g	PKGMv1-1628_g	 8e-126
+ 88-  3:	PKGMv1-54714_g	PKGMv1-1629_g	 6e-110
+ 88-  4:	PKGMv1-54715_g	PKGMv1-1630_g	      0
+ 88-  5:	PKGMv1-54716_g	PKGMv1-1631_g	      0
+ 88-  6:	PKGMv1-54717_g	PKGMv1-1633_g	  1e-28
+## Alignment 89: score=395.0 e_value=1.8e-15 N=8 pk10&pk4 minus
+ 89-  0:	PKGMv1-17524_g	PKGMv1-56212_g	      0
+ 89-  1:	PKGMv1-17525_g	PKGMv1-56211_g	 2e-117
+ 89-  2:	PKGMv1-17527_g	PKGMv1-56208_g	  9e-86
+ 89-  3:	PKGMv1-17529_g	PKGMv1-56207_g	      0
+ 89-  4:	PKGMv1-17530_g	PKGMv1-56206_g	      0
+ 89-  5:	PKGMv1-17531_g	PKGMv1-56205_g	      0
+ 89-  6:	PKGMv1-17534_g	PKGMv1-56202_g	      0
+ 89-  7:	PKGMv1-17535_g	PKGMv1-56201_g	 4e-130
+## Alignment 90: score=344.0 e_value=6.5e-12 N=7 pk10&pk4 minus
+ 90-  0:	PKGMv1-26386_g	PKGMv1-68430_g	      0
+ 90-  1:	PKGMv1-26387_g	PKGMv1-68429_g	  3e-44
+ 90-  2:	PKGMv1-26391_g	PKGMv1-68426_g	      0
+ 90-  3:	PKGMv1-26392_g	PKGMv1-68425_g	  4e-43
+ 90-  4:	PKGMv1-26394_g	PKGMv1-68423_g	      0
+ 90-  5:	PKGMv1-26395_g	PKGMv1-68421_g	      0
+ 90-  6:	PKGMv1-26396_g	PKGMv1-68419_g	      0
+## Alignment 91: score=300.0 e_value=7.5e-09 N=6 pk10&pk4 minus
+ 91-  0:	PKGMv1-11588_g	PKGMv1-44254_g	  3e-75
+ 91-  1:	PKGMv1-11589_g	PKGMv1-44253_g	      0
+ 91-  2:	PKGMv1-11590_g	PKGMv1-44252_g	  3e-95
+ 91-  3:	PKGMv1-11591_g	PKGMv1-44251_g	  3e-64
+ 91-  4:	PKGMv1-11592_g	PKGMv1-44250_g	  2e-51
+ 91-  5:	PKGMv1-11593_g	PKGMv1-44249_g	  4e-35
+## Alignment 92: score=298.0 e_value=8.2e-09 N=6 pk10&pk4 minus
+ 92-  0:	PKGMv1-63605_g	PKGMv1-47478_g	      0
+ 92-  1:	PKGMv1-63606_g	PKGMv1-47475_g	      0
+ 92-  2:	PKGMv1-63607_g	PKGMv1-47474_g	      0
+ 92-  3:	PKGMv1-63608_g	PKGMv1-47473_g	      0
+ 92-  4:	PKGMv1-63609_g	PKGMv1-47472_g	  4e-90
+ 92-  5:	PKGMv1-63610_g	PKGMv1-47471_g	  2e-49
+## Alignment 93: score=369.0 e_value=3.3e-16 N=8 pk10&pk5 plus
+ 93-  0:	PKGMv1-64990_g	PKGMv1-287_g	  8e-99
+ 93-  1:	PKGMv1-64992_g	PKGMv1-288_g	  5e-51
+ 93-  2:	PKGMv1-64993_g	PKGMv1-295_g	 2e-158
+ 93-  3:	PKGMv1-64994_g	PKGMv1-296_g	 3e-159
+ 93-  4:	PKGMv1-64995_g	PKGMv1-297_g	  1e-68
+ 93-  5:	PKGMv1-64996_g	PKGMv1-298_g	      0
+ 93-  6:	PKGMv1-64997_g	PKGMv1-299_g	  4e-54
+ 93-  7:	PKGMv1-65000_g	PKGMv1-324_g	  1e-44
+## Alignment 94: score=299.0 e_value=1e-07 N=6 pk10&pk5 plus
+ 94-  0:	PKGMv1-32266_g	PKGMv1-12750_g	      0
+ 94-  1:	PKGMv1-32267_g	PKGMv1-12751_g	      0
+ 94-  2:	PKGMv1-32268_g	PKGMv1-12752_g	 2e-119
+ 94-  3:	PKGMv1-32269_g	PKGMv1-12753_g	      0
+ 94-  4:	PKGMv1-32270_g	PKGMv1-12755_g	      0
+ 94-  5:	PKGMv1-32271_g	PKGMv1-12756_g	  3e-62
+## Alignment 95: score=296.0 e_value=3.7e-08 N=6 pk10&pk5 plus
+ 95-  0:	PKGMv1-38968_g	PKGMv1-39492_g	 5e-100
+ 95-  1:	PKGMv1-38969_g	PKGMv1-39493_g	  3e-84
+ 95-  2:	PKGMv1-38970_g	PKGMv1-39495_g	      0
+ 95-  3:	PKGMv1-38972_g	PKGMv1-39496_g	      0
+ 95-  4:	PKGMv1-38973_g	PKGMv1-39499_g	      0
+ 95-  5:	PKGMv1-38974_g	PKGMv1-39500_g	 2e-121
+## Alignment 96: score=397.0 e_value=6.6e-16 N=8 pk10&pk6 plus
+ 96-  0:	PKGMv1-75784_g	PKGMv1-34349_g	      0
+ 96-  1:	PKGMv1-75785_g	PKGMv1-34352_g	 3e-134
+ 96-  2:	PKGMv1-75786_g	PKGMv1-34353_g	 3e-125
+ 96-  3:	PKGMv1-75787_g	PKGMv1-34354_g	 2e-134
+ 96-  4:	PKGMv1-75788_g	PKGMv1-34355_g	 6e-147
+ 96-  5:	PKGMv1-75789_g	PKGMv1-34356_g	  6e-75
+ 96-  6:	PKGMv1-75790_g	PKGMv1-34357_g	  7e-72
+ 96-  7:	PKGMv1-75791_g	PKGMv1-34359_g	 8e-130
+## Alignment 97: score=347.0 e_value=6.3e-12 N=7 pk10&pk6 plus
+ 97-  0:	PKGMv1-10196_g	PKGMv1-40768_g	      0
+ 97-  1:	PKGMv1-10198_g	PKGMv1-40770_g	      0
+ 97-  2:	PKGMv1-10199_g	PKGMv1-40771_g	  7e-93
+ 97-  3:	PKGMv1-10200_g	PKGMv1-40772_g	  1e-89
+ 97-  4:	PKGMv1-10201_g	PKGMv1-40774_g	  6e-76
+ 97-  5:	PKGMv1-10202_g	PKGMv1-40775_g	      0
+ 97-  6:	PKGMv1-10204_g	PKGMv1-40776_g	  9e-89
+## Alignment 98: score=292.0 e_value=4.9e-10 N=6 pk10&pk6 plus
+ 98-  0:	PKGMv1-30837_g	PKGMv1-29447_g	  2e-53
+ 98-  1:	PKGMv1-30839_g	PKGMv1-29448_g	 2e-168
+ 98-  2:	PKGMv1-30840_g	PKGMv1-29449_g	 2e-157
+ 98-  3:	PKGMv1-30841_g	PKGMv1-29450_g	      0
+ 98-  4:	PKGMv1-30843_g	PKGMv1-29451_g	      0
+ 98-  5:	PKGMv1-30850_g	PKGMv1-29452_g	  6e-43
+## Alignment 99: score=291.0 e_value=7.4e-10 N=6 pk10&pk6 plus
+ 99-  0:	PKGMv1-67558_g	PKGMv1-49438_g	  2e-40
+ 99-  1:	PKGMv1-67559_g	PKGMv1-49440_g	 6e-160
+ 99-  2:	PKGMv1-67561_g	PKGMv1-49441_g	      0
+ 99-  3:	PKGMv1-67568_g	PKGMv1-49445_g	      0
+ 99-  4:	PKGMv1-67570_g	PKGMv1-49446_g	      0
+ 99-  5:	PKGMv1-67571_g	PKGMv1-49447_g	      0
+## Alignment 100: score=494.0 e_value=7e-20 N=10 pk10&pk6 minus
+100-  0:	PKGMv1-37967_g	PKGMv1-69389_g	  2e-60
+100-  1:	PKGMv1-37969_g	PKGMv1-69387_g	  3e-50
+100-  2:	PKGMv1-37970_g	PKGMv1-69386_g	 3e-131
+100-  3:	PKGMv1-37974_g	PKGMv1-69385_g	 1e-147
+100-  4:	PKGMv1-37975_g	PKGMv1-69384_g	      0
+100-  5:	PKGMv1-37976_g	PKGMv1-69383_g	 2e-149
+100-  6:	PKGMv1-37977_g	PKGMv1-69382_g	  5e-86
+100-  7:	PKGMv1-37978_g	PKGMv1-69381_g	      0
+100-  8:	PKGMv1-37980_g	PKGMv1-69380_g	  1e-18
+100-  9:	PKGMv1-37982_g	PKGMv1-69379_g	 9e-164
+## Alignment 101: score=395.0 e_value=1.1e-15 N=8 pk10&pk6 minus
+101-  0:	PKGMv1-34690_g	PKGMv1-72789_g	 6e-157
+101-  1:	PKGMv1-34693_g	PKGMv1-72785_g	      0
+101-  2:	PKGMv1-34694_g	PKGMv1-72783_g	 1e-172
+101-  3:	PKGMv1-34695_g	PKGMv1-72782_g	 7e-131
+101-  4:	PKGMv1-34696_g	PKGMv1-72781_g	      0
+101-  5:	PKGMv1-34698_g	PKGMv1-72780_g	      0
+101-  6:	PKGMv1-34699_g	PKGMv1-72779_g	      0
+101-  7:	PKGMv1-34700_g	PKGMv1-72778_g	  2e-94
+## Alignment 102: score=298.0 e_value=1.5e-09 N=6 pk10&pk6 minus
+102-  0:	PKGMv1-37983_g	PKGMv1-25027_g	      0
+102-  1:	PKGMv1-37984_g	PKGMv1-25026_g	      0
+102-  2:	PKGMv1-37985_g	PKGMv1-25024_g	 3e-113
+102-  3:	PKGMv1-37986_g	PKGMv1-25023_g	 2e-117
+102-  4:	PKGMv1-37987_g	PKGMv1-25022_g	      0
+102-  5:	PKGMv1-37989_g	PKGMv1-25021_g	      0
+## Alignment 103: score=340.0 e_value=6.4e-11 N=7 pk10&pk7 plus
+103-  0:	PKGMv1-17291_g	PKGMv1-14055_g	 3e-135
+103-  1:	PKGMv1-17292_g	PKGMv1-14056_g	 7e-134
+103-  2:	PKGMv1-17295_g	PKGMv1-14057_g	 4e-154
+103-  3:	PKGMv1-17297_g	PKGMv1-14059_g	 1e-106
+103-  4:	PKGMv1-17298_g	PKGMv1-14061_g	  1e-84
+103-  5:	PKGMv1-17302_g	PKGMv1-14062_g	  3e-90
+103-  6:	PKGMv1-17306_g	PKGMv1-14063_g	      0
+## Alignment 104: score=298.0 e_value=1.5e-09 N=6 pk10&pk7 plus
+104-  0:	PKGMv1-80261_g	PKGMv1-59880_g	 1e-106
+104-  1:	PKGMv1-80262_g	PKGMv1-59881_g	 7e-100
+104-  2:	PKGMv1-80263_g	PKGMv1-59882_g	  2e-70
+104-  3:	PKGMv1-80264_g	PKGMv1-59884_g	  2e-64
+104-  4:	PKGMv1-80266_g	PKGMv1-59885_g	      0
+104-  5:	PKGMv1-80267_g	PKGMv1-59886_g	      0
+## Alignment 105: score=298.0 e_value=6.2e-09 N=6 pk10&pk7 plus
+105-  0:	PKGMv1-74890_g	PKGMv1-59925_g	 3e-148
+105-  1:	PKGMv1-74891_g	PKGMv1-59926_g	  2e-66
+105-  2:	PKGMv1-74892_g	PKGMv1-59927_g	 2e-121
+105-  3:	PKGMv1-74893_g	PKGMv1-59928_g	      0
+105-  4:	PKGMv1-74895_g	PKGMv1-59929_g	  5e-14
+105-  5:	PKGMv1-74896_g	PKGMv1-59931_g	 3e-141
+## Alignment 106: score=250.0 e_value=1e-05 N=5 pk10&pk7 plus
+106-  0:	PKGMv1-63617_g	PKGMv1-53955_g	      0
+106-  1:	PKGMv1-63618_g	PKGMv1-53956_g	      0
+106-  2:	PKGMv1-63619_g	PKGMv1-53957_g	      0
+106-  3:	PKGMv1-63620_g	PKGMv1-53958_g	      0
+106-  4:	PKGMv1-63621_g	PKGMv1-53959_g	      0
+## Alignment 107: score=250.0 e_value=5.1e-07 N=5 pk10&pk7 plus
+107-  0:	PKGMv1-5822_g	PKGMv1-13323_g	      0
+107-  1:	PKGMv1-5823_g	PKGMv1-13324_g	 2e-150
+107-  2:	PKGMv1-5824_g	PKGMv1-13325_g	      0
+107-  3:	PKGMv1-5825_g	PKGMv1-13326_g	  1e-45
+107-  4:	PKGMv1-5826_g	PKGMv1-13327_g	  3e-65
+## Alignment 108: score=931.0 e_value=7.5e-55 N=19 pk10&pk7 minus
+108-  0:	PKGMv1-83703_g	PKGMv1-23986_g	      0
+108-  1:	PKGMv1-83705_g	PKGMv1-23984_g	      0
+108-  2:	PKGMv1-83706_g	PKGMv1-23982_g	      0
+108-  3:	PKGMv1-83707_g	PKGMv1-23981_g	  3e-72
+108-  4:	PKGMv1-83708_g	PKGMv1-23980_g	  5e-96
+108-  5:	PKGMv1-83709_g	PKGMv1-23979_g	      0
+108-  6:	PKGMv1-83710_g	PKGMv1-23977_g	  3e-70
+108-  7:	PKGMv1-83711_g	PKGMv1-23976_g	      0
+108-  8:	PKGMv1-83712_g	PKGMv1-23975_g	 1e-127
+108-  9:	PKGMv1-83713_g	PKGMv1-23973_g	      0
+108- 10:	PKGMv1-83714_g	PKGMv1-23972_g	 3e-140
+108- 11:	PKGMv1-83715_g	PKGMv1-23970_g	 2e-171
+108- 12:	PKGMv1-83716_g	PKGMv1-23969_g	      0
+108- 13:	PKGMv1-83717_g	PKGMv1-23967_g	      0
+108- 14:	PKGMv1-83718_g	PKGMv1-23966_g	  3e-85
+108- 15:	PKGMv1-83720_g	PKGMv1-23965_g	      0
+108- 16:	PKGMv1-83721_g	PKGMv1-23963_g	      0
+108- 17:	PKGMv1-83722_g	PKGMv1-23962_g	  3e-12
+108- 18:	PKGMv1-83724_g	PKGMv1-23950_g	  8e-32
+## Alignment 109: score=271.0 e_value=2.6e-08 N=6 pk10&pk7 minus
+109-  0:	PKGMv1-26143_g	PKGMv1-56496_g	  1e-37
+109-  1:	PKGMv1-26148_g	PKGMv1-56487_g	      0
+109-  2:	PKGMv1-26160_g	PKGMv1-56481_g	 1e-103
+109-  3:	PKGMv1-26168_g	PKGMv1-56477_g	      0
+109-  4:	PKGMv1-26170_g	PKGMv1-56476_g	  2e-60
+109-  5:	PKGMv1-26172_g	PKGMv1-56473_g	  2e-53
+## Alignment 110: score=694.0 e_value=4.1e-33 N=14 pk10&pk8 plus
+110-  0:	PKGMv1-62758_g	PKGMv1-62926_g	 3e-109
+110-  1:	PKGMv1-62759_g	PKGMv1-62927_g	      0
+110-  2:	PKGMv1-62761_g	PKGMv1-62929_g	 2e-135
+110-  3:	PKGMv1-62763_g	PKGMv1-62930_g	      0
+110-  4:	PKGMv1-62764_g	PKGMv1-62931_g	      0
+110-  5:	PKGMv1-62765_g	PKGMv1-62932_g	      0
+110-  6:	PKGMv1-62766_g	PKGMv1-62933_g	      0
+110-  7:	PKGMv1-62768_g	PKGMv1-62935_g	 7e-121
+110-  8:	PKGMv1-62769_g	PKGMv1-62937_g	      0
+110-  9:	PKGMv1-62770_g	PKGMv1-62938_g	 1e-162
+110- 10:	PKGMv1-62771_g	PKGMv1-62939_g	  3e-97
+110- 11:	PKGMv1-62772_g	PKGMv1-62940_g	 2e-151
+110- 12:	PKGMv1-62774_g	PKGMv1-62942_g	      0
+110- 13:	PKGMv1-62775_g	PKGMv1-62944_g	      0
+## Alignment 111: score=445.0 e_value=2.2e-18 N=9 pk10&pk8 plus
+111-  0:	PKGMv1-83277_g	PKGMv1-20318_g	  5e-55
+111-  1:	PKGMv1-83278_g	PKGMv1-20320_g	  1e-70
+111-  2:	PKGMv1-83281_g	PKGMv1-20321_g	      0
+111-  3:	PKGMv1-83282_g	PKGMv1-20322_g	      0
+111-  4:	PKGMv1-83283_g	PKGMv1-20323_g	 2e-127
+111-  5:	PKGMv1-83284_g	PKGMv1-20324_g	      0
+111-  6:	PKGMv1-83285_g	PKGMv1-20327_g	      0
+111-  7:	PKGMv1-83286_g	PKGMv1-20328_g	      0
+111-  8:	PKGMv1-83287_g	PKGMv1-20329_g	 2e-157
+## Alignment 112: score=391.0 e_value=1.1e-14 N=8 pk10&pk8 plus
+112-  0:	PKGMv1-74253_g	PKGMv1-27253_g	      0
+112-  1:	PKGMv1-74255_g	PKGMv1-27254_g	      0
+112-  2:	PKGMv1-74256_g	PKGMv1-27255_g	      0
+112-  3:	PKGMv1-74257_g	PKGMv1-27256_g	  8e-45
+112-  4:	PKGMv1-74261_g	PKGMv1-27257_g	 2e-147
+112-  5:	PKGMv1-74262_g	PKGMv1-27258_g	      0
+112-  6:	PKGMv1-74264_g	PKGMv1-27259_g	      0
+112-  7:	PKGMv1-74269_g	PKGMv1-27262_g	      0
+## Alignment 113: score=392.0 e_value=6.6e-15 N=8 pk10&pk8 minus
+113-  0:	PKGMv1-31099_g	PKGMv1-51355_g	      0
+113-  1:	PKGMv1-31100_g	PKGMv1-51354_g	 6e-179
+113-  2:	PKGMv1-31102_g	PKGMv1-51353_g	 1e-114
+113-  3:	PKGMv1-31103_g	PKGMv1-51352_g	 1e-141
+113-  4:	PKGMv1-31104_g	PKGMv1-51351_g	  2e-73
+113-  5:	PKGMv1-31105_g	PKGMv1-51350_g	 4e-136
+113-  6:	PKGMv1-31106_g	PKGMv1-51349_g	      0
+113-  7:	PKGMv1-31113_g	PKGMv1-51341_g	 1e-126
+## Alignment 114: score=348.0 e_value=3.6e-11 N=7 pk10&pk8 minus
+114-  0:	PKGMv1-65026_g	PKGMv1-55317_g	 1e-172
+114-  1:	PKGMv1-65028_g	PKGMv1-55316_g	      0
+114-  2:	PKGMv1-65029_g	PKGMv1-55315_g	      0
+114-  3:	PKGMv1-65030_g	PKGMv1-55314_g	      0
+114-  4:	PKGMv1-65032_g	PKGMv1-55313_g	      0
+114-  5:	PKGMv1-65033_g	PKGMv1-55312_g	      0
+114-  6:	PKGMv1-65034_g	PKGMv1-55311_g	  4e-74
+## Alignment 115: score=275.0 e_value=2.5e-11 N=6 pk10&pk8 minus
+115-  0:	PKGMv1-6817_g	PKGMv1-64953_g	  6e-59
+115-  1:	PKGMv1-64955_g	PKGMv1-64933_g	      0
+115-  2:	PKGMv1-64956_g	PKGMv1-64931_g	      0
+115-  3:	PKGMv1-64958_g	PKGMv1-64927_g	  1e-15
+115-  4:	PKGMv1-64960_g	PKGMv1-64926_g	      0
+115-  5:	PKGMv1-64962_g	PKGMv1-64925_g	      0
+## Alignment 116: score=1015.0 e_value=3.9e-65 N=21 pk10&pk9 plus
+116-  0:	PKGMv1-25049_g	PKGMv1-3682_g	      0
+116-  1:	PKGMv1-25050_g	PKGMv1-3683_g	  1e-71
+116-  2:	PKGMv1-25051_g	PKGMv1-3684_g	      0
+116-  3:	PKGMv1-25052_g	PKGMv1-3685_g	      0
+116-  4:	PKGMv1-25053_g	PKGMv1-3686_g	 8e-110
+116-  5:	PKGMv1-25054_g	PKGMv1-3687_g	      0
+116-  6:	PKGMv1-25055_g	PKGMv1-3688_g	      0
+116-  7:	PKGMv1-25056_g	PKGMv1-3690_g	      0
+116-  8:	PKGMv1-25057_g	PKGMv1-3691_g	      0
+116-  9:	PKGMv1-25058_g	PKGMv1-3692_g	      0
+116- 10:	PKGMv1-25059_g	PKGMv1-3693_g	  4e-80
+116- 11:	PKGMv1-25061_g	PKGMv1-3695_g	 8e-120
+116- 12:	PKGMv1-25062_g	PKGMv1-3696_g	      0
+116- 13:	PKGMv1-25063_g	PKGMv1-3697_g	      0
+116- 14:	PKGMv1-25064_g	PKGMv1-3698_g	  2e-95
+116- 15:	PKGMv1-25065_g	PKGMv1-3699_g	      0
+116- 16:	PKGMv1-25066_g	PKGMv1-3700_g	      0
+116- 17:	PKGMv1-25068_g	PKGMv1-3703_g	      0
+116- 18:	PKGMv1-25070_g	PKGMv1-3704_g	 1e-123
+116- 19:	PKGMv1-25072_g	PKGMv1-3730_g	      0
+116- 20:	PKGMv1-25073_g	PKGMv1-3736_g	 1e-129
+## Alignment 117: score=886.0 e_value=1.6e-47 N=18 pk10&pk9 plus
+117-  0:	PKGMv1-30801_g	PKGMv1-77690_g	      0
+117-  1:	PKGMv1-30804_g	PKGMv1-77691_g	 2e-129
+117-  2:	PKGMv1-30805_g	PKGMv1-77693_g	 2e-165
+117-  3:	PKGMv1-30806_g	PKGMv1-77694_g	  5e-78
+117-  4:	PKGMv1-30807_g	PKGMv1-77696_g	  9e-86
+117-  5:	PKGMv1-30808_g	PKGMv1-77697_g	      0
+117-  6:	PKGMv1-30810_g	PKGMv1-77698_g	      0
+117-  7:	PKGMv1-30811_g	PKGMv1-77699_g	      0
+117-  8:	PKGMv1-30813_g	PKGMv1-77700_g	  2e-88
+117-  9:	PKGMv1-30814_g	PKGMv1-77702_g	      0
+117- 10:	PKGMv1-30815_g	PKGMv1-77704_g	 4e-156
+117- 11:	PKGMv1-30816_g	PKGMv1-77705_g	  3e-97
+117- 12:	PKGMv1-30817_g	PKGMv1-77708_g	      0
+117- 13:	PKGMv1-30818_g	PKGMv1-77709_g	 4e-133
+117- 14:	PKGMv1-30819_g	PKGMv1-77712_g	  1e-22
+117- 15:	PKGMv1-30820_g	PKGMv1-77713_g	  1e-80
+117- 16:	PKGMv1-30821_g	PKGMv1-77714_g	  9e-12
+117- 17:	PKGMv1-30822_g	PKGMv1-77717_g	  2e-94
+## Alignment 118: score=395.0 e_value=2.6e-16 N=8 pk10&pk9 plus
+118-  0:	PKGMv1-16914_g	PKGMv1-80054_g	      0
+118-  1:	PKGMv1-16916_g	PKGMv1-80057_g	 1e-119
+118-  2:	PKGMv1-16917_g	PKGMv1-80058_g	      0
+118-  3:	PKGMv1-16918_g	PKGMv1-80059_g	      0
+118-  4:	PKGMv1-16919_g	PKGMv1-80061_g	      0
+118-  5:	PKGMv1-16922_g	PKGMv1-80064_g	      0
+118-  6:	PKGMv1-16923_g	PKGMv1-80065_g	  4e-66
+118-  7:	PKGMv1-16924_g	PKGMv1-80066_g	      0
+## Alignment 119: score=347.0 e_value=8.7e-11 N=7 pk10&pk9 plus
+119-  0:	PKGMv1-80278_g	PKGMv1-73222_g	 6e-146
+119-  1:	PKGMv1-80279_g	PKGMv1-73224_g	  6e-22
+119-  2:	PKGMv1-80280_g	PKGMv1-73225_g	 8e-103
+119-  3:	PKGMv1-80281_g	PKGMv1-73226_g	  1e-54
+119-  4:	PKGMv1-80282_g	PKGMv1-73229_g	  1e-72
+119-  5:	PKGMv1-80283_g	PKGMv1-73230_g	  5e-88
+119-  6:	PKGMv1-80284_g	PKGMv1-73231_g	      0
+## Alignment 120: score=250.0 e_value=3.5e-06 N=5 pk10&pk9 plus
+120-  0:	PKGMv1-74339_g	PKGMv1-13184_g	 1e-134
+120-  1:	PKGMv1-74340_g	PKGMv1-13185_g	  1e-84
+120-  2:	PKGMv1-74341_g	PKGMv1-13186_g	  3e-98
+120-  3:	PKGMv1-74342_g	PKGMv1-13187_g	      0
+120-  4:	PKGMv1-74343_g	PKGMv1-13188_g	      0
+## Alignment 121: score=545.0 e_value=1.9e-23 N=11 pk10&pk9 minus
+121-  0:	PKGMv1-48865_g	PKGMv1-48940_g	 2e-148
+121-  1:	PKGMv1-48866_g	PKGMv1-48936_g	  3e-25
+121-  2:	PKGMv1-48867_g	PKGMv1-48935_g	  2e-81
+121-  3:	PKGMv1-48868_g	PKGMv1-48934_g	 9e-118
+121-  4:	PKGMv1-48869_g	PKGMv1-48933_g	      0
+121-  5:	PKGMv1-48871_g	PKGMv1-48931_g	      0
+121-  6:	PKGMv1-48872_g	PKGMv1-48930_g	      0
+121-  7:	PKGMv1-48873_g	PKGMv1-48928_g	      0
+121-  8:	PKGMv1-48874_g	PKGMv1-48927_g	  3e-59
+121-  9:	PKGMv1-48875_g	PKGMv1-48926_g	  4e-97
+121- 10:	PKGMv1-48876_g	PKGMv1-48925_g	      0
+## Alignment 122: score=494.0 e_value=1.9e-21 N=10 pk10&pk9 minus
+122-  0:	PKGMv1-10252_g	PKGMv1-77987_g	 4e-132
+122-  1:	PKGMv1-10254_g	PKGMv1-77986_g	      0
+122-  2:	PKGMv1-10255_g	PKGMv1-77984_g	 1e-144
+122-  3:	PKGMv1-10256_g	PKGMv1-77983_g	      0
+122-  4:	PKGMv1-10257_g	PKGMv1-77982_g	      0
+122-  5:	PKGMv1-10258_g	PKGMv1-77980_g	      0
+122-  6:	PKGMv1-10261_g	PKGMv1-77978_g	 9e-153
+122-  7:	PKGMv1-10262_g	PKGMv1-77977_g	      0
+122-  8:	PKGMv1-10263_g	PKGMv1-77976_g	      0
+122-  9:	PKGMv1-10264_g	PKGMv1-77974_g	      0
+## Alignment 123: score=441.0 e_value=7.9e-17 N=9 pk2&pk2 plus
+123-  0:	PKGMv1-45805_g	PKGMv1-45821_g	  6e-74
+123-  1:	PKGMv1-45807_g	PKGMv1-45824_g	  4e-39
+123-  2:	PKGMv1-45809_g	PKGMv1-45825_g	      0
+123-  3:	PKGMv1-45810_g	PKGMv1-45827_g	 3e-147
+123-  4:	PKGMv1-45813_g	PKGMv1-45829_g	      0
+123-  5:	PKGMv1-45814_g	PKGMv1-45830_g	 2e-170
+123-  6:	PKGMv1-45816_g	PKGMv1-45831_g	      0
+123-  7:	PKGMv1-45817_g	PKGMv1-45833_g	      0
+123-  8:	PKGMv1-45818_g	PKGMv1-45835_g	      0
+## Alignment 124: score=399.0 e_value=2.4e-14 N=8 pk2&pk2 plus
+124-  0:	PKGMv1-46616_g	PKGMv1-46644_g	  1e-54
+124-  1:	PKGMv1-46617_g	PKGMv1-46646_g	 2e-105
+124-  2:	PKGMv1-46618_g	PKGMv1-46647_g	 2e-154
+124-  3:	PKGMv1-46619_g	PKGMv1-46648_g	 2e-108
+124-  4:	PKGMv1-46620_g	PKGMv1-46649_g	 2e-102
+124-  5:	PKGMv1-46621_g	PKGMv1-46650_g	      0
+124-  6:	PKGMv1-46622_g	PKGMv1-46651_g	      0
+124-  7:	PKGMv1-46623_g	PKGMv1-46652_g	 5e-146
+## Alignment 125: score=385.0 e_value=3.5e-17 N=8 pk2&pk2 plus
+125-  0:	PKGMv1-45884_g	PKGMv1-45901_g	      0
+125-  1:	PKGMv1-45886_g	PKGMv1-45909_g	  3e-75
+125-  2:	PKGMv1-45887_g	PKGMv1-45911_g	  3e-68
+125-  3:	PKGMv1-45893_g	PKGMv1-45916_g	      0
+125-  4:	PKGMv1-45894_g	PKGMv1-45917_g	      0
+125-  5:	PKGMv1-45895_g	PKGMv1-45920_g	 6e-128
+125-  6:	PKGMv1-45896_g	PKGMv1-45921_g	      0
+125-  7:	PKGMv1-45897_g	PKGMv1-45922_g	      0
+## Alignment 126: score=284.0 e_value=3.8e-10 N=6 pk2&pk2 plus
+126-  0:	PKGMv1-1291_g	PKGMv1-45817_g	      0
+126-  1:	PKGMv1-1294_g	PKGMv1-45822_g	  4e-53
+126-  2:	PKGMv1-1297_g	PKGMv1-45826_g	  2e-87
+126-  3:	PKGMv1-1302_g	PKGMv1-45828_g	  4e-65
+126-  4:	PKGMv1-1305_g	PKGMv1-45833_g	      0
+126-  5:	PKGMv1-1307_g	PKGMv1-45834_g	      0
+## Alignment 127: score=393.0 e_value=2e-14 N=8 pk2&pk2 minus
+127-  0:	PKGMv1-30402_g	PKGMv1-30451_g	 6e-130
+127-  1:	PKGMv1-30406_g	PKGMv1-30449_g	  3e-99
+127-  2:	PKGMv1-30407_g	PKGMv1-30448_g	  1e-62
+127-  3:	PKGMv1-30411_g	PKGMv1-30447_g	 1e-178
+127-  4:	PKGMv1-30412_g	PKGMv1-30445_g	  1e-61
+127-  5:	PKGMv1-30413_g	PKGMv1-30444_g	  2e-90
+127-  6:	PKGMv1-30414_g	PKGMv1-30443_g	  7e-82
+127-  7:	PKGMv1-30415_g	PKGMv1-30442_g	 8e-147
+## Alignment 128: score=350.0 e_value=8.3e-11 N=7 pk2&pk2 minus
+128-  0:	PKGMv1-37211_g	PKGMv1-37247_g	  9e-84
+128-  1:	PKGMv1-37212_g	PKGMv1-37246_g	      0
+128-  2:	PKGMv1-37213_g	PKGMv1-37245_g	  2e-53
+128-  3:	PKGMv1-37214_g	PKGMv1-37244_g	  2e-93
+128-  4:	PKGMv1-37215_g	PKGMv1-37243_g	 1e-118
+128-  5:	PKGMv1-37216_g	PKGMv1-37242_g	  1e-36
+128-  6:	PKGMv1-37217_g	PKGMv1-37241_g	  2e-84
+## Alignment 129: score=292.0 e_value=2.2e-10 N=6 pk2&pk3 plus
+129-  0:	PKGMv1-74186_g	PKGMv1-9197_g	 4e-154
+129-  1:	PKGMv1-74192_g	PKGMv1-9198_g	 3e-127
+129-  2:	PKGMv1-74195_g	PKGMv1-9200_g	      0
+129-  3:	PKGMv1-74196_g	PKGMv1-9202_g	      0
+129-  4:	PKGMv1-74197_g	PKGMv1-9203_g	      0
+129-  5:	PKGMv1-74198_g	PKGMv1-9204_g	 2e-142
+## Alignment 130: score=278.0 e_value=1.4e-10 N=6 pk2&pk3 plus
+130-  0:	PKGMv1-45810_g	PKGMv1-45733_g	  1e-78
+130-  1:	PKGMv1-45816_g	PKGMv1-45734_g	      0
+130-  2:	PKGMv1-45822_g	PKGMv1-45739_g	  2e-51
+130-  3:	PKGMv1-45825_g	PKGMv1-45743_g	      0
+130-  4:	PKGMv1-45833_g	PKGMv1-45753_g	      0
+130-  5:	PKGMv1-45834_g	PKGMv1-45754_g	      0
+## Alignment 131: score=273.0 e_value=2.3e-11 N=6 pk2&pk3 plus
+131-  0:	PKGMv1-45422_g	PKGMv1-45322_g	  2e-78
+131-  1:	PKGMv1-45437_g	PKGMv1-45324_g	      0
+131-  2:	PKGMv1-45450_g	PKGMv1-45325_g	      0
+131-  3:	PKGMv1-45451_g	PKGMv1-45326_g	      0
+131-  4:	PKGMv1-45452_g	PKGMv1-45327_g	      0
+131-  5:	PKGMv1-45453_g	PKGMv1-45329_g	 5e-156
+## Alignment 132: score=487.0 e_value=7e-22 N=10 pk2&pk3 minus
+132-  0:	PKGMv1-45817_g	PKGMv1-45754_g	      0
+132-  1:	PKGMv1-45820_g	PKGMv1-45753_g	 1e-151
+132-  2:	PKGMv1-45821_g	PKGMv1-45751_g	  1e-91
+132-  3:	PKGMv1-45822_g	PKGMv1-45749_g	 3e-111
+132-  4:	PKGMv1-45823_g	PKGMv1-45748_g	  1e-74
+132-  5:	PKGMv1-45824_g	PKGMv1-45747_g	  7e-65
+132-  6:	PKGMv1-45828_g	PKGMv1-45742_g	      0
+132-  7:	PKGMv1-45829_g	PKGMv1-45736_g	      0
+132-  8:	PKGMv1-45830_g	PKGMv1-45735_g	 5e-147
+132-  9:	PKGMv1-45831_g	PKGMv1-45734_g	      0
+## Alignment 133: score=439.0 e_value=4.3e-18 N=9 pk2&pk3 minus
+133-  0:	PKGMv1-57728_g	PKGMv1-10462_g	      0
+133-  1:	PKGMv1-57730_g	PKGMv1-10461_g	  7e-34
+133-  2:	PKGMv1-57733_g	PKGMv1-10458_g	 1e-147
+133-  3:	PKGMv1-57734_g	PKGMv1-10457_g	 5e-135
+133-  4:	PKGMv1-57735_g	PKGMv1-10455_g	      0
+133-  5:	PKGMv1-57738_g	PKGMv1-10454_g	  7e-51
+133-  6:	PKGMv1-57739_g	PKGMv1-10453_g	 1e-168
+133-  7:	PKGMv1-57740_g	PKGMv1-10452_g	 2e-119
+133-  8:	PKGMv1-57741_g	PKGMv1-10446_g	 4e-156
+## Alignment 134: score=381.0 e_value=3.1e-15 N=8 pk2&pk3 minus
+134-  0:	PKGMv1-45803_g	PKGMv1-45753_g	      0
+134-  1:	PKGMv1-45805_g	PKGMv1-45751_g	  6e-74
+134-  2:	PKGMv1-45807_g	PKGMv1-45749_g	  5e-53
+134-  3:	PKGMv1-45808_g	PKGMv1-45742_g	 4e-164
+134-  4:	PKGMv1-45811_g	PKGMv1-45739_g	 6e-158
+134-  5:	PKGMv1-45813_g	PKGMv1-45736_g	      0
+134-  6:	PKGMv1-45814_g	PKGMv1-45735_g	 4e-155
+134-  7:	PKGMv1-45822_g	PKGMv1-45733_g	  5e-71
+## Alignment 135: score=257.0 e_value=8.7e-11 N=6 pk2&pk3 minus
+135-  0:	PKGMv1-45433_g	PKGMv1-45345_g	      0
+135-  1:	PKGMv1-45434_g	PKGMv1-45344_g	      0
+135-  2:	PKGMv1-45439_g	PKGMv1-45339_g	  6e-27
+135-  3:	PKGMv1-45440_g	PKGMv1-45332_g	 3e-135
+135-  4:	PKGMv1-45448_g	PKGMv1-45322_g	      0
+135-  5:	PKGMv1-45470_g	PKGMv1-45297_g	  2e-14
+## Alignment 136: score=250.0 e_value=4.5e-08 N=5 pk2&pk3 minus
+136-  0:	PKGMv1-59199_g	PKGMv1-59188_g	 4e-125
+136-  1:	PKGMv1-59200_g	PKGMv1-59187_g	  1e-60
+136-  2:	PKGMv1-59201_g	PKGMv1-59186_g	      0
+136-  3:	PKGMv1-59202_g	PKGMv1-59185_g	      0
+136-  4:	PKGMv1-59203_g	PKGMv1-59184_g	      0
+## Alignment 137: score=846.0 e_value=7.7e-47 N=17 pk2&pk4 plus
+137-  0:	PKGMv1-15297_g	PKGMv1-15274_g	      0
+137-  1:	PKGMv1-15298_g	PKGMv1-15275_g	 4e-109
+137-  2:	PKGMv1-15299_g	PKGMv1-15277_g	  6e-67
+137-  3:	PKGMv1-15301_g	PKGMv1-15278_g	      0
+137-  4:	PKGMv1-15302_g	PKGMv1-15279_g	  4e-87
+137-  5:	PKGMv1-15303_g	PKGMv1-15280_g	      0
+137-  6:	PKGMv1-15304_g	PKGMv1-15281_g	 1e-120
+137-  7:	PKGMv1-15305_g	PKGMv1-15282_g	      0
+137-  8:	PKGMv1-15306_g	PKGMv1-15283_g	      0
+137-  9:	PKGMv1-15307_g	PKGMv1-15285_g	      0
+137- 10:	PKGMv1-15308_g	PKGMv1-15287_g	 2e-142
+137- 11:	PKGMv1-15309_g	PKGMv1-15288_g	      0
+137- 12:	PKGMv1-15310_g	PKGMv1-15289_g	      0
+137- 13:	PKGMv1-15311_g	PKGMv1-15290_g	  3e-32
+137- 14:	PKGMv1-15312_g	PKGMv1-15291_g	      0
+137- 15:	PKGMv1-15313_g	PKGMv1-15292_g	      0
+137- 16:	PKGMv1-15314_g	PKGMv1-15293_g	      0
+## Alignment 138: score=274.0 e_value=3.8e-12 N=6 pk2&pk4 plus
+138-  0:	PKGMv1-30336_g	PKGMv1-57945_g	 3e-105
+138-  1:	PKGMv1-30338_g	PKGMv1-57946_g	  5e-63
+138-  2:	PKGMv1-30339_g	PKGMv1-57947_g	  4e-31
+138-  3:	PKGMv1-30340_g	PKGMv1-57949_g	      0
+138-  4:	PKGMv1-30341_g	PKGMv1-57950_g	 7e-130
+138-  5:	PKGMv1-30366_g	PKGMv1-57954_g	  2e-35
+## Alignment 139: score=299.0 e_value=2.8e-08 N=6 pk2&pk4 minus
+139-  0:	PKGMv1-41291_g	PKGMv1-26994_g	      0
+139-  1:	PKGMv1-41292_g	PKGMv1-26993_g	      0
+139-  2:	PKGMv1-41293_g	PKGMv1-26992_g	 5e-110
+139-  3:	PKGMv1-41294_g	PKGMv1-26991_g	 2e-113
+139-  4:	PKGMv1-41295_g	PKGMv1-26989_g	 2e-105
+139-  5:	PKGMv1-41296_g	PKGMv1-26988_g	  2e-55
+## Alignment 140: score=298.0 e_value=2.9e-09 N=6 pk2&pk4 minus
+140-  0:	PKGMv1-77459_g	PKGMv1-43078_g	 5e-135
+140-  1:	PKGMv1-77460_g	PKGMv1-43077_g	  7e-78
+140-  2:	PKGMv1-77461_g	PKGMv1-43076_g	      0
+140-  3:	PKGMv1-77463_g	PKGMv1-43075_g	 5e-177
+140-  4:	PKGMv1-77464_g	PKGMv1-43073_g	 3e-175
+140-  5:	PKGMv1-77465_g	PKGMv1-43072_g	      0
+## Alignment 141: score=296.0 e_value=2.2e-09 N=6 pk2&pk4 minus
+141-  0:	PKGMv1-705_g	PKGMv1-29118_g	      0
+141-  1:	PKGMv1-706_g	PKGMv1-29115_g	      0
+141-  2:	PKGMv1-707_g	PKGMv1-29113_g	      0
+141-  3:	PKGMv1-708_g	PKGMv1-29111_g	      0
+141-  4:	PKGMv1-709_g	PKGMv1-29110_g	      0
+141-  5:	PKGMv1-710_g	PKGMv1-29109_g	 4e-114
+## Alignment 142: score=292.0 e_value=4.8e-09 N=6 pk2&pk4 minus
+142-  0:	PKGMv1-55753_g	PKGMv1-28580_g	      0
+142-  1:	PKGMv1-55757_g	PKGMv1-28579_g	  4e-78
+142-  2:	PKGMv1-55758_g	PKGMv1-28577_g	  1e-86
+142-  3:	PKGMv1-55760_g	PKGMv1-28576_g	  8e-72
+142-  4:	PKGMv1-55762_g	PKGMv1-28574_g	      0
+142-  5:	PKGMv1-55765_g	PKGMv1-28573_g	  1e-50
+## Alignment 143: score=250.0 e_value=5.1e-07 N=5 pk2&pk4 minus
+143-  0:	PKGMv1-30424_g	PKGMv1-57933_g	      0
+143-  1:	PKGMv1-30425_g	PKGMv1-57932_g	      0
+143-  2:	PKGMv1-30426_g	PKGMv1-57931_g	  5e-34
+143-  3:	PKGMv1-30427_g	PKGMv1-57930_g	  2e-76
+143-  4:	PKGMv1-30428_g	PKGMv1-57929_g	      0
+## Alignment 144: score=597.0 e_value=4.3e-27 N=12 pk2&pk5 plus
+144-  0:	PKGMv1-31430_g	PKGMv1-43209_g	 8e-180
+144-  1:	PKGMv1-31431_g	PKGMv1-43210_g	 4e-152
+144-  2:	PKGMv1-31432_g	PKGMv1-43211_g	      0
+144-  3:	PKGMv1-31434_g	PKGMv1-43212_g	      0
+144-  4:	PKGMv1-31435_g	PKGMv1-43213_g	  7e-57
+144-  5:	PKGMv1-31436_g	PKGMv1-43214_g	      0
+144-  6:	PKGMv1-31437_g	PKGMv1-43215_g	      0
+144-  7:	PKGMv1-31438_g	PKGMv1-43216_g	      0
+144-  8:	PKGMv1-31439_g	PKGMv1-43217_g	      0
+144-  9:	PKGMv1-31440_g	PKGMv1-43219_g	  2e-81
+144- 10:	PKGMv1-31441_g	PKGMv1-43221_g	      0
+144- 11:	PKGMv1-31442_g	PKGMv1-43222_g	      0
+## Alignment 145: score=346.0 e_value=7.2e-12 N=7 pk2&pk5 minus
+145-  0:	PKGMv1-83482_g	PKGMv1-13230_g	      0
+145-  1:	PKGMv1-83483_g	PKGMv1-13229_g	 3e-158
+145-  2:	PKGMv1-83485_g	PKGMv1-13228_g	 9e-121
+145-  3:	PKGMv1-83486_g	PKGMv1-13227_g	 2e-179
+145-  4:	PKGMv1-83489_g	PKGMv1-13226_g	      0
+145-  5:	PKGMv1-83490_g	PKGMv1-13224_g	  1e-38
+145-  6:	PKGMv1-83491_g	PKGMv1-13223_g	      0
+## Alignment 146: score=464.0 e_value=7e-22 N=10 pk2&pk6 plus
+146-  0:	PKGMv1-8755_g	PKGMv1-52953_g	      0
+146-  1:	PKGMv1-8760_g	PKGMv1-52956_g	      0
+146-  2:	PKGMv1-8761_g	PKGMv1-52958_g	 1e-116
+146-  3:	PKGMv1-8762_g	PKGMv1-52959_g	      0
+146-  4:	PKGMv1-8763_g	PKGMv1-52960_g	 1e-171
+146-  5:	PKGMv1-8764_g	PKGMv1-52961_g	      0
+146-  6:	PKGMv1-8786_g	PKGMv1-52964_g	  2e-47
+146-  7:	PKGMv1-8789_g	PKGMv1-52969_g	  2e-83
+146-  8:	PKGMv1-8790_g	PKGMv1-52974_g	 2e-122
+146-  9:	PKGMv1-8793_g	PKGMv1-52976_g	      0
+## Alignment 147: score=373.0 e_value=1e-20 N=8 pk2&pk6 plus
+147-  0:	PKGMv1-58420_g	PKGMv1-37052_g	  1e-81
+147-  1:	PKGMv1-58427_g	PKGMv1-37078_g	      0
+147-  2:	PKGMv1-58428_g	PKGMv1-37079_g	      0
+147-  3:	PKGMv1-58429_g	PKGMv1-37081_g	  2e-88
+147-  4:	PKGMv1-58430_g	PKGMv1-37082_g	  2e-79
+147-  5:	PKGMv1-58432_g	PKGMv1-37083_g	 3e-117
+147-  6:	PKGMv1-58433_g	PKGMv1-37084_g	 6e-135
+147-  7:	PKGMv1-58434_g	PKGMv1-37085_g	      0
+## Alignment 148: score=350.0 e_value=4.5e-11 N=7 pk2&pk6 plus
+148-  0:	PKGMv1-1169_g	PKGMv1-66118_g	      0
+148-  1:	PKGMv1-1170_g	PKGMv1-66119_g	      0
+148-  2:	PKGMv1-1171_g	PKGMv1-66120_g	 2e-173
+148-  3:	PKGMv1-1172_g	PKGMv1-66121_g	 4e-149
+148-  4:	PKGMv1-1173_g	PKGMv1-66122_g	      0
+148-  5:	PKGMv1-1174_g	PKGMv1-66123_g	  4e-67
+148-  6:	PKGMv1-1175_g	PKGMv1-66124_g	 9e-155
+## Alignment 149: score=250.0 e_value=2.5e-07 N=5 pk2&pk6 plus
+149-  0:	PKGMv1-61234_g	PKGMv1-82261_g	 3e-133
+149-  1:	PKGMv1-61235_g	PKGMv1-82262_g	  2e-78
+149-  2:	PKGMv1-61236_g	PKGMv1-82263_g	      0
+149-  3:	PKGMv1-61237_g	PKGMv1-82264_g	      0
+149-  4:	PKGMv1-61238_g	PKGMv1-82265_g	      0
+## Alignment 150: score=394.0 e_value=9.9e-14 N=8 pk2&pk6 minus
+150-  0:	PKGMv1-30945_g	PKGMv1-64722_g	      0
+150-  1:	PKGMv1-30946_g	PKGMv1-64720_g	      0
+150-  2:	PKGMv1-30948_g	PKGMv1-64719_g	      0
+150-  3:	PKGMv1-30950_g	PKGMv1-64718_g	 4e-173
+150-  4:	PKGMv1-30951_g	PKGMv1-64717_g	 6e-100
+150-  5:	PKGMv1-30954_g	PKGMv1-64716_g	      0
+150-  6:	PKGMv1-30955_g	PKGMv1-64714_g	      0
+150-  7:	PKGMv1-30956_g	PKGMv1-64713_g	      0
+## Alignment 151: score=394.0 e_value=3.7e-14 N=8 pk2&pk6 minus
+151-  0:	PKGMv1-8812_g	PKGMv1-55345_g	 6e-169
+151-  1:	PKGMv1-8814_g	PKGMv1-55343_g	 7e-168
+151-  2:	PKGMv1-8816_g	PKGMv1-55342_g	      0
+151-  3:	PKGMv1-8819_g	PKGMv1-55341_g	      0
+151-  4:	PKGMv1-8820_g	PKGMv1-55340_g	      0
+151-  5:	PKGMv1-8821_g	PKGMv1-55339_g	  1e-94
+151-  6:	PKGMv1-8822_g	PKGMv1-55338_g	 4e-133
+151-  7:	PKGMv1-8823_g	PKGMv1-55335_g	      0
+## Alignment 152: score=348.0 e_value=4.4e-11 N=7 pk2&pk6 minus
+152-  0:	PKGMv1-46572_g	PKGMv1-20393_g	      0
+152-  1:	PKGMv1-46573_g	PKGMv1-20392_g	      0
+152-  2:	PKGMv1-46574_g	PKGMv1-20391_g	      0
+152-  3:	PKGMv1-46575_g	PKGMv1-20390_g	  1e-59
+152-  4:	PKGMv1-46576_g	PKGMv1-20389_g	 4e-100
+152-  5:	PKGMv1-46578_g	PKGMv1-20387_g	      0
+152-  6:	PKGMv1-46579_g	PKGMv1-20385_g	  1e-55
+## Alignment 153: score=343.0 e_value=3.9e-12 N=7 pk2&pk6 minus
+153-  0:	PKGMv1-17475_g	PKGMv1-77502_g	      0
+153-  1:	PKGMv1-17476_g	PKGMv1-77501_g	  2e-77
+153-  2:	PKGMv1-17478_g	PKGMv1-77500_g	  4e-58
+153-  3:	PKGMv1-17479_g	PKGMv1-77499_g	 5e-103
+153-  4:	PKGMv1-17484_g	PKGMv1-77497_g	  2e-96
+153-  5:	PKGMv1-17486_g	PKGMv1-77495_g	  3e-64
+153-  6:	PKGMv1-17488_g	PKGMv1-77493_g	      0
+## Alignment 154: score=298.0 e_value=3.9e-09 N=6 pk2&pk6 minus
+154-  0:	PKGMv1-28397_g	PKGMv1-19208_g	 6e-107
+154-  1:	PKGMv1-28398_g	PKGMv1-19207_g	  7e-72
+154-  2:	PKGMv1-28399_g	PKGMv1-19206_g	      0
+154-  3:	PKGMv1-28401_g	PKGMv1-19205_g	      0
+154-  4:	PKGMv1-28403_g	PKGMv1-19203_g	      0
+154-  5:	PKGMv1-28404_g	PKGMv1-19202_g	      0
+## Alignment 155: score=398.0 e_value=1.2e-14 N=8 pk2&pk7 plus
+155-  0:	PKGMv1-32025_g	PKGMv1-58937_g	      0
+155-  1:	PKGMv1-32026_g	PKGMv1-58938_g	      0
+155-  2:	PKGMv1-32028_g	PKGMv1-58939_g	  1e-62
+155-  3:	PKGMv1-32029_g	PKGMv1-58940_g	  3e-78
+155-  4:	PKGMv1-32030_g	PKGMv1-58941_g	      0
+155-  5:	PKGMv1-32031_g	PKGMv1-58942_g	      0
+155-  6:	PKGMv1-32032_g	PKGMv1-58944_g	 5e-124
+155-  7:	PKGMv1-32033_g	PKGMv1-58945_g	      0
+## Alignment 156: score=355.0 e_value=4.6e-17 N=8 pk2&pk7 plus
+156-  0:	PKGMv1-82338_g	PKGMv1-38405_g	  1e-48
+156-  1:	PKGMv1-82339_g	PKGMv1-38406_g	 1e-176
+156-  2:	PKGMv1-82342_g	PKGMv1-38412_g	      0
+156-  3:	PKGMv1-82343_g	PKGMv1-38413_g	      0
+156-  4:	PKGMv1-82344_g	PKGMv1-38415_g	      0
+156-  5:	PKGMv1-82354_g	PKGMv1-38432_g	      0
+156-  6:	PKGMv1-82356_g	PKGMv1-38456_g	  1e-56
+156-  7:	PKGMv1-82357_g	PKGMv1-38457_g	  6e-52
+## Alignment 157: score=296.0 e_value=8.1e-08 N=6 pk2&pk7 plus
+157-  0:	PKGMv1-1155_g	PKGMv1-77103_g	      0
+157-  1:	PKGMv1-1156_g	PKGMv1-77105_g	      0
+157-  2:	PKGMv1-1157_g	PKGMv1-77106_g	  7e-83
+157-  3:	PKGMv1-1160_g	PKGMv1-77108_g	 2e-121
+157-  4:	PKGMv1-1162_g	PKGMv1-77109_g	 1e-110
+157-  5:	PKGMv1-1163_g	PKGMv1-77110_g	      0
+## Alignment 158: score=274.0 e_value=6.2e-12 N=6 pk2&pk7 plus
+158-  0:	PKGMv1-73733_g	PKGMv1-59935_g	  8e-30
+158-  1:	PKGMv1-73734_g	PKGMv1-59937_g	      0
+158-  2:	PKGMv1-73735_g	PKGMv1-59938_g	  9e-85
+158-  3:	PKGMv1-73736_g	PKGMv1-59939_g	 3e-153
+158-  4:	PKGMv1-73737_g	PKGMv1-59940_g	  2e-89
+158-  5:	PKGMv1-73741_g	PKGMv1-64459_g	 2e-174
+## Alignment 159: score=323.0 e_value=1.7e-14 N=7 pk2&pk7 minus
+159-  0:	PKGMv1-25145_g	PKGMv1-44720_g	 3e-139
+159-  1:	PKGMv1-25148_g	PKGMv1-44719_g	 4e-155
+159-  2:	PKGMv1-25151_g	PKGMv1-44715_g	      0
+159-  3:	PKGMv1-25152_g	PKGMv1-44714_g	      0
+159-  4:	PKGMv1-25153_g	PKGMv1-44713_g	  1e-67
+159-  5:	PKGMv1-25166_g	PKGMv1-44690_g	      0
+159-  6:	PKGMv1-25167_g	PKGMv1-44689_g	 1e-115
+## Alignment 160: score=297.0 e_value=3.1e-09 N=6 pk2&pk7 minus
+160-  0:	PKGMv1-7813_g	PKGMv1-48820_g	  2e-98
+160-  1:	PKGMv1-7814_g	PKGMv1-48819_g	  2e-84
+160-  2:	PKGMv1-7816_g	PKGMv1-48816_g	      0
+160-  3:	PKGMv1-7817_g	PKGMv1-48815_g	  6e-72
+160-  4:	PKGMv1-7819_g	PKGMv1-48814_g	      0
+160-  5:	PKGMv1-7820_g	PKGMv1-48813_g	 6e-106
+## Alignment 161: score=283.0 e_value=1.5e-10 N=6 pk2&pk7 minus
+161-  0:	PKGMv1-6083_g	PKGMv1-56456_g	 2e-125
+161-  1:	PKGMv1-6084_g	PKGMv1-56455_g	  3e-95
+161-  2:	PKGMv1-6085_g	PKGMv1-56454_g	      0
+161-  3:	PKGMv1-6086_g	PKGMv1-56453_g	 5e-129
+161-  4:	PKGMv1-6089_g	PKGMv1-56451_g	      0
+161-  5:	PKGMv1-6105_g	PKGMv1-56445_g	  4e-34
+## Alignment 162: score=277.0 e_value=1.7e-08 N=6 pk2&pk7 minus
+162-  0:	PKGMv1-45805_g	PKGMv1-2797_g	  3e-26
+162-  1:	PKGMv1-45808_g	PKGMv1-2796_g	  1e-91
+162-  2:	PKGMv1-45813_g	PKGMv1-2791_g	  1e-84
+162-  3:	PKGMv1-45822_g	PKGMv1-2783_g	  2e-52
+162-  4:	PKGMv1-45826_g	PKGMv1-2781_g	 8e-124
+162-  5:	PKGMv1-45833_g	PKGMv1-2778_g	      0
+## Alignment 163: score=697.0 e_value=5.3e-37 N=14 pk2&pk8 plus
+163-  0:	PKGMv1-10561_g	PKGMv1-15388_g	 7e-113
+163-  1:	PKGMv1-10563_g	PKGMv1-15389_g	      0
+163-  2:	PKGMv1-10564_g	PKGMv1-15390_g	      0
+163-  3:	PKGMv1-10565_g	PKGMv1-15391_g	      0
+163-  4:	PKGMv1-10566_g	PKGMv1-15392_g	      0
+163-  5:	PKGMv1-10567_g	PKGMv1-15393_g	      0
+163-  6:	PKGMv1-10568_g	PKGMv1-15394_g	      0
+163-  7:	PKGMv1-10569_g	PKGMv1-15395_g	      0
+163-  8:	PKGMv1-10570_g	PKGMv1-15396_g	      0
+163-  9:	PKGMv1-10571_g	PKGMv1-15397_g	      0
+163- 10:	PKGMv1-10572_g	PKGMv1-15398_g	      0
+163- 11:	PKGMv1-10573_g	PKGMv1-15401_g	      0
+163- 12:	PKGMv1-10574_g	PKGMv1-15402_g	  2e-78
+163- 13:	PKGMv1-10575_g	PKGMv1-15403_g	      0
+## Alignment 164: score=448.0 e_value=5.3e-18 N=9 pk2&pk8 plus
+164-  0:	PKGMv1-10540_g	PKGMv1-15452_g	  4e-66
+164-  1:	PKGMv1-10541_g	PKGMv1-15453_g	      0
+164-  2:	PKGMv1-10542_g	PKGMv1-15454_g	      0
+164-  3:	PKGMv1-10543_g	PKGMv1-15455_g	      0
+164-  4:	PKGMv1-10544_g	PKGMv1-15456_g	      0
+164-  5:	PKGMv1-10546_g	PKGMv1-15459_g	      0
+164-  6:	PKGMv1-10547_g	PKGMv1-15460_g	      0
+164-  7:	PKGMv1-10548_g	PKGMv1-15461_g	 4e-137
+164-  8:	PKGMv1-10549_g	PKGMv1-15462_g	  3e-76
+## Alignment 165: score=398.0 e_value=8e-14 N=8 pk2&pk8 plus
+165-  0:	PKGMv1-17444_g	PKGMv1-35394_g	  4e-91
+165-  1:	PKGMv1-17445_g	PKGMv1-35395_g	 2e-176
+165-  2:	PKGMv1-17446_g	PKGMv1-35396_g	  3e-64
+165-  3:	PKGMv1-17447_g	PKGMv1-35397_g	      0
+165-  4:	PKGMv1-17448_g	PKGMv1-35398_g	  3e-90
+165-  5:	PKGMv1-17450_g	PKGMv1-35399_g	  4e-35
+165-  6:	PKGMv1-17451_g	PKGMv1-35400_g	 4e-102
+165-  7:	PKGMv1-17453_g	PKGMv1-35401_g	      0
+## Alignment 166: score=344.0 e_value=4.8e-13 N=7 pk2&pk8 plus
+166-  0:	PKGMv1-18565_g	PKGMv1-33115_g	  3e-81
+166-  1:	PKGMv1-18566_g	PKGMv1-33116_g	      0
+166-  2:	PKGMv1-18567_g	PKGMv1-33118_g	  3e-71
+166-  3:	PKGMv1-18568_g	PKGMv1-33119_g	  5e-38
+166-  4:	PKGMv1-18570_g	PKGMv1-33121_g	      0
+166-  5:	PKGMv1-18572_g	PKGMv1-33126_g	 2e-110
+166-  6:	PKGMv1-18573_g	PKGMv1-33127_g	 2e-178
+## Alignment 167: score=298.0 e_value=3.1e-09 N=6 pk2&pk8 plus
+167-  0:	PKGMv1-60919_g	PKGMv1-33947_g	 3e-166
+167-  1:	PKGMv1-60921_g	PKGMv1-33950_g	      0
+167-  2:	PKGMv1-60922_g	PKGMv1-33951_g	  8e-74
+167-  3:	PKGMv1-60923_g	PKGMv1-33952_g	 5e-107
+167-  4:	PKGMv1-60924_g	PKGMv1-33953_g	  6e-60
+167-  5:	PKGMv1-60925_g	PKGMv1-33954_g	  2e-54
+## Alignment 168: score=250.0 e_value=3.5e-06 N=5 pk2&pk8 plus
+168-  0:	PKGMv1-54755_g	PKGMv1-62243_g	      0
+168-  1:	PKGMv1-54756_g	PKGMv1-62244_g	  7e-63
+168-  2:	PKGMv1-54757_g	PKGMv1-62245_g	      0
+168-  3:	PKGMv1-54758_g	PKGMv1-62246_g	 7e-107
+168-  4:	PKGMv1-54759_g	PKGMv1-62247_g	      0
+## Alignment 169: score=494.0 e_value=8.1e-22 N=10 pk2&pk8 minus
+169-  0:	PKGMv1-31832_g	PKGMv1-35728_g	      0
+169-  1:	PKGMv1-31833_g	PKGMv1-35727_g	  5e-83
+169-  2:	PKGMv1-31834_g	PKGMv1-35726_g	  1e-61
+169-  3:	PKGMv1-31835_g	PKGMv1-35725_g	  4e-18
+169-  4:	PKGMv1-31836_g	PKGMv1-35724_g	      0
+169-  5:	PKGMv1-31842_g	PKGMv1-35722_g	 2e-138
+169-  6:	PKGMv1-31843_g	PKGMv1-35721_g	      0
+169-  7:	PKGMv1-31844_g	PKGMv1-35720_g	 2e-110
+169-  8:	PKGMv1-31846_g	PKGMv1-35719_g	 1e-115
+169-  9:	PKGMv1-31847_g	PKGMv1-35718_g	      0
+## Alignment 170: score=299.0 e_value=3.4e-08 N=6 pk2&pk8 minus
+170-  0:	PKGMv1-6849_g	PKGMv1-35448_g	 3e-134
+170-  1:	PKGMv1-6851_g	PKGMv1-35446_g	      0
+170-  2:	PKGMv1-6852_g	PKGMv1-35445_g	      0
+170-  3:	PKGMv1-6853_g	PKGMv1-35444_g	      0
+170-  4:	PKGMv1-6854_g	PKGMv1-35443_g	      0
+170-  5:	PKGMv1-6855_g	PKGMv1-35442_g	 4e-141
+## Alignment 171: score=296.0 e_value=1e-08 N=6 pk2&pk8 minus
+171-  0:	PKGMv1-9945_g	PKGMv1-33941_g	      0
+171-  1:	PKGMv1-9946_g	PKGMv1-33939_g	  2e-44
+171-  2:	PKGMv1-9947_g	PKGMv1-33938_g	      0
+171-  3:	PKGMv1-9948_g	PKGMv1-33935_g	 4e-127
+171-  4:	PKGMv1-9949_g	PKGMv1-33934_g	      0
+171-  5:	PKGMv1-9950_g	PKGMv1-33932_g	      0
+## Alignment 172: score=295.0 e_value=7.1e-10 N=6 pk2&pk8 minus
+172-  0:	PKGMv1-46565_g	PKGMv1-20403_g	 2e-173
+172-  1:	PKGMv1-46566_g	PKGMv1-20402_g	  1e-94
+172-  2:	PKGMv1-46567_g	PKGMv1-20401_g	 1e-130
+172-  3:	PKGMv1-46568_g	PKGMv1-20396_g	      0
+172-  4:	PKGMv1-46569_g	PKGMv1-20395_g	  5e-35
+172-  5:	PKGMv1-46571_g	PKGMv1-20394_g	  2e-66
+## Alignment 173: score=544.0 e_value=2.3e-25 N=11 pk2&pk9 minus
+173-  0:	PKGMv1-66319_g	PKGMv1-52860_g	      0
+173-  1:	PKGMv1-66320_g	PKGMv1-52859_g	  8e-54
+173-  2:	PKGMv1-66321_g	PKGMv1-52857_g	 4e-118
+173-  3:	PKGMv1-66322_g	PKGMv1-52856_g	 1e-159
+173-  4:	PKGMv1-66323_g	PKGMv1-52855_g	      0
+173-  5:	PKGMv1-66324_g	PKGMv1-52854_g	 2e-103
+173-  6:	PKGMv1-66325_g	PKGMv1-52853_g	      0
+173-  7:	PKGMv1-66326_g	PKGMv1-52850_g	      0
+173-  8:	PKGMv1-66328_g	PKGMv1-52849_g	  2e-51
+173-  9:	PKGMv1-66331_g	PKGMv1-52848_g	      0
+173- 10:	PKGMv1-66332_g	PKGMv1-52847_g	      0
+## Alignment 174: score=348.0 e_value=9.6e-12 N=7 pk2&pk9 minus
+174-  0:	PKGMv1-74626_g	PKGMv1-15613_g	      0
+174-  1:	PKGMv1-74628_g	PKGMv1-15612_g	 6e-121
+174-  2:	PKGMv1-74629_g	PKGMv1-15611_g	  3e-95
+174-  3:	PKGMv1-74630_g	PKGMv1-15610_g	  4e-56
+174-  4:	PKGMv1-74631_g	PKGMv1-15608_g	  5e-89
+174-  5:	PKGMv1-74632_g	PKGMv1-15607_g	      0
+174-  6:	PKGMv1-74633_g	PKGMv1-15606_g	  5e-71
+## Alignment 175: score=250.0 e_value=7.9e-06 N=5 pk2&pk9 minus
+175-  0:	PKGMv1-6115_g	PKGMv1-6135_g	      0
+175-  1:	PKGMv1-6116_g	PKGMv1-6134_g	  3e-83
+175-  2:	PKGMv1-6117_g	PKGMv1-6133_g	  3e-63
+175-  3:	PKGMv1-6118_g	PKGMv1-6132_g	      0
+175-  4:	PKGMv1-6119_g	PKGMv1-6131_g	      0
+## Alignment 176: score=347.0 e_value=3.1e-11 N=7 pk3&pk3 plus
+176-  0:	PKGMv1-45925_g	PKGMv1-45964_g	      0
+176-  1:	PKGMv1-45926_g	PKGMv1-45965_g	 8e-146
+176-  2:	PKGMv1-45927_g	PKGMv1-45966_g	      0
+176-  3:	PKGMv1-45928_g	PKGMv1-45967_g	      0
+176-  4:	PKGMv1-45929_g	PKGMv1-45968_g	      0
+176-  5:	PKGMv1-45930_g	PKGMv1-45969_g	  2e-95
+176-  6:	PKGMv1-45934_g	PKGMv1-45972_g	      0
+## Alignment 177: score=345.0 e_value=4e-13 N=7 pk3&pk3 plus
+177-  0:	PKGMv1-18361_g	PKGMv1-18341_g	      0
+177-  1:	PKGMv1-18364_g	PKGMv1-18342_g	  9e-71
+177-  2:	PKGMv1-18365_g	PKGMv1-18344_g	      0
+177-  3:	PKGMv1-18367_g	PKGMv1-18345_g	  6e-77
+177-  4:	PKGMv1-18368_g	PKGMv1-18346_g	      0
+177-  5:	PKGMv1-18369_g	PKGMv1-18347_g	  3e-91
+177-  6:	PKGMv1-18370_g	PKGMv1-18349_g	  3e-84
+## Alignment 178: score=300.0 e_value=5.4e-09 N=6 pk3&pk3 plus
+178-  0:	PKGMv1-60349_g	PKGMv1-26304_g	      0
+178-  1:	PKGMv1-60350_g	PKGMv1-26305_g	  4e-69
+178-  2:	PKGMv1-60351_g	PKGMv1-26306_g	 5e-137
+178-  3:	PKGMv1-60352_g	PKGMv1-26307_g	  7e-45
+178-  4:	PKGMv1-60353_g	PKGMv1-26308_g	  5e-81
+178-  5:	PKGMv1-60354_g	PKGMv1-26309_g	 4e-179
+## Alignment 179: score=298.0 e_value=1.4e-08 N=6 pk3&pk3 minus
+179-  0:	PKGMv1-31657_g	PKGMv1-54206_g	  2e-46
+179-  1:	PKGMv1-31658_g	PKGMv1-54204_g	      0
+179-  2:	PKGMv1-31659_g	PKGMv1-54203_g	  6e-49
+179-  3:	PKGMv1-31660_g	PKGMv1-54202_g	      0
+179-  4:	PKGMv1-31661_g	PKGMv1-54201_g	      0
+179-  5:	PKGMv1-31663_g	PKGMv1-54200_g	  3e-12
+## Alignment 180: score=344.0 e_value=2.2e-11 N=7 pk3&pk4 plus
+180-  0:	PKGMv1-74935_g	PKGMv1-1769_g	      0
+180-  1:	PKGMv1-74937_g	PKGMv1-1770_g	      0
+180-  2:	PKGMv1-74938_g	PKGMv1-1771_g	  9e-62
+180-  3:	PKGMv1-74940_g	PKGMv1-1772_g	      0
+180-  4:	PKGMv1-74944_g	PKGMv1-1773_g	  2e-89
+180-  5:	PKGMv1-74945_g	PKGMv1-1774_g	  2e-99
+180-  6:	PKGMv1-74946_g	PKGMv1-1776_g	 1e-123
+## Alignment 181: score=344.0 e_value=2.9e-12 N=7 pk3&pk4 plus
+181-  0:	PKGMv1-53514_g	PKGMv1-10771_g	      0
+181-  1:	PKGMv1-53516_g	PKGMv1-10774_g	 2e-143
+181-  2:	PKGMv1-53517_g	PKGMv1-10775_g	  1e-83
+181-  3:	PKGMv1-53519_g	PKGMv1-10777_g	      0
+181-  4:	PKGMv1-53523_g	PKGMv1-10780_g	 9e-114
+181-  5:	PKGMv1-53524_g	PKGMv1-10781_g	  2e-77
+181-  6:	PKGMv1-53525_g	PKGMv1-10782_g	 3e-112
+## Alignment 182: score=344.0 e_value=2.4e-11 N=7 pk3&pk4 minus
+182-  0:	PKGMv1-25334_g	PKGMv1-57842_g	      0
+182-  1:	PKGMv1-25336_g	PKGMv1-57839_g	 3e-178
+182-  2:	PKGMv1-25337_g	PKGMv1-57837_g	  4e-52
+182-  3:	PKGMv1-25338_g	PKGMv1-57834_g	      0
+182-  4:	PKGMv1-25339_g	PKGMv1-57833_g	      0
+182-  5:	PKGMv1-25340_g	PKGMv1-57831_g	 2e-103
+182-  6:	PKGMv1-25341_g	PKGMv1-57830_g	      0
+## Alignment 183: score=297.0 e_value=1.3e-08 N=6 pk3&pk4 minus
+183-  0:	PKGMv1-45264_g	PKGMv1-39726_g	  4e-57
+183-  1:	PKGMv1-45267_g	PKGMv1-39725_g	  5e-94
+183-  2:	PKGMv1-45269_g	PKGMv1-39723_g	  4e-59
+183-  3:	PKGMv1-45270_g	PKGMv1-39722_g	      0
+183-  4:	PKGMv1-45271_g	PKGMv1-39721_g	  3e-87
+183-  5:	PKGMv1-45272_g	PKGMv1-39720_g	  1e-64
+## Alignment 184: score=250.0 e_value=1.9e-06 N=5 pk3&pk4 minus
+184-  0:	PKGMv1-9248_g	PKGMv1-58058_g	 1e-171
+184-  1:	PKGMv1-9249_g	PKGMv1-58057_g	  4e-86
+184-  2:	PKGMv1-9250_g	PKGMv1-58056_g	      0
+184-  3:	PKGMv1-9251_g	PKGMv1-58055_g	      0
+184-  4:	PKGMv1-9252_g	PKGMv1-58054_g	 2e-124
+## Alignment 185: score=350.0 e_value=4.2e-14 N=7 pk3&pk5 plus
+185-  0:	PKGMv1-59591_g	PKGMv1-72952_g	 4e-111
+185-  1:	PKGMv1-59592_g	PKGMv1-72953_g	 1e-133
+185-  2:	PKGMv1-59593_g	PKGMv1-72954_g	      0
+185-  3:	PKGMv1-59594_g	PKGMv1-72955_g	      0
+185-  4:	PKGMv1-59595_g	PKGMv1-72956_g	  3e-31
+185-  5:	PKGMv1-59596_g	PKGMv1-72957_g	  6e-81
+185-  6:	PKGMv1-59597_g	PKGMv1-72958_g	 4e-156
+## Alignment 186: score=675.0 e_value=5e-37 N=14 pk3&pk6 plus
+186-  0:	PKGMv1-31874_g	PKGMv1-34004_g	  2e-78
+186-  1:	PKGMv1-31875_g	PKGMv1-34005_g	  2e-82
+186-  2:	PKGMv1-31881_g	PKGMv1-34007_g	  2e-56
+186-  3:	PKGMv1-31882_g	PKGMv1-34008_g	  3e-30
+186-  4:	PKGMv1-31886_g	PKGMv1-34011_g	  3e-41
+186-  5:	PKGMv1-31887_g	PKGMv1-34012_g	  9e-58
+186-  6:	PKGMv1-31888_g	PKGMv1-34013_g	  5e-83
+186-  7:	PKGMv1-31890_g	PKGMv1-34014_g	  4e-85
+186-  8:	PKGMv1-31896_g	PKGMv1-34028_g	 2e-145
+186-  9:	PKGMv1-31897_g	PKGMv1-34029_g	 5e-149
+186- 10:	PKGMv1-31898_g	PKGMv1-34031_g	  7e-77
+186- 11:	PKGMv1-31899_g	PKGMv1-34032_g	  5e-69
+186- 12:	PKGMv1-31900_g	PKGMv1-34033_g	      0
+186- 13:	PKGMv1-31903_g	PKGMv1-34034_g	 2e-179
+## Alignment 187: score=435.0 e_value=4.5e-19 N=9 pk3&pk6 plus
+187-  0:	PKGMv1-31321_g	PKGMv1-72861_g	      0
+187-  1:	PKGMv1-31328_g	PKGMv1-72873_g	      0
+187-  2:	PKGMv1-31330_g	PKGMv1-72874_g	  6e-96
+187-  3:	PKGMv1-31331_g	PKGMv1-72875_g	 1e-167
+187-  4:	PKGMv1-31332_g	PKGMv1-72876_g	      0
+187-  5:	PKGMv1-31333_g	PKGMv1-72878_g	 2e-127
+187-  6:	PKGMv1-31334_g	PKGMv1-72880_g	      0
+187-  7:	PKGMv1-31335_g	PKGMv1-72881_g	  4e-53
+187-  8:	PKGMv1-31337_g	PKGMv1-72882_g	  9e-65
+## Alignment 188: score=425.0 e_value=3.1e-24 N=9 pk3&pk6 plus
+188-  0:	PKGMv1-16664_g	PKGMv1-20197_g	  6e-85
+188-  1:	PKGMv1-16681_g	PKGMv1-20216_g	  1e-92
+188-  2:	PKGMv1-16683_g	PKGMv1-20217_g	      0
+188-  3:	PKGMv1-16684_g	PKGMv1-20219_g	  2e-45
+188-  4:	PKGMv1-16685_g	PKGMv1-20221_g	  4e-51
+188-  5:	PKGMv1-16687_g	PKGMv1-20223_g	      0
+188-  6:	PKGMv1-16688_g	PKGMv1-20224_g	  3e-50
+188-  7:	PKGMv1-16689_g	PKGMv1-20226_g	      0
+188-  8:	PKGMv1-16691_g	PKGMv1-20229_g	  2e-84
+## Alignment 189: score=398.0 e_value=1.7e-13 N=8 pk3&pk6 plus
+189-  0:	PKGMv1-29391_g	PKGMv1-50897_g	      0
+189-  1:	PKGMv1-29392_g	PKGMv1-50898_g	 7e-125
+189-  2:	PKGMv1-29394_g	PKGMv1-50899_g	  4e-90
+189-  3:	PKGMv1-29395_g	PKGMv1-50900_g	 2e-149
+189-  4:	PKGMv1-29397_g	PKGMv1-50902_g	      0
+189-  5:	PKGMv1-29398_g	PKGMv1-50903_g	      0
+189-  6:	PKGMv1-29399_g	PKGMv1-50904_g	  8e-51
+189-  7:	PKGMv1-29400_g	PKGMv1-50905_g	 2e-144
+## Alignment 190: score=394.0 e_value=2.3e-15 N=8 pk3&pk6 plus
+190-  0:	PKGMv1-45026_g	PKGMv1-3947_g	 4e-173
+190-  1:	PKGMv1-45027_g	PKGMv1-3948_g	 8e-121
+190-  2:	PKGMv1-45029_g	PKGMv1-3949_g	 2e-144
+190-  3:	PKGMv1-45030_g	PKGMv1-3950_g	 2e-169
+190-  4:	PKGMv1-45032_g	PKGMv1-3951_g	 2e-152
+190-  5:	PKGMv1-45034_g	PKGMv1-3954_g	  5e-93
+190-  6:	PKGMv1-45037_g	PKGMv1-3955_g	      0
+190-  7:	PKGMv1-45038_g	PKGMv1-3956_g	  2e-85
+## Alignment 191: score=392.0 e_value=3.6e-15 N=8 pk3&pk6 plus
+191-  0:	PKGMv1-76451_g	PKGMv1-10980_g	  3e-34
+191-  1:	PKGMv1-76452_g	PKGMv1-10984_g	      0
+191-  2:	PKGMv1-76453_g	PKGMv1-10986_g	  7e-81
+191-  3:	PKGMv1-76455_g	PKGMv1-10989_g	  3e-99
+191-  4:	PKGMv1-76457_g	PKGMv1-10990_g	 5e-171
+191-  5:	PKGMv1-76458_g	PKGMv1-10992_g	      0
+191-  6:	PKGMv1-76459_g	PKGMv1-10993_g	      0
+191-  7:	PKGMv1-76460_g	PKGMv1-10994_g	  8e-94
+## Alignment 192: score=359.0 e_value=1.8e-18 N=8 pk3&pk6 plus
+192-  0:	PKGMv1-54273_g	PKGMv1-53106_g	      0
+192-  1:	PKGMv1-54284_g	PKGMv1-53119_g	 7e-106
+192-  2:	PKGMv1-54310_g	PKGMv1-53134_g	 5e-119
+192-  3:	PKGMv1-54312_g	PKGMv1-53135_g	 5e-116
+192-  4:	PKGMv1-54313_g	PKGMv1-53136_g	 8e-102
+192-  5:	PKGMv1-54314_g	PKGMv1-53138_g	  2e-74
+192-  6:	PKGMv1-54315_g	PKGMv1-53139_g	      0
+192-  7:	PKGMv1-54316_g	PKGMv1-53142_g	  1e-31
+## Alignment 193: score=296.0 e_value=4.2e-10 N=6 pk3&pk6 plus
+193-  0:	PKGMv1-31366_g	PKGMv1-72864_g	  5e-99
+193-  1:	PKGMv1-31367_g	PKGMv1-72865_g	 2e-170
+193-  2:	PKGMv1-31368_g	PKGMv1-72866_g	  3e-86
+193-  3:	PKGMv1-31373_g	PKGMv1-72867_g	 3e-172
+193-  4:	PKGMv1-31374_g	PKGMv1-72868_g	      0
+193-  5:	PKGMv1-31375_g	PKGMv1-72869_g	  7e-32
+## Alignment 194: score=250.0 e_value=1.6e-06 N=5 pk3&pk6 plus
+194-  0:	PKGMv1-74967_g	PKGMv1-37827_g	 3e-103
+194-  1:	PKGMv1-74968_g	PKGMv1-37828_g	 5e-115
+194-  2:	PKGMv1-74969_g	PKGMv1-37829_g	  4e-72
+194-  3:	PKGMv1-74970_g	PKGMv1-37830_g	  4e-60
+194-  4:	PKGMv1-74971_g	PKGMv1-37831_g	      0
+## Alignment 195: score=298.0 e_value=1.4e-08 N=6 pk3&pk6 minus
+195-  0:	PKGMv1-58765_g	PKGMv1-33998_g	      0
+195-  1:	PKGMv1-58766_g	PKGMv1-33997_g	      0
+195-  2:	PKGMv1-58767_g	PKGMv1-33996_g	 2e-102
+195-  3:	PKGMv1-58768_g	PKGMv1-33995_g	 4e-131
+195-  4:	PKGMv1-58769_g	PKGMv1-33993_g	      0
+195-  5:	PKGMv1-58770_g	PKGMv1-33991_g	  6e-62
+## Alignment 196: score=376.0 e_value=2.4e-18 N=8 pk3&pk7 plus
+196-  0:	PKGMv1-25743_g	PKGMv1-41810_g	  4e-36
+196-  1:	PKGMv1-83870_g	PKGMv1-41829_g	 2e-104
+196-  2:	PKGMv1-83873_g	PKGMv1-41831_g	  1e-91
+196-  3:	PKGMv1-83876_g	PKGMv1-41832_g	      0
+196-  4:	PKGMv1-83877_g	PKGMv1-41834_g	      0
+196-  5:	PKGMv1-83878_g	PKGMv1-41835_g	      0
+196-  6:	PKGMv1-83880_g	PKGMv1-41837_g	      0
+196-  7:	PKGMv1-83881_g	PKGMv1-41838_g	  1e-67
+## Alignment 197: score=250.0 e_value=3.9e-07 N=5 pk3&pk7 plus
+197-  0:	PKGMv1-7972_g	PKGMv1-11494_g	  9e-68
+197-  1:	PKGMv1-7973_g	PKGMv1-11495_g	 1e-100
+197-  2:	PKGMv1-7974_g	PKGMv1-11496_g	 2e-101
+197-  3:	PKGMv1-7975_g	PKGMv1-11497_g	  2e-85
+197-  4:	PKGMv1-7976_g	PKGMv1-11498_g	      0
+## Alignment 198: score=683.0 e_value=9.4e-34 N=14 pk3&pk7 minus
+198-  0:	PKGMv1-30507_g	PKGMv1-12829_g	 2e-168
+198-  1:	PKGMv1-30516_g	PKGMv1-12824_g	      0
+198-  2:	PKGMv1-30517_g	PKGMv1-12823_g	  4e-43
+198-  3:	PKGMv1-30518_g	PKGMv1-12821_g	      0
+198-  4:	PKGMv1-30519_g	PKGMv1-12819_g	 1e-139
+198-  5:	PKGMv1-30521_g	PKGMv1-12818_g	 4e-107
+198-  6:	PKGMv1-30522_g	PKGMv1-12816_g	      0
+198-  7:	PKGMv1-30523_g	PKGMv1-12815_g	      0
+198-  8:	PKGMv1-30524_g	PKGMv1-12814_g	 2e-155
+198-  9:	PKGMv1-30525_g	PKGMv1-12813_g	  8e-21
+198- 10:	PKGMv1-30526_g	PKGMv1-12812_g	      0
+198- 11:	PKGMv1-30527_g	PKGMv1-12811_g	  1e-42
+198- 12:	PKGMv1-30528_g	PKGMv1-12809_g	      0
+198- 13:	PKGMv1-30531_g	PKGMv1-12804_g	      0
+## Alignment 199: score=447.0 e_value=9.9e-18 N=9 pk3&pk7 minus
+199-  0:	PKGMv1-9413_g	PKGMv1-32408_g	  4e-39
+199-  1:	PKGMv1-9414_g	PKGMv1-32407_g	      0
+199-  2:	PKGMv1-9415_g	PKGMv1-32406_g	  1e-21
+199-  3:	PKGMv1-9417_g	PKGMv1-32405_g	 3e-160
+199-  4:	PKGMv1-9419_g	PKGMv1-32404_g	      0
+199-  5:	PKGMv1-9420_g	PKGMv1-32403_g	  6e-46
+199-  6:	PKGMv1-9421_g	PKGMv1-32402_g	 2e-174
+199-  7:	PKGMv1-9422_g	PKGMv1-32401_g	      0
+199-  8:	PKGMv1-9423_g	PKGMv1-32399_g	      0
+## Alignment 200: score=349.0 e_value=6.3e-11 N=7 pk3&pk7 minus
+200-  0:	PKGMv1-59598_g	PKGMv1-3352_g	 1e-140
+200-  1:	PKGMv1-59599_g	PKGMv1-3351_g	  2e-35
+200-  2:	PKGMv1-59600_g	PKGMv1-3350_g	  2e-67
+200-  3:	PKGMv1-59601_g	PKGMv1-3349_g	 3e-118
+200-  4:	PKGMv1-59603_g	PKGMv1-3348_g	 3e-115
+200-  5:	PKGMv1-59604_g	PKGMv1-3347_g	      0
+200-  6:	PKGMv1-59605_g	PKGMv1-3346_g	 6e-107
+## Alignment 201: score=296.0 e_value=5.5e-08 N=6 pk3&pk7 minus
+201-  0:	PKGMv1-922_g	PKGMv1-39815_g	 3e-165
+201-  1:	PKGMv1-923_g	PKGMv1-39813_g	      0
+201-  2:	PKGMv1-925_g	PKGMv1-39812_g	  9e-87
+201-  3:	PKGMv1-927_g	PKGMv1-39811_g	  1e-68
+201-  4:	PKGMv1-929_g	PKGMv1-39810_g	 2e-106
+201-  5:	PKGMv1-930_g	PKGMv1-39809_g	  3e-65
+## Alignment 202: score=293.0 e_value=1e-08 N=6 pk3&pk7 minus
+202-  0:	PKGMv1-38605_g	PKGMv1-72647_g	      0
+202-  1:	PKGMv1-38607_g	PKGMv1-72646_g	  7e-69
+202-  2:	PKGMv1-38610_g	PKGMv1-72643_g	  1e-66
+202-  3:	PKGMv1-38611_g	PKGMv1-72641_g	      0
+202-  4:	PKGMv1-38614_g	PKGMv1-72640_g	  9e-98
+202-  5:	PKGMv1-38616_g	PKGMv1-72638_g	  3e-73
+## Alignment 203: score=447.0 e_value=3.4e-17 N=9 pk3&pk8 plus
+203-  0:	PKGMv1-7995_g	PKGMv1-14496_g	  5e-35
+203-  1:	PKGMv1-7996_g	PKGMv1-14497_g	 2e-145
+203-  2:	PKGMv1-7997_g	PKGMv1-14498_g	  7e-80
+203-  3:	PKGMv1-7998_g	PKGMv1-14499_g	      0
+203-  4:	PKGMv1-7999_g	PKGMv1-14501_g	 1e-155
+203-  5:	PKGMv1-8000_g	PKGMv1-14503_g	  4e-86
+203-  6:	PKGMv1-8001_g	PKGMv1-14504_g	      0
+203-  7:	PKGMv1-8002_g	PKGMv1-14505_g	 4e-159
+203-  8:	PKGMv1-8003_g	PKGMv1-14507_g	  2e-42
+## Alignment 204: score=296.0 e_value=1.1e-08 N=6 pk3&pk8 plus
+204-  0:	PKGMv1-2126_g	PKGMv1-40673_g	 2e-107
+204-  1:	PKGMv1-2127_g	PKGMv1-40674_g	      0
+204-  2:	PKGMv1-2128_g	PKGMv1-40675_g	      0
+204-  3:	PKGMv1-2129_g	PKGMv1-40677_g	 4e-140
+204-  4:	PKGMv1-2131_g	PKGMv1-40678_g	  2e-64
+204-  5:	PKGMv1-2132_g	PKGMv1-40681_g	      0
+## Alignment 205: score=295.0 e_value=5.3e-09 N=6 pk3&pk8 plus
+205-  0:	PKGMv1-74134_g	PKGMv1-32772_g	 2e-180
+205-  1:	PKGMv1-74137_g	PKGMv1-32773_g	 5e-139
+205-  2:	PKGMv1-74139_g	PKGMv1-32774_g	 2e-147
+205-  3:	PKGMv1-74141_g	PKGMv1-32775_g	      0
+205-  4:	PKGMv1-74143_g	PKGMv1-32776_g	 5e-166
+205-  5:	PKGMv1-74144_g	PKGMv1-32777_g	      0
+## Alignment 206: score=294.0 e_value=4.1e-10 N=6 pk3&pk8 plus
+206-  0:	PKGMv1-59545_g	PKGMv1-48294_g	  3e-59
+206-  1:	PKGMv1-59547_g	PKGMv1-48295_g	 2e-134
+206-  2:	PKGMv1-59553_g	PKGMv1-48299_g	      0
+206-  3:	PKGMv1-59554_g	PKGMv1-48300_g	  4e-94
+206-  4:	PKGMv1-59555_g	PKGMv1-48301_g	  5e-74
+206-  5:	PKGMv1-59556_g	PKGMv1-48302_g	      0
+## Alignment 207: score=281.0 e_value=5.4e-11 N=6 pk3&pk8 plus
+207-  0:	PKGMv1-58680_g	PKGMv1-81592_g	      0
+207-  1:	PKGMv1-30461_g	PKGMv1-81596_g	  4e-90
+207-  2:	PKGMv1-30462_g	PKGMv1-81597_g	  9e-77
+207-  3:	PKGMv1-30464_g	PKGMv1-81598_g	  6e-92
+207-  4:	PKGMv1-30465_g	PKGMv1-81599_g	      0
+207-  5:	PKGMv1-30466_g	PKGMv1-81600_g	  2e-14
+## Alignment 208: score=398.0 e_value=9.2e-14 N=8 pk3&pk8 minus
+208-  0:	PKGMv1-60362_g	PKGMv1-19087_g	 3e-103
+208-  1:	PKGMv1-60363_g	PKGMv1-19086_g	  2e-63
+208-  2:	PKGMv1-60364_g	PKGMv1-19085_g	 2e-132
+208-  3:	PKGMv1-60365_g	PKGMv1-19084_g	 1e-101
+208-  4:	PKGMv1-60366_g	PKGMv1-19081_g	  2e-67
+208-  5:	PKGMv1-60367_g	PKGMv1-19080_g	      0
+208-  6:	PKGMv1-60368_g	PKGMv1-19079_g	  4e-13
+208-  7:	PKGMv1-60369_g	PKGMv1-19078_g	      0
+## Alignment 209: score=300.0 e_value=1.7e-08 N=6 pk3&pk8 minus
+209-  0:	PKGMv1-59453_g	PKGMv1-65954_g	  3e-46
+209-  1:	PKGMv1-59454_g	PKGMv1-65953_g	      0
+209-  2:	PKGMv1-59455_g	PKGMv1-65952_g	 4e-155
+209-  3:	PKGMv1-59456_g	PKGMv1-65951_g	 5e-109
+209-  4:	PKGMv1-59457_g	PKGMv1-65950_g	      0
+209-  5:	PKGMv1-59458_g	PKGMv1-65949_g	 3e-131
+## Alignment 210: score=892.0 e_value=4.6e-47 N=18 pk3&pk9 plus
+210-  0:	PKGMv1-57337_g	PKGMv1-15740_g	 3e-112
+210-  1:	PKGMv1-57338_g	PKGMv1-15743_g	 2e-138
+210-  2:	PKGMv1-57339_g	PKGMv1-15744_g	 2e-127
+210-  3:	PKGMv1-57341_g	PKGMv1-15746_g	 3e-118
+210-  4:	PKGMv1-57342_g	PKGMv1-15747_g	      0
+210-  5:	PKGMv1-57345_g	PKGMv1-15748_g	      0
+210-  6:	PKGMv1-57347_g	PKGMv1-15750_g	 1e-127
+210-  7:	PKGMv1-57348_g	PKGMv1-15751_g	      0
+210-  8:	PKGMv1-57349_g	PKGMv1-15752_g	  8e-75
+210-  9:	PKGMv1-57350_g	PKGMv1-15753_g	 9e-110
+210- 10:	PKGMv1-57352_g	PKGMv1-15755_g	      0
+210- 11:	PKGMv1-57354_g	PKGMv1-15757_g	      0
+210- 12:	PKGMv1-57355_g	PKGMv1-15758_g	 1e-140
+210- 13:	PKGMv1-57356_g	PKGMv1-15759_g	 1e-111
+210- 14:	PKGMv1-57357_g	PKGMv1-15760_g	  1e-82
+210- 15:	PKGMv1-57358_g	PKGMv1-15761_g	  1e-75
+210- 16:	PKGMv1-57359_g	PKGMv1-15762_g	      0
+210- 17:	PKGMv1-57360_g	PKGMv1-15763_g	      0
+## Alignment 211: score=346.0 e_value=4.1e-12 N=7 pk3&pk9 plus
+211-  0:	PKGMv1-8561_g	PKGMv1-29227_g	  2e-72
+211-  1:	PKGMv1-8562_g	PKGMv1-29228_g	  1e-94
+211-  2:	PKGMv1-8563_g	PKGMv1-29229_g	      0
+211-  3:	PKGMv1-8564_g	PKGMv1-29230_g	      0
+211-  4:	PKGMv1-8566_g	PKGMv1-29232_g	 2e-138
+211-  5:	PKGMv1-8568_g	PKGMv1-29234_g	  2e-76
+211-  6:	PKGMv1-8569_g	PKGMv1-29237_g	  4e-97
+## Alignment 212: score=333.0 e_value=8.6e-12 N=7 pk3&pk9 plus
+212-  0:	PKGMv1-664_g	PKGMv1-64121_g	      0
+212-  1:	PKGMv1-675_g	PKGMv1-64123_g	      0
+212-  2:	PKGMv1-676_g	PKGMv1-64124_g	 6e-118
+212-  3:	PKGMv1-680_g	PKGMv1-64125_g	 9e-177
+212-  4:	PKGMv1-683_g	PKGMv1-64126_g	      0
+212-  5:	PKGMv1-685_g	PKGMv1-64127_g	      0
+212-  6:	PKGMv1-687_g	PKGMv1-64129_g	  5e-52
+## Alignment 213: score=298.0 e_value=3.1e-09 N=6 pk3&pk9 plus
+213-  0:	PKGMv1-75158_g	PKGMv1-70684_g	 3e-147
+213-  1:	PKGMv1-75159_g	PKGMv1-70685_g	 9e-180
+213-  2:	PKGMv1-75162_g	PKGMv1-70688_g	  5e-41
+213-  3:	PKGMv1-75163_g	PKGMv1-70689_g	  6e-35
+213-  4:	PKGMv1-75164_g	PKGMv1-70690_g	      0
+213-  5:	PKGMv1-75165_g	PKGMv1-70691_g	      0
+## Alignment 214: score=795.0 e_value=3.5e-41 N=16 pk4&pk4 plus
+214-  0:	PKGMv1-1540_g	PKGMv1-1584_g	      0
+214-  1:	PKGMv1-1541_g	PKGMv1-1586_g	      0
+214-  2:	PKGMv1-1542_g	PKGMv1-1587_g	 3e-149
+214-  3:	PKGMv1-1543_g	PKGMv1-1588_g	      0
+214-  4:	PKGMv1-1544_g	PKGMv1-1589_g	  1e-97
+214-  5:	PKGMv1-1545_g	PKGMv1-1590_g	      0
+214-  6:	PKGMv1-1547_g	PKGMv1-1591_g	 3e-117
+214-  7:	PKGMv1-1548_g	PKGMv1-1592_g	      0
+214-  8:	PKGMv1-1550_g	PKGMv1-1594_g	      0
+214-  9:	PKGMv1-1551_g	PKGMv1-1595_g	      0
+214- 10:	PKGMv1-1552_g	PKGMv1-1596_g	 2e-167
+214- 11:	PKGMv1-1555_g	PKGMv1-1597_g	      0
+214- 12:	PKGMv1-1556_g	PKGMv1-1598_g	      0
+214- 13:	PKGMv1-1557_g	PKGMv1-1599_g	 1e-146
+214- 14:	PKGMv1-1558_g	PKGMv1-1600_g	      0
+214- 15:	PKGMv1-1559_g	PKGMv1-1601_g	      0
+## Alignment 215: score=391.0 e_value=7.8e-17 N=8 pk4&pk4 plus
+215-  0:	PKGMv1-56147_g	PKGMv1-43745_g	  3e-86
+215-  1:	PKGMv1-56148_g	PKGMv1-43754_g	      0
+215-  2:	PKGMv1-56149_g	PKGMv1-43755_g	      0
+215-  3:	PKGMv1-56150_g	PKGMv1-43756_g	      0
+215-  4:	PKGMv1-56151_g	PKGMv1-43757_g	  2e-44
+215-  5:	PKGMv1-56152_g	PKGMv1-43758_g	      0
+215-  6:	PKGMv1-56154_g	PKGMv1-43759_g	 2e-146
+215-  7:	PKGMv1-56155_g	PKGMv1-43760_g	  8e-57
+## Alignment 216: score=293.0 e_value=6.5e-08 N=6 pk4&pk4 plus
+216-  0:	PKGMv1-1517_g	PKGMv1-1603_g	      0
+216-  1:	PKGMv1-1522_g	PKGMv1-1608_g	  2e-92
+216-  2:	PKGMv1-1524_g	PKGMv1-1611_g	  2e-87
+216-  3:	PKGMv1-1525_g	PKGMv1-1613_g	      0
+216-  4:	PKGMv1-1526_g	PKGMv1-1614_g	      0
+216-  5:	PKGMv1-1527_g	PKGMv1-1615_g	      0
+## Alignment 217: score=598.0 e_value=3.8e-26 N=12 pk4&pk4 minus
+217-  0:	PKGMv1-43892_g	PKGMv1-43956_g	      0
+217-  1:	PKGMv1-43893_g	PKGMv1-43955_g	      0
+217-  2:	PKGMv1-43894_g	PKGMv1-43954_g	 1e-138
+217-  3:	PKGMv1-43895_g	PKGMv1-43953_g	      0
+217-  4:	PKGMv1-43896_g	PKGMv1-43952_g	  4e-91
+217-  5:	PKGMv1-43897_g	PKGMv1-43951_g	      0
+217-  6:	PKGMv1-43898_g	PKGMv1-43950_g	 1e-125
+217-  7:	PKGMv1-43899_g	PKGMv1-43949_g	      0
+217-  8:	PKGMv1-43900_g	PKGMv1-43948_g	      0
+217-  9:	PKGMv1-43901_g	PKGMv1-43947_g	      0
+217- 10:	PKGMv1-43903_g	PKGMv1-43944_g	 1e-168
+217- 11:	PKGMv1-43904_g	PKGMv1-43943_g	      0
+## Alignment 218: score=299.0 e_value=1.9e-08 N=6 pk4&pk4 minus
+218-  0:	PKGMv1-70377_g	PKGMv1-28006_g	  2e-35
+218-  1:	PKGMv1-70378_g	PKGMv1-28005_g	  5e-72
+218-  2:	PKGMv1-70380_g	PKGMv1-28004_g	      0
+218-  3:	PKGMv1-70381_g	PKGMv1-28003_g	  2e-55
+218-  4:	PKGMv1-70382_g	PKGMv1-28002_g	 5e-155
+218-  5:	PKGMv1-70383_g	PKGMv1-28001_g	      0
+## Alignment 219: score=295.0 e_value=3.2e-10 N=6 pk4&pk4 minus
+219-  0:	PKGMv1-43872_g	PKGMv1-43909_g	  6e-60
+219-  1:	PKGMv1-43878_g	PKGMv1-43908_g	      0
+219-  2:	PKGMv1-43879_g	PKGMv1-43907_g	  4e-54
+219-  3:	PKGMv1-43880_g	PKGMv1-43906_g	      0
+219-  4:	PKGMv1-43881_g	PKGMv1-43905_g	  2e-12
+219-  5:	PKGMv1-43882_g	PKGMv1-43904_g	  1e-92
+## Alignment 220: score=348.0 e_value=6.7e-12 N=7 pk4&pk5 plus
+220-  0:	PKGMv1-82946_g	PKGMv1-22452_g	 2e-177
+220-  1:	PKGMv1-82947_g	PKGMv1-22455_g	      0
+220-  2:	PKGMv1-82948_g	PKGMv1-22456_g	  3e-48
+220-  3:	PKGMv1-82949_g	PKGMv1-22457_g	 9e-142
+220-  4:	PKGMv1-82950_g	PKGMv1-22458_g	 1e-107
+220-  5:	PKGMv1-82951_g	PKGMv1-22459_g	  4e-68
+220-  6:	PKGMv1-82952_g	PKGMv1-22460_g	      0
+## Alignment 221: score=395.0 e_value=8.4e-16 N=8 pk4&pk5 minus
+221-  0:	PKGMv1-24128_g	PKGMv1-14147_g	      0
+221-  1:	PKGMv1-24129_g	PKGMv1-14143_g	 2e-127
+221-  2:	PKGMv1-24130_g	PKGMv1-14142_g	  1e-84
+221-  3:	PKGMv1-24131_g	PKGMv1-14140_g	      0
+221-  4:	PKGMv1-24133_g	PKGMv1-14139_g	      0
+221-  5:	PKGMv1-24134_g	PKGMv1-14138_g	  2e-59
+221-  6:	PKGMv1-24135_g	PKGMv1-14137_g	 8e-115
+221-  7:	PKGMv1-24136_g	PKGMv1-14136_g	      0
+## Alignment 222: score=995.0 e_value=6.3e-56 N=20 pk4&pk6 plus
+222-  0:	PKGMv1-71057_g	PKGMv1-19255_g	 2e-106
+222-  1:	PKGMv1-71058_g	PKGMv1-19256_g	  1e-23
+222-  2:	PKGMv1-71059_g	PKGMv1-19257_g	      0
+222-  3:	PKGMv1-71060_g	PKGMv1-19260_g	  5e-78
+222-  4:	PKGMv1-71062_g	PKGMv1-19261_g	 4e-156
+222-  5:	PKGMv1-71063_g	PKGMv1-19262_g	 1e-106
+222-  6:	PKGMv1-71064_g	PKGMv1-19263_g	      0
+222-  7:	PKGMv1-71065_g	PKGMv1-19264_g	  8e-62
+222-  8:	PKGMv1-71066_g	PKGMv1-19265_g	      0
+222-  9:	PKGMv1-71067_g	PKGMv1-19266_g	  2e-22
+222- 10:	PKGMv1-71068_g	PKGMv1-19267_g	  2e-57
+222- 11:	PKGMv1-71069_g	PKGMv1-19268_g	 7e-142
+222- 12:	PKGMv1-71070_g	PKGMv1-19269_g	 3e-143
+222- 13:	PKGMv1-71072_g	PKGMv1-19271_g	  9e-89
+222- 14:	PKGMv1-71073_g	PKGMv1-19272_g	  5e-38
+222- 15:	PKGMv1-71074_g	PKGMv1-19273_g	      0
+222- 16:	PKGMv1-71075_g	PKGMv1-19274_g	      0
+222- 17:	PKGMv1-71076_g	PKGMv1-19275_g	  4e-71
+222- 18:	PKGMv1-71077_g	PKGMv1-19277_g	      0
+222- 19:	PKGMv1-71078_g	PKGMv1-19278_g	      0
+## Alignment 223: score=648.0 e_value=2.6e-41 N=14 pk4&pk6 plus
+223-  0:	PKGMv1-68916_g	PKGMv1-68776_g	      0
+223-  1:	PKGMv1-68917_g	PKGMv1-68777_g	      0
+223-  2:	PKGMv1-68918_g	PKGMv1-68778_g	      0
+223-  3:	PKGMv1-68932_g	PKGMv1-68801_g	      0
+223-  4:	PKGMv1-68933_g	PKGMv1-68804_g	      0
+223-  5:	PKGMv1-68935_g	PKGMv1-68805_g	      0
+223-  6:	PKGMv1-68936_g	PKGMv1-68806_g	  6e-66
+223-  7:	PKGMv1-68937_g	PKGMv1-68807_g	      0
+223-  8:	PKGMv1-68939_g	PKGMv1-68809_g	      0
+223-  9:	PKGMv1-68940_g	PKGMv1-68810_g	  9e-92
+223- 10:	PKGMv1-68942_g	PKGMv1-68813_g	  3e-87
+223- 11:	PKGMv1-68943_g	PKGMv1-68814_g	      0
+223- 12:	PKGMv1-68949_g	PKGMv1-68839_g	      0
+223- 13:	PKGMv1-68950_g	PKGMv1-68840_g	  1e-92
+## Alignment 224: score=299.0 e_value=1.7e-09 N=6 pk4&pk6 plus
+224-  0:	PKGMv1-43836_g	PKGMv1-5094_g	 4e-117
+224-  1:	PKGMv1-43837_g	PKGMv1-5095_g	      0
+224-  2:	PKGMv1-43838_g	PKGMv1-5096_g	      0
+224-  3:	PKGMv1-43840_g	PKGMv1-5097_g	      0
+224-  4:	PKGMv1-43841_g	PKGMv1-5098_g	      0
+224-  5:	PKGMv1-43842_g	PKGMv1-5099_g	      0
+## Alignment 225: score=250.0 e_value=1.5e-06 N=5 pk4&pk6 plus
+225-  0:	PKGMv1-69545_g	PKGMv1-10962_g	      0
+225-  1:	PKGMv1-69546_g	PKGMv1-10963_g	      0
+225-  2:	PKGMv1-69547_g	PKGMv1-10964_g	 3e-176
+225-  3:	PKGMv1-69548_g	PKGMv1-10965_g	 4e-174
+225-  4:	PKGMv1-69549_g	PKGMv1-10966_g	      0
+## Alignment 226: score=643.0 e_value=5.9e-29 N=13 pk4&pk6 minus
+226-  0:	PKGMv1-1680_g	PKGMv1-6388_g	  3e-64
+226-  1:	PKGMv1-1681_g	PKGMv1-6387_g	  5e-96
+226-  2:	PKGMv1-1683_g	PKGMv1-6386_g	      0
+226-  3:	PKGMv1-1685_g	PKGMv1-6385_g	      0
+226-  4:	PKGMv1-1686_g	PKGMv1-6384_g	      0
+226-  5:	PKGMv1-1688_g	PKGMv1-6382_g	      0
+226-  6:	PKGMv1-1690_g	PKGMv1-6380_g	 5e-147
+226-  7:	PKGMv1-1691_g	PKGMv1-6379_g	  5e-60
+226-  8:	PKGMv1-1692_g	PKGMv1-6378_g	      0
+226-  9:	PKGMv1-1695_g	PKGMv1-6376_g	      0
+226- 10:	PKGMv1-1696_g	PKGMv1-6375_g	      0
+226- 11:	PKGMv1-1697_g	PKGMv1-6373_g	  7e-41
+226- 12:	PKGMv1-1698_g	PKGMv1-6372_g	  2e-42
+## Alignment 227: score=597.0 e_value=4.6e-28 N=12 pk4&pk6 minus
+227-  0:	PKGMv1-28405_g	PKGMv1-19201_g	 5e-133
+227-  1:	PKGMv1-28406_g	PKGMv1-19200_g	      0
+227-  2:	PKGMv1-28407_g	PKGMv1-19198_g	  1e-56
+227-  3:	PKGMv1-28408_g	PKGMv1-19197_g	      0
+227-  4:	PKGMv1-28409_g	PKGMv1-19196_g	      0
+227-  5:	PKGMv1-28410_g	PKGMv1-19195_g	 5e-110
+227-  6:	PKGMv1-28411_g	PKGMv1-19194_g	  1e-64
+227-  7:	PKGMv1-28412_g	PKGMv1-19193_g	      0
+227-  8:	PKGMv1-28414_g	PKGMv1-19191_g	      0
+227-  9:	PKGMv1-28415_g	PKGMv1-19190_g	  9e-78
+227- 10:	PKGMv1-28416_g	PKGMv1-19189_g	 1e-112
+227- 11:	PKGMv1-28417_g	PKGMv1-19187_g	  4e-90
+## Alignment 228: score=297.0 e_value=2.3e-08 N=6 pk4&pk6 minus
+228-  0:	PKGMv1-26841_g	PKGMv1-63833_g	      0
+228-  1:	PKGMv1-26842_g	PKGMv1-63831_g	 3e-166
+228-  2:	PKGMv1-26843_g	PKGMv1-63829_g	  2e-44
+228-  3:	PKGMv1-26845_g	PKGMv1-63828_g	  4e-89
+228-  4:	PKGMv1-26846_g	PKGMv1-63827_g	  4e-59
+228-  5:	PKGMv1-26847_g	PKGMv1-63826_g	  2e-33
+## Alignment 229: score=399.0 e_value=1.8e-14 N=8 pk4&pk7 minus
+229-  0:	PKGMv1-15238_g	PKGMv1-15209_g	      0
+229-  1:	PKGMv1-15239_g	PKGMv1-15208_g	      0
+229-  2:	PKGMv1-15240_g	PKGMv1-15207_g	      0
+229-  3:	PKGMv1-15241_g	PKGMv1-15206_g	      0
+229-  4:	PKGMv1-15242_g	PKGMv1-15205_g	      0
+229-  5:	PKGMv1-15243_g	PKGMv1-15204_g	      0
+229-  6:	PKGMv1-15244_g	PKGMv1-15203_g	      0
+229-  7:	PKGMv1-15246_g	PKGMv1-15201_g	 5e-164
+## Alignment 230: score=331.0 e_value=1.7e-15 N=7 pk4&pk7 minus
+230-  0:	PKGMv1-26553_g	PKGMv1-26607_g	 4e-173
+230-  1:	PKGMv1-26555_g	PKGMv1-26605_g	  7e-76
+230-  2:	PKGMv1-26556_g	PKGMv1-26604_g	      0
+230-  3:	PKGMv1-26557_g	PKGMv1-26602_g	      0
+230-  4:	PKGMv1-26558_g	PKGMv1-26601_g	      0
+230-  5:	PKGMv1-26559_g	PKGMv1-26600_g	      0
+230-  6:	PKGMv1-20914_g	PKGMv1-26586_g	  3e-14
+## Alignment 231: score=644.0 e_value=1.5e-30 N=13 pk4&pk8 plus
+231-  0:	PKGMv1-68892_g	PKGMv1-68860_g	      0
+231-  1:	PKGMv1-68893_g	PKGMv1-68861_g	      0
+231-  2:	PKGMv1-68894_g	PKGMv1-68863_g	  1e-95
+231-  3:	PKGMv1-68895_g	PKGMv1-68864_g	      0
+231-  4:	PKGMv1-68896_g	PKGMv1-68865_g	      0
+231-  5:	PKGMv1-68899_g	PKGMv1-68867_g	      0
+231-  6:	PKGMv1-68901_g	PKGMv1-68870_g	      0
+231-  7:	PKGMv1-68902_g	PKGMv1-68871_g	      0
+231-  8:	PKGMv1-68904_g	PKGMv1-68873_g	      0
+231-  9:	PKGMv1-68905_g	PKGMv1-68874_g	      0
+231- 10:	PKGMv1-68906_g	PKGMv1-68875_g	      0
+231- 11:	PKGMv1-68907_g	PKGMv1-68876_g	      0
+231- 12:	PKGMv1-68908_g	PKGMv1-68877_g	 7e-154
+## Alignment 232: score=644.0 e_value=1.7e-30 N=13 pk4&pk8 plus
+232-  0:	PKGMv1-28091_g	PKGMv1-73120_g	      0
+232-  1:	PKGMv1-28094_g	PKGMv1-73121_g	  1e-30
+232-  2:	PKGMv1-28095_g	PKGMv1-73122_g	  6e-46
+232-  3:	PKGMv1-28097_g	PKGMv1-73124_g	 2e-173
+232-  4:	PKGMv1-28098_g	PKGMv1-73125_g	      0
+232-  5:	PKGMv1-28099_g	PKGMv1-73126_g	  4e-50
+232-  6:	PKGMv1-28100_g	PKGMv1-73127_g	  5e-49
+232-  7:	PKGMv1-28101_g	PKGMv1-73128_g	  2e-67
+232-  8:	PKGMv1-28102_g	PKGMv1-73130_g	      0
+232-  9:	PKGMv1-28103_g	PKGMv1-73131_g	      0
+232- 10:	PKGMv1-28104_g	PKGMv1-73132_g	      0
+232- 11:	PKGMv1-28107_g	PKGMv1-73133_g	      0
+232- 12:	PKGMv1-28108_g	PKGMv1-73134_g	 5e-115
+## Alignment 233: score=348.0 e_value=1.2e-11 N=7 pk4&pk8 plus
+233-  0:	PKGMv1-1528_g	PKGMv1-42478_g	      0
+233-  1:	PKGMv1-1530_g	PKGMv1-42479_g	 9e-106
+233-  2:	PKGMv1-1532_g	PKGMv1-42481_g	      0
+233-  3:	PKGMv1-1533_g	PKGMv1-42482_g	 2e-102
+233-  4:	PKGMv1-1534_g	PKGMv1-42483_g	      0
+233-  5:	PKGMv1-1535_g	PKGMv1-42484_g	  8e-79
+233-  6:	PKGMv1-1536_g	PKGMv1-42485_g	  6e-92
+## Alignment 234: score=298.0 e_value=6.1e-08 N=6 pk4&pk8 plus
+234-  0:	PKGMv1-82872_g	PKGMv1-40967_g	 1e-161
+234-  1:	PKGMv1-82873_g	PKGMv1-40968_g	  4e-70
+234-  2:	PKGMv1-82874_g	PKGMv1-40969_g	      0
+234-  3:	PKGMv1-82875_g	PKGMv1-40971_g	      0
+234-  4:	PKGMv1-82876_g	PKGMv1-40972_g	 9e-113
+234-  5:	PKGMv1-82878_g	PKGMv1-40973_g	      0
+## Alignment 235: score=398.0 e_value=2.6e-14 N=8 pk4&pk8 minus
+235-  0:	PKGMv1-32571_g	PKGMv1-81175_g	  1e-79
+235-  1:	PKGMv1-32572_g	PKGMv1-81174_g	  6e-62
+235-  2:	PKGMv1-32573_g	PKGMv1-81173_g	      0
+235-  3:	PKGMv1-32575_g	PKGMv1-81172_g	      0
+235-  4:	PKGMv1-32576_g	PKGMv1-81171_g	 2e-166
+235-  5:	PKGMv1-32577_g	PKGMv1-81170_g	      0
+235-  6:	PKGMv1-32578_g	PKGMv1-81168_g	      0
+235-  7:	PKGMv1-32579_g	PKGMv1-81167_g	  5e-74
+## Alignment 236: score=445.0 e_value=1.2e-18 N=9 pk4&pk9 plus
+236-  0:	PKGMv1-44967_g	PKGMv1-70642_g	      0
+236-  1:	PKGMv1-44968_g	PKGMv1-70645_g	      0
+236-  2:	PKGMv1-44970_g	PKGMv1-70646_g	 5e-110
+236-  3:	PKGMv1-44971_g	PKGMv1-70647_g	 1e-100
+236-  4:	PKGMv1-44972_g	PKGMv1-70648_g	  3e-22
+236-  5:	PKGMv1-44973_g	PKGMv1-70649_g	      0
+236-  6:	PKGMv1-44975_g	PKGMv1-70650_g	 5e-172
+236-  7:	PKGMv1-44977_g	PKGMv1-70652_g	      0
+236-  8:	PKGMv1-44978_g	PKGMv1-70653_g	  4e-69
+## Alignment 237: score=350.0 e_value=2e-11 N=7 pk4&pk9 plus
+237-  0:	PKGMv1-28546_g	PKGMv1-77727_g	 9e-108
+237-  1:	PKGMv1-28547_g	PKGMv1-77728_g	      0
+237-  2:	PKGMv1-28548_g	PKGMv1-77729_g	  6e-60
+237-  3:	PKGMv1-28549_g	PKGMv1-77730_g	  3e-91
+237-  4:	PKGMv1-28550_g	PKGMv1-77731_g	      0
+237-  5:	PKGMv1-28551_g	PKGMv1-77732_g	 3e-110
+237-  6:	PKGMv1-28552_g	PKGMv1-77733_g	      0
+## Alignment 238: score=428.0 e_value=7.8e-20 N=9 pk4&pk9 minus
+238-  0:	PKGMv1-16145_g	PKGMv1-29049_g	  3e-29
+238-  1:	PKGMv1-16146_g	PKGMv1-29048_g	      0
+238-  2:	PKGMv1-16147_g	PKGMv1-29047_g	  3e-91
+238-  3:	PKGMv1-16148_g	PKGMv1-29045_g	  3e-49
+238-  4:	PKGMv1-16149_g	PKGMv1-29044_g	      0
+238-  5:	PKGMv1-16150_g	PKGMv1-29043_g	  8e-50
+238-  6:	PKGMv1-16152_g	PKGMv1-29042_g	 3e-153
+238-  7:	PKGMv1-16153_g	PKGMv1-29041_g	  2e-40
+238-  8:	PKGMv1-16174_g	PKGMv1-29037_g	 4e-163
+## Alignment 239: score=300.0 e_value=2e-08 N=6 pk4&pk9 minus
+239-  0:	PKGMv1-1743_g	PKGMv1-42404_g	  7e-95
+239-  1:	PKGMv1-1744_g	PKGMv1-42403_g	      0
+239-  2:	PKGMv1-1745_g	PKGMv1-42402_g	      0
+239-  3:	PKGMv1-1746_g	PKGMv1-42401_g	  4e-77
+239-  4:	PKGMv1-1747_g	PKGMv1-42400_g	 1e-174
+239-  5:	PKGMv1-1748_g	PKGMv1-42399_g	  5e-69
+## Alignment 240: score=1266.0 e_value=4.7e-89 N=26 pk5&pk5 plus
+240-  0:	PKGMv1-29585_g	PKGMv1-29641_g	      0
+240-  1:	PKGMv1-29586_g	PKGMv1-29643_g	      0
+240-  2:	PKGMv1-29587_g	PKGMv1-29644_g	      0
+240-  3:	PKGMv1-29603_g	PKGMv1-29652_g	 5e-140
+240-  4:	PKGMv1-29607_g	PKGMv1-29655_g	  4e-38
+240-  5:	PKGMv1-29608_g	PKGMv1-29656_g	      0
+240-  6:	PKGMv1-29609_g	PKGMv1-29657_g	      0
+240-  7:	PKGMv1-29611_g	PKGMv1-29658_g	  2e-85
+240-  8:	PKGMv1-29612_g	PKGMv1-29659_g	      0
+240-  9:	PKGMv1-29613_g	PKGMv1-29660_g	 1e-136
+240- 10:	PKGMv1-29614_g	PKGMv1-29661_g	      0
+240- 11:	PKGMv1-29615_g	PKGMv1-29662_g	  1e-72
+240- 12:	PKGMv1-29616_g	PKGMv1-29663_g	 1e-120
+240- 13:	PKGMv1-29617_g	PKGMv1-29664_g	 2e-107
+240- 14:	PKGMv1-29618_g	PKGMv1-29665_g	      0
+240- 15:	PKGMv1-29619_g	PKGMv1-29666_g	      0
+240- 16:	PKGMv1-29620_g	PKGMv1-29667_g	      0
+240- 17:	PKGMv1-29621_g	PKGMv1-29668_g	 5e-156
+240- 18:	PKGMv1-29622_g	PKGMv1-29669_g	  2e-74
+240- 19:	PKGMv1-29624_g	PKGMv1-29671_g	      0
+240- 20:	PKGMv1-29625_g	PKGMv1-29672_g	  5e-72
+240- 21:	PKGMv1-29626_g	PKGMv1-29673_g	      0
+240- 22:	PKGMv1-29627_g	PKGMv1-29674_g	      0
+240- 23:	PKGMv1-29628_g	PKGMv1-29675_g	  2e-51
+240- 24:	PKGMv1-29633_g	PKGMv1-29688_g	      0
+240- 25:	PKGMv1-29634_g	PKGMv1-29690_g	      0
+## Alignment 241: score=744.0 e_value=1.3e-36 N=15 pk5&pk5 plus
+241-  0:	PKGMv1-71328_g	PKGMv1-71349_g	      0
+241-  1:	PKGMv1-71329_g	PKGMv1-71350_g	  2e-71
+241-  2:	PKGMv1-71330_g	PKGMv1-71352_g	      0
+241-  3:	PKGMv1-71331_g	PKGMv1-71353_g	  5e-83
+241-  4:	PKGMv1-71332_g	PKGMv1-71355_g	      0
+241-  5:	PKGMv1-71333_g	PKGMv1-71356_g	      0
+241-  6:	PKGMv1-71334_g	PKGMv1-71357_g	      0
+241-  7:	PKGMv1-71335_g	PKGMv1-71360_g	      0
+241-  8:	PKGMv1-71336_g	PKGMv1-71361_g	      0
+241-  9:	PKGMv1-71337_g	PKGMv1-71362_g	      0
+241- 10:	PKGMv1-71338_g	PKGMv1-71364_g	      0
+241- 11:	PKGMv1-71339_g	PKGMv1-71365_g	      0
+241- 12:	PKGMv1-71340_g	PKGMv1-71366_g	      0
+241- 13:	PKGMv1-71341_g	PKGMv1-71367_g	      0
+241- 14:	PKGMv1-71343_g	PKGMv1-71369_g	      0
+## Alignment 242: score=493.0 e_value=4.8e-21 N=10 pk5&pk5 plus
+242-  0:	PKGMv1-29519_g	PKGMv1-29543_g	      0
+242-  1:	PKGMv1-29524_g	PKGMv1-29548_g	  4e-76
+242-  2:	PKGMv1-29525_g	PKGMv1-29549_g	      0
+242-  3:	PKGMv1-29526_g	PKGMv1-29550_g	 5e-131
+242-  4:	PKGMv1-29527_g	PKGMv1-29551_g	      0
+242-  5:	PKGMv1-29528_g	PKGMv1-29552_g	      0
+242-  6:	PKGMv1-29530_g	PKGMv1-29553_g	      0
+242-  7:	PKGMv1-29531_g	PKGMv1-29556_g	      0
+242-  8:	PKGMv1-29532_g	PKGMv1-29557_g	 1e-105
+242-  9:	PKGMv1-29533_g	PKGMv1-29558_g	      0
+## Alignment 243: score=291.0 e_value=2.6e-09 N=6 pk5&pk5 plus
+243-  0:	PKGMv1-29905_g	PKGMv1-29953_g	  9e-88
+243-  1:	PKGMv1-29907_g	PKGMv1-29954_g	      0
+243-  2:	PKGMv1-29908_g	PKGMv1-29956_g	      0
+243-  3:	PKGMv1-29909_g	PKGMv1-29957_g	  3e-68
+243-  4:	PKGMv1-29912_g	PKGMv1-29961_g	      0
+243-  5:	PKGMv1-29917_g	PKGMv1-29965_g	 3e-107
+## Alignment 244: score=644.0 e_value=5.3e-29 N=13 pk5&pk5 minus
+244-  0:	PKGMv1-322_g	PKGMv1-389_g	 6e-166
+244-  1:	PKGMv1-323_g	PKGMv1-388_g	      0
+244-  2:	PKGMv1-325_g	PKGMv1-387_g	  3e-93
+244-  3:	PKGMv1-326_g	PKGMv1-386_g	      0
+244-  4:	PKGMv1-327_g	PKGMv1-385_g	  4e-65
+244-  5:	PKGMv1-328_g	PKGMv1-384_g	      0
+244-  6:	PKGMv1-330_g	PKGMv1-383_g	      0
+244-  7:	PKGMv1-331_g	PKGMv1-382_g	      0
+244-  8:	PKGMv1-332_g	PKGMv1-381_g	      0
+244-  9:	PKGMv1-333_g	PKGMv1-380_g	      0
+244- 10:	PKGMv1-334_g	PKGMv1-377_g	      0
+244- 11:	PKGMv1-335_g	PKGMv1-375_g	      0
+244- 12:	PKGMv1-337_g	PKGMv1-374_g	      0
+## Alignment 245: score=547.0 e_value=3e-23 N=11 pk5&pk5 minus
+245-  0:	PKGMv1-338_g	PKGMv1-373_g	      0
+245-  1:	PKGMv1-339_g	PKGMv1-372_g	      0
+245-  2:	PKGMv1-340_g	PKGMv1-370_g	  1e-29
+245-  3:	PKGMv1-341_g	PKGMv1-369_g	 1e-101
+245-  4:	PKGMv1-342_g	PKGMv1-368_g	      0
+245-  5:	PKGMv1-345_g	PKGMv1-366_g	      0
+245-  6:	PKGMv1-346_g	PKGMv1-365_g	      0
+245-  7:	PKGMv1-347_g	PKGMv1-364_g	 9e-138
+245-  8:	PKGMv1-348_g	PKGMv1-363_g	      0
+245-  9:	PKGMv1-349_g	PKGMv1-362_g	      0
+245- 10:	PKGMv1-350_g	PKGMv1-361_g	 1e-120
+## Alignment 246: score=298.0 e_value=2.8e-08 N=6 pk5&pk5 minus
+246-  0:	PKGMv1-29810_g	PKGMv1-29846_g	  7e-49
+246-  1:	PKGMv1-29812_g	PKGMv1-29843_g	  4e-37
+246-  2:	PKGMv1-29813_g	PKGMv1-29842_g	      0
+246-  3:	PKGMv1-29814_g	PKGMv1-29841_g	  3e-39
+246-  4:	PKGMv1-29815_g	PKGMv1-29840_g	      0
+246-  5:	PKGMv1-29816_g	PKGMv1-29839_g	  3e-86
+## Alignment 247: score=400.0 e_value=1.4e-13 N=8 pk5&pk6 plus
+247-  0:	PKGMv1-26914_g	PKGMv1-5021_g	  6e-33
+247-  1:	PKGMv1-26915_g	PKGMv1-5022_g	  5e-98
+247-  2:	PKGMv1-26916_g	PKGMv1-5023_g	      0
+247-  3:	PKGMv1-26917_g	PKGMv1-5024_g	      0
+247-  4:	PKGMv1-26918_g	PKGMv1-5025_g	 1e-144
+247-  5:	PKGMv1-26919_g	PKGMv1-5026_g	      0
+247-  6:	PKGMv1-26920_g	PKGMv1-5027_g	 3e-128
+247-  7:	PKGMv1-26921_g	PKGMv1-5028_g	      0
+## Alignment 248: score=398.0 e_value=1.1e-13 N=8 pk5&pk6 plus
+248-  0:	PKGMv1-27596_g	PKGMv1-5001_g	 5e-125
+248-  1:	PKGMv1-27597_g	PKGMv1-5002_g	      0
+248-  2:	PKGMv1-27598_g	PKGMv1-5003_g	  9e-24
+248-  3:	PKGMv1-27600_g	PKGMv1-5005_g	  1e-92
+248-  4:	PKGMv1-27601_g	PKGMv1-5006_g	      0
+248-  5:	PKGMv1-27602_g	PKGMv1-5007_g	 1e-176
+248-  6:	PKGMv1-27603_g	PKGMv1-5008_g	 3e-169
+248-  7:	PKGMv1-27604_g	PKGMv1-5010_g	 1e-134
+## Alignment 249: score=250.0 e_value=1.4e-06 N=5 pk5&pk6 plus
+249-  0:	PKGMv1-80173_g	PKGMv1-6744_g	      0
+249-  1:	PKGMv1-80174_g	PKGMv1-6745_g	      0
+249-  2:	PKGMv1-80175_g	PKGMv1-6746_g	  3e-78
+249-  3:	PKGMv1-80176_g	PKGMv1-6747_g	      0
+249-  4:	PKGMv1-80177_g	PKGMv1-6748_g	 4e-157
+## Alignment 250: score=369.0 e_value=6.2e-17 N=8 pk5&pk6 minus
+250-  0:	PKGMv1-15890_g	PKGMv1-34479_g	      0
+250-  1:	PKGMv1-15892_g	PKGMv1-34478_g	  2e-45
+250-  2:	PKGMv1-15893_g	PKGMv1-34476_g	 2e-128
+250-  3:	PKGMv1-15894_g	PKGMv1-34475_g	      0
+250-  4:	PKGMv1-15896_g	PKGMv1-34474_g	  1e-66
+250-  5:	PKGMv1-15897_g	PKGMv1-34472_g	 7e-120
+250-  6:	PKGMv1-15898_g	PKGMv1-34468_g	  3e-11
+250-  7:	PKGMv1-15923_g	PKGMv1-34467_g	  5e-74
+## Alignment 251: score=294.0 e_value=4.1e-08 N=6 pk5&pk6 minus
+251-  0:	PKGMv1-29534_g	PKGMv1-37163_g	      0
+251-  1:	PKGMv1-29536_g	PKGMv1-37160_g	 9e-119
+251-  2:	PKGMv1-29537_g	PKGMv1-37156_g	  2e-36
+251-  3:	PKGMv1-29538_g	PKGMv1-37155_g	 5e-140
+251-  4:	PKGMv1-29540_g	PKGMv1-37154_g	  2e-75
+251-  5:	PKGMv1-29541_g	PKGMv1-37153_g	  8e-51
+## Alignment 252: score=296.0 e_value=3.2e-08 N=6 pk5&pk7 plus
+252-  0:	PKGMv1-13234_g	PKGMv1-41578_g	 5e-171
+252-  1:	PKGMv1-13235_g	PKGMv1-41579_g	      0
+252-  2:	PKGMv1-13236_g	PKGMv1-41580_g	      0
+252-  3:	PKGMv1-13238_g	PKGMv1-41584_g	      0
+252-  4:	PKGMv1-13239_g	PKGMv1-41585_g	      0
+252-  5:	PKGMv1-13240_g	PKGMv1-41587_g	      0
+## Alignment 253: score=448.0 e_value=2.4e-16 N=9 pk5&pk7 minus
+253-  0:	PKGMv1-77206_g	PKGMv1-53670_g	  8e-93
+253-  1:	PKGMv1-77207_g	PKGMv1-53668_g	  5e-73
+253-  2:	PKGMv1-77208_g	PKGMv1-53667_g	  5e-42
+253-  3:	PKGMv1-77209_g	PKGMv1-53666_g	  6e-34
+253-  4:	PKGMv1-77211_g	PKGMv1-53664_g	  2e-57
+253-  5:	PKGMv1-77212_g	PKGMv1-53663_g	      0
+253-  6:	PKGMv1-77213_g	PKGMv1-53662_g	  3e-92
+253-  7:	PKGMv1-77214_g	PKGMv1-53661_g	      0
+253-  8:	PKGMv1-77215_g	PKGMv1-53660_g	  2e-95
+## Alignment 254: score=384.0 e_value=2.8e-18 N=8 pk5&pk7 minus
+254-  0:	PKGMv1-57620_g	PKGMv1-57617_g	 5e-157
+254-  1:	PKGMv1-57621_g	PKGMv1-57615_g	      0
+254-  2:	PKGMv1-57635_g	PKGMv1-57606_g	  7e-52
+254-  3:	PKGMv1-57636_g	PKGMv1-57605_g	 3e-113
+254-  4:	PKGMv1-57637_g	PKGMv1-57604_g	  1e-23
+254-  5:	PKGMv1-57638_g	PKGMv1-57603_g	 1e-150
+254-  6:	PKGMv1-57639_g	PKGMv1-57602_g	 6e-144
+254-  7:	PKGMv1-57640_g	PKGMv1-57599_g	  2e-82
+## Alignment 255: score=350.0 e_value=3.1e-10 N=7 pk5&pk7 minus
+255-  0:	PKGMv1-56079_g	PKGMv1-42121_g	 4e-148
+255-  1:	PKGMv1-56080_g	PKGMv1-42120_g	      0
+255-  2:	PKGMv1-56081_g	PKGMv1-42119_g	  1e-57
+255-  3:	PKGMv1-56082_g	PKGMv1-42118_g	 5e-110
+255-  4:	PKGMv1-56083_g	PKGMv1-42117_g	 1e-105
+255-  5:	PKGMv1-56084_g	PKGMv1-42116_g	      0
+255-  6:	PKGMv1-56085_g	PKGMv1-42115_g	 8e-180
+## Alignment 256: score=695.0 e_value=1.1e-33 N=14 pk5&pk8 plus
+256-  0:	PKGMv1-2851_g	PKGMv1-51290_g	      0
+256-  1:	PKGMv1-2852_g	PKGMv1-51291_g	      0
+256-  2:	PKGMv1-2854_g	PKGMv1-51293_g	 1e-118
+256-  3:	PKGMv1-2855_g	PKGMv1-51297_g	 2e-110
+256-  4:	PKGMv1-2856_g	PKGMv1-51298_g	      0
+256-  5:	PKGMv1-2857_g	PKGMv1-51299_g	  7e-95
+256-  6:	PKGMv1-2858_g	PKGMv1-51300_g	 1e-107
+256-  7:	PKGMv1-2860_g	PKGMv1-51301_g	      0
+256-  8:	PKGMv1-2861_g	PKGMv1-51302_g	 1e-105
+256-  9:	PKGMv1-2862_g	PKGMv1-51303_g	 2e-103
+256- 10:	PKGMv1-2863_g	PKGMv1-51304_g	      0
+256- 11:	PKGMv1-2864_g	PKGMv1-51305_g	      0
+256- 12:	PKGMv1-2865_g	PKGMv1-51306_g	  7e-44
+256- 13:	PKGMv1-2866_g	PKGMv1-51307_g	      0
+## Alignment 257: score=449.0 e_value=6.5e-20 N=9 pk5&pk8 plus
+257-  0:	PKGMv1-41095_g	PKGMv1-33855_g	      0
+257-  1:	PKGMv1-41096_g	PKGMv1-33856_g	      0
+257-  2:	PKGMv1-41097_g	PKGMv1-33857_g	      0
+257-  3:	PKGMv1-41098_g	PKGMv1-33858_g	      0
+257-  4:	PKGMv1-41100_g	PKGMv1-33860_g	      0
+257-  5:	PKGMv1-41101_g	PKGMv1-33861_g	      0
+257-  6:	PKGMv1-41102_g	PKGMv1-33862_g	      0
+257-  7:	PKGMv1-41103_g	PKGMv1-33863_g	      0
+257-  8:	PKGMv1-41104_g	PKGMv1-33864_g	      0
+## Alignment 258: score=384.0 e_value=2.6e-17 N=8 pk5&pk8 plus
+258-  0:	PKGMv1-29876_g	PKGMv1-48536_g	      0
+258-  1:	PKGMv1-29892_g	PKGMv1-48541_g	 8e-103
+258-  2:	PKGMv1-29893_g	PKGMv1-48542_g	      0
+258-  3:	PKGMv1-29895_g	PKGMv1-48543_g	 3e-132
+258-  4:	PKGMv1-29896_g	PKGMv1-48544_g	      0
+258-  5:	PKGMv1-29897_g	PKGMv1-48545_g	  2e-97
+258-  6:	PKGMv1-29898_g	PKGMv1-48546_g	      0
+258-  7:	PKGMv1-29899_g	PKGMv1-48547_g	  9e-26
+## Alignment 259: score=331.0 e_value=1.3e-13 N=7 pk5&pk9 plus
+259-  0:	PKGMv1-56066_g	PKGMv1-73405_g	  7e-75
+259-  1:	PKGMv1-56069_g	PKGMv1-73420_g	 7e-160
+259-  2:	PKGMv1-56070_g	PKGMv1-73421_g	  4e-94
+259-  3:	PKGMv1-56074_g	PKGMv1-73422_g	  1e-90
+259-  4:	PKGMv1-56075_g	PKGMv1-73425_g	 1e-115
+259-  5:	PKGMv1-56076_g	PKGMv1-73426_g	      0
+259-  6:	PKGMv1-56077_g	PKGMv1-73427_g	  4e-78
+## Alignment 260: score=346.0 e_value=1.4e-14 N=7 pk6&pk6 plus
+260-  0:	PKGMv1-78346_g	PKGMv1-78398_g	  1e-43
+260-  1:	PKGMv1-78347_g	PKGMv1-78399_g	  1e-64
+260-  2:	PKGMv1-78348_g	PKGMv1-78400_g	      0
+260-  3:	PKGMv1-78349_g	PKGMv1-78401_g	 2e-106
+260-  4:	PKGMv1-78353_g	PKGMv1-78403_g	      0
+260-  5:	PKGMv1-78355_g	PKGMv1-78404_g	      0
+260-  6:	PKGMv1-78356_g	PKGMv1-78405_g	 7e-146
+## Alignment 261: score=296.0 e_value=8.2e-08 N=6 pk6&pk6 plus
+261-  0:	PKGMv1-6406_g	PKGMv1-6466_g	  9e-86
+261-  1:	PKGMv1-6408_g	PKGMv1-6467_g	 3e-174
+261-  2:	PKGMv1-6409_g	PKGMv1-6468_g	      0
+261-  3:	PKGMv1-6410_g	PKGMv1-6471_g	      0
+261-  4:	PKGMv1-6411_g	PKGMv1-6472_g	      0
+261-  5:	PKGMv1-6412_g	PKGMv1-6474_g	 2e-148
+## Alignment 262: score=496.0 e_value=4.8e-21 N=10 pk6&pk6 minus
+262-  0:	PKGMv1-34951_g	PKGMv1-34983_g	      0
+262-  1:	PKGMv1-34952_g	PKGMv1-34982_g	      0
+262-  2:	PKGMv1-34953_g	PKGMv1-34981_g	      0
+262-  3:	PKGMv1-34954_g	PKGMv1-34980_g	      0
+262-  4:	PKGMv1-34956_g	PKGMv1-34978_g	      0
+262-  5:	PKGMv1-34957_g	PKGMv1-34977_g	      0
+262-  6:	PKGMv1-34961_g	PKGMv1-34974_g	  4e-86
+262-  7:	PKGMv1-34962_g	PKGMv1-34973_g	      0
+262-  8:	PKGMv1-34963_g	PKGMv1-34972_g	 8e-104
+262-  9:	PKGMv1-34964_g	PKGMv1-34971_g	      0
+## Alignment 263: score=483.0 e_value=1.6e-22 N=10 pk6&pk6 minus
+263-  0:	PKGMv1-6324_g	PKGMv1-6370_g	      0
+263-  1:	PKGMv1-6325_g	PKGMv1-6368_g	  1e-92
+263-  2:	PKGMv1-6326_g	PKGMv1-6367_g	 3e-119
+263-  3:	PKGMv1-6328_g	PKGMv1-6366_g	      0
+263-  4:	PKGMv1-6329_g	PKGMv1-6365_g	      0
+263-  5:	PKGMv1-6331_g	PKGMv1-6364_g	 8e-145
+263-  6:	PKGMv1-6333_g	PKGMv1-6363_g	      0
+263-  7:	PKGMv1-6334_g	PKGMv1-6359_g	  2e-61
+263-  8:	PKGMv1-6335_g	PKGMv1-6358_g	  4e-59
+263-  9:	PKGMv1-6340_g	PKGMv1-6347_g	 3e-129
+## Alignment 264: score=335.0 e_value=1.8e-13 N=7 pk6&pk6 minus
+264-  0:	PKGMv1-36474_g	PKGMv1-36514_g	 2e-174
+264-  1:	PKGMv1-36486_g	PKGMv1-36510_g	      0
+264-  2:	PKGMv1-36487_g	PKGMv1-36509_g	      0
+264-  3:	PKGMv1-36488_g	PKGMv1-36507_g	      0
+264-  4:	PKGMv1-36489_g	PKGMv1-36506_g	      0
+264-  5:	PKGMv1-36490_g	PKGMv1-36505_g	 1e-115
+264-  6:	PKGMv1-36494_g	PKGMv1-36501_g	      0
+## Alignment 265: score=322.0 e_value=1.1e-12 N=7 pk6&pk6 minus
+265-  0:	PKGMv1-6741_g	PKGMv1-64916_g	  1e-19
+265-  1:	PKGMv1-6755_g	PKGMv1-6785_g	  4e-22
+265-  2:	PKGMv1-6756_g	PKGMv1-6777_g	  6e-82
+265-  3:	PKGMv1-6757_g	PKGMv1-6776_g	 2e-118
+265-  4:	PKGMv1-6759_g	PKGMv1-6775_g	      0
+265-  5:	PKGMv1-6765_g	PKGMv1-6774_g	  1e-91
+265-  6:	PKGMv1-6768_g	PKGMv1-6772_g	 5e-172
+## Alignment 266: score=348.0 e_value=4e-11 N=7 pk6&pk7 plus
+266-  0:	PKGMv1-62185_g	PKGMv1-22243_g	  6e-83
+266-  1:	PKGMv1-62186_g	PKGMv1-22244_g	  2e-33
+266-  2:	PKGMv1-62187_g	PKGMv1-22246_g	      0
+266-  3:	PKGMv1-62188_g	PKGMv1-22247_g	      0
+266-  4:	PKGMv1-62189_g	PKGMv1-22248_g	 3e-108
+266-  5:	PKGMv1-62191_g	PKGMv1-22249_g	      0
+266-  6:	PKGMv1-62192_g	PKGMv1-22250_g	 3e-146
+## Alignment 267: score=299.0 e_value=8.4e-09 N=6 pk6&pk7 plus
+267-  0:	PKGMv1-4380_g	PKGMv1-37416_g	      0
+267-  1:	PKGMv1-4382_g	PKGMv1-37418_g	  2e-77
+267-  2:	PKGMv1-4383_g	PKGMv1-37419_g	  2e-55
+267-  3:	PKGMv1-4384_g	PKGMv1-37420_g	      0
+267-  4:	PKGMv1-4385_g	PKGMv1-37421_g	      0
+267-  5:	PKGMv1-4386_g	PKGMv1-37422_g	      0
+## Alignment 268: score=298.0 e_value=6.9e-10 N=6 pk6&pk7 plus
+268-  0:	PKGMv1-23474_g	PKGMv1-52479_g	 2e-177
+268-  1:	PKGMv1-23475_g	PKGMv1-52480_g	      0
+268-  2:	PKGMv1-23476_g	PKGMv1-52481_g	  3e-76
+268-  3:	PKGMv1-23477_g	PKGMv1-52482_g	      0
+268-  4:	PKGMv1-23479_g	PKGMv1-52485_g	      0
+268-  5:	PKGMv1-23480_g	PKGMv1-52486_g	 9e-180
+## Alignment 269: score=292.0 e_value=2.1e-10 N=6 pk6&pk7 plus
+269-  0:	PKGMv1-7534_g	PKGMv1-32642_g	      0
+269-  1:	PKGMv1-7535_g	PKGMv1-32643_g	 9e-147
+269-  2:	PKGMv1-7536_g	PKGMv1-32646_g	  2e-66
+269-  3:	PKGMv1-7541_g	PKGMv1-32647_g	  9e-48
+269-  4:	PKGMv1-7542_g	PKGMv1-32650_g	  6e-83
+269-  5:	PKGMv1-7543_g	PKGMv1-32651_g	  2e-67
+## Alignment 270: score=288.0 e_value=8.6e-08 N=6 pk6&pk7 plus
+270-  0:	PKGMv1-33739_g	PKGMv1-72517_g	 2e-142
+270-  1:	PKGMv1-33741_g	PKGMv1-72518_g	      0
+270-  2:	PKGMv1-33743_g	PKGMv1-72522_g	  2e-89
+270-  3:	PKGMv1-33748_g	PKGMv1-72523_g	  6e-67
+270-  4:	PKGMv1-33749_g	PKGMv1-72525_g	  2e-69
+270-  5:	PKGMv1-33753_g	PKGMv1-72529_g	      0
+## Alignment 271: score=527.0 e_value=8.5e-26 N=11 pk6&pk7 minus
+271-  0:	PKGMv1-5613_g	PKGMv1-53920_g	  7e-95
+271-  1:	PKGMv1-63407_g	PKGMv1-53911_g	      0
+271-  2:	PKGMv1-63411_g	PKGMv1-53910_g	  2e-41
+271-  3:	PKGMv1-63412_g	PKGMv1-53909_g	  3e-73
+271-  4:	PKGMv1-63413_g	PKGMv1-53908_g	  4e-60
+271-  5:	PKGMv1-63414_g	PKGMv1-53907_g	  6e-33
+271-  6:	PKGMv1-63415_g	PKGMv1-53906_g	 6e-130
+271-  7:	PKGMv1-63416_g	PKGMv1-53905_g	 4e-146
+271-  8:	PKGMv1-63419_g	PKGMv1-53904_g	 9e-116
+271-  9:	PKGMv1-63420_g	PKGMv1-53903_g	  8e-51
+271- 10:	PKGMv1-63422_g	PKGMv1-53902_g	      0
+## Alignment 272: score=673.0 e_value=4.2e-35 N=14 pk6&pk8 plus
+272-  0:	PKGMv1-19728_g	PKGMv1-42554_g	  2e-48
+272-  1:	PKGMv1-19731_g	PKGMv1-42557_g	      0
+272-  2:	PKGMv1-19732_g	PKGMv1-42558_g	  9e-50
+272-  3:	PKGMv1-19733_g	PKGMv1-42559_g	      0
+272-  4:	PKGMv1-19734_g	PKGMv1-42576_g	      0
+272-  5:	PKGMv1-19738_g	PKGMv1-42582_g	      0
+272-  6:	PKGMv1-19740_g	PKGMv1-42583_g	      0
+272-  7:	PKGMv1-19742_g	PKGMv1-42584_g	 3e-157
+272-  8:	PKGMv1-19743_g	PKGMv1-42585_g	      0
+272-  9:	PKGMv1-19744_g	PKGMv1-42586_g	      0
+272- 10:	PKGMv1-19745_g	PKGMv1-42588_g	 2e-113
+272- 11:	PKGMv1-19747_g	PKGMv1-42589_g	  7e-48
+272- 12:	PKGMv1-19748_g	PKGMv1-42590_g	  1e-92
+272- 13:	PKGMv1-19749_g	PKGMv1-42591_g	  9e-74
+## Alignment 273: score=644.0 e_value=8.6e-30 N=13 pk6&pk8 plus
+273-  0:	PKGMv1-40748_g	PKGMv1-40678_g	  2e-64
+273-  1:	PKGMv1-40749_g	PKGMv1-40681_g	      0
+273-  2:	PKGMv1-40751_g	PKGMv1-40683_g	 2e-134
+273-  3:	PKGMv1-40753_g	PKGMv1-40685_g	 3e-110
+273-  4:	PKGMv1-40754_g	PKGMv1-40686_g	  1e-64
+273-  5:	PKGMv1-40755_g	PKGMv1-40687_g	      0
+273-  6:	PKGMv1-40756_g	PKGMv1-40688_g	      0
+273-  7:	PKGMv1-40757_g	PKGMv1-40689_g	  1e-90
+273-  8:	PKGMv1-40758_g	PKGMv1-40690_g	  1e-37
+273-  9:	PKGMv1-40759_g	PKGMv1-40691_g	  2e-99
+273- 10:	PKGMv1-40761_g	PKGMv1-40693_g	 2e-121
+273- 11:	PKGMv1-40762_g	PKGMv1-40694_g	      0
+273- 12:	PKGMv1-40763_g	PKGMv1-40696_g	  2e-82
+## Alignment 274: score=591.0 e_value=9e-27 N=12 pk6&pk8 plus
+274-  0:	PKGMv1-64785_g	PKGMv1-69816_g	      0
+274-  1:	PKGMv1-64786_g	PKGMv1-69817_g	      0
+274-  2:	PKGMv1-64787_g	PKGMv1-69818_g	 7e-127
+274-  3:	PKGMv1-64788_g	PKGMv1-69819_g	      0
+274-  4:	PKGMv1-64789_g	PKGMv1-69820_g	      0
+274-  5:	PKGMv1-64790_g	PKGMv1-69822_g	 3e-146
+274-  6:	PKGMv1-64794_g	PKGMv1-69824_g	  2e-66
+274-  7:	PKGMv1-64795_g	PKGMv1-69826_g	  6e-20
+274-  8:	PKGMv1-64797_g	PKGMv1-69827_g	  9e-74
+274-  9:	PKGMv1-64799_g	PKGMv1-69828_g	  6e-53
+274- 10:	PKGMv1-64800_g	PKGMv1-69830_g	 8e-139
+274- 11:	PKGMv1-64802_g	PKGMv1-69831_g	      0
+## Alignment 275: score=447.0 e_value=4e-18 N=9 pk6&pk8 plus
+275-  0:	PKGMv1-13362_g	PKGMv1-62718_g	      0
+275-  1:	PKGMv1-13363_g	PKGMv1-62719_g	 7e-117
+275-  2:	PKGMv1-13366_g	PKGMv1-62722_g	      0
+275-  3:	PKGMv1-13367_g	PKGMv1-62723_g	  7e-65
+275-  4:	PKGMv1-13368_g	PKGMv1-62725_g	      0
+275-  5:	PKGMv1-13369_g	PKGMv1-62726_g	      0
+275-  6:	PKGMv1-13370_g	PKGMv1-62727_g	  3e-96
+275-  7:	PKGMv1-13371_g	PKGMv1-62728_g	      0
+275-  8:	PKGMv1-13372_g	PKGMv1-62729_g	  3e-45
+## Alignment 276: score=399.0 e_value=1.7e-13 N=8 pk6&pk8 plus
+276-  0:	PKGMv1-62216_g	PKGMv1-14465_g	  1e-72
+276-  1:	PKGMv1-62217_g	PKGMv1-14466_g	      0
+276-  2:	PKGMv1-62219_g	PKGMv1-14468_g	 9e-167
+276-  3:	PKGMv1-62220_g	PKGMv1-14469_g	      0
+276-  4:	PKGMv1-62221_g	PKGMv1-14470_g	      0
+276-  5:	PKGMv1-62222_g	PKGMv1-14471_g	      0
+276-  6:	PKGMv1-62223_g	PKGMv1-14472_g	      0
+276-  7:	PKGMv1-62224_g	PKGMv1-14473_g	 4e-103
+## Alignment 277: score=691.0 e_value=1.1e-34 N=14 pk6&pk8 minus
+277-  0:	PKGMv1-78779_g	PKGMv1-64882_g	  2e-87
+277-  1:	PKGMv1-78780_g	PKGMv1-64881_g	      0
+277-  2:	PKGMv1-78781_g	PKGMv1-64880_g	  5e-66
+277-  3:	PKGMv1-78782_g	PKGMv1-64878_g	  2e-97
+277-  4:	PKGMv1-78787_g	PKGMv1-64877_g	  4e-92
+277-  5:	PKGMv1-78788_g	PKGMv1-64876_g	 5e-163
+277-  6:	PKGMv1-78790_g	PKGMv1-64875_g	      0
+277-  7:	PKGMv1-78791_g	PKGMv1-64874_g	      0
+277-  8:	PKGMv1-78793_g	PKGMv1-64872_g	  2e-68
+277-  9:	PKGMv1-78794_g	PKGMv1-64871_g	      0
+277- 10:	PKGMv1-78795_g	PKGMv1-64870_g	  7e-74
+277- 11:	PKGMv1-78796_g	PKGMv1-64869_g	 4e-110
+277- 12:	PKGMv1-78797_g	PKGMv1-64868_g	      0
+277- 13:	PKGMv1-78798_g	PKGMv1-64865_g	      0
+## Alignment 278: score=441.0 e_value=2.7e-18 N=9 pk6&pk8 minus
+278-  0:	PKGMv1-83363_g	PKGMv1-49204_g	      0
+278-  1:	PKGMv1-83364_g	PKGMv1-49203_g	      0
+278-  2:	PKGMv1-83365_g	PKGMv1-49199_g	      0
+278-  3:	PKGMv1-83366_g	PKGMv1-49198_g	      0
+278-  4:	PKGMv1-83367_g	PKGMv1-49195_g	      0
+278-  5:	PKGMv1-83368_g	PKGMv1-49194_g	      0
+278-  6:	PKGMv1-83369_g	PKGMv1-49190_g	 2e-142
+278-  7:	PKGMv1-83370_g	PKGMv1-49189_g	      0
+278-  8:	PKGMv1-83372_g	PKGMv1-49188_g	 1e-132
+## Alignment 279: score=394.0 e_value=1.6e-15 N=8 pk6&pk8 minus
+279-  0:	PKGMv1-34937_g	PKGMv1-14294_g	      0
+279-  1:	PKGMv1-34938_g	PKGMv1-14293_g	 4e-124
+279-  2:	PKGMv1-34939_g	PKGMv1-14292_g	 2e-128
+279-  3:	PKGMv1-34940_g	PKGMv1-14291_g	 5e-176
+279-  4:	PKGMv1-34942_g	PKGMv1-14290_g	      0
+279-  5:	PKGMv1-34943_g	PKGMv1-14286_g	 6e-159
+279-  6:	PKGMv1-34945_g	PKGMv1-14285_g	      0
+279-  7:	PKGMv1-34947_g	PKGMv1-14283_g	  9e-99
+## Alignment 280: score=1138.0 e_value=1.8e-66 N=23 pk6&pk9 plus
+280-  0:	PKGMv1-12341_g	PKGMv1-12412_g	  2e-62
+280-  1:	PKGMv1-12342_g	PKGMv1-12413_g	 1e-105
+280-  2:	PKGMv1-12343_g	PKGMv1-12414_g	      0
+280-  3:	PKGMv1-12344_g	PKGMv1-12415_g	      0
+280-  4:	PKGMv1-12345_g	PKGMv1-12416_g	      0
+280-  5:	PKGMv1-12347_g	PKGMv1-12418_g	      0
+280-  6:	PKGMv1-12348_g	PKGMv1-12419_g	 2e-113
+280-  7:	PKGMv1-12351_g	PKGMv1-12420_g	 6e-169
+280-  8:	PKGMv1-12355_g	PKGMv1-12421_g	      0
+280-  9:	PKGMv1-12356_g	PKGMv1-12422_g	      0
+280- 10:	PKGMv1-12357_g	PKGMv1-12423_g	 9e-175
+280- 11:	PKGMv1-12358_g	PKGMv1-12424_g	      0
+280- 12:	PKGMv1-12359_g	PKGMv1-12425_g	      0
+280- 13:	PKGMv1-12360_g	PKGMv1-12426_g	      0
+280- 14:	PKGMv1-12361_g	PKGMv1-12427_g	      0
+280- 15:	PKGMv1-12362_g	PKGMv1-12428_g	      0
+280- 16:	PKGMv1-12366_g	PKGMv1-12432_g	 3e-100
+280- 17:	PKGMv1-12367_g	PKGMv1-12433_g	      0
+280- 18:	PKGMv1-12370_g	PKGMv1-12436_g	      0
+280- 19:	PKGMv1-12371_g	PKGMv1-12437_g	 8e-176
+280- 20:	PKGMv1-12372_g	PKGMv1-12438_g	      0
+280- 21:	PKGMv1-12373_g	PKGMv1-12440_g	  4e-94
+280- 22:	PKGMv1-12374_g	PKGMv1-12441_g	  1e-31
+## Alignment 281: score=298.0 e_value=1.3e-09 N=6 pk6&pk9 plus
+281-  0:	PKGMv1-35374_g	PKGMv1-68240_g	      0
+281-  1:	PKGMv1-35375_g	PKGMv1-68241_g	      0
+281-  2:	PKGMv1-35376_g	PKGMv1-68242_g	 5e-152
+281-  3:	PKGMv1-35377_g	PKGMv1-68243_g	      0
+281-  4:	PKGMv1-35379_g	PKGMv1-68244_g	  4e-97
+281-  5:	PKGMv1-35380_g	PKGMv1-68246_g	      0
+## Alignment 282: score=250.0 e_value=8.5e-07 N=5 pk6&pk9 plus
+282-  0:	PKGMv1-82048_g	PKGMv1-39887_g	  2e-64
+282-  1:	PKGMv1-82049_g	PKGMv1-39888_g	 1e-114
+282-  2:	PKGMv1-82050_g	PKGMv1-39889_g	  1e-85
+282-  3:	PKGMv1-82051_g	PKGMv1-39890_g	 2e-175
+282-  4:	PKGMv1-82052_g	PKGMv1-39891_g	      0
+## Alignment 283: score=250.0 e_value=1e-05 N=5 pk6&pk9 plus
+283-  0:	PKGMv1-4381_g	PKGMv1-68253_g	      0
+283-  1:	PKGMv1-4382_g	PKGMv1-68254_g	  2e-77
+283-  2:	PKGMv1-4383_g	PKGMv1-68255_g	  2e-55
+283-  3:	PKGMv1-4384_g	PKGMv1-68256_g	      0
+283-  4:	PKGMv1-4385_g	PKGMv1-68257_g	      0
+## Alignment 284: score=548.0 e_value=1.4e-23 N=11 pk6&pk9 minus
+284-  0:	PKGMv1-36543_g	PKGMv1-36587_g	      0
+284-  1:	PKGMv1-36544_g	PKGMv1-36586_g	      0
+284-  2:	PKGMv1-36545_g	PKGMv1-36584_g	      0
+284-  3:	PKGMv1-36546_g	PKGMv1-36583_g	 3e-131
+284-  4:	PKGMv1-36547_g	PKGMv1-36581_g	      0
+284-  5:	PKGMv1-36548_g	PKGMv1-36580_g	  1e-49
+284-  6:	PKGMv1-36549_g	PKGMv1-36579_g	      0
+284-  7:	PKGMv1-36550_g	PKGMv1-36578_g	 2e-134
+284-  8:	PKGMv1-36551_g	PKGMv1-36577_g	  6e-52
+284-  9:	PKGMv1-36552_g	PKGMv1-36576_g	      0
+284- 10:	PKGMv1-36553_g	PKGMv1-36575_g	      0
+## Alignment 285: score=327.0 e_value=7.6e-15 N=7 pk6&pk9 minus
+285-  0:	PKGMv1-82204_g	PKGMv1-82472_g	 1e-173
+285-  1:	PKGMv1-82207_g	PKGMv1-82470_g	      0
+285-  2:	PKGMv1-82209_g	PKGMv1-82467_g	  3e-82
+285-  3:	PKGMv1-82210_g	PKGMv1-82466_g	 9e-138
+285-  4:	PKGMv1-82211_g	PKGMv1-82464_g	  3e-94
+285-  5:	PKGMv1-82212_g	PKGMv1-82463_g	      0
+285-  6:	PKGMv1-52188_g	PKGMv1-82456_g	  5e-35
+## Alignment 286: score=260.0 e_value=5.9e-11 N=6 pk6&pk9 minus
+286-  0:	PKGMv1-12339_g	PKGMv1-12409_g	  5e-89
+286-  1:	PKGMv1-12359_g	PKGMv1-12403_g	      0
+286-  2:	PKGMv1-12362_g	PKGMv1-12389_g	      0
+286-  3:	PKGMv1-12364_g	PKGMv1-12388_g	      0
+286-  4:	PKGMv1-12365_g	PKGMv1-12382_g	      0
+286-  5:	PKGMv1-12367_g	PKGMv1-12379_g	      0
+## Alignment 287: score=297.0 e_value=3.4e-08 N=6 pk7&pk7 plus
+287-  0:	PKGMv1-12608_g	PKGMv1-40387_g	 2e-110
+287-  1:	PKGMv1-12609_g	PKGMv1-40388_g	  8e-86
+287-  2:	PKGMv1-12610_g	PKGMv1-40389_g	      0
+287-  3:	PKGMv1-12611_g	PKGMv1-40391_g	      0
+287-  4:	PKGMv1-12613_g	PKGMv1-40392_g	      0
+287-  5:	PKGMv1-12615_g	PKGMv1-40393_g	      0
+## Alignment 288: score=295.0 e_value=2.8e-08 N=6 pk7&pk7 plus
+288-  0:	PKGMv1-25536_g	PKGMv1-25558_g	      0
+288-  1:	PKGMv1-25538_g	PKGMv1-25559_g	      0
+288-  2:	PKGMv1-25539_g	PKGMv1-25560_g	  9e-59
+288-  3:	PKGMv1-25541_g	PKGMv1-25561_g	 4e-122
+288-  4:	PKGMv1-25544_g	PKGMv1-25563_g	 1e-151
+288-  5:	PKGMv1-25546_g	PKGMv1-25565_g	 4e-105
+## Alignment 289: score=1037.0 e_value=4.1e-57 N=21 pk7&pk7 minus
+289-  0:	PKGMv1-53793_g	PKGMv1-53885_g	      0
+289-  1:	PKGMv1-53794_g	PKGMv1-53884_g	      0
+289-  2:	PKGMv1-53795_g	PKGMv1-53883_g	      0
+289-  3:	PKGMv1-53798_g	PKGMv1-53880_g	 3e-145
+289-  4:	PKGMv1-53800_g	PKGMv1-53879_g	 2e-129
+289-  5:	PKGMv1-53802_g	PKGMv1-53877_g	  3e-71
+289-  6:	PKGMv1-53803_g	PKGMv1-53876_g	  1e-95
+289-  7:	PKGMv1-53806_g	PKGMv1-53875_g	      0
+289-  8:	PKGMv1-53808_g	PKGMv1-53872_g	      0
+289-  9:	PKGMv1-53809_g	PKGMv1-53871_g	 2e-104
+289- 10:	PKGMv1-53810_g	PKGMv1-53870_g	  4e-48
+289- 11:	PKGMv1-53811_g	PKGMv1-53869_g	 2e-133
+289- 12:	PKGMv1-53812_g	PKGMv1-53868_g	      0
+289- 13:	PKGMv1-53813_g	PKGMv1-53867_g	  2e-52
+289- 14:	PKGMv1-53814_g	PKGMv1-53866_g	      0
+289- 15:	PKGMv1-53815_g	PKGMv1-53864_g	  3e-56
+289- 16:	PKGMv1-53817_g	PKGMv1-53862_g	 4e-167
+289- 17:	PKGMv1-53818_g	PKGMv1-53861_g	 8e-105
+289- 18:	PKGMv1-53819_g	PKGMv1-53860_g	 8e-123
+289- 19:	PKGMv1-53821_g	PKGMv1-53858_g	  7e-73
+289- 20:	PKGMv1-53824_g	PKGMv1-53855_g	      0
+## Alignment 290: score=397.0 e_value=5.1e-14 N=8 pk7&pk7 minus
+290-  0:	PKGMv1-44065_g	PKGMv1-25446_g	 2e-117
+290-  1:	PKGMv1-44066_g	PKGMv1-25445_g	      0
+290-  2:	PKGMv1-44067_g	PKGMv1-25443_g	 9e-173
+290-  3:	PKGMv1-44068_g	PKGMv1-25442_g	  5e-69
+290-  4:	PKGMv1-44069_g	PKGMv1-25441_g	  2e-69
+290-  5:	PKGMv1-44070_g	PKGMv1-25438_g	      0
+290-  6:	PKGMv1-44071_g	PKGMv1-25437_g	      0
+290-  7:	PKGMv1-44072_g	PKGMv1-25436_g	      0
+## Alignment 291: score=341.0 e_value=5.6e-12 N=7 pk7&pk7 minus
+291-  0:	PKGMv1-25454_g	PKGMv1-25502_g	 2e-143
+291-  1:	PKGMv1-25455_g	PKGMv1-25501_g	 1e-152
+291-  2:	PKGMv1-25457_g	PKGMv1-25499_g	      0
+291-  3:	PKGMv1-25458_g	PKGMv1-25493_g	      0
+291-  4:	PKGMv1-25459_g	PKGMv1-25492_g	      0
+291-  5:	PKGMv1-25460_g	PKGMv1-25491_g	  1e-54
+291-  6:	PKGMv1-25463_g	PKGMv1-25487_g	  7e-80
+## Alignment 292: score=334.0 e_value=1.5e-14 N=7 pk7&pk7 minus
+292-  0:	PKGMv1-49946_g	PKGMv1-50007_g	      0
+292-  1:	PKGMv1-49947_g	PKGMv1-50006_g	 1e-141
+292-  2:	PKGMv1-49948_g	PKGMv1-50004_g	  3e-93
+292-  3:	PKGMv1-49949_g	PKGMv1-50002_g	  2e-88
+292-  4:	PKGMv1-49950_g	PKGMv1-50001_g	 5e-177
+292-  5:	PKGMv1-49951_g	PKGMv1-50000_g	      0
+292-  6:	PKGMv1-49966_g	PKGMv1-49989_g	  2e-29
+## Alignment 293: score=298.0 e_value=5.2e-09 N=6 pk7&pk7 minus
+293-  0:	PKGMv1-79703_g	PKGMv1-26624_g	      0
+293-  1:	PKGMv1-79704_g	PKGMv1-26623_g	      0
+293-  2:	PKGMv1-79705_g	PKGMv1-26622_g	  4e-91
+293-  3:	PKGMv1-79706_g	PKGMv1-26621_g	      0
+293-  4:	PKGMv1-79708_g	PKGMv1-26618_g	      0
+293-  5:	PKGMv1-79709_g	PKGMv1-26617_g	  2e-63
+## Alignment 294: score=290.0 e_value=3.6e-10 N=6 pk7&pk7 minus
+294-  0:	PKGMv1-56431_g	PKGMv1-19619_g	      0
+294-  1:	PKGMv1-56433_g	PKGMv1-19617_g	      0
+294-  2:	PKGMv1-56434_g	PKGMv1-19616_g	 4e-135
+294-  3:	PKGMv1-56435_g	PKGMv1-19615_g	      0
+294-  4:	PKGMv1-56437_g	PKGMv1-19611_g	      0
+294-  5:	PKGMv1-56444_g	PKGMv1-19609_g	 3e-108
+## Alignment 295: score=344.0 e_value=1.2e-11 N=7 pk7&pk8 plus
+295-  0:	PKGMv1-14032_g	PKGMv1-19148_g	  5e-73
+295-  1:	PKGMv1-14033_g	PKGMv1-19149_g	  6e-22
+295-  2:	PKGMv1-14039_g	PKGMv1-19150_g	      0
+295-  3:	PKGMv1-14040_g	PKGMv1-19151_g	 5e-172
+295-  4:	PKGMv1-14041_g	PKGMv1-19152_g	      0
+295-  5:	PKGMv1-14042_g	PKGMv1-19154_g	  6e-78
+295-  6:	PKGMv1-14043_g	PKGMv1-19155_g	      0
+## Alignment 296: score=296.0 e_value=1.3e-09 N=6 pk7&pk8 plus
+296-  0:	PKGMv1-76976_g	PKGMv1-67840_g	      0
+296-  1:	PKGMv1-76978_g	PKGMv1-67841_g	 7e-166
+296-  2:	PKGMv1-76979_g	PKGMv1-67843_g	      0
+296-  3:	PKGMv1-76980_g	PKGMv1-67844_g	      0
+296-  4:	PKGMv1-76982_g	PKGMv1-67845_g	      0
+296-  5:	PKGMv1-76983_g	PKGMv1-67847_g	  3e-46
+## Alignment 297: score=295.0 e_value=3.9e-09 N=6 pk7&pk8 plus
+297-  0:	PKGMv1-24010_g	PKGMv1-79750_g	 7e-138
+297-  1:	PKGMv1-24011_g	PKGMv1-79756_g	      0
+297-  2:	PKGMv1-24012_g	PKGMv1-79757_g	  4e-90
+297-  3:	PKGMv1-24013_g	PKGMv1-79758_g	      0
+297-  4:	PKGMv1-24014_g	PKGMv1-79759_g	      0
+297-  5:	PKGMv1-24015_g	PKGMv1-79760_g	  2e-54
+## Alignment 298: score=293.0 e_value=8.1e-09 N=6 pk7&pk8 plus
+298-  0:	PKGMv1-25547_g	PKGMv1-25566_g	      0
+298-  1:	PKGMv1-25548_g	PKGMv1-25567_g	 6e-118
+298-  2:	PKGMv1-25549_g	PKGMv1-25569_g	 3e-162
+298-  3:	PKGMv1-25553_g	PKGMv1-25570_g	      0
+298-  4:	PKGMv1-25555_g	PKGMv1-25573_g	  7e-22
+298-  5:	PKGMv1-25556_g	PKGMv1-25575_g	      0
+## Alignment 299: score=250.0 e_value=3.3e-06 N=5 pk7&pk8 plus
+299-  0:	PKGMv1-3336_g	PKGMv1-19005_g	      0
+299-  1:	PKGMv1-3337_g	PKGMv1-19006_g	      0
+299-  2:	PKGMv1-3338_g	PKGMv1-19007_g	 3e-124
+299-  3:	PKGMv1-3339_g	PKGMv1-19008_g	      0
+299-  4:	PKGMv1-3340_g	PKGMv1-19009_g	      0
+## Alignment 300: score=449.0 e_value=9.9e-18 N=9 pk7&pk8 minus
+300-  0:	PKGMv1-38340_g	PKGMv1-82231_g	 6e-112
+300-  1:	PKGMv1-38341_g	PKGMv1-82230_g	 1e-127
+300-  2:	PKGMv1-38342_g	PKGMv1-82229_g	      0
+300-  3:	PKGMv1-38343_g	PKGMv1-82228_g	      0
+300-  4:	PKGMv1-38344_g	PKGMv1-82227_g	      0
+300-  5:	PKGMv1-38345_g	PKGMv1-82226_g	  1e-89
+300-  6:	PKGMv1-38346_g	PKGMv1-82225_g	  7e-33
+300-  7:	PKGMv1-38348_g	PKGMv1-82224_g	      0
+300-  8:	PKGMv1-38349_g	PKGMv1-82223_g	      0
+## Alignment 301: score=398.0 e_value=3.7e-16 N=8 pk7&pk8 minus
+301-  0:	PKGMv1-43173_g	PKGMv1-63894_g	  8e-84
+301-  1:	PKGMv1-43174_g	PKGMv1-63893_g	      0
+301-  2:	PKGMv1-43175_g	PKGMv1-63892_g	      0
+301-  3:	PKGMv1-43176_g	PKGMv1-63891_g	      0
+301-  4:	PKGMv1-43178_g	PKGMv1-63889_g	 6e-127
+301-  5:	PKGMv1-43180_g	PKGMv1-63887_g	      0
+301-  6:	PKGMv1-43181_g	PKGMv1-63886_g	      0
+301-  7:	PKGMv1-43182_g	PKGMv1-63885_g	      0
+## Alignment 302: score=691.0 e_value=7.9e-32 N=14 pk7&pk9 plus
+302-  0:	PKGMv1-52386_g	PKGMv1-11815_g	  4e-67
+302-  1:	PKGMv1-52387_g	PKGMv1-11816_g	      0
+302-  2:	PKGMv1-52388_g	PKGMv1-11820_g	      0
+302-  3:	PKGMv1-52390_g	PKGMv1-11821_g	      0
+302-  4:	PKGMv1-52392_g	PKGMv1-11822_g	 4e-124
+302-  5:	PKGMv1-52394_g	PKGMv1-11823_g	      0
+302-  6:	PKGMv1-52395_g	PKGMv1-11824_g	      0
+302-  7:	PKGMv1-52396_g	PKGMv1-11825_g	      0
+302-  8:	PKGMv1-52397_g	PKGMv1-11826_g	      0
+302-  9:	PKGMv1-52398_g	PKGMv1-11827_g	 5e-102
+302- 10:	PKGMv1-52399_g	PKGMv1-11828_g	  1e-83
+302- 11:	PKGMv1-52400_g	PKGMv1-11829_g	      0
+302- 12:	PKGMv1-52401_g	PKGMv1-11830_g	 2e-105
+302- 13:	PKGMv1-52404_g	PKGMv1-11834_g	      0
+## Alignment 303: score=347.0 e_value=8.3e-11 N=7 pk7&pk9 plus
+303-  0:	PKGMv1-30030_g	PKGMv1-30104_g	  5e-53
+303-  1:	PKGMv1-30034_g	PKGMv1-30105_g	  1e-38
+303-  2:	PKGMv1-30035_g	PKGMv1-30106_g	 1e-154
+303-  3:	PKGMv1-30036_g	PKGMv1-30107_g	      0
+303-  4:	PKGMv1-30037_g	PKGMv1-30108_g	  3e-99
+303-  5:	PKGMv1-30038_g	PKGMv1-30109_g	  1e-97
+303-  6:	PKGMv1-30039_g	PKGMv1-30110_g	 2e-106
+## Alignment 304: score=300.0 e_value=8.2e-09 N=6 pk7&pk9 plus
+304-  0:	PKGMv1-37416_g	PKGMv1-68252_g	      0
+304-  1:	PKGMv1-37417_g	PKGMv1-68253_g	      0
+304-  2:	PKGMv1-37418_g	PKGMv1-68254_g	 1e-116
+304-  3:	PKGMv1-37419_g	PKGMv1-68255_g	  3e-84
+304-  4:	PKGMv1-37420_g	PKGMv1-68256_g	      0
+304-  5:	PKGMv1-37421_g	PKGMv1-68257_g	      0
+## Alignment 305: score=295.0 e_value=2.1e-08 N=6 pk7&pk9 plus
+305-  0:	PKGMv1-41361_g	PKGMv1-49159_g	      0
+305-  1:	PKGMv1-41363_g	PKGMv1-49160_g	      0
+305-  2:	PKGMv1-41367_g	PKGMv1-49162_g	      0
+305-  3:	PKGMv1-41369_g	PKGMv1-49163_g	 3e-153
+305-  4:	PKGMv1-41370_g	PKGMv1-49164_g	  2e-92
+305-  5:	PKGMv1-41371_g	PKGMv1-49165_g	      0
+## Alignment 306: score=270.0 e_value=1.7e-10 N=6 pk7&pk9 plus
+306-  0:	PKGMv1-44051_g	PKGMv1-44080_g	      0
+306-  1:	PKGMv1-44052_g	PKGMv1-44081_g	      0
+306-  2:	PKGMv1-44053_g	PKGMv1-44088_g	  6e-76
+306-  3:	PKGMv1-44055_g	PKGMv1-44093_g	 8e-167
+306-  4:	PKGMv1-44056_g	PKGMv1-44098_g	  1e-95
+306-  5:	PKGMv1-44073_g	PKGMv1-44113_g	  1e-41
+## Alignment 307: score=489.0 e_value=1.6e-20 N=10 pk7&pk9 minus
+307-  0:	PKGMv1-51487_g	PKGMv1-11851_g	      0
+307-  1:	PKGMv1-51492_g	PKGMv1-11850_g	      0
+307-  2:	PKGMv1-51493_g	PKGMv1-11848_g	 5e-123
+307-  3:	PKGMv1-51494_g	PKGMv1-11845_g	 2e-134
+307-  4:	PKGMv1-51496_g	PKGMv1-11843_g	 5e-128
+307-  5:	PKGMv1-51497_g	PKGMv1-11842_g	  2e-61
+307-  6:	PKGMv1-51498_g	PKGMv1-11841_g	 5e-151
+307-  7:	PKGMv1-51500_g	PKGMv1-11840_g	 4e-149
+307-  8:	PKGMv1-51501_g	PKGMv1-11837_g	 3e-145
+307-  9:	PKGMv1-51502_g	PKGMv1-11836_g	      0
+## Alignment 308: score=321.0 e_value=5.5e-14 N=7 pk7&pk9 minus
+308-  0:	PKGMv1-66513_g	PKGMv1-3870_g	  3e-54
+308-  1:	PKGMv1-66515_g	PKGMv1-3844_g	      0
+308-  2:	PKGMv1-66518_g	PKGMv1-3839_g	 2e-180
+308-  3:	PKGMv1-66519_g	PKGMv1-3838_g	      0
+308-  4:	PKGMv1-66520_g	PKGMv1-3837_g	      0
+308-  5:	PKGMv1-66521_g	PKGMv1-3836_g	      0
+308-  6:	PKGMv1-66522_g	PKGMv1-3835_g	  2e-88
+## Alignment 309: score=298.0 e_value=1.1e-08 N=6 pk7&pk9 minus
+309-  0:	PKGMv1-41787_g	PKGMv1-48070_g	      0
+309-  1:	PKGMv1-41788_g	PKGMv1-48068_g	      0
+309-  2:	PKGMv1-41789_g	PKGMv1-48067_g	 7e-112
+309-  3:	PKGMv1-41790_g	PKGMv1-48066_g	      0
+309-  4:	PKGMv1-41791_g	PKGMv1-48065_g	  2e-61
+309-  5:	PKGMv1-41793_g	PKGMv1-48063_g	  3e-89
+## Alignment 310: score=599.0 e_value=4.2e-26 N=12 pk8&pk8 plus
+310-  0:	PKGMv1-80967_g	PKGMv1-81009_g	      0
+310-  1:	PKGMv1-80968_g	PKGMv1-81010_g	  2e-52
+310-  2:	PKGMv1-80970_g	PKGMv1-81012_g	  2e-47
+310-  3:	PKGMv1-80971_g	PKGMv1-81013_g	      0
+310-  4:	PKGMv1-80972_g	PKGMv1-81014_g	      0
+310-  5:	PKGMv1-80973_g	PKGMv1-81015_g	 8e-178
+310-  6:	PKGMv1-80974_g	PKGMv1-81016_g	  1e-88
+310-  7:	PKGMv1-80975_g	PKGMv1-81017_g	      0
+310-  8:	PKGMv1-80976_g	PKGMv1-81018_g	      0
+310-  9:	PKGMv1-80977_g	PKGMv1-81019_g	  3e-34
+310- 10:	PKGMv1-80978_g	PKGMv1-81020_g	      0
+310- 11:	PKGMv1-80979_g	PKGMv1-81021_g	  1e-64
+## Alignment 311: score=593.0 e_value=4e-27 N=12 pk8&pk8 plus
+311-  0:	PKGMv1-15349_g	PKGMv1-15432_g	  3e-59
+311-  1:	PKGMv1-15350_g	PKGMv1-15433_g	 2e-114
+311-  2:	PKGMv1-15353_g	PKGMv1-15437_g	      0
+311-  3:	PKGMv1-15354_g	PKGMv1-15438_g	      0
+311-  4:	PKGMv1-15355_g	PKGMv1-15439_g	      0
+311-  5:	PKGMv1-15356_g	PKGMv1-15440_g	      0
+311-  6:	PKGMv1-15358_g	PKGMv1-15442_g	      0
+311-  7:	PKGMv1-15359_g	PKGMv1-15443_g	      0
+311-  8:	PKGMv1-15360_g	PKGMv1-15445_g	      0
+311-  9:	PKGMv1-15363_g	PKGMv1-15446_g	 3e-128
+311- 10:	PKGMv1-15364_g	PKGMv1-15447_g	  1e-58
+311- 11:	PKGMv1-15365_g	PKGMv1-15448_g	 1e-142
+## Alignment 312: score=443.0 e_value=1.1e-19 N=9 pk8&pk8 plus
+312-  0:	PKGMv1-11694_g	PKGMv1-11717_g	 3e-122
+312-  1:	PKGMv1-11695_g	PKGMv1-11719_g	      0
+312-  2:	PKGMv1-11700_g	PKGMv1-11722_g	      0
+312-  3:	PKGMv1-11702_g	PKGMv1-11724_g	      0
+312-  4:	PKGMv1-11703_g	PKGMv1-11725_g	  3e-95
+312-  5:	PKGMv1-11704_g	PKGMv1-11726_g	      0
+312-  6:	PKGMv1-11705_g	PKGMv1-11727_g	 4e-145
+312-  7:	PKGMv1-11707_g	PKGMv1-11728_g	  1e-25
+312-  8:	PKGMv1-11708_g	PKGMv1-11729_g	      0
+## Alignment 313: score=298.0 e_value=1.6e-08 N=6 pk8&pk8 plus
+313-  0:	PKGMv1-80884_g	PKGMv1-7357_g	      0
+313-  1:	PKGMv1-80886_g	PKGMv1-7359_g	 7e-135
+313-  2:	PKGMv1-80887_g	PKGMv1-7361_g	  7e-76
+313-  3:	PKGMv1-80888_g	PKGMv1-7362_g	 8e-100
+313-  4:	PKGMv1-80889_g	PKGMv1-7363_g	      0
+313-  5:	PKGMv1-80890_g	PKGMv1-7364_g	      0
+## Alignment 314: score=250.0 e_value=9.1e-08 N=5 pk8&pk8 plus
+314-  0:	PKGMv1-62871_g	PKGMv1-42491_g	      0
+314-  1:	PKGMv1-62872_g	PKGMv1-42492_g	 1e-130
+314-  2:	PKGMv1-62873_g	PKGMv1-42493_g	  1e-88
+314-  3:	PKGMv1-62874_g	PKGMv1-42494_g	  6e-53
+314-  4:	PKGMv1-62875_g	PKGMv1-42495_g	  1e-29
+## Alignment 315: score=819.0 e_value=2.6e-45 N=17 pk8&pk8 minus
+315-  0:	PKGMv1-51072_g	PKGMv1-51162_g	  3e-92
+315-  1:	PKGMv1-51074_g	PKGMv1-51158_g	 7e-106
+315-  2:	PKGMv1-51075_g	PKGMv1-51157_g	 2e-180
+315-  3:	PKGMv1-51076_g	PKGMv1-51156_g	 1e-131
+315-  4:	PKGMv1-51077_g	PKGMv1-51155_g	 9e-143
+315-  5:	PKGMv1-51078_g	PKGMv1-51154_g	      0
+315-  6:	PKGMv1-51079_g	PKGMv1-51153_g	      0
+315-  7:	PKGMv1-51082_g	PKGMv1-51150_g	      0
+315-  8:	PKGMv1-51085_g	PKGMv1-51149_g	 9e-110
+315-  9:	PKGMv1-51087_g	PKGMv1-51147_g	  7e-64
+315- 10:	PKGMv1-51088_g	PKGMv1-51146_g	 4e-180
+315- 11:	PKGMv1-51089_g	PKGMv1-51145_g	  7e-33
+315- 12:	PKGMv1-51090_g	PKGMv1-51144_g	  6e-46
+315- 13:	PKGMv1-51102_g	PKGMv1-51143_g	      0
+315- 14:	PKGMv1-51103_g	PKGMv1-51141_g	 8e-165
+315- 15:	PKGMv1-51111_g	PKGMv1-51135_g	      0
+315- 16:	PKGMv1-51112_g	PKGMv1-51130_g	  2e-70
+## Alignment 316: score=341.0 e_value=7.8e-12 N=7 pk8&pk8 minus
+316-  0:	PKGMv1-5469_g	PKGMv1-5446_g	      0
+316-  1:	PKGMv1-5470_g	PKGMv1-5445_g	 3e-162
+316-  2:	PKGMv1-5471_g	PKGMv1-5444_g	      0
+316-  3:	PKGMv1-5474_g	PKGMv1-5443_g	 6e-166
+316-  4:	PKGMv1-5475_g	PKGMv1-5442_g	      0
+316-  5:	PKGMv1-5479_g	PKGMv1-5438_g	      0
+316-  6:	PKGMv1-5484_g	PKGMv1-5435_g	 4e-135
+## Alignment 317: score=545.0 e_value=1.2e-25 N=11 pk8&pk9 plus
+317-  0:	PKGMv1-68751_g	PKGMv1-70722_g	      0
+317-  1:	PKGMv1-68757_g	PKGMv1-70723_g	      0
+317-  2:	PKGMv1-68758_g	PKGMv1-70724_g	  1e-96
+317-  3:	PKGMv1-68759_g	PKGMv1-70725_g	      0
+317-  4:	PKGMv1-68760_g	PKGMv1-70726_g	 4e-136
+317-  5:	PKGMv1-68761_g	PKGMv1-70727_g	      0
+317-  6:	PKGMv1-68762_g	PKGMv1-70728_g	 9e-180
+317-  7:	PKGMv1-68763_g	PKGMv1-70729_g	      0
+317-  8:	PKGMv1-68764_g	PKGMv1-70730_g	  1e-65
+317-  9:	PKGMv1-68765_g	PKGMv1-70731_g	 6e-133
+317- 10:	PKGMv1-68766_g	PKGMv1-70732_g	      0
+## Alignment 318: score=497.0 e_value=3.6e-21 N=10 pk8&pk9 plus
+318-  0:	PKGMv1-7661_g	PKGMv1-48435_g	      0
+318-  1:	PKGMv1-7662_g	PKGMv1-48437_g	 1e-153
+318-  2:	PKGMv1-7663_g	PKGMv1-48438_g	 3e-155
+318-  3:	PKGMv1-7664_g	PKGMv1-48439_g	      0
+318-  4:	PKGMv1-7666_g	PKGMv1-48440_g	      0
+318-  5:	PKGMv1-7667_g	PKGMv1-48441_g	 9e-118
+318-  6:	PKGMv1-7668_g	PKGMv1-48442_g	  7e-70
+318-  7:	PKGMv1-7670_g	PKGMv1-48443_g	 6e-150
+318-  8:	PKGMv1-7671_g	PKGMv1-48444_g	 6e-156
+318-  9:	PKGMv1-7672_g	PKGMv1-48445_g	 9e-141
+## Alignment 319: score=495.0 e_value=4.5e-21 N=10 pk8&pk9 plus
+319-  0:	PKGMv1-20165_g	PKGMv1-81809_g	 4e-161
+319-  1:	PKGMv1-20166_g	PKGMv1-81810_g	  2e-44
+319-  2:	PKGMv1-20167_g	PKGMv1-81811_g	  2e-72
+319-  3:	PKGMv1-20168_g	PKGMv1-81814_g	      0
+319-  4:	PKGMv1-20169_g	PKGMv1-81815_g	  2e-57
+319-  5:	PKGMv1-20170_g	PKGMv1-81816_g	      0
+319-  6:	PKGMv1-20171_g	PKGMv1-81818_g	 4e-116
+319-  7:	PKGMv1-20172_g	PKGMv1-81819_g	 7e-102
+319-  8:	PKGMv1-20173_g	PKGMv1-81822_g	      0
+319-  9:	PKGMv1-20174_g	PKGMv1-81823_g	      0
+## Alignment 320: score=397.0 e_value=2e-14 N=8 pk8&pk9 plus
+320-  0:	PKGMv1-34316_g	PKGMv1-49130_g	 1e-108
+320-  1:	PKGMv1-34317_g	PKGMv1-49131_g	      0
+320-  2:	PKGMv1-34318_g	PKGMv1-49132_g	      0
+320-  3:	PKGMv1-34320_g	PKGMv1-49136_g	 4e-162
+320-  4:	PKGMv1-34321_g	PKGMv1-49137_g	 4e-123
+320-  5:	PKGMv1-34322_g	PKGMv1-49138_g	      0
+320-  6:	PKGMv1-34323_g	PKGMv1-49139_g	      0
+320-  7:	PKGMv1-34324_g	PKGMv1-49140_g	 2e-109
+## Alignment 321: score=389.0 e_value=3.1e-15 N=8 pk8&pk9 plus
+321-  0:	PKGMv1-77590_g	PKGMv1-77666_g	  2e-49
+321-  1:	PKGMv1-77591_g	PKGMv1-77667_g	  1e-71
+321-  2:	PKGMv1-77603_g	PKGMv1-77671_g	      0
+321-  3:	PKGMv1-77604_g	PKGMv1-77672_g	      0
+321-  4:	PKGMv1-77605_g	PKGMv1-77673_g	      0
+321-  5:	PKGMv1-77606_g	PKGMv1-77674_g	 6e-127
+321-  6:	PKGMv1-77607_g	PKGMv1-77675_g	  2e-74
+321-  7:	PKGMv1-77608_g	PKGMv1-77676_g	      0
+## Alignment 322: score=348.0 e_value=5.3e-12 N=7 pk8&pk9 plus
+322-  0:	PKGMv1-13156_g	PKGMv1-64062_g	      0
+322-  1:	PKGMv1-13157_g	PKGMv1-64064_g	      0
+322-  2:	PKGMv1-13158_g	PKGMv1-64065_g	      0
+322-  3:	PKGMv1-13159_g	PKGMv1-64066_g	 2e-130
+322-  4:	PKGMv1-13160_g	PKGMv1-64067_g	 9e-173
+322-  5:	PKGMv1-13161_g	PKGMv1-64068_g	  1e-38
+322-  6:	PKGMv1-13163_g	PKGMv1-64069_g	  9e-74
+## Alignment 323: score=250.0 e_value=3.4e-06 N=5 pk8&pk9 plus
+323-  0:	PKGMv1-57222_g	PKGMv1-52087_g	      0
+323-  1:	PKGMv1-57223_g	PKGMv1-52088_g	 1e-117
+323-  2:	PKGMv1-57224_g	PKGMv1-52089_g	  9e-76
+323-  3:	PKGMv1-57225_g	PKGMv1-52090_g	  9e-64
+323-  4:	PKGMv1-57226_g	PKGMv1-52091_g	  1e-88
+## Alignment 324: score=593.0 e_value=9.5e-27 N=12 pk8&pk9 minus
+324-  0:	PKGMv1-14550_g	PKGMv1-56390_g	 6e-130
+324-  1:	PKGMv1-14552_g	PKGMv1-56387_g	 2e-138
+324-  2:	PKGMv1-14554_g	PKGMv1-56384_g	      0
+324-  3:	PKGMv1-14556_g	PKGMv1-56382_g	  5e-62
+324-  4:	PKGMv1-14557_g	PKGMv1-56381_g	      0
+324-  5:	PKGMv1-14558_g	PKGMv1-56380_g	      0
+324-  6:	PKGMv1-14559_g	PKGMv1-56379_g	      0
+324-  7:	PKGMv1-14560_g	PKGMv1-56378_g	  3e-71
+324-  8:	PKGMv1-14561_g	PKGMv1-56377_g	      0
+324-  9:	PKGMv1-14562_g	PKGMv1-56375_g	      0
+324- 10:	PKGMv1-14563_g	PKGMv1-56374_g	      0
+324- 11:	PKGMv1-14565_g	PKGMv1-56373_g	      0
+## Alignment 325: score=535.0 e_value=2.1e-24 N=11 pk8&pk9 minus
+325-  0:	PKGMv1-79148_g	PKGMv1-50740_g	      0
+325-  1:	PKGMv1-79149_g	PKGMv1-50737_g	      0
+325-  2:	PKGMv1-79150_g	PKGMv1-50736_g	 2e-110
+325-  3:	PKGMv1-79151_g	PKGMv1-50735_g	 1e-120
+325-  4:	PKGMv1-79152_g	PKGMv1-50734_g	  1e-61
+325-  5:	PKGMv1-79154_g	PKGMv1-50727_g	 2e-142
+325-  6:	PKGMv1-79155_g	PKGMv1-50726_g	      0
+325-  7:	PKGMv1-79156_g	PKGMv1-50725_g	 2e-114
+325-  8:	PKGMv1-79158_g	PKGMv1-50723_g	 5e-156
+325-  9:	PKGMv1-79159_g	PKGMv1-50720_g	      0
+325- 10:	PKGMv1-79164_g	PKGMv1-50719_g	 1e-144
+## Alignment 326: score=296.0 e_value=7e-09 N=6 pk8&pk9 minus
+326-  0:	PKGMv1-40084_g	PKGMv1-19398_g	 2e-158
+326-  1:	PKGMv1-40085_g	PKGMv1-19397_g	      0
+326-  2:	PKGMv1-40087_g	PKGMv1-19396_g	      0
+326-  3:	PKGMv1-40088_g	PKGMv1-19395_g	 6e-102
+326-  4:	PKGMv1-40090_g	PKGMv1-19394_g	 8e-142
+326-  5:	PKGMv1-40091_g	PKGMv1-19391_g	  4e-51
+## Alignment 327: score=349.0 e_value=9.1e-11 N=7 pk9&pk9 plus
+327-  0:	PKGMv1-15684_g	PKGMv1-15722_g	      0
+327-  1:	PKGMv1-15685_g	PKGMv1-15723_g	 7e-151
+327-  2:	PKGMv1-15686_g	PKGMv1-15724_g	      0
+327-  3:	PKGMv1-15687_g	PKGMv1-15725_g	      0
+327-  4:	PKGMv1-15688_g	PKGMv1-15727_g	      0
+327-  5:	PKGMv1-15689_g	PKGMv1-15728_g	      0
+327-  6:	PKGMv1-15690_g	PKGMv1-15729_g	      0
+## Alignment 328: score=297.0 e_value=1.2e-09 N=6 pk9&pk9 plus
+328-  0:	PKGMv1-23206_g	PKGMv1-12196_g	 3e-112
+328-  1:	PKGMv1-23207_g	PKGMv1-12198_g	  1e-96
+328-  2:	PKGMv1-23208_g	PKGMv1-12199_g	 1e-154
+328-  3:	PKGMv1-23209_g	PKGMv1-12200_g	  8e-66
+328-  4:	PKGMv1-23212_g	PKGMv1-12201_g	      0
+328-  5:	PKGMv1-23213_g	PKGMv1-12202_g	      0
+## Alignment 329: score=547.0 e_value=2.1e-24 N=11 pk9&pk9 minus
+329-  0:	PKGMv1-72265_g	PKGMv1-72320_g	  5e-95
+329-  1:	PKGMv1-72266_g	PKGMv1-72319_g	 5e-101
+329-  2:	PKGMv1-72267_g	PKGMv1-72318_g	      0
+329-  3:	PKGMv1-72268_g	PKGMv1-72317_g	      0
+329-  4:	PKGMv1-72269_g	PKGMv1-72316_g	 7e-120
+329-  5:	PKGMv1-72270_g	PKGMv1-72315_g	 1e-151
+329-  6:	PKGMv1-72272_g	PKGMv1-72313_g	 4e-164
+329-  7:	PKGMv1-72273_g	PKGMv1-72312_g	      0
+329-  8:	PKGMv1-72275_g	PKGMv1-72310_g	      0
+329-  9:	PKGMv1-72277_g	PKGMv1-72309_g	  1e-91
+329- 10:	PKGMv1-72278_g	PKGMv1-72308_g	  7e-27
+## Alignment 330: score=543.0 e_value=2.7e-23 N=11 pk9&pk9 minus
+330-  0:	PKGMv1-72286_g	PKGMv1-16432_g	 6e-147
+330-  1:	PKGMv1-72287_g	PKGMv1-16430_g	  8e-39
+330-  2:	PKGMv1-72289_g	PKGMv1-16428_g	 6e-109
+330-  3:	PKGMv1-72291_g	PKGMv1-16427_g	      0
+330-  4:	PKGMv1-72293_g	PKGMv1-16425_g	 3e-107
+330-  5:	PKGMv1-72294_g	PKGMv1-16422_g	 8e-134
+330-  6:	PKGMv1-72295_g	PKGMv1-16421_g	      0
+330-  7:	PKGMv1-72296_g	PKGMv1-16420_g	 5e-105
+330-  8:	PKGMv1-72297_g	PKGMv1-16418_g	  3e-39
+330-  9:	PKGMv1-72298_g	PKGMv1-16417_g	 9e-130
+330- 10:	PKGMv1-72299_g	PKGMv1-16416_g	 1e-125
+## Alignment 331: score=530.0 e_value=3e-27 N=11 pk9&pk9 minus
+331-  0:	PKGMv1-71890_g	PKGMv1-4248_g	  4e-34
+331-  1:	PKGMv1-71902_g	PKGMv1-4245_g	      0
+331-  2:	PKGMv1-71903_g	PKGMv1-4244_g	      0
+331-  3:	PKGMv1-71904_g	PKGMv1-4243_g	 2e-102
+331-  4:	PKGMv1-71905_g	PKGMv1-4242_g	      0
+331-  5:	PKGMv1-71907_g	PKGMv1-4233_g	 2e-150
+331-  6:	PKGMv1-71908_g	PKGMv1-4232_g	 7e-157
+331-  7:	PKGMv1-71909_g	PKGMv1-4231_g	  7e-68
+331-  8:	PKGMv1-71911_g	PKGMv1-4229_g	      0
+331-  9:	PKGMv1-71912_g	PKGMv1-4228_g	      0
+331- 10:	PKGMv1-71913_g	PKGMv1-4227_g	  1e-99
+## Alignment 332: score=297.0 e_value=4.9e-08 N=6 pk9&pk9 minus
+332-  0:	PKGMv1-63277_g	PKGMv1-63305_g	 4e-178
+332-  1:	PKGMv1-63279_g	PKGMv1-63303_g	      0
+332-  2:	PKGMv1-63280_g	PKGMv1-63301_g	  3e-65
+332-  3:	PKGMv1-63281_g	PKGMv1-63300_g	  1e-71
+332-  4:	PKGMv1-63282_g	PKGMv1-63298_g	      0
+332-  5:	PKGMv1-63283_g	PKGMv1-63297_g	  3e-55
+## Alignment 333: score=297.0 e_value=6.9e-08 N=6 pk9&pk9 minus
+333-  0:	PKGMv1-70712_g	PKGMv1-11912_g	      0
+333-  1:	PKGMv1-70713_g	PKGMv1-11911_g	      0
+333-  2:	PKGMv1-70715_g	PKGMv1-11910_g	      0
+333-  3:	PKGMv1-70716_g	PKGMv1-11909_g	  1e-51
+333-  4:	PKGMv1-70717_g	PKGMv1-11908_g	      0
+333-  5:	PKGMv1-70720_g	PKGMv1-11906_g	  3e-45
+## Alignment 334: score=297.0 e_value=3.6e-11 N=6 pk9&pk9 minus
+334-  0:	PKGMv1-39878_g	PKGMv1-81960_g	  3e-63
+334-  1:	PKGMv1-39881_g	PKGMv1-81958_g	      0
+334-  2:	PKGMv1-39882_g	PKGMv1-81956_g	      0
+334-  3:	PKGMv1-39883_g	PKGMv1-81955_g	  2e-50
+334-  4:	PKGMv1-39884_g	PKGMv1-81954_g	 6e-170
+334-  5:	PKGMv1-39885_g	PKGMv1-81953_g	  4e-45

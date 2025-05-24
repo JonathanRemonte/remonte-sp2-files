@@ -1,0 +1,25 @@
+uuid: 452c3712-2f72-4278-9093-e3d971d5e210
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.biosample_name
+field_name: biosample_name
+entity_type: tripal_entity
+type: chado_text_type_default
+settings:
+  termIdSpace: schema
+  termAccession: name
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: biomaterial
+    base_column: name
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

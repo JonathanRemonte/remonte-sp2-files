@@ -1,0 +1,24 @@
+uuid: 51e3f247-b2db-45ce-afc4-f5fd80c3bdb3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.qtl_is_analysis
+    - tripal.content_type.QTL
+  module:
+    - tripal_chado
+id: tripal_entity.QTL.qtl_is_analysis
+field_name: qtl_is_analysis
+entity_type: tripal_entity
+bundle: QTL
+label: 'Is Analysis'
+description: 'Indicates if this feature was predicted computationally using another feature.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: is_analysis
+  debug: false
+field_type: chado_boolean_type_default

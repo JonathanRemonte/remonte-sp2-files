@@ -1,0 +1,24 @@
+uuid: cd05f79d-4f19-41b8-9da3-7c7fa2ca0810
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.biosample_biosourceprovider
+    - tripal.content_type.biosample
+  module:
+    - tripal_chado
+id: tripal_entity.biosample.biosample_biosourceprovider
+field_name: biosample_biosourceprovider
+entity_type: tripal_entity
+bundle: biosample
+label: 'Biosource Provider'
+description: 'An entity (e.g. individual or organization) through whom a person can gain access to information, favors, influential people, and the like.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: NCIT
+  termAccession: C48036
+  debug: false
+field_type: chado_contact_type_default

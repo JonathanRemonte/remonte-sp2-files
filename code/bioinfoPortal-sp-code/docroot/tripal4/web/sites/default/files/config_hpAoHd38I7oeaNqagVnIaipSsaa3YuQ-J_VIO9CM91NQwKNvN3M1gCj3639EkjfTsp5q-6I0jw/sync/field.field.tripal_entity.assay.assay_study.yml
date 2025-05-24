@@ -1,0 +1,24 @@
+uuid: 65d51b18-0677-4b40-aa07-86dcdae274f1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_study
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_study
+field_name: assay_study
+entity_type: tripal_entity
+bundle: assay
+label: Study
+description: 'A study is a process that realizes the steps of a study design.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SIO
+  termAccession: '001066'
+  debug: false
+field_type: chado_study_type_default

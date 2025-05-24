@@ -1,0 +1,24 @@
+uuid: 00ed2de7-0c7d-4857-aef0-1c6c76af036f
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_arraybatchidentifier
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_arraybatchidentifier
+field_name: assay_arraybatchidentifier
+entity_type: tripal_entity
+bundle: assay
+label: 'Array Batch Identifier'
+description: 'A unique identifier for an array batch.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: array_batch_identifier
+  debug: false
+field_type: chado_text_type_default

@@ -1,0 +1,26 @@
+uuid: 81cfebd0-7305-4602-8aa5-13b00321f832
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.assay_operator
+field_name: assay_operator
+entity_type: tripal_entity
+type: chado_contact_type_default
+settings:
+  termIdSpace: NCIT
+  termAccession: C48036
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: assay
+    linker_table: assay
+    linker_fkey_column: operator_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

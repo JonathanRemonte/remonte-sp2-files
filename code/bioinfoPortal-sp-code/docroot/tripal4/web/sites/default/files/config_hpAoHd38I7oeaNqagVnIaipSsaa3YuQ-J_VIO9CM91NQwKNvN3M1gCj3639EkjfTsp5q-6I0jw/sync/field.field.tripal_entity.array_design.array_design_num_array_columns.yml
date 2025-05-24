@@ -1,0 +1,24 @@
+uuid: c557cb90-3f76-4ba8-913f-f0c5a3a1ca43
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_num_array_columns
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_num_array_columns
+field_name: array_design_num_array_columns
+entity_type: tripal_entity
+bundle: array_design
+label: 'Num Array Columns'
+description: 'The number of columns in an array.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: num_array_columns
+  debug: false
+field_type: chado_integer_type_default

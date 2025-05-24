@@ -1,0 +1,24 @@
+uuid: 9b87280f-785e-4d52-8fe6-66766bca20df
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.biosample_organism
+    - tripal.content_type.biosample
+  module:
+    - tripal_chado
+id: tripal_entity.biosample.biosample_organism
+field_name: biosample_organism
+entity_type: tripal_entity
+bundle: biosample
+label: Organism
+description: 'A material entity that is an individual living system, such as animal, plant, bacteria or virus, that is capable of replicating or reproducing, growth and maintenance in the right environment. An organism may be unicellular or made up, like humans, of many billions of cells divided into specialized tissues and organs.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: OBI
+  termAccession: '0100026'
+  debug: false
+field_type: chado_organism_type_default

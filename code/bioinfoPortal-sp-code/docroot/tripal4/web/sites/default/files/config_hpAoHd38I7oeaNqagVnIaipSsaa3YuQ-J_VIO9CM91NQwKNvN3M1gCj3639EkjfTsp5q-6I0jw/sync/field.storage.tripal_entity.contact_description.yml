@@ -1,0 +1,26 @@
+uuid: 0e2e8fc8-3e09-46d0-bbba-4540cc67bb9d
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.contact_description
+field_name: contact_description
+entity_type: tripal_entity
+type: chado_string_type_default
+settings:
+  termIdSpace: schema
+  termAccession: description
+  max_length: 255
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: contact
+    base_column: description
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

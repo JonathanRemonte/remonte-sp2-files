@@ -1,0 +1,26 @@
+uuid: 151cd943-2f42-4c5a-9fe5-fb7072c216e8
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.study_contact
+field_name: study_contact
+entity_type: tripal_entity
+type: chado_contact_type_default
+settings:
+  termIdSpace: NCIT
+  termAccession: C47954
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: study
+    linker_table: study
+    linker_fkey_column: contact_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

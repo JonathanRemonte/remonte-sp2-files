@@ -1,0 +1,81 @@
+version: "3.7"
+
+services:
+  php-apache:
+    build:
+      context: .
+      dockerfile: ./apache/Dockerfile
+      args:
+        SMTP_USER: ${SMTP_USER}
+        SMTP_PASS: ${SMTP_PASS}
+    container_name: php-apache
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+    env_file: .env
+    volumes:
+      - ${PROJECT_ROOT}/docroot/tripal4:/var/www/docroot
+      - ${PROJECT_ROOT}/mapman/usadellab.github.io/MapManJS:/mapman
+      - ${PROJECT_ROOT}/synteny7:/synteny
+      - ${PROJECT_ROOT}/secrets/keys:/var/www/private_keys
+    ports:
+      - "8080:80"
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:${POSTGRES_VERSION:-latest}
+    container_name: postgres
+    restart: always
+    env_file: .env
+    volumes:
+      - data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  # pgadmin:
+  #   image: dpage/pgadmin4
+  #   container_name: pgadmin
+  #   restart: always
+  #   ports:
+  #     - "5050:80"
+  #   environment:
+  #     PGADMIN_DEFAULT_EMAIL: remontejv@gmail.com
+  #     PGADMIN_DEFAULT_PASSWORD: password
+  #     PGADMIN_CONFIG_SERVER_MODE: 'False'
+  #     PGADMIN_CONFIG_MASTER_PASSWORD_REQUIRED: 'False'
+  #   volumes:
+  #     - ./pgadmin/servers.json:/pgadmin4/servers.json
+  #   depends_on:
+  #     - postgres
+
+  mapman:
+    build: ./mapman
+    container_name: mapman
+    volumes:
+      - ${PROJECT_ROOT}/mapman/usadellab.github.io/MapManJS:/usr/local/apache2/htdocs/
+    ports:
+      - "3000:80"
+
+  synteny-apache:
+    build: ./synteny
+    container_name: synteny
+    restart: always
+    env_file: .env
+    volumes:
+      - ${PROJECT_ROOT}/synteny7:/var/www/html
+    ports:
+      - "8081:80"
+    depends_on:
+      - postgres
+
+  # mailhog:
+  #   image: mailhog/mailhog
+  #   container_name: mailhog
+  #   restart: always
+  #   ports:
+  #     - "8025:8025"   # Web UI
+  #     - "1025:1025"   # SMTP
+
+volumes:
+  data:

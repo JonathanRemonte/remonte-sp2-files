@@ -1,0 +1,24 @@
+uuid: 3391870e-5631-43c9-9b54-7ae41d80ea5a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.germplasm_dbxref_ann
+    - tripal.content_type.germplasm
+  module:
+    - tripal_chado
+id: tripal_entity.germplasm.germplasm_dbxref_ann
+field_name: germplasm_dbxref_ann
+entity_type: tripal_entity
+bundle: germplasm
+label: 'Database Reference Annotations'
+description: 'The IDs where this record may be available in other external online databases.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SBO
+  termAccession: '0000552'
+  debug: false
+field_type: chado_dbxref_type_default

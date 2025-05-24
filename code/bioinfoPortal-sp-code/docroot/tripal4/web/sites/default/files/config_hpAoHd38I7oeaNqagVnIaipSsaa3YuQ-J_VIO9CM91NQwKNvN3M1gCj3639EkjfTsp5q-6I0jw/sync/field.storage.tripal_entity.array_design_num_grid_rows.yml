@@ -1,0 +1,25 @@
+uuid: 8ad079db-92d8-422a-93d3-e95fb25b8c0b
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.array_design_num_grid_rows
+field_name: array_design_num_grid_rows
+entity_type: tripal_entity
+type: chado_integer_type_default
+settings:
+  termIdSpace: local
+  termAccession: num_grid_rows
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: arraydesign
+    base_column: num_grid_rows
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

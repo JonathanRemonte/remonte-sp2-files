@@ -1,0 +1,24 @@
+uuid: d4fc6cab-a917-484e-a3c6-bb79b29c79ff
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_manufacturer
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_manufacturer
+field_name: array_design_manufacturer
+entity_type: tripal_entity
+bundle: array_design
+label: Manufacturer
+description: "A manufacturer's contact details"
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: NCIT
+  termAccession: C47954
+  debug: false
+field_type: chado_contact_type_default

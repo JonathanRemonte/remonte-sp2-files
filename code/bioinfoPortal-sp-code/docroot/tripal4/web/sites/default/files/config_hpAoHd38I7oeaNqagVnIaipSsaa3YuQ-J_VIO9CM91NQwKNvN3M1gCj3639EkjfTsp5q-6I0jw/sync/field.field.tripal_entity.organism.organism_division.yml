@@ -1,0 +1,25 @@
+uuid: dd0d4414-8eee-4a09-b52a-bda687114765
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.organism_division
+    - tripal.content_type.organism
+  module:
+    - tripal_chado
+id: tripal_entity.organism.organism_division
+field_name: organism_division
+entity_type: tripal_entity
+bundle: organism
+label: Division
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: division
+  debug: false
+  fixed_value: ''
+field_type: chado_property_type_default

@@ -1,0 +1,24 @@
+uuid: ad84442a-7fec-4991-b998-73090a6db1be
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.analysis_name
+    - tripal.content_type.analysis
+  module:
+    - tripal_chado
+id: tripal_entity.analysis.analysis_name
+field_name: analysis_name
+entity_type: tripal_entity
+bundle: analysis
+label: Name
+description: 'The name of the analysis.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: name
+  debug: false
+field_type: chado_string_type_default

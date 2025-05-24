@@ -1,0 +1,24 @@
+uuid: 50a1b4b7-284f-4d2b-adcc-6c0a43abb28c
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_dimensions
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_dimensions
+field_name: array_design_dimensions
+entity_type: tripal_entity
+bundle: array_design
+label: 'Array Dimensions'
+description: 'The dimensions of an array.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: array_dimensions
+  debug: false
+field_type: chado_text_type_default

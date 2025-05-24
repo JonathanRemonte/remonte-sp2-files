@@ -1,8 +1,6 @@
-# My Special Problem: An example of CMSC 190 GitHub Repository
-Authors: Juan D. Cruz and Adviser' S. Name
+# IngRICE: A Unified Bioinformatics Portal for Oryza sativa Research
+Authors: Jonathan Andre V. Remonte and Arian J. Jacildo
 
-This is the abstract of my special problem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut congue, diam molestie pellentesque feugiat, lorem libero vehicula lorem, eget accumsan magna mi non sem. Aliquam erat volutpat. Aliquam scelerisque sagittis mi sed consequat. Ut vestibulum ullamcorper fermentum. Vivamus eu efficitur nunc, quis tempus libero. Aliquam condimentum posuere sem, vitae auctor purus tempus quis. Aenean laoreet nulla pretium mauris faucibus gravida. Nunc interdum, tortor at tempus egestas, velit eros bibendum dui, a malesuada mi lectus ut ante. Praesent ac turpis gravida, tincidunt tellus vitae, volutpat tortor.
+Rice plays a critical role in global food security, especially across Asia and the Pacific. As rice genomics research advances, the community faces growing challenges in managing vast datasets, tool interoperability, and platform fragmentation. This study presents the development of a secure, modular, and extensible bioinformatics portal tailored for rice research. Built using Drupal and Tripal, and supported by a PostgreSQL-Chado schema, the portal consolidates diverse genomic datasets and tools into a unified, user-friendly platform. Core features include integration of key visualization tools—such as MapManJS, JBrowse, Synteny Viewer, and SNP-Seek Genotype Viewer with authentication-based access control, and containerized deployment via Docker on a cloud-hosted infrastructure. The system underwent rigorous evaluation for usability, functionality, integration, and security, confirming its readiness for research deployment. Future work will focus on securing the portal with institutional SSL/TLS certification, optimizing frontend performance through selective use of modern frameworks like React, and replacing placeholder content with high-confidence rice genomic data. Additionally, integration with workflow engines such as Galaxy is envisioned to enable in-portal execution of bioinformatics pipelines, further enhancing research efficiency and accessibility.
 
-Keywords: template, submission, repository, example
-
-Read [How To Document](HOWTO.md) for more details.
+Keywords: Bioinformatics Portal, Drupal, Tripal, Biopathways Mapping, Synteny Viewer, Rice Research

@@ -1,0 +1,24 @@
+uuid: 88e8d6a6-788f-4955-b760-0b481d5861ff
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.qtl_dbxref
+    - tripal.content_type.QTL
+  module:
+    - tripal_chado
+id: tripal_entity.QTL.qtl_dbxref
+field_name: qtl_dbxref
+entity_type: tripal_entity
+bundle: QTL
+label: 'Primary Database Reference'
+description: 'The ID where this record may be available in an external online database.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SBO
+  termAccession: '0000554'
+  debug: false
+field_type: chado_dbxref_type_default

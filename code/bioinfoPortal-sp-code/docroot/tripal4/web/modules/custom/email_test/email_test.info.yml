@@ -1,0 +1,5 @@
+name: 'Email Test'
+type: module
+description: 'Provides a route to test sending emails.'
+core_version_requirement: ^10
+package: Custom

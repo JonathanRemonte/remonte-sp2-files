@@ -1,0 +1,24 @@
+uuid: 99ba99c7-8178-4989-baf5-9a86004a777d
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_protocol
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_protocol
+field_name: assay_protocol
+entity_type: tripal_entity
+bundle: assay
+label: Protocol
+description: 'The protocol followed to generate this resource.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: data
+  termAccession: '1047'
+  debug: false
+field_type: chado_protocol_type_default

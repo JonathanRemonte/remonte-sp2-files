@@ -1,0 +1,24 @@
+uuid: dce7034d-5bda-463f-92f9-98a16fe432fa
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_num_grid_columns
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_num_grid_columns
+field_name: array_design_num_grid_columns
+entity_type: tripal_entity
+bundle: array_design
+label: 'Num Grid Columns'
+description: 'The number of columns in a grid.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: num_grid_columns
+  debug: false
+field_type: chado_integer_type_default

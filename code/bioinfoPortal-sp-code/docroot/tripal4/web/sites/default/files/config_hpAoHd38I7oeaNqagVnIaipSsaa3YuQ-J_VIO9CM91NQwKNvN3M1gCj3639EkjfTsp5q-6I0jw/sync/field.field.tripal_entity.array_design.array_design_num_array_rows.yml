@@ -1,0 +1,24 @@
+uuid: 77444ba5-1edd-466e-8a40-5e0c983b0279
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_num_array_rows
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_num_array_rows
+field_name: array_design_num_array_rows
+entity_type: tripal_entity
+bundle: array_design
+label: 'Num Array Rows'
+description: 'The number of rows in an array.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: num_array_rows
+  debug: false
+field_type: chado_integer_type_default

@@ -1,0 +1,396 @@
+uuid: fc1839aa-22b8-4f60-a099-690b3d68dfa7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.organism.organism_abbreviation
+    - field.field.tripal_entity.organism.organism_comment
+    - field.field.tripal_entity.organism.organism_common_name
+    - field.field.tripal_entity.organism.organism_dbxref
+    - field.field.tripal_entity.organism.organism_division
+    - field.field.tripal_entity.organism.organism_genetic_code
+    - field.field.tripal_entity.organism.organism_genetic_code_name
+    - field.field.tripal_entity.organism.organism_genus
+    - field.field.tripal_entity.organism.organism_infraspecific_name
+    - field.field.tripal_entity.organism.organism_infraspecific_type
+    - field.field.tripal_entity.organism.organism_lineage
+    - field.field.tripal_entity.organism.organism_pub
+    - field.field.tripal_entity.organism.organism_species
+    - tripal.content_type.organism
+  module:
+    - layout_builder
+    - tripal_chado
+    - user
+third_party_settings:
+  layout_builder:
+    enabled: true
+    allow_custom: true
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+        components:
+          99241641-269c-4ae2-9342-4c680808f499:
+            uuid: 99241641-269c-4ae2-9342-4c680808f499
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:title'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: string
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+            weight: 0
+            additional: {  }
+          5aa9c7e2-e43a-405c-b6ab-2953cb8667df:
+            uuid: 5aa9c7e2-e43a-405c-b6ab-2953cb8667df
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:uid'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: author
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 1
+            additional: {  }
+          0e2b747c-1acb-4185-a1fb-d5390ea015da:
+            uuid: 0e2b747c-1acb-4185-a1fb-d5390ea015da
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_division'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_property_formatter_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 2
+            additional: {  }
+          166926b6-4f42-476e-ae36-4dcb2b0b5fd9:
+            uuid: 166926b6-4f42-476e-ae36-4dcb2b0b5fd9
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_genetic_code'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_property_formatter_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 3
+            additional: {  }
+          9f6f5d10-37bd-4d0a-9a04-a51a469de077:
+            uuid: 9f6f5d10-37bd-4d0a-9a04-a51a469de077
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_genetic_code_name'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_property_formatter_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 4
+            additional: {  }
+          1e015772-0a80-4e33-b542-ab7de647865f:
+            uuid: 1e015772-0a80-4e33-b542-ab7de647865f
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_genus'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_string_type_formatter
+                label: above
+                settings:
+                  field_prefix: '<em>'
+                  field_suffix: '</em>'
+                third_party_settings: {  }
+            weight: 5
+            additional: {  }
+          215e8b92-d6ba-476b-963b-f131a79b5ad8:
+            uuid: 215e8b92-d6ba-476b-963b-f131a79b5ad8
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_lineage'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_property_formatter_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 6
+            additional: {  }
+          6b970c3d-a46a-430b-b52b-8ba291b2bb23:
+            uuid: 6b970c3d-a46a-430b-b52b-8ba291b2bb23
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_species'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_string_type_formatter
+                label: above
+                settings:
+                  field_prefix: '<em>'
+                  field_suffix: '</em>'
+                third_party_settings: {  }
+            weight: 7
+            additional: {  }
+          e400393d-9405-4bf8-9897-26466547f878:
+            uuid: e400393d-9405-4bf8-9897-26466547f878
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_infraspecific_type'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_additional_type_formatter_default
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 8
+            additional: {  }
+          10a16bb9-40a9-417c-9a22-6d4415de76f9:
+            uuid: 10a16bb9-40a9-417c-9a22-6d4415de76f9
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_infraspecific_name'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_string_type_formatter
+                label: above
+                settings:
+                  field_prefix: '<em>'
+                  field_suffix: '</em>'
+                third_party_settings: {  }
+            weight: 9
+            additional: {  }
+          93ac67a5-fe99-4d2a-b6ba-2806caf9b80a:
+            uuid: 93ac67a5-fe99-4d2a-b6ba-2806caf9b80a
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_abbreviation'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_string_type_formatter
+                label: above
+                settings:
+                  field_prefix: ''
+                  field_suffix: ''
+                third_party_settings: {  }
+            weight: 10
+            additional: {  }
+          b79430df-ecde-4714-baa6-74aaf57b00db:
+            uuid: b79430df-ecde-4714-baa6-74aaf57b00db
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_common_name'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_string_type_formatter
+                label: above
+                settings:
+                  field_prefix: ''
+                  field_suffix: ''
+                third_party_settings: {  }
+            weight: 11
+            additional: {  }
+          75770c85-61b3-4b4e-a83d-cadeb2d229ca:
+            uuid: 75770c85-61b3-4b4e-a83d-cadeb2d229ca
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_comment'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_text_type_formatter
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+            weight: 12
+            additional: {  }
+          47140a80-35de-4504-b73e-2d063f1ed27e:
+            uuid: 47140a80-35de-4504-b73e-2d063f1ed27e
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_pub'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_pub_formatter_default
+                label: above
+                settings:
+                  token_string: '[uniquename]'
+                third_party_settings: {  }
+            weight: 13
+            additional: {  }
+          5617600f-27f4-4e97-8835-d352a9640d9a:
+            uuid: 5617600f-27f4-4e97-8835-d352a9640d9a
+            region: content
+            configuration:
+              id: 'field_block:tripal_entity:organism:organism_dbxref'
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              formatter:
+                type: chado_dbxref_formatter_default
+                label: above
+                settings:
+                  token_string: '[db_urlprefix]'
+                third_party_settings: {  }
+            weight: 14
+            additional: {  }
+        third_party_settings: {  }
+id: tripal_entity.organism.default
+targetEntityType: tripal_entity
+bundle: organism
+mode: default
+content:
+  organism_abbreviation:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 30
+    region: content
+  organism_comment:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 40
+    region: content
+  organism_common_name:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 35
+    region: content
+  organism_dbxref:
+    type: chado_dbxref_formatter_default
+    label: above
+    settings:
+      token_string: '[db_urlprefix]'
+    third_party_settings: {  }
+    weight: 68
+    region: content
+  organism_division:
+    type: chado_property_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  organism_genetic_code:
+    type: chado_property_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  organism_genetic_code_name:
+    type: chado_property_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  organism_genus:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: '<em>'
+      field_suffix: '</em>'
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  organism_infraspecific_name:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: '<em>'
+      field_suffix: '</em>'
+    third_party_settings: {  }
+    weight: 25
+    region: content
+  organism_infraspecific_type:
+    type: chado_additional_type_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 20
+    region: content
+  organism_lineage:
+    type: chado_property_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  organism_pub:
+    type: chado_pub_formatter_default
+    label: above
+    settings:
+      token_string: '[uniquename]'
+    third_party_settings: {  }
+    weight: 45
+    region: content
+  organism_species:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: '<em>'
+      field_suffix: '</em>'
+    third_party_settings: {  }
+    weight: 15
+    region: content
+  title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -4
+    region: content
+  uid:
+    type: author
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

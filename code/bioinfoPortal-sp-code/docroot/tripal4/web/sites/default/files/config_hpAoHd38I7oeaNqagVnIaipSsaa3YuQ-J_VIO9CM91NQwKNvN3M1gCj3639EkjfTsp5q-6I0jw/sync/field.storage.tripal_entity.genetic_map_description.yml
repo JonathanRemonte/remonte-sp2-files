@@ -1,0 +1,25 @@
+uuid: b25f8b07-cad6-4505-9430-7c7b60ca0b44
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.genetic_map_description
+field_name: genetic_map_description
+entity_type: tripal_entity
+type: chado_text_type_default
+settings:
+  termIdSpace: schema
+  termAccession: description
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: featuremap
+    base_column: description
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

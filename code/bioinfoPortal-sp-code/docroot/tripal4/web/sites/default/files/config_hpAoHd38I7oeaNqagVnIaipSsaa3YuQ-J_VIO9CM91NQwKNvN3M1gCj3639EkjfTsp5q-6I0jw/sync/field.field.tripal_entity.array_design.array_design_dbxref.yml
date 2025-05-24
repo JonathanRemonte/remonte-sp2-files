@@ -1,0 +1,24 @@
+uuid: da138a1b-ba08-4338-bae2-c1a25a7054f6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_dbxref
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_dbxref
+field_name: array_design_dbxref
+entity_type: tripal_entity
+bundle: array_design
+label: 'Primary Database Reference'
+description: 'The IDs where this record may be available in other external online databases.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SBO
+  termAccession: '0000554'
+  debug: false
+field_type: chado_dbxref_type_default

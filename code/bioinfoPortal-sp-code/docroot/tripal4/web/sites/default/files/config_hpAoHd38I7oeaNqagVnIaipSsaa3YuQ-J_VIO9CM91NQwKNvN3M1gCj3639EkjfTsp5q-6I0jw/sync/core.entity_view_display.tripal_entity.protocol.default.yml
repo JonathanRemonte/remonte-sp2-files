@@ -1,0 +1,96 @@
+uuid: 18c28847-567d-45ca-97c2-3ee93509b5d5
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.protocol.protocol_dbxref
+    - field.field.tripal_entity.protocol.protocol_description
+    - field.field.tripal_entity.protocol.protocol_instrument
+    - field.field.tripal_entity.protocol.protocol_name
+    - field.field.tripal_entity.protocol.protocol_pub
+    - field.field.tripal_entity.protocol.protocol_software
+    - field.field.tripal_entity.protocol.protocol_type
+    - field.field.tripal_entity.protocol.protocol_uri
+    - tripal.content_type.protocol
+  module:
+    - tripal_chado
+    - user
+id: tripal_entity.protocol.default
+targetEntityType: tripal_entity
+bundle: protocol
+mode: default
+content:
+  protocol_dbxref:
+    type: chado_dbxref_formatter_default
+    label: above
+    settings:
+      token_string: '[db_urlprefix]'
+    third_party_settings: {  }
+    weight: 68
+    region: content
+  protocol_description:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 20
+    region: content
+  protocol_instrument:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 25
+    region: content
+  protocol_name:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  protocol_pub:
+    type: chado_pub_formatter_default
+    label: above
+    settings:
+      token_string: '[uniquename]'
+    third_party_settings: {  }
+    weight: 15
+    region: hidden
+  protocol_software:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 30
+    region: content
+  protocol_type:
+    type: chado_additional_type_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  protocol_uri:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 15
+    region: content
+  title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -4
+    region: content
+  uid:
+    type: author
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

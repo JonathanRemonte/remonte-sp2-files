@@ -1,0 +1,131 @@
+uuid: 061977d8-2525-4845-bffa-417dc9624cc2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.genome_annotation.genome_annotation_dbxref_ann
+    - field.field.tripal_entity.genome_annotation.genome_annotation_description
+    - field.field.tripal_entity.genome_annotation.genome_annotation_name
+    - field.field.tripal_entity.genome_annotation.genome_annotation_prog_version
+    - field.field.tripal_entity.genome_annotation.genome_annotation_project
+    - field.field.tripal_entity.genome_annotation.genome_annotation_pub
+    - field.field.tripal_entity.genome_annotation.genome_annotation_software
+    - field.field.tripal_entity.genome_annotation.genome_annotation_src_name
+    - field.field.tripal_entity.genome_annotation.genome_annotation_src_version
+    - field.field.tripal_entity.genome_annotation.genome_annotation_type
+    - field.field.tripal_entity.genome_annotation.genome_annotation_uri
+    - tripal.content_type.genome_annotation
+  module:
+    - tripal_chado
+    - user
+id: tripal_entity.genome_annotation.default
+targetEntityType: tripal_entity
+bundle: genome_annotation
+mode: default
+content:
+  genome_annotation_dbxref_ann:
+    type: chado_dbxref_formatter_default
+    label: above
+    settings:
+      token_string: '[db_urlprefix]'
+    third_party_settings: {  }
+    weight: 68
+    region: content
+  genome_annotation_description:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 15
+    region: content
+  genome_annotation_name:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  genome_annotation_prog_version:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 25
+    region: content
+  genome_annotation_project:
+    type: chado_project_formatter_default
+    label: above
+    settings:
+      token_string: '[name]'
+    third_party_settings: {  }
+    weight: 84
+    region: content
+  genome_annotation_pub:
+    type: chado_pub_formatter_default
+    label: above
+    settings:
+      token_string: '[uniquename]'
+    third_party_settings: {  }
+    weight: 82
+    region: content
+  genome_annotation_software:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 20
+    region: content
+  genome_annotation_src_name:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 35
+    region: content
+  genome_annotation_src_version:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 40
+    region: content
+  genome_annotation_type:
+    type: chado_additional_type_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  genome_annotation_uri:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 45
+    region: content
+  title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -4
+    region: content
+  uid:
+    type: author
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

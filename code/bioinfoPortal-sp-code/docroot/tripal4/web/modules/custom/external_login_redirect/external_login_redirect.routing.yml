@@ -1,0 +1,23 @@
+external_login_redirect.sso:
+  path: '/external-login-redirect'
+  defaults:
+    _controller: '\Drupal\external_login_redirect\Controller\RedirectController::handleRedirect'
+    _title: 'SSO Redirect'
+  requirements:
+    _permission: 'access content'
+
+external_login_redirect.jwt_test:
+  path: '/jwt-test'
+  defaults:
+    _controller: '\Drupal\external_login_redirect\Controller\JWTTestController::generate'
+    _title: 'JWT Test'
+  requirements:
+    _permission: 'access content'
+
+external_login_redirect.iframe_jwt:
+  path: '/sso/iframe-token'
+  defaults:
+    _controller: '\Drupal\external_login_redirect\Controller\RedirectController::getIframeJwt'
+    _title: 'Iframe Token'
+  requirements:
+    _permission: 'access content'

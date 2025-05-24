@@ -1,0 +1,24 @@
+uuid: 17fd6fe6-ce6f-4617-a948-b6bf90c6ecce
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.pub_pyear
+    - tripal.content_type.pub
+  module:
+    - tripal_chado
+id: tripal_entity.pub.pub_pyear
+field_name: pub_pyear
+entity_type: tripal_entity
+bundle: pub
+label: 'Publication Year'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: TPUB
+  termAccession: '0000059'
+  debug: false
+field_type: chado_string_type_default

@@ -1,0 +1,25 @@
+uuid: 0ec27008-eff9-4ca8-befe-464b0fc75891
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_substrate_type
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_substrate_type
+field_name: array_design_substrate_type
+entity_type: tripal_entity
+bundle: array_design
+label: 'Substrate Type'
+description: 'Controlled terms for descriptors of types of array substrates.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: EFO
+  termAccession: '0000269'
+  debug: false
+  fixed_value: ''
+field_type: chado_additional_type_type_default

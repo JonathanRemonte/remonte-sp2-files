@@ -1,0 +1,126 @@
+uuid: 81bb0ea7-ba7e-4c6d-8d40-f0134080a6d3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.organism.layout_builder__layout
+    - field.field.tripal_entity.organism.organism_abbreviation
+    - field.field.tripal_entity.organism.organism_comment
+    - field.field.tripal_entity.organism.organism_common_name
+    - field.field.tripal_entity.organism.organism_dbxref
+    - field.field.tripal_entity.organism.organism_division
+    - field.field.tripal_entity.organism.organism_genetic_code
+    - field.field.tripal_entity.organism.organism_genetic_code_name
+    - field.field.tripal_entity.organism.organism_genus
+    - field.field.tripal_entity.organism.organism_infraspecific_name
+    - field.field.tripal_entity.organism.organism_infraspecific_type
+    - field.field.tripal_entity.organism.organism_lineage
+    - field.field.tripal_entity.organism.organism_pub
+    - field.field.tripal_entity.organism.organism_species
+    - tripal.content_type.organism
+  module:
+    - tripal_chado
+id: tripal_entity.organism.default
+targetEntityType: tripal_entity
+bundle: organism
+mode: default
+content:
+  organism_abbreviation:
+    type: chado_string_type_widget
+    weight: 30
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_comment:
+    type: chado_text_type_widget
+    weight: 40
+    region: content
+    settings:
+      filter_format: basic_html
+    third_party_settings: {  }
+  organism_common_name:
+    type: chado_string_type_widget
+    weight: 35
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_dbxref:
+    type: chado_dbxref_widget_default
+    weight: 68
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_division:
+    type: chado_property_widget_default
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_genetic_code:
+    type: chado_property_widget_default
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_genetic_code_name:
+    type: chado_property_widget_default
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_genus:
+    type: chado_string_type_widget
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_infraspecific_name:
+    type: chado_string_type_widget
+    weight: 25
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_infraspecific_type:
+    type: chado_additional_type_widget_default
+    weight: 20
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_lineage:
+    type: chado_property_widget_default
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_pub:
+    type: chado_pub_widget_default
+    weight: 45
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  organism_species:
+    type: chado_string_type_widget
+    weight: 15
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: -4
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 5
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  layout_builder__layout: true

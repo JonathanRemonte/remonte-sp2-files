@@ -1,0 +1,25 @@
+uuid: 2ef8c7d3-7011-4cc7-845f-4c09f2d0dd10
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.carousel
+    - core.entity_view_mode.block_content.full
+    - field.field.block_content.carousel.field_carousel_items
+  module:
+    - entity_reference_revisions
+id: block_content.carousel.full
+targetEntityType: block_content
+bundle: carousel
+mode: full
+content:
+  field_carousel_items:
+    type: entity_reference_revisions_entity_view
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    weight: 1
+    region: content
+hidden: {  }

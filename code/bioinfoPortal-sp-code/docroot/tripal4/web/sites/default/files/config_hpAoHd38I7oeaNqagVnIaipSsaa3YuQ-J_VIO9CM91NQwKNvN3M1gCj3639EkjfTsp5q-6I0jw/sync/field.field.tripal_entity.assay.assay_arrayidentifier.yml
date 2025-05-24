@@ -1,0 +1,24 @@
+uuid: 137a53be-4f74-4d9d-b589-6878021a35dd
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_arrayidentifier
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_arrayidentifier
+field_name: assay_arrayidentifier
+entity_type: tripal_entity
+bundle: assay
+label: 'Array Identifier'
+description: 'A text token, number or something else which identifies an entity, but which may not be persistent (stable) or unique (the same identifier may identify multiple things).'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: data
+  termAccession: '0842'
+  debug: false
+field_type: chado_text_type_default

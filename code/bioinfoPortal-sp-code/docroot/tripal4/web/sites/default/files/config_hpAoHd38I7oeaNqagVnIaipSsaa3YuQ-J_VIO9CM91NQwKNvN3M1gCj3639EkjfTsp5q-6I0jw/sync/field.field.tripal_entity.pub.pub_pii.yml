@@ -1,0 +1,25 @@
+uuid: 443ca63e-e8e0-4082-9fcc-5d54d89964b0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.pub_pii
+    - tripal.content_type.pub
+  module:
+    - tripal_chado
+id: tripal_entity.pub.pub_pii
+field_name: pub_pii
+entity_type: tripal_entity
+bundle: pub
+label: PII
+description: 'Publisher Item Identifier.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: TPUB
+  termAccession: '0000082'
+  debug: false
+  fixed_value: ''
+field_type: chado_property_type_default

@@ -1,0 +1,26 @@
+uuid: 2213a15b-9be5-4017-867e-6e0b36ab15c2
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.array_design_platform_type
+field_name: array_design_platform_type
+entity_type: tripal_entity
+type: chado_additional_type_type_default
+settings:
+  termIdSpace: EFO
+  termAccession: '0000269'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: arraydesign
+    type_table: arraydesign
+    type_column: platformtype_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

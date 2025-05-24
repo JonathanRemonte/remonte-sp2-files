@@ -1,0 +1,25 @@
+uuid: 4a45fc53-86fb-4a20-820a-04c6bbce7481
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.qtl_sequence
+field_name: qtl_sequence
+entity_type: tripal_entity
+type: chado_sequence_type_default
+settings:
+  termIdSpace: data
+  termAccession: '2044'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: feature
+    base_column: residues
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

@@ -1,0 +1,76 @@
+uuid: df8da2c2-7fb0-44b8-8591-60119f548645
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.biosample.biosample_biosourceprovider
+    - field.field.tripal_entity.biosample.biosample_dbxref
+    - field.field.tripal_entity.biosample.biosample_dbxref_ann
+    - field.field.tripal_entity.biosample.biosample_description
+    - field.field.tripal_entity.biosample.biosample_name
+    - field.field.tripal_entity.biosample.biosample_organism
+    - tripal.content_type.biosample
+  module:
+    - tripal_chado
+id: tripal_entity.biosample.default
+targetEntityType: tripal_entity
+bundle: biosample
+mode: default
+content:
+  biosample_biosourceprovider:
+    type: chado_contact_widget_default
+    weight: 20
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  biosample_dbxref:
+    type: chado_dbxref_widget_default
+    weight: 68
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  biosample_dbxref_ann:
+    type: chado_dbxref_widget_default
+    weight: 68
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  biosample_description:
+    type: chado_text_type_widget
+    weight: 15
+    region: content
+    settings:
+      filter_format: basic_html
+    third_party_settings: {  }
+  biosample_name:
+    type: chado_text_type_widget
+    weight: 10
+    region: content
+    settings:
+      filter_format: plain_text
+    third_party_settings: {  }
+  biosample_organism:
+    type: chado_organism_widget_default
+    weight: 25
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: -4
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 5
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

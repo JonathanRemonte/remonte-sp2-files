@@ -1,0 +1,25 @@
+uuid: 77d78719-7b58-4560-a314-e9fb3b2d9516
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.assay_array_design
+field_name: assay_array_design
+entity_type: tripal_entity
+type: chado_array_design_type_default
+settings:
+  termIdSpace: EFO
+  termAccession: '0000269'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: assay
+    base_column: arraydesign_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

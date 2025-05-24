@@ -1,0 +1,68 @@
+uuid: 06fd1bc7-4650-4774-9823-fa02972d4a47
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.genome_project.genome_project_dbxref_ann
+    - field.field.tripal_entity.genome_project.genome_project_description
+    - field.field.tripal_entity.genome_project.genome_project_name
+    - field.field.tripal_entity.genome_project.genome_project_pub
+    - field.field.tripal_entity.genome_project.genome_project_type
+    - tripal.content_type.genome_project
+  module:
+    - tripal_chado
+id: tripal_entity.genome_project.default
+targetEntityType: tripal_entity
+bundle: genome_project
+mode: default
+content:
+  genome_project_dbxref_ann:
+    type: chado_dbxref_widget_default
+    weight: 68
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  genome_project_description:
+    type: chado_text_type_widget
+    weight: 15
+    region: content
+    settings:
+      filter_format: basic_html
+    third_party_settings: {  }
+  genome_project_name:
+    type: chado_string_type_widget
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  genome_project_pub:
+    type: chado_pub_widget_default
+    weight: 85
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  genome_project_type:
+    type: chado_additional_type_widget_default
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: -4
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 5
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

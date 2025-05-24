@@ -1,0 +1,24 @@
+uuid: 0d499920-b3dd-4af3-b852-f6ea2b94f72e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_num_of_elements
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_num_of_elements
+field_name: array_design_num_of_elements
+entity_type: tripal_entity
+bundle: array_design
+label: 'Num Of Elements'
+description: 'The number of elements.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: local
+  termAccession: num_of_elements
+  debug: false
+field_type: chado_integer_type_default

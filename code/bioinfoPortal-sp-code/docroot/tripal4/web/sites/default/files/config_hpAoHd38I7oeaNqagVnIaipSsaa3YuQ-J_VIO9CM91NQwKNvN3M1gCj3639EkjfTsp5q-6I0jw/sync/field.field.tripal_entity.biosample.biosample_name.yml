@@ -1,0 +1,24 @@
+uuid: 38eeb38a-3665-4480-91c3-5fa69e46a2de
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.biosample_name
+    - tripal.content_type.biosample
+  module:
+    - tripal_chado
+id: tripal_entity.biosample.biosample_name
+field_name: biosample_name
+entity_type: tripal_entity
+bundle: biosample
+label: Name
+description: 'The name of the item.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: name
+  debug: false
+field_type: chado_text_type_default

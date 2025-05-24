@@ -1,0 +1,25 @@
+uuid: 54d5eeb2-8f36-45c9-874b-6ef59212b4b0
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.organism_genetic_code_name
+field_name: organism_genetic_code_name
+entity_type: tripal_entity
+type: chado_property_type_default
+settings:
+  termIdSpace: local
+  termAccession: genetic_code_name
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: organism
+    prop_table: organismprop
+module: tripal_chado
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

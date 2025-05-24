@@ -1,0 +1,24 @@
+uuid: e4abfbbf-b109-4c6b-a039-dcf4e628b590
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.genetic_marker_sequence
+    - tripal.content_type.genetic_marker
+  module:
+    - tripal_chado
+id: tripal_entity.genetic_marker.genetic_marker_sequence
+field_name: genetic_marker_sequence
+entity_type: tripal_entity
+bundle: genetic_marker
+label: 'Sequence Residues'
+description: 'One or more molecular sequences, possibly with associated annotation.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: data
+  termAccession: '2044'
+  debug: false
+field_type: chado_sequence_type_default

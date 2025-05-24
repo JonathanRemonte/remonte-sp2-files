@@ -1,0 +1,24 @@
+uuid: 8f5ba2b3-f542-4c1c-8357-6c2c67e73452
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.phylotree_comment
+    - tripal.content_type.phylotree
+  module:
+    - tripal_chado
+id: tripal_entity.phylotree.phylotree_comment
+field_name: phylotree_comment
+entity_type: tripal_entity
+bundle: phylotree
+label: Notes
+description: 'Comments, typically from users.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: comment
+  debug: false
+field_type: chado_text_type_default

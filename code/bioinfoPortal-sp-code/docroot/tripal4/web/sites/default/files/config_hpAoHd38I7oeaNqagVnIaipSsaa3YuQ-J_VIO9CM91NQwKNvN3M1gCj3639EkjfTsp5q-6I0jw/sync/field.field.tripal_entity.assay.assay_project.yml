@@ -1,0 +1,24 @@
+uuid: 108a7fe3-d1cd-4190-8561-8458e32b7c29
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_project
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_project
+field_name: assay_project
+entity_type: tripal_entity
+bundle: assay
+label: Project
+description: 'The project which this assay is a part of'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: NCIT
+  termAccession: C47885
+  debug: false
+field_type: chado_project_type_default

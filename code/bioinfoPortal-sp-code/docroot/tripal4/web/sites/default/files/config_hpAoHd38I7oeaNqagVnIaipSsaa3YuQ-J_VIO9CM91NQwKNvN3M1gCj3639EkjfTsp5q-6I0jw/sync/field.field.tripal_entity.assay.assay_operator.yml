@@ -1,0 +1,24 @@
+uuid: 100db173-950d-45cb-bd9f-62df686ac283
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_operator
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_operator
+field_name: assay_operator
+entity_type: tripal_entity
+bundle: assay
+label: Operator
+description: 'A person that operates some apparatus or machine'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: NCIT
+  termAccession: C48036
+  debug: false
+field_type: chado_contact_type_default

@@ -1,0 +1,24 @@
+uuid: beb628ba-9d20-4a81-95e9-8e7b0799dd95
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.analysis_source
+    - tripal.content_type.analysis
+  module:
+    - tripal_chado
+id: tripal_entity.analysis.analysis_source
+field_name: analysis_source
+entity_type: tripal_entity
+bundle: analysis
+label: 'Data Source Name'
+description: 'The name of the source where data was obtained for this analysis.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: name
+  debug: false
+field_type: chado_string_type_default

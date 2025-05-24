@@ -1,0 +1,26 @@
+uuid: d2201c54-de99-4798-9bba-0b9d64e95f37
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.physical_map_pub
+field_name: physical_map_pub
+entity_type: tripal_entity
+type: chado_pub_type_default
+settings:
+  termIdSpace: TPUB
+  termAccession: '0000002'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: featuremap
+    linker_table: featuremap_pub
+    linker_fkey_column: pub_id
+module: tripal_chado
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

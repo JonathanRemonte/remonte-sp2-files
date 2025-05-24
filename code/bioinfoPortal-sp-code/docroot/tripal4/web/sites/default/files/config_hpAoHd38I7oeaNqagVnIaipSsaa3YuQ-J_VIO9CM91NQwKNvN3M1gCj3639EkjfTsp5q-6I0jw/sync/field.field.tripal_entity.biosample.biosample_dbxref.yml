@@ -1,0 +1,24 @@
+uuid: 5e50beb7-0f3b-4a20-9cd0-5b69b7963475
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.biosample_dbxref
+    - tripal.content_type.biosample
+  module:
+    - tripal_chado
+id: tripal_entity.biosample.biosample_dbxref
+field_name: biosample_dbxref
+entity_type: tripal_entity
+bundle: biosample
+label: 'Primary Database Reference'
+description: 'The ID where this record may be available in an external online database.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SBO
+  termAccession: '0000554'
+  debug: false
+field_type: chado_dbxref_type_default

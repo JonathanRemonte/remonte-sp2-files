@@ -1,0 +1,24 @@
+uuid: 8dcfcece-085b-4209-a5ea-e21c93cf796a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.study_contact
+    - tripal.content_type.study
+  module:
+    - tripal_chado
+id: tripal_entity.study.study_contact
+field_name: study_contact
+entity_type: tripal_entity
+bundle: study
+label: Contact
+description: 'An individual or organization that serves as a contact for this record.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: NCIT
+  termAccession: C47954
+  debug: false
+field_type: chado_contact_type_default

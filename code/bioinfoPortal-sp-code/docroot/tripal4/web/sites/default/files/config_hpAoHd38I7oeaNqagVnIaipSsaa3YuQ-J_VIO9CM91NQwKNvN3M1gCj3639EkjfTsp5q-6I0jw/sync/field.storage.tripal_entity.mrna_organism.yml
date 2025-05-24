@@ -1,0 +1,25 @@
+uuid: be1f7cb6-2050-4e45-a938-8b1b0f1485d5
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.mrna_organism
+field_name: mrna_organism
+entity_type: tripal_entity
+type: chado_organism_type_default
+settings:
+  termIdSpace: OBI
+  termAccession: '0100026'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: feature
+    base_column: organism_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

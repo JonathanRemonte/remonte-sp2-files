@@ -1,0 +1,24 @@
+uuid: 7ea5f88a-ef4d-4134-912e-96bca00a03a3
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.analysis_source_uri
+    - tripal.content_type.analysis
+  module:
+    - tripal_chado
+id: tripal_entity.analysis.analysis_source_uri
+field_name: analysis_source_uri
+entity_type: tripal_entity
+bundle: analysis
+label: 'Data Source URI'
+description: 'The URI (e.g. web URL) where the source data can be retrieved.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: data
+  termAccession: '1047'
+  debug: false
+field_type: chado_text_type_default

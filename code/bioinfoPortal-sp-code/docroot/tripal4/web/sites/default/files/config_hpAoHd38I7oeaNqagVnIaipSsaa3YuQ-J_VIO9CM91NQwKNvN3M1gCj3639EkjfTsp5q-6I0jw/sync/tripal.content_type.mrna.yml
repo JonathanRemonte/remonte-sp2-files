@@ -1,0 +1,17 @@
+uuid: 001709c8-1ada-4410-8940-de5584b17882
+langcode: en
+status: true
+dependencies: {  }
+third_party_settings:
+  tripal:
+    chado_base_table: feature
+id: mrna
+label: mRNA
+termIdSpace: SO
+termAccession: '0000234'
+help_text: 'Use the mRNA page for a messenger RNA which is the intermediate molecule between DNA and protein. It includes UTR and coding sequences. It does not contain introns.'
+category: Genomic
+title_format: '[mrna_name]'
+url_format: 'mRNA/[TripalEntity__entity_id]'
+hide_empty_field: true
+ajax_field: true

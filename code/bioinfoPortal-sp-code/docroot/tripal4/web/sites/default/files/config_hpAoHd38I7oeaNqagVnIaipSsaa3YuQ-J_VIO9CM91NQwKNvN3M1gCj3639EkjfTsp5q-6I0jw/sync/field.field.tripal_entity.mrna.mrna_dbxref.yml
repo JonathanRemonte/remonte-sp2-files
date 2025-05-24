@@ -1,0 +1,24 @@
+uuid: ae7e4549-79bc-4dc1-9a9e-3eb96c91f551
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.mrna_dbxref
+    - tripal.content_type.mrna
+  module:
+    - tripal_chado
+id: tripal_entity.mrna.mrna_dbxref
+field_name: mrna_dbxref
+entity_type: tripal_entity
+bundle: mrna
+label: 'Primary Database Reference'
+description: 'The ID where this record may be available in an external online database.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: SBO
+  termAccession: '0000554'
+  debug: false
+field_type: chado_dbxref_type_default

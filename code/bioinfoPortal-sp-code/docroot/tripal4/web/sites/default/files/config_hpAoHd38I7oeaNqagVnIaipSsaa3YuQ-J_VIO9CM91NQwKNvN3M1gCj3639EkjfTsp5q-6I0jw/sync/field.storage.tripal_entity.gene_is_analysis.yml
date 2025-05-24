@@ -1,0 +1,25 @@
+uuid: 15611579-3342-4d2e-8bb7-dca49114f0d0
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.gene_is_analysis
+field_name: gene_is_analysis
+entity_type: tripal_entity
+type: chado_boolean_type_default
+settings:
+  termIdSpace: local
+  termAccession: is_analysis
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: feature
+    base_column: is_analysis
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

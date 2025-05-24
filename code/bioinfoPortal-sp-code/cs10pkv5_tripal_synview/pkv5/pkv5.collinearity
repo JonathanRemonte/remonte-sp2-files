@@ -1,0 +1,3097 @@
+############### Parameters ###############
+# MATCH_SCORE: 50
+# MATCH_SIZE: 5
+# GAP_PENALTY: -1
+# OVERLAP_WINDOW: 5
+# E_VALUE: 1e-05
+# MAX GAPS: 25
+############### Statistics ###############
+# Number of collinear genes: 5409, Percentage: 4.58
+# Number of all genes: 118040
+##########################################
+## Alignment 0: score=473.0 e_value=1.6e-24 N=10 pk1&pk1 plus
+  0-  0:	CsPK_gmep_21307_p	CsPK_gmep_21449_p	 4e-130
+  0-  1:	CsPK_gmep_21309_p	CsPK_gmep_21450_p	  1e-57
+  0-  2:	CsPK_gmep_21332_p	CsPK_gmep_21473_p	      0
+  0-  3:	CsPK_gmep_21334_p	CsPK_gmep_21474_p	      0
+  0-  4:	CsPK_gmep_21335_p	CsPK_gmep_21475_p	      0
+  0-  5:	CsPK_gmep_21336_p	CsPK_gmep_21476_p	      0
+  0-  6:	CsPK_gmep_21340_p	CsPK_gmep_21477_p	  3e-57
+  0-  7:	CsPK_gmep_21341_p	CsPK_gmep_21478_p	      0
+  0-  8:	CsPK_gmep_21342_p	CsPK_gmep_21479_p	  1e-91
+  0-  9:	CsPK_gmep_21343_p	CsPK_gmep_21480_p	      0
+## Alignment 1: score=446.0 e_value=4.6e-17 N=9 pk1&pk1 plus
+  1-  0:	CsPK_gmep_61298_p	CsPK_gmep_61337_p	 4e-110
+  1-  1:	CsPK_gmep_61300_p	CsPK_gmep_61338_p	 4e-152
+  1-  2:	CsPK_gmep_61301_p	CsPK_gmep_61339_p	  1e-16
+  1-  3:	CsPK_gmep_61302_p	CsPK_gmep_61340_p	      0
+  1-  4:	CsPK_gmep_61303_p	CsPK_gmep_61341_p	      0
+  1-  5:	CsPK_gmep_61304_p	CsPK_gmep_61342_p	  2e-89
+  1-  6:	CsPK_gmep_61305_p	CsPK_gmep_61343_p	      0
+  1-  7:	CsPK_gmep_61306_p	CsPK_gmep_61344_p	 3e-150
+  1-  8:	CsPK_gmep_61307_p	CsPK_gmep_61348_p	      0
+## Alignment 2: score=348.0 e_value=5.5e-13 N=7 pk1&pk1 plus
+  2-  0:	CsPK_gmep_22980_p	CsPK_gmep_22632_p	 3e-154
+  2-  1:	CsPK_gmep_22981_p	CsPK_gmep_22633_p	      0
+  2-  2:	CsPK_gmep_22982_p	CsPK_gmep_22635_p	 7e-149
+  2-  3:	CsPK_gmep_22983_p	CsPK_gmep_22636_p	 3e-176
+  2-  4:	CsPK_gmep_22984_p	CsPK_gmep_22637_p	      0
+  2-  5:	CsPK_gmep_22985_p	CsPK_gmep_22638_p	  3e-74
+  2-  6:	CsPK_gmep_22987_p	CsPK_gmep_22639_p	 1e-115
+## Alignment 3: score=299.0 e_value=1.7e-08 N=6 pk1&pk1 plus
+  3-  0:	CsPK_gmep_76916_p	CsPK_gmep_76937_p	      0
+  3-  1:	CsPK_gmep_76917_p	CsPK_gmep_76938_p	      0
+  3-  2:	CsPK_gmep_76918_p	CsPK_gmep_76939_p	      0
+  3-  3:	CsPK_gmep_76920_p	CsPK_gmep_76940_p	      0
+  3-  4:	CsPK_gmep_76921_p	CsPK_gmep_76941_p	      0
+  3-  5:	CsPK_gmep_76922_p	CsPK_gmep_76942_p	 5e-173
+## Alignment 4: score=298.0 e_value=5.3e-09 N=6 pk1&pk1 plus
+  4-  0:	CsPK_gmep_50536_p	CsPK_gmep_4755_p	      0
+  4-  1:	CsPK_gmep_50537_p	CsPK_gmep_4756_p	 1e-121
+  4-  2:	CsPK_gmep_50538_p	CsPK_gmep_4757_p	 2e-132
+  4-  3:	CsPK_gmep_50539_p	CsPK_gmep_4758_p	      0
+  4-  4:	CsPK_gmep_50541_p	CsPK_gmep_4760_p	  2e-56
+  4-  5:	CsPK_gmep_50543_p	CsPK_gmep_4762_p	      0
+## Alignment 5: score=296.0 e_value=8.1e-10 N=6 pk1&pk1 plus
+  5-  0:	CsPK_gmep_20558_p	CsPK_gmep_20460_p	      0
+  5-  1:	CsPK_gmep_20559_p	CsPK_gmep_20463_p	      0
+  5-  2:	CsPK_gmep_20560_p	CsPK_gmep_20464_p	      0
+  5-  3:	CsPK_gmep_20562_p	CsPK_gmep_20466_p	      0
+  5-  4:	CsPK_gmep_20563_p	CsPK_gmep_20467_p	      0
+  5-  5:	CsPK_gmep_20565_p	CsPK_gmep_20469_p	      0
+## Alignment 6: score=295.0 e_value=4.7e-09 N=6 pk1&pk1 plus
+  6-  0:	CsPK_gmep_21596_p	CsPK_gmep_83004_p	      0
+  6-  1:	CsPK_gmep_21597_p	CsPK_gmep_83005_p	      0
+  6-  2:	CsPK_gmep_21598_p	CsPK_gmep_83006_p	  7e-35
+  6-  3:	CsPK_gmep_21600_p	CsPK_gmep_83010_p	      0
+  6-  4:	CsPK_gmep_21602_p	CsPK_gmep_83011_p	 3e-129
+  6-  5:	CsPK_gmep_21604_p	CsPK_gmep_83012_p	      0
+## Alignment 7: score=584.0 e_value=8.5e-27 N=12 pk1&pk1 minus
+  7-  0:	CsPK_gmep_21708_p	CsPK_gmep_21765_p	  2e-82
+  7-  1:	CsPK_gmep_21709_p	CsPK_gmep_21761_p	      0
+  7-  2:	CsPK_gmep_21710_p	CsPK_gmep_21760_p	      0
+  7-  3:	CsPK_gmep_21716_p	CsPK_gmep_21759_p	  9e-54
+  7-  4:	CsPK_gmep_21717_p	CsPK_gmep_21756_p	  3e-72
+  7-  5:	CsPK_gmep_21718_p	CsPK_gmep_21755_p	  6e-80
+  7-  6:	CsPK_gmep_21719_p	CsPK_gmep_21754_p	  5e-39
+  7-  7:	CsPK_gmep_21720_p	CsPK_gmep_21750_p	      0
+  7-  8:	CsPK_gmep_21723_p	CsPK_gmep_21748_p	 2e-170
+  7-  9:	CsPK_gmep_21724_p	CsPK_gmep_21747_p	      0
+  7- 10:	CsPK_gmep_21725_p	CsPK_gmep_21746_p	      0
+  7- 11:	CsPK_gmep_21727_p	CsPK_gmep_21745_p	 9e-104
+## Alignment 8: score=542.0 e_value=1.1e-21 N=11 pk1&pk1 minus
+  8-  0:	CsPK_gmep_21281_p	CsPK_gmep_21318_p	 1e-144
+  8-  1:	CsPK_gmep_21282_p	CsPK_gmep_21316_p	      0
+  8-  2:	CsPK_gmep_21283_p	CsPK_gmep_21315_p	 3e-132
+  8-  3:	CsPK_gmep_21285_p	CsPK_gmep_21314_p	  2e-62
+  8-  4:	CsPK_gmep_21287_p	CsPK_gmep_21313_p	  3e-47
+  8-  5:	CsPK_gmep_21289_p	CsPK_gmep_21312_p	  9e-30
+  8-  6:	CsPK_gmep_21292_p	CsPK_gmep_21311_p	 5e-138
+  8-  7:	CsPK_gmep_21295_p	CsPK_gmep_21310_p	      0
+  8-  8:	CsPK_gmep_21296_p	CsPK_gmep_21309_p	 3e-126
+  8-  9:	CsPK_gmep_21297_p	CsPK_gmep_21308_p	 6e-133
+  8- 10:	CsPK_gmep_21298_p	CsPK_gmep_21307_p	  1e-96
+## Alignment 9: score=541.0 e_value=5.7e-25 N=11 pk1&pk1 minus
+  9-  0:	CsPK_gmep_65198_p	CsPK_gmep_65242_p	  4e-44
+  9-  1:	CsPK_gmep_65199_p	CsPK_gmep_65240_p	 2e-158
+  9-  2:	CsPK_gmep_65201_p	CsPK_gmep_65236_p	      0
+  9-  3:	CsPK_gmep_65203_p	CsPK_gmep_65235_p	      0
+  9-  4:	CsPK_gmep_65204_p	CsPK_gmep_65234_p	      0
+  9-  5:	CsPK_gmep_65205_p	CsPK_gmep_65231_p	      0
+  9-  6:	CsPK_gmep_65208_p	CsPK_gmep_65229_p	      0
+  9-  7:	CsPK_gmep_65209_p	CsPK_gmep_65228_p	      0
+  9-  8:	CsPK_gmep_65210_p	CsPK_gmep_65227_p	      0
+  9-  9:	CsPK_gmep_65211_p	CsPK_gmep_65226_p	      0
+  9- 10:	CsPK_gmep_65212_p	CsPK_gmep_65225_p	      0
+## Alignment 10: score=372.0 e_value=2.9e-15 N=8 pk1&pk1 minus
+ 10-  0:	CsPK_gmep_61638_p	CsPK_gmep_61783_p	  1e-30
+ 10-  1:	CsPK_gmep_61640_p	CsPK_gmep_61781_p	  2e-65
+ 10-  2:	CsPK_gmep_61645_p	CsPK_gmep_61775_p	  2e-72
+ 10-  3:	CsPK_gmep_61656_p	CsPK_gmep_61757_p	  8e-88
+ 10-  4:	CsPK_gmep_61657_p	CsPK_gmep_61756_p	      0
+ 10-  5:	CsPK_gmep_61659_p	CsPK_gmep_61755_p	  1e-87
+ 10-  6:	CsPK_gmep_61660_p	CsPK_gmep_61754_p	      0
+ 10-  7:	CsPK_gmep_61661_p	CsPK_gmep_61749_p	      0
+## Alignment 11: score=339.0 e_value=7.6e-13 N=7 pk1&pk1 minus
+ 11-  0:	CsPK_gmep_44888_p	CsPK_gmep_44916_p	 2e-169
+ 11-  1:	CsPK_gmep_44889_p	CsPK_gmep_44915_p	  6e-84
+ 11-  2:	CsPK_gmep_44890_p	CsPK_gmep_44913_p	      0
+ 11-  3:	CsPK_gmep_44891_p	CsPK_gmep_44910_p	 8e-158
+ 11-  4:	CsPK_gmep_44893_p	CsPK_gmep_44908_p	 4e-162
+ 11-  5:	CsPK_gmep_44896_p	CsPK_gmep_44900_p	 4e-109
+ 11-  6:	CsPK_gmep_44897_p	CsPK_gmep_44899_p	      0
+## Alignment 12: score=298.0 e_value=9.1e-10 N=6 pk1&pk1 minus
+ 12-  0:	CsPK_gmep_65188_p	CsPK_gmep_65276_p	      0
+ 12-  1:	CsPK_gmep_65189_p	CsPK_gmep_65275_p	  4e-88
+ 12-  2:	CsPK_gmep_65190_p	CsPK_gmep_65274_p	 6e-126
+ 12-  3:	CsPK_gmep_65191_p	CsPK_gmep_65273_p	  8e-92
+ 12-  4:	CsPK_gmep_65192_p	CsPK_gmep_65272_p	      0
+ 12-  5:	CsPK_gmep_65195_p	CsPK_gmep_65271_p	  1e-59
+## Alignment 13: score=297.0 e_value=2.1e-09 N=6 pk1&pk1 minus
+ 13-  0:	CsPK_gmep_36737_p	CsPK_gmep_36779_p	      0
+ 13-  1:	CsPK_gmep_36738_p	CsPK_gmep_36778_p	      0
+ 13-  2:	CsPK_gmep_36739_p	CsPK_gmep_36776_p	  4e-90
+ 13-  3:	CsPK_gmep_36742_p	CsPK_gmep_36774_p	  3e-60
+ 13-  4:	CsPK_gmep_36743_p	CsPK_gmep_36773_p	      0
+ 13-  5:	CsPK_gmep_36744_p	CsPK_gmep_36772_p	      0
+## Alignment 14: score=294.0 e_value=6.4e-09 N=6 pk1&pk1 minus
+ 14-  0:	CsPK_gmep_21453_p	CsPK_gmep_21492_p	      0
+ 14-  1:	CsPK_gmep_21454_p	CsPK_gmep_21491_p	 2e-148
+ 14-  2:	CsPK_gmep_21456_p	CsPK_gmep_21490_p	  3e-53
+ 14-  3:	CsPK_gmep_21458_p	CsPK_gmep_21487_p	      0
+ 14-  4:	CsPK_gmep_21462_p	CsPK_gmep_21484_p	 7e-129
+ 14-  5:	CsPK_gmep_21463_p	CsPK_gmep_21483_p	      0
+## Alignment 15: score=250.0 e_value=5.7e-06 N=5 pk1&pk1 minus
+ 15-  0:	CsPK_gmep_51909_p	CsPK_gmep_24409_p	  6e-77
+ 15-  1:	CsPK_gmep_51910_p	CsPK_gmep_24408_p	 3e-113
+ 15-  2:	CsPK_gmep_51911_p	CsPK_gmep_24407_p	      0
+ 15-  3:	CsPK_gmep_51912_p	CsPK_gmep_24406_p	 7e-147
+ 15-  4:	CsPK_gmep_51913_p	CsPK_gmep_24405_p	 1e-106
+## Alignment 16: score=796.0 e_value=5.7e-38 N=16 pk1&pk10 plus
+ 16-  0:	CsPK_gmep_21203_p	CsPK_gmep_25108_p	 2e-131
+ 16-  1:	CsPK_gmep_21204_p	CsPK_gmep_25109_p	      0
+ 16-  2:	CsPK_gmep_21205_p	CsPK_gmep_25110_p	 1e-143
+ 16-  3:	CsPK_gmep_21206_p	CsPK_gmep_25111_p	      0
+ 16-  4:	CsPK_gmep_21207_p	CsPK_gmep_25112_p	  1e-51
+ 16-  5:	CsPK_gmep_21210_p	CsPK_gmep_25113_p	  6e-83
+ 16-  6:	CsPK_gmep_21211_p	CsPK_gmep_25114_p	 2e-133
+ 16-  7:	CsPK_gmep_21212_p	CsPK_gmep_25115_p	      0
+ 16-  8:	CsPK_gmep_21213_p	CsPK_gmep_25116_p	      0
+ 16-  9:	CsPK_gmep_21215_p	CsPK_gmep_25117_p	      0
+ 16- 10:	CsPK_gmep_21216_p	CsPK_gmep_25118_p	 2e-132
+ 16- 11:	CsPK_gmep_21218_p	CsPK_gmep_25119_p	      0
+ 16- 12:	CsPK_gmep_21219_p	CsPK_gmep_25120_p	      0
+ 16- 13:	CsPK_gmep_21220_p	CsPK_gmep_25121_p	  1e-33
+ 16- 14:	CsPK_gmep_21221_p	CsPK_gmep_25122_p	      0
+ 16- 15:	CsPK_gmep_21222_p	CsPK_gmep_25123_p	      0
+## Alignment 17: score=495.0 e_value=3.5e-19 N=10 pk1&pk10 plus
+ 17-  0:	CsPK_gmep_21616_p	CsPK_gmep_54970_p	      0
+ 17-  1:	CsPK_gmep_21617_p	CsPK_gmep_54971_p	      0
+ 17-  2:	CsPK_gmep_21618_p	CsPK_gmep_54972_p	      0
+ 17-  3:	CsPK_gmep_21619_p	CsPK_gmep_54973_p	  1e-85
+ 17-  4:	CsPK_gmep_21620_p	CsPK_gmep_54974_p	      0
+ 17-  5:	CsPK_gmep_21623_p	CsPK_gmep_54976_p	      0
+ 17-  6:	CsPK_gmep_21624_p	CsPK_gmep_54977_p	      0
+ 17-  7:	CsPK_gmep_21627_p	CsPK_gmep_54979_p	 6e-112
+ 17-  8:	CsPK_gmep_21629_p	CsPK_gmep_54980_p	 2e-123
+ 17-  9:	CsPK_gmep_21630_p	CsPK_gmep_54981_p	  1e-64
+## Alignment 18: score=446.0 e_value=1.3e-18 N=9 pk1&pk10 plus
+ 18-  0:	CsPK_gmep_43411_p	CsPK_gmep_39123_p	 3e-140
+ 18-  1:	CsPK_gmep_43412_p	CsPK_gmep_39124_p	      0
+ 18-  2:	CsPK_gmep_43413_p	CsPK_gmep_39125_p	      0
+ 18-  3:	CsPK_gmep_43415_p	CsPK_gmep_39126_p	      0
+ 18-  4:	CsPK_gmep_43416_p	CsPK_gmep_39127_p	 4e-162
+ 18-  5:	CsPK_gmep_43417_p	CsPK_gmep_39128_p	      0
+ 18-  6:	CsPK_gmep_43419_p	CsPK_gmep_39129_p	 1e-152
+ 18-  7:	CsPK_gmep_43422_p	CsPK_gmep_39130_p	 3e-102
+ 18-  8:	CsPK_gmep_43423_p	CsPK_gmep_39131_p	      0
+## Alignment 19: score=350.0 e_value=9.4e-12 N=7 pk1&pk10 plus
+ 19-  0:	CsPK_gmep_42229_p	CsPK_gmep_25177_p	  8e-89
+ 19-  1:	CsPK_gmep_42230_p	CsPK_gmep_25178_p	 4e-109
+ 19-  2:	CsPK_gmep_42231_p	CsPK_gmep_25179_p	 3e-110
+ 19-  3:	CsPK_gmep_42232_p	CsPK_gmep_25180_p	      0
+ 19-  4:	CsPK_gmep_42233_p	CsPK_gmep_25181_p	 1e-133
+ 19-  5:	CsPK_gmep_42234_p	CsPK_gmep_25182_p	 4e-150
+ 19-  6:	CsPK_gmep_42235_p	CsPK_gmep_25183_p	      0
+## Alignment 20: score=298.0 e_value=4e-09 N=6 pk1&pk10 plus
+ 20-  0:	CsPK_gmep_13863_p	CsPK_gmep_39046_p	  2e-60
+ 20-  1:	CsPK_gmep_13864_p	CsPK_gmep_39049_p	      0
+ 20-  2:	CsPK_gmep_13865_p	CsPK_gmep_39050_p	 2e-114
+ 20-  3:	CsPK_gmep_13866_p	CsPK_gmep_39051_p	 3e-120
+ 20-  4:	CsPK_gmep_13867_p	CsPK_gmep_39052_p	  3e-45
+ 20-  5:	CsPK_gmep_13868_p	CsPK_gmep_39053_p	 2e-105
+## Alignment 21: score=298.0 e_value=9.4e-08 N=6 pk1&pk10 plus
+ 21-  0:	CsPK_gmep_61533_p	CsPK_gmep_74418_p	      0
+ 21-  1:	CsPK_gmep_61534_p	CsPK_gmep_74419_p	  1e-84
+ 21-  2:	CsPK_gmep_61536_p	CsPK_gmep_74420_p	  4e-89
+ 21-  3:	CsPK_gmep_61537_p	CsPK_gmep_74421_p	      0
+ 21-  4:	CsPK_gmep_61538_p	CsPK_gmep_74423_p	      0
+ 21-  5:	CsPK_gmep_61539_p	CsPK_gmep_74424_p	 1e-108
+## Alignment 22: score=250.0 e_value=7.6e-07 N=5 pk1&pk10 plus
+ 22-  0:	CsPK_gmep_47795_p	CsPK_gmep_74246_p	 1e-117
+ 22-  1:	CsPK_gmep_47796_p	CsPK_gmep_74247_p	 2e-102
+ 22-  2:	CsPK_gmep_47797_p	CsPK_gmep_74248_p	      0
+ 22-  3:	CsPK_gmep_47798_p	CsPK_gmep_74249_p	 4e-120
+ 22-  4:	CsPK_gmep_47799_p	CsPK_gmep_74250_p	 6e-107
+## Alignment 23: score=520.0 e_value=8.1e-29 N=11 pk1&pk10 minus
+ 23-  0:	CsPK_gmep_81757_p	CsPK_gmep_8423_p	  5e-87
+ 23-  1:	CsPK_gmep_4156_p	CsPK_gmep_8407_p	  2e-27
+ 23-  2:	CsPK_gmep_4158_p	CsPK_gmep_8406_p	      0
+ 23-  3:	CsPK_gmep_4159_p	CsPK_gmep_8404_p	      0
+ 23-  4:	CsPK_gmep_4160_p	CsPK_gmep_8403_p	  1e-82
+ 23-  5:	CsPK_gmep_4162_p	CsPK_gmep_8402_p	      0
+ 23-  6:	CsPK_gmep_4164_p	CsPK_gmep_8401_p	  3e-58
+ 23-  7:	CsPK_gmep_4166_p	CsPK_gmep_8397_p	  2e-71
+ 23-  8:	CsPK_gmep_4168_p	CsPK_gmep_8395_p	 5e-115
+ 23-  9:	CsPK_gmep_4171_p	CsPK_gmep_8394_p	      0
+ 23- 10:	CsPK_gmep_4172_p	CsPK_gmep_8393_p	 2e-145
+## Alignment 24: score=340.0 e_value=1.1e-10 N=7 pk1&pk10 minus
+ 24-  0:	CsPK_gmep_68431_p	CsPK_gmep_26396_p	      0
+ 24-  1:	CsPK_gmep_68433_p	CsPK_gmep_26395_p	      0
+ 24-  2:	CsPK_gmep_68437_p	CsPK_gmep_26394_p	      0
+ 24-  3:	CsPK_gmep_68440_p	CsPK_gmep_26391_p	      0
+ 24-  4:	CsPK_gmep_68443_p	CsPK_gmep_26389_p	  1e-67
+ 24-  5:	CsPK_gmep_68446_p	CsPK_gmep_26387_p	  1e-66
+ 24-  6:	CsPK_gmep_68447_p	CsPK_gmep_26386_p	      0
+## Alignment 25: score=297.0 e_value=2.3e-09 N=6 pk1&pk10 minus
+ 25-  0:	CsPK_gmep_33430_p	CsPK_gmep_38903_p	  6e-22
+ 25-  1:	CsPK_gmep_33431_p	CsPK_gmep_38902_p	 2e-140
+ 25-  2:	CsPK_gmep_33432_p	CsPK_gmep_38901_p	      0
+ 25-  3:	CsPK_gmep_33435_p	CsPK_gmep_38899_p	      0
+ 25-  4:	CsPK_gmep_33436_p	CsPK_gmep_38898_p	 7e-144
+ 25-  5:	CsPK_gmep_33438_p	CsPK_gmep_38897_p	  1e-31
+## Alignment 26: score=291.0 e_value=1.8e-09 N=6 pk1&pk10 minus
+ 26-  0:	CsPK_gmep_79883_p	CsPK_gmep_37506_p	  2e-97
+ 26-  1:	CsPK_gmep_79887_p	CsPK_gmep_37499_p	 4e-127
+ 26-  2:	CsPK_gmep_79888_p	CsPK_gmep_37496_p	      0
+ 26-  3:	CsPK_gmep_79889_p	CsPK_gmep_37495_p	      0
+ 26-  4:	CsPK_gmep_79890_p	CsPK_gmep_37494_p	  2e-70
+ 26-  5:	CsPK_gmep_79891_p	CsPK_gmep_37492_p	      0
+## Alignment 27: score=287.0 e_value=1.8e-08 N=6 pk1&pk10 minus
+ 27-  0:	CsPK_gmep_65246_p	CsPK_gmep_25063_p	  1e-48
+ 27-  1:	CsPK_gmep_65253_p	CsPK_gmep_25062_p	  3e-56
+ 27-  2:	CsPK_gmep_65254_p	CsPK_gmep_25060_p	  1e-33
+ 27-  3:	CsPK_gmep_65258_p	CsPK_gmep_25057_p	 1e-117
+ 27-  4:	CsPK_gmep_65259_p	CsPK_gmep_25056_p	  2e-38
+ 27-  5:	CsPK_gmep_65263_p	CsPK_gmep_25052_p	  1e-19
+## Alignment 28: score=546.0 e_value=3.9e-22 N=11 pk1&pk2 plus
+ 28-  0:	CsPK_gmep_21223_p	CsPK_gmep_25124_p	      0
+ 28-  1:	CsPK_gmep_21224_p	CsPK_gmep_25125_p	      0
+ 28-  2:	CsPK_gmep_21225_p	CsPK_gmep_25127_p	      0
+ 28-  3:	CsPK_gmep_21226_p	CsPK_gmep_25128_p	      0
+ 28-  4:	CsPK_gmep_21228_p	CsPK_gmep_25129_p	      0
+ 28-  5:	CsPK_gmep_21229_p	CsPK_gmep_25130_p	      0
+ 28-  6:	CsPK_gmep_21230_p	CsPK_gmep_25131_p	      0
+ 28-  7:	CsPK_gmep_21231_p	CsPK_gmep_25132_p	  5e-52
+ 28-  8:	CsPK_gmep_21234_p	CsPK_gmep_25133_p	  2e-76
+ 28-  9:	CsPK_gmep_21235_p	CsPK_gmep_25134_p	  9e-56
+ 28- 10:	CsPK_gmep_21236_p	CsPK_gmep_25135_p	      0
+## Alignment 29: score=445.0 e_value=3.3e-17 N=9 pk1&pk2 plus
+ 29-  0:	CsPK_gmep_65393_p	CsPK_gmep_23788_p	      0
+ 29-  1:	CsPK_gmep_65394_p	CsPK_gmep_23789_p	 2e-109
+ 29-  2:	CsPK_gmep_65396_p	CsPK_gmep_23790_p	  2e-81
+ 29-  3:	CsPK_gmep_65397_p	CsPK_gmep_23791_p	      0
+ 29-  4:	CsPK_gmep_65398_p	CsPK_gmep_23792_p	  3e-89
+ 29-  5:	CsPK_gmep_65399_p	CsPK_gmep_23793_p	  1e-36
+ 29-  6:	CsPK_gmep_65400_p	CsPK_gmep_23794_p	      0
+ 29-  7:	CsPK_gmep_65401_p	CsPK_gmep_23795_p	 3e-113
+ 29-  8:	CsPK_gmep_65402_p	CsPK_gmep_23800_p	      0
+## Alignment 30: score=377.0 e_value=2.8e-16 N=8 pk1&pk2 plus
+ 30-  0:	CsPK_gmep_65683_p	CsPK_gmep_46440_p	  2e-45
+ 30-  1:	CsPK_gmep_65706_p	CsPK_gmep_46460_p	      0
+ 30-  2:	CsPK_gmep_65707_p	CsPK_gmep_46461_p	  1e-88
+ 30-  3:	CsPK_gmep_65708_p	CsPK_gmep_46462_p	 2e-171
+ 30-  4:	CsPK_gmep_65709_p	CsPK_gmep_46463_p	      0
+ 30-  5:	CsPK_gmep_65711_p	CsPK_gmep_46464_p	      0
+ 30-  6:	CsPK_gmep_65712_p	CsPK_gmep_46465_p	 1e-178
+ 30-  7:	CsPK_gmep_65713_p	CsPK_gmep_46466_p	      0
+## Alignment 31: score=350.0 e_value=3.6e-12 N=7 pk1&pk2 plus
+ 31-  0:	CsPK_gmep_65215_p	CsPK_gmep_65171_p	  8e-76
+ 31-  1:	CsPK_gmep_65216_p	CsPK_gmep_65172_p	  2e-76
+ 31-  2:	CsPK_gmep_65217_p	CsPK_gmep_65173_p	      0
+ 31-  3:	CsPK_gmep_65218_p	CsPK_gmep_65174_p	      0
+ 31-  4:	CsPK_gmep_65219_p	CsPK_gmep_65175_p	      0
+ 31-  5:	CsPK_gmep_65220_p	CsPK_gmep_65176_p	      0
+ 31-  6:	CsPK_gmep_65221_p	CsPK_gmep_65177_p	  1e-32
+## Alignment 32: score=348.0 e_value=1e-10 N=7 pk1&pk2 plus
+ 32-  0:	CsPK_gmep_65377_p	CsPK_gmep_4126_p	  8e-16
+ 32-  1:	CsPK_gmep_65378_p	CsPK_gmep_4127_p	 7e-162
+ 32-  2:	CsPK_gmep_65379_p	CsPK_gmep_4128_p	      0
+ 32-  3:	CsPK_gmep_65380_p	CsPK_gmep_4130_p	      0
+ 32-  4:	CsPK_gmep_65381_p	CsPK_gmep_4132_p	      0
+ 32-  5:	CsPK_gmep_65382_p	CsPK_gmep_4133_p	      0
+ 32-  6:	CsPK_gmep_65383_p	CsPK_gmep_4134_p	      0
+## Alignment 33: score=345.0 e_value=3.8e-11 N=7 pk1&pk2 plus
+ 33-  0:	CsPK_gmep_79854_p	CsPK_gmep_59229_p	  7e-17
+ 33-  1:	CsPK_gmep_79855_p	CsPK_gmep_59230_p	 3e-111
+ 33-  2:	CsPK_gmep_79856_p	CsPK_gmep_59232_p	      0
+ 33-  3:	CsPK_gmep_79857_p	CsPK_gmep_59234_p	      0
+ 33-  4:	CsPK_gmep_79860_p	CsPK_gmep_59238_p	      0
+ 33-  5:	CsPK_gmep_79861_p	CsPK_gmep_59239_p	      0
+ 33-  6:	CsPK_gmep_79862_p	CsPK_gmep_59240_p	      0
+## Alignment 34: score=297.0 e_value=1.9e-08 N=6 pk1&pk2 plus
+ 34-  0:	CsPK_gmep_82078_p	CsPK_gmep_83634_p	      0
+ 34-  1:	CsPK_gmep_82079_p	CsPK_gmep_83636_p	  9e-64
+ 34-  2:	CsPK_gmep_82081_p	CsPK_gmep_83637_p	 3e-110
+ 34-  3:	CsPK_gmep_82082_p	CsPK_gmep_83638_p	 2e-128
+ 34-  4:	CsPK_gmep_82084_p	CsPK_gmep_83640_p	      0
+ 34-  5:	CsPK_gmep_82085_p	CsPK_gmep_83641_p	      0
+## Alignment 35: score=254.0 e_value=6.4e-10 N=6 pk1&pk2 plus
+ 35-  0:	CsPK_gmep_36015_p	CsPK_gmep_708_p	  1e-93
+ 35-  1:	CsPK_gmep_36036_p	CsPK_gmep_733_p	  1e-42
+ 35-  2:	CsPK_gmep_36047_p	CsPK_gmep_745_p	 1e-177
+ 35-  3:	CsPK_gmep_36050_p	CsPK_gmep_751_p	 1e-106
+ 35-  4:	CsPK_gmep_36054_p	CsPK_gmep_755_p	      0
+ 35-  5:	CsPK_gmep_36055_p	CsPK_gmep_759_p	 7e-147
+## Alignment 36: score=393.0 e_value=3.4e-16 N=8 pk1&pk3 plus
+ 36-  0:	CsPK_gmep_61070_p	CsPK_gmep_18225_p	      0
+ 36-  1:	CsPK_gmep_61071_p	CsPK_gmep_18226_p	      0
+ 36-  2:	CsPK_gmep_61072_p	CsPK_gmep_18227_p	      0
+ 36-  3:	CsPK_gmep_61076_p	CsPK_gmep_18228_p	  2e-93
+ 36-  4:	CsPK_gmep_61078_p	CsPK_gmep_18229_p	      0
+ 36-  5:	CsPK_gmep_61079_p	CsPK_gmep_18230_p	 3e-163
+ 36-  6:	CsPK_gmep_61080_p	CsPK_gmep_18231_p	      0
+ 36-  7:	CsPK_gmep_61081_p	CsPK_gmep_18235_p	      0
+## Alignment 37: score=345.0 e_value=2.1e-11 N=7 pk1&pk3 plus
+ 37-  0:	CsPK_gmep_21325_p	CsPK_gmep_58251_p	  1e-96
+ 37-  1:	CsPK_gmep_21326_p	CsPK_gmep_58252_p	      0
+ 37-  2:	CsPK_gmep_21328_p	CsPK_gmep_58253_p	 1e-151
+ 37-  3:	CsPK_gmep_21329_p	CsPK_gmep_58255_p	 4e-141
+ 37-  4:	CsPK_gmep_21330_p	CsPK_gmep_58256_p	      0
+ 37-  5:	CsPK_gmep_21331_p	CsPK_gmep_58257_p	 2e-140
+ 37-  6:	CsPK_gmep_21333_p	CsPK_gmep_58261_p	  3e-94
+## Alignment 38: score=548.0 e_value=3.9e-22 N=11 pk1&pk3 minus
+ 38-  0:	CsPK_gmep_14783_p	CsPK_gmep_32063_p	      0
+ 38-  1:	CsPK_gmep_14784_p	CsPK_gmep_32062_p	 8e-158
+ 38-  2:	CsPK_gmep_14785_p	CsPK_gmep_32059_p	  3e-89
+ 38-  3:	CsPK_gmep_14786_p	CsPK_gmep_32058_p	      0
+ 38-  4:	CsPK_gmep_14787_p	CsPK_gmep_32057_p	 9e-160
+ 38-  5:	CsPK_gmep_14788_p	CsPK_gmep_32056_p	      0
+ 38-  6:	CsPK_gmep_14789_p	CsPK_gmep_32055_p	      0
+ 38-  7:	CsPK_gmep_14790_p	CsPK_gmep_32054_p	 8e-114
+ 38-  8:	CsPK_gmep_14791_p	CsPK_gmep_32053_p	      0
+ 38-  9:	CsPK_gmep_14792_p	CsPK_gmep_32052_p	      0
+ 38- 10:	CsPK_gmep_14793_p	CsPK_gmep_32051_p	  6e-20
+## Alignment 39: score=394.0 e_value=1.7e-14 N=8 pk1&pk3 minus
+ 39-  0:	CsPK_gmep_78107_p	CsPK_gmep_58536_p	      0
+ 39-  1:	CsPK_gmep_78109_p	CsPK_gmep_58534_p	  1e-88
+ 39-  2:	CsPK_gmep_78110_p	CsPK_gmep_58533_p	  4e-75
+ 39-  3:	CsPK_gmep_78111_p	CsPK_gmep_58532_p	      0
+ 39-  4:	CsPK_gmep_78116_p	CsPK_gmep_58528_p	  3e-73
+ 39-  5:	CsPK_gmep_78117_p	CsPK_gmep_58527_p	  2e-57
+ 39-  6:	CsPK_gmep_78118_p	CsPK_gmep_58526_p	      0
+ 39-  7:	CsPK_gmep_78120_p	CsPK_gmep_58524_p	  2e-55
+## Alignment 40: score=289.0 e_value=5.2e-09 N=6 pk1&pk3 minus
+ 40-  0:	CsPK_gmep_82957_p	CsPK_gmep_66616_p	  1e-86
+ 40-  1:	CsPK_gmep_82958_p	CsPK_gmep_66615_p	  3e-96
+ 40-  2:	CsPK_gmep_82959_p	CsPK_gmep_66613_p	      0
+ 40-  3:	CsPK_gmep_82961_p	CsPK_gmep_66610_p	      0
+ 40-  4:	CsPK_gmep_82962_p	CsPK_gmep_66609_p	      0
+ 40-  5:	CsPK_gmep_82971_p	CsPK_gmep_66608_p	      0
+## Alignment 41: score=447.0 e_value=1.1e-16 N=9 pk1&pk4 minus
+ 41-  0:	CsPK_gmep_30174_p	CsPK_gmep_50161_p	      0
+ 41-  1:	CsPK_gmep_30176_p	CsPK_gmep_50160_p	      0
+ 41-  2:	CsPK_gmep_30177_p	CsPK_gmep_50159_p	      0
+ 41-  3:	CsPK_gmep_30178_p	CsPK_gmep_50158_p	      0
+ 41-  4:	CsPK_gmep_30179_p	CsPK_gmep_50157_p	  3e-20
+ 41-  5:	CsPK_gmep_30180_p	CsPK_gmep_50156_p	  9e-87
+ 41-  6:	CsPK_gmep_30182_p	CsPK_gmep_50155_p	      0
+ 41-  7:	CsPK_gmep_30183_p	CsPK_gmep_50153_p	      0
+ 41-  8:	CsPK_gmep_30184_p	CsPK_gmep_50152_p	  5e-85
+## Alignment 42: score=389.0 e_value=6.8e-15 N=8 pk1&pk4 minus
+ 42-  0:	CsPK_gmep_27345_p	CsPK_gmep_27416_p	  5e-32
+ 42-  1:	CsPK_gmep_27346_p	CsPK_gmep_27415_p	      0
+ 42-  2:	CsPK_gmep_27348_p	CsPK_gmep_27406_p	  6e-98
+ 42-  3:	CsPK_gmep_27350_p	CsPK_gmep_27404_p	 4e-173
+ 42-  4:	CsPK_gmep_27351_p	CsPK_gmep_27402_p	 5e-164
+ 42-  5:	CsPK_gmep_27352_p	CsPK_gmep_27401_p	 5e-130
+ 42-  6:	CsPK_gmep_27354_p	CsPK_gmep_27400_p	  1e-98
+ 42-  7:	CsPK_gmep_27355_p	CsPK_gmep_27399_p	  4e-47
+## Alignment 43: score=297.0 e_value=8.8e-09 N=6 pk1&pk4 minus
+ 43-  0:	CsPK_gmep_33471_p	CsPK_gmep_43051_p	  1e-39
+ 43-  1:	CsPK_gmep_33473_p	CsPK_gmep_43049_p	 1e-109
+ 43-  2:	CsPK_gmep_33474_p	CsPK_gmep_43048_p	      0
+ 43-  3:	CsPK_gmep_33475_p	CsPK_gmep_43047_p	      0
+ 43-  4:	CsPK_gmep_33476_p	CsPK_gmep_43045_p	  4e-66
+ 43-  5:	CsPK_gmep_33477_p	CsPK_gmep_43043_p	      0
+## Alignment 44: score=295.0 e_value=8.2e-09 N=6 pk1&pk6 plus
+ 44-  0:	CsPK_gmep_72210_p	CsPK_gmep_20374_p	 3e-134
+ 44-  1:	CsPK_gmep_72215_p	CsPK_gmep_20377_p	 6e-103
+ 44-  2:	CsPK_gmep_72216_p	CsPK_gmep_20379_p	 4e-129
+ 44-  3:	CsPK_gmep_72217_p	CsPK_gmep_20380_p	      0
+ 44-  4:	CsPK_gmep_72218_p	CsPK_gmep_20381_p	      0
+ 44-  5:	CsPK_gmep_72219_p	CsPK_gmep_20382_p	  4e-79
+## Alignment 45: score=644.0 e_value=1.7e-30 N=13 pk1&pk6 minus
+ 45-  0:	CsPK_gmep_76884_p	CsPK_gmep_6402_p	 4e-100
+ 45-  1:	CsPK_gmep_76888_p	CsPK_gmep_6401_p	      0
+ 45-  2:	CsPK_gmep_76889_p	CsPK_gmep_6400_p	  5e-81
+ 45-  3:	CsPK_gmep_76890_p	CsPK_gmep_6399_p	  1e-75
+ 45-  4:	CsPK_gmep_76892_p	CsPK_gmep_6398_p	      0
+ 45-  5:	CsPK_gmep_76893_p	CsPK_gmep_6397_p	  2e-16
+ 45-  6:	CsPK_gmep_76895_p	CsPK_gmep_6395_p	  7e-86
+ 45-  7:	CsPK_gmep_76897_p	CsPK_gmep_6394_p	  6e-47
+ 45-  8:	CsPK_gmep_76898_p	CsPK_gmep_6393_p	      0
+ 45-  9:	CsPK_gmep_76899_p	CsPK_gmep_6392_p	 1e-168
+ 45- 10:	CsPK_gmep_76900_p	CsPK_gmep_6391_p	  1e-86
+ 45- 11:	CsPK_gmep_76901_p	CsPK_gmep_6390_p	      0
+ 45- 12:	CsPK_gmep_76902_p	CsPK_gmep_6389_p	 8e-171
+## Alignment 46: score=346.0 e_value=1.9e-11 N=7 pk1&pk6 minus
+ 46-  0:	CsPK_gmep_14196_p	CsPK_gmep_34935_p	      0
+ 46-  1:	CsPK_gmep_14197_p	CsPK_gmep_34934_p	 4e-117
+ 46-  2:	CsPK_gmep_14198_p	CsPK_gmep_34933_p	 3e-176
+ 46-  3:	CsPK_gmep_14199_p	CsPK_gmep_34932_p	      0
+ 46-  4:	CsPK_gmep_14201_p	CsPK_gmep_34931_p	 1e-139
+ 46-  5:	CsPK_gmep_14205_p	CsPK_gmep_34929_p	  3e-38
+ 46-  6:	CsPK_gmep_14206_p	CsPK_gmep_34928_p	      0
+## Alignment 47: score=793.0 e_value=3.3e-40 N=16 pk1&pk7 plus
+ 47-  0:	CsPK_gmep_65331_p	CsPK_gmep_23825_p	      0
+ 47-  1:	CsPK_gmep_65333_p	CsPK_gmep_23826_p	      0
+ 47-  2:	CsPK_gmep_65334_p	CsPK_gmep_23827_p	 3e-130
+ 47-  3:	CsPK_gmep_65335_p	CsPK_gmep_23828_p	      0
+ 47-  4:	CsPK_gmep_65336_p	CsPK_gmep_23829_p	 1e-131
+ 47-  5:	CsPK_gmep_65337_p	CsPK_gmep_23830_p	      0
+ 47-  6:	CsPK_gmep_65338_p	CsPK_gmep_23831_p	  7e-63
+ 47-  7:	CsPK_gmep_65339_p	CsPK_gmep_23832_p	      0
+ 47-  8:	CsPK_gmep_65341_p	CsPK_gmep_23833_p	      0
+ 47-  9:	CsPK_gmep_65342_p	CsPK_gmep_23834_p	 5e-117
+ 47- 10:	CsPK_gmep_65343_p	CsPK_gmep_23835_p	  2e-88
+ 47- 11:	CsPK_gmep_65344_p	CsPK_gmep_23837_p	      0
+ 47- 12:	CsPK_gmep_65345_p	CsPK_gmep_23840_p	 2e-147
+ 47- 13:	CsPK_gmep_65348_p	CsPK_gmep_23842_p	  4e-60
+ 47- 14:	CsPK_gmep_65349_p	CsPK_gmep_23843_p	      0
+ 47- 15:	CsPK_gmep_65350_p	CsPK_gmep_23844_p	      0
+## Alignment 48: score=339.0 e_value=1.6e-12 N=7 pk1&pk7 plus
+ 48-  0:	CsPK_gmep_51903_p	CsPK_gmep_11260_p	 6e-130
+ 48-  1:	CsPK_gmep_51904_p	CsPK_gmep_11261_p	 2e-119
+ 48-  2:	CsPK_gmep_51907_p	CsPK_gmep_11262_p	  1e-87
+ 48-  3:	CsPK_gmep_51916_p	CsPK_gmep_11263_p	      0
+ 48-  4:	CsPK_gmep_51917_p	CsPK_gmep_11264_p	      0
+ 48-  5:	CsPK_gmep_51919_p	CsPK_gmep_11265_p	      0
+ 48-  6:	CsPK_gmep_51920_p	CsPK_gmep_11266_p	      0
+## Alignment 49: score=300.0 e_value=4.9e-09 N=6 pk1&pk7 plus
+ 49-  0:	CsPK_gmep_76922_p	CsPK_gmep_76959_p	 1e-102
+ 49-  1:	CsPK_gmep_76923_p	CsPK_gmep_76960_p	  4e-80
+ 49-  2:	CsPK_gmep_76924_p	CsPK_gmep_76961_p	      0
+ 49-  3:	CsPK_gmep_76925_p	CsPK_gmep_76962_p	  9e-68
+ 49-  4:	CsPK_gmep_76926_p	CsPK_gmep_76963_p	  1e-68
+ 49-  5:	CsPK_gmep_76927_p	CsPK_gmep_76964_p	  2e-84
+## Alignment 50: score=288.0 e_value=8.4e-12 N=6 pk1&pk7 plus
+ 50-  0:	CsPK_gmep_68468_p	CsPK_gmep_37307_p	      0
+ 50-  1:	CsPK_gmep_68469_p	CsPK_gmep_37308_p	      0
+ 50-  2:	CsPK_gmep_68470_p	CsPK_gmep_37309_p	      0
+ 50-  3:	CsPK_gmep_68471_p	CsPK_gmep_37310_p	      0
+ 50-  4:	CsPK_gmep_68472_p	CsPK_gmep_37311_p	  1e-83
+ 50-  5:	CsPK_gmep_68485_p	CsPK_gmep_24055_p	  4e-13
+## Alignment 51: score=545.0 e_value=2.7e-23 N=11 pk1&pk7 minus
+ 51-  0:	CsPK_gmep_62096_p	CsPK_gmep_41666_p	      0
+ 51-  1:	CsPK_gmep_62097_p	CsPK_gmep_41665_p	      0
+ 51-  2:	CsPK_gmep_62098_p	CsPK_gmep_41664_p	      0
+ 51-  3:	CsPK_gmep_62099_p	CsPK_gmep_41663_p	 2e-117
+ 51-  4:	CsPK_gmep_62101_p	CsPK_gmep_41662_p	 2e-157
+ 51-  5:	CsPK_gmep_62102_p	CsPK_gmep_41661_p	  2e-35
+ 51-  6:	CsPK_gmep_62104_p	CsPK_gmep_41659_p	      0
+ 51-  7:	CsPK_gmep_62105_p	CsPK_gmep_41658_p	 2e-111
+ 51-  8:	CsPK_gmep_62106_p	CsPK_gmep_41656_p	  2e-27
+ 51-  9:	CsPK_gmep_62107_p	CsPK_gmep_41655_p	      0
+ 51- 10:	CsPK_gmep_62110_p	CsPK_gmep_41654_p	      0
+## Alignment 52: score=446.0 e_value=1.1e-16 N=9 pk1&pk7 minus
+ 52-  0:	CsPK_gmep_61784_p	CsPK_gmep_41327_p	  3e-54
+ 52-  1:	CsPK_gmep_61786_p	CsPK_gmep_41326_p	 3e-131
+ 52-  2:	CsPK_gmep_61787_p	CsPK_gmep_41324_p	 6e-171
+ 52-  3:	CsPK_gmep_61788_p	CsPK_gmep_41322_p	      0
+ 52-  4:	CsPK_gmep_61789_p	CsPK_gmep_41321_p	  3e-61
+ 52-  5:	CsPK_gmep_61790_p	CsPK_gmep_41320_p	 3e-152
+ 52-  6:	CsPK_gmep_61792_p	CsPK_gmep_41319_p	      0
+ 52-  7:	CsPK_gmep_61793_p	CsPK_gmep_41318_p	  5e-84
+ 52-  8:	CsPK_gmep_61794_p	CsPK_gmep_41317_p	 5e-133
+## Alignment 53: score=398.0 e_value=6.9e-14 N=8 pk1&pk7 minus
+ 53-  0:	CsPK_gmep_79844_p	CsPK_gmep_2423_p	      0
+ 53-  1:	CsPK_gmep_79846_p	CsPK_gmep_2421_p	      0
+ 53-  2:	CsPK_gmep_79847_p	CsPK_gmep_2420_p	      0
+ 53-  3:	CsPK_gmep_79848_p	CsPK_gmep_2419_p	  1e-94
+ 53-  4:	CsPK_gmep_79849_p	CsPK_gmep_2418_p	      0
+ 53-  5:	CsPK_gmep_79850_p	CsPK_gmep_2417_p	      0
+ 53-  6:	CsPK_gmep_79851_p	CsPK_gmep_2416_p	 2e-124
+ 53-  7:	CsPK_gmep_79853_p	CsPK_gmep_2415_p	  3e-23
+## Alignment 54: score=444.0 e_value=9.7e-20 N=9 pk1&pk8 plus
+ 54-  0:	CsPK_gmep_22897_p	CsPK_gmep_62875_p	      0
+ 54-  1:	CsPK_gmep_22898_p	CsPK_gmep_62876_p	      0
+ 54-  2:	CsPK_gmep_22899_p	CsPK_gmep_62877_p	      0
+ 54-  3:	CsPK_gmep_22900_p	CsPK_gmep_62878_p	      0
+ 54-  4:	CsPK_gmep_22901_p	CsPK_gmep_62879_p	      0
+ 54-  5:	CsPK_gmep_22902_p	CsPK_gmep_62880_p	  2e-36
+ 54-  6:	CsPK_gmep_22903_p	CsPK_gmep_62881_p	      0
+ 54-  7:	CsPK_gmep_22905_p	CsPK_gmep_62882_p	 1e-130
+ 54-  8:	CsPK_gmep_22906_p	CsPK_gmep_62888_p	  4e-92
+## Alignment 55: score=1039.0 e_value=5.7e-59 N=21 pk1&pk8 minus
+ 55-  0:	CsPK_gmep_20623_p	CsPK_gmep_33899_p	      0
+ 55-  1:	CsPK_gmep_20624_p	CsPK_gmep_33895_p	  3e-81
+ 55-  2:	CsPK_gmep_20626_p	CsPK_gmep_33894_p	      0
+ 55-  3:	CsPK_gmep_20627_p	CsPK_gmep_33893_p	      0
+ 55-  4:	CsPK_gmep_20628_p	CsPK_gmep_33891_p	  5e-60
+ 55-  5:	CsPK_gmep_20629_p	CsPK_gmep_33890_p	      0
+ 55-  6:	CsPK_gmep_20630_p	CsPK_gmep_33889_p	      0
+ 55-  7:	CsPK_gmep_20631_p	CsPK_gmep_33888_p	  3e-84
+ 55-  8:	CsPK_gmep_20632_p	CsPK_gmep_33887_p	      0
+ 55-  9:	CsPK_gmep_20633_p	CsPK_gmep_33884_p	      0
+ 55- 10:	CsPK_gmep_20634_p	CsPK_gmep_33883_p	      0
+ 55- 11:	CsPK_gmep_20635_p	CsPK_gmep_33882_p	      0
+ 55- 12:	CsPK_gmep_20636_p	CsPK_gmep_33880_p	 1e-150
+ 55- 13:	CsPK_gmep_20637_p	CsPK_gmep_33878_p	      0
+ 55- 14:	CsPK_gmep_20638_p	CsPK_gmep_33877_p	      0
+ 55- 15:	CsPK_gmep_20639_p	CsPK_gmep_33876_p	 3e-135
+ 55- 16:	CsPK_gmep_20641_p	CsPK_gmep_33875_p	      0
+ 55- 17:	CsPK_gmep_20642_p	CsPK_gmep_33874_p	      0
+ 55- 18:	CsPK_gmep_20644_p	CsPK_gmep_33873_p	      0
+ 55- 19:	CsPK_gmep_20645_p	CsPK_gmep_33872_p	      0
+ 55- 20:	CsPK_gmep_20646_p	CsPK_gmep_33871_p	      0
+## Alignment 56: score=299.0 e_value=5.8e-10 N=6 pk1&pk8 minus
+ 56-  0:	CsPK_gmep_15326_p	CsPK_gmep_15387_p	      0
+ 56-  1:	CsPK_gmep_15327_p	CsPK_gmep_15386_p	 2e-151
+ 56-  2:	CsPK_gmep_15328_p	CsPK_gmep_15385_p	 6e-156
+ 56-  3:	CsPK_gmep_15329_p	CsPK_gmep_15384_p	      0
+ 56-  4:	CsPK_gmep_15330_p	CsPK_gmep_15383_p	      0
+ 56-  5:	CsPK_gmep_15332_p	CsPK_gmep_15381_p	      0
+## Alignment 57: score=299.0 e_value=1.4e-09 N=6 pk1&pk8 minus
+ 57-  0:	CsPK_gmep_50686_p	CsPK_gmep_50592_p	      0
+ 57-  1:	CsPK_gmep_50688_p	CsPK_gmep_50590_p	      0
+ 57-  2:	CsPK_gmep_50689_p	CsPK_gmep_50589_p	      0
+ 57-  3:	CsPK_gmep_50690_p	CsPK_gmep_50588_p	  3e-37
+ 57-  4:	CsPK_gmep_50691_p	CsPK_gmep_50587_p	  3e-68
+ 57-  5:	CsPK_gmep_50692_p	CsPK_gmep_50586_p	      0
+## Alignment 58: score=646.0 e_value=1.5e-30 N=13 pk1&pk9 plus
+ 58-  0:	CsPK_gmep_82053_p	CsPK_gmep_39892_p	      0
+ 58-  1:	CsPK_gmep_82054_p	CsPK_gmep_39893_p	      0
+ 58-  2:	CsPK_gmep_82056_p	CsPK_gmep_39894_p	 6e-143
+ 58-  3:	CsPK_gmep_82057_p	CsPK_gmep_39895_p	  5e-63
+ 58-  4:	CsPK_gmep_82058_p	CsPK_gmep_39896_p	  1e-55
+ 58-  5:	CsPK_gmep_82059_p	CsPK_gmep_39897_p	      0
+ 58-  6:	CsPK_gmep_82060_p	CsPK_gmep_39898_p	  7e-38
+ 58-  7:	CsPK_gmep_82061_p	CsPK_gmep_39900_p	 8e-138
+ 58-  8:	CsPK_gmep_82062_p	CsPK_gmep_39901_p	 2e-138
+ 58-  9:	CsPK_gmep_82063_p	CsPK_gmep_39902_p	      0
+ 58- 10:	CsPK_gmep_82065_p	CsPK_gmep_39903_p	      0
+ 58- 11:	CsPK_gmep_82066_p	CsPK_gmep_39904_p	 5e-138
+ 58- 12:	CsPK_gmep_82067_p	CsPK_gmep_39906_p	      0
+## Alignment 59: score=637.0 e_value=1.9e-29 N=13 pk1&pk9 plus
+ 59-  0:	CsPK_gmep_76863_p	CsPK_gmep_12383_p	 4e-171
+ 59-  1:	CsPK_gmep_76864_p	CsPK_gmep_12384_p	      0
+ 59-  2:	CsPK_gmep_76865_p	CsPK_gmep_12388_p	      0
+ 59-  3:	CsPK_gmep_76868_p	CsPK_gmep_12389_p	      0
+ 59-  4:	CsPK_gmep_76869_p	CsPK_gmep_12391_p	      0
+ 59-  5:	CsPK_gmep_76871_p	CsPK_gmep_12392_p	      0
+ 59-  6:	CsPK_gmep_76872_p	CsPK_gmep_12395_p	      0
+ 59-  7:	CsPK_gmep_76873_p	CsPK_gmep_12396_p	  9e-91
+ 59-  8:	CsPK_gmep_76874_p	CsPK_gmep_12399_p	      0
+ 59-  9:	CsPK_gmep_76877_p	CsPK_gmep_12400_p	      0
+ 59- 10:	CsPK_gmep_76878_p	CsPK_gmep_12401_p	      0
+ 59- 11:	CsPK_gmep_76879_p	CsPK_gmep_12402_p	      0
+ 59- 12:	CsPK_gmep_76880_p	CsPK_gmep_12403_p	      0
+## Alignment 60: score=448.0 e_value=3.4e-17 N=9 pk1&pk9 plus
+ 60-  0:	CsPK_gmep_21854_p	CsPK_gmep_48449_p	 2e-140
+ 60-  1:	CsPK_gmep_21855_p	CsPK_gmep_48450_p	  1e-76
+ 60-  2:	CsPK_gmep_21858_p	CsPK_gmep_48451_p	      0
+ 60-  3:	CsPK_gmep_21859_p	CsPK_gmep_48452_p	 4e-178
+ 60-  4:	CsPK_gmep_21860_p	CsPK_gmep_48453_p	 2e-116
+ 60-  5:	CsPK_gmep_21861_p	CsPK_gmep_48454_p	      0
+ 60-  6:	CsPK_gmep_21862_p	CsPK_gmep_48455_p	 2e-117
+ 60-  7:	CsPK_gmep_21863_p	CsPK_gmep_48456_p	  4e-36
+ 60-  8:	CsPK_gmep_21864_p	CsPK_gmep_48457_p	      0
+## Alignment 61: score=379.0 e_value=7.2e-16 N=8 pk1&pk9 plus
+ 61-  0:	CsPK_gmep_61498_p	CsPK_gmep_50770_p	      0
+ 61-  1:	CsPK_gmep_61518_p	CsPK_gmep_50776_p	      0
+ 61-  2:	CsPK_gmep_61519_p	CsPK_gmep_50777_p	  2e-69
+ 61-  3:	CsPK_gmep_61520_p	CsPK_gmep_50778_p	  2e-71
+ 61-  4:	CsPK_gmep_61521_p	CsPK_gmep_50779_p	 8e-127
+ 61-  5:	CsPK_gmep_61522_p	CsPK_gmep_50781_p	 9e-170
+ 61-  6:	CsPK_gmep_61524_p	CsPK_gmep_50782_p	      0
+ 61-  7:	CsPK_gmep_61525_p	CsPK_gmep_50783_p	      0
+## Alignment 62: score=298.0 e_value=4.6e-10 N=6 pk1&pk9 plus
+ 62-  0:	CsPK_gmep_52559_p	CsPK_gmep_52526_p	 3e-165
+ 62-  1:	CsPK_gmep_52560_p	CsPK_gmep_52527_p	      0
+ 62-  2:	CsPK_gmep_52561_p	CsPK_gmep_52528_p	 3e-138
+ 62-  3:	CsPK_gmep_52563_p	CsPK_gmep_52531_p	  7e-86
+ 62-  4:	CsPK_gmep_52564_p	CsPK_gmep_52532_p	      0
+ 62-  5:	CsPK_gmep_52565_p	CsPK_gmep_52533_p	  2e-19
+## Alignment 63: score=296.0 e_value=4.5e-08 N=6 pk1&pk9 plus
+ 63-  0:	CsPK_gmep_44989_p	CsPK_gmep_54138_p	  2e-13
+ 63-  1:	CsPK_gmep_44990_p	CsPK_gmep_54139_p	  3e-85
+ 63-  2:	CsPK_gmep_44992_p	CsPK_gmep_54141_p	      0
+ 63-  3:	CsPK_gmep_44994_p	CsPK_gmep_54143_p	      0
+ 63-  4:	CsPK_gmep_44997_p	CsPK_gmep_54145_p	      0
+ 63-  5:	CsPK_gmep_44998_p	CsPK_gmep_54146_p	  3e-40
+## Alignment 64: score=349.0 e_value=3.7e-11 N=7 pk1&pk9 minus
+ 64-  0:	CsPK_gmep_81858_p	CsPK_gmep_81220_p	 8e-141
+ 64-  1:	CsPK_gmep_81859_p	CsPK_gmep_81219_p	  3e-65
+ 64-  2:	CsPK_gmep_81861_p	CsPK_gmep_81218_p	  2e-60
+ 64-  3:	CsPK_gmep_81862_p	CsPK_gmep_81217_p	  3e-98
+ 64-  4:	CsPK_gmep_81863_p	CsPK_gmep_81216_p	      0
+ 64-  5:	CsPK_gmep_81864_p	CsPK_gmep_81215_p	      0
+ 64-  6:	CsPK_gmep_81865_p	CsPK_gmep_81214_p	  5e-83
+## Alignment 65: score=299.0 e_value=1e-08 N=6 pk1&pk9 minus
+ 65-  0:	CsPK_gmep_83049_p	CsPK_gmep_83102_p	      0
+ 65-  1:	CsPK_gmep_83050_p	CsPK_gmep_83101_p	 2e-130
+ 65-  2:	CsPK_gmep_83052_p	CsPK_gmep_83100_p	      0
+ 65-  3:	CsPK_gmep_83053_p	CsPK_gmep_83099_p	  6e-65
+ 65-  4:	CsPK_gmep_83054_p	CsPK_gmep_83098_p	      0
+ 65-  5:	CsPK_gmep_83055_p	CsPK_gmep_83097_p	 4e-136
+## Alignment 66: score=297.0 e_value=8e-09 N=6 pk1&pk9 minus
+ 66-  0:	CsPK_gmep_20082_p	CsPK_gmep_50294_p	 2e-114
+ 66-  1:	CsPK_gmep_20083_p	CsPK_gmep_50293_p	  1e-93
+ 66-  2:	CsPK_gmep_20084_p	CsPK_gmep_50291_p	  1e-66
+ 66-  3:	CsPK_gmep_20085_p	CsPK_gmep_50289_p	 4e-120
+ 66-  4:	CsPK_gmep_20086_p	CsPK_gmep_50287_p	      0
+ 66-  5:	CsPK_gmep_20087_p	CsPK_gmep_50286_p	  1e-90
+## Alignment 67: score=295.0 e_value=6.3e-10 N=6 pk1&pk9 minus
+ 67-  0:	CsPK_gmep_4186_p	CsPK_gmep_4264_p	      0
+ 67-  1:	CsPK_gmep_4187_p	CsPK_gmep_4262_p	      0
+ 67-  2:	CsPK_gmep_4189_p	CsPK_gmep_4261_p	  1e-53
+ 67-  3:	CsPK_gmep_4190_p	CsPK_gmep_4258_p	      0
+ 67-  4:	CsPK_gmep_4191_p	CsPK_gmep_4257_p	 6e-136
+ 67-  5:	CsPK_gmep_4193_p	CsPK_gmep_4256_p	      0
+## Alignment 68: score=287.0 e_value=3.8e-09 N=6 pk1&pk9 minus
+ 68-  0:	CsPK_gmep_65246_p	CsPK_gmep_3697_p	  4e-49
+ 68-  1:	CsPK_gmep_65253_p	CsPK_gmep_3696_p	  1e-69
+ 68-  2:	CsPK_gmep_65254_p	CsPK_gmep_3695_p	  2e-28
+ 68-  3:	CsPK_gmep_65258_p	CsPK_gmep_3691_p	 1e-107
+ 68-  4:	CsPK_gmep_65259_p	CsPK_gmep_3690_p	  3e-38
+ 68-  5:	CsPK_gmep_65263_p	CsPK_gmep_3685_p	  6e-20
+## Alignment 69: score=396.0 e_value=4.4e-14 N=8 pk10&pk10 plus
+ 69-  0:	CsPK_gmep_8358_p	CsPK_gmep_75916_p	      0
+ 69-  1:	CsPK_gmep_8359_p	CsPK_gmep_75917_p	 7e-164
+ 69-  2:	CsPK_gmep_8360_p	CsPK_gmep_75918_p	  1e-81
+ 69-  3:	CsPK_gmep_8363_p	CsPK_gmep_75920_p	  3e-51
+ 69-  4:	CsPK_gmep_8364_p	CsPK_gmep_75922_p	      0
+ 69-  5:	CsPK_gmep_8365_p	CsPK_gmep_75923_p	  2e-93
+ 69-  6:	CsPK_gmep_8366_p	CsPK_gmep_75924_p	 4e-122
+ 69-  7:	CsPK_gmep_8368_p	CsPK_gmep_75926_p	 2e-129
+## Alignment 70: score=278.0 e_value=3.1e-12 N=6 pk10&pk10 plus
+ 70-  0:	CsPK_gmep_83697_p	CsPK_gmep_78588_p	      0
+ 70-  1:	CsPK_gmep_83698_p	CsPK_gmep_78589_p	      0
+ 70-  2:	CsPK_gmep_83699_p	CsPK_gmep_78590_p	 9e-128
+ 70-  3:	CsPK_gmep_83700_p	CsPK_gmep_78591_p	      0
+ 70-  4:	CsPK_gmep_83701_p	CsPK_gmep_78592_p	      0
+ 70-  5:	CsPK_gmep_83724_p	CsPK_gmep_48865_p	  6e-37
+## Alignment 71: score=399.0 e_value=4e-14 N=8 pk10&pk10 minus
+ 71-  0:	CsPK_gmep_66770_p	CsPK_gmep_66742_p	 4e-140
+ 71-  1:	CsPK_gmep_66772_p	CsPK_gmep_66741_p	      0
+ 71-  2:	CsPK_gmep_66773_p	CsPK_gmep_66740_p	      0
+ 71-  3:	CsPK_gmep_66774_p	CsPK_gmep_66739_p	  3e-68
+ 71-  4:	CsPK_gmep_66775_p	CsPK_gmep_66738_p	  2e-44
+ 71-  5:	CsPK_gmep_66776_p	CsPK_gmep_66737_p	  4e-72
+ 71-  6:	CsPK_gmep_66777_p	CsPK_gmep_66736_p	      0
+ 71-  7:	CsPK_gmep_66778_p	CsPK_gmep_66735_p	      0
+## Alignment 72: score=343.0 e_value=4.6e-12 N=7 pk10&pk10 minus
+ 72-  0:	CsPK_gmep_67135_p	CsPK_gmep_25627_p	      0
+ 72-  1:	CsPK_gmep_67138_p	CsPK_gmep_25626_p	  2e-93
+ 72-  2:	CsPK_gmep_67139_p	CsPK_gmep_25624_p	  1e-76
+ 72-  3:	CsPK_gmep_67140_p	CsPK_gmep_25623_p	      0
+ 72-  4:	CsPK_gmep_67144_p	CsPK_gmep_25622_p	  4e-20
+ 72-  5:	CsPK_gmep_67145_p	CsPK_gmep_25621_p	      0
+ 72-  6:	CsPK_gmep_67147_p	CsPK_gmep_25620_p	      0
+## Alignment 73: score=298.0 e_value=8.1e-11 N=6 pk10&pk10 minus
+ 73-  0:	CsPK_gmep_64968_p	CsPK_gmep_64913_p	  3e-66
+ 73-  1:	CsPK_gmep_64969_p	CsPK_gmep_64912_p	 2e-153
+ 73-  2:	CsPK_gmep_64970_p	CsPK_gmep_64909_p	  1e-80
+ 73-  3:	CsPK_gmep_64971_p	CsPK_gmep_64908_p	  2e-80
+ 73-  4:	CsPK_gmep_64972_p	CsPK_gmep_64907_p	 2e-159
+ 73-  5:	CsPK_gmep_64973_p	CsPK_gmep_64906_p	      0
+## Alignment 74: score=646.0 e_value=2e-30 N=13 pk10&pk2 plus
+ 74-  0:	CsPK_gmep_37990_p	CsPK_gmep_24989_p	 5e-180
+ 74-  1:	CsPK_gmep_37991_p	CsPK_gmep_24990_p	      0
+ 74-  2:	CsPK_gmep_37992_p	CsPK_gmep_24991_p	 7e-142
+ 74-  3:	CsPK_gmep_37993_p	CsPK_gmep_24992_p	      0
+ 74-  4:	CsPK_gmep_37994_p	CsPK_gmep_24994_p	      0
+ 74-  5:	CsPK_gmep_37995_p	CsPK_gmep_24995_p	      0
+ 74-  6:	CsPK_gmep_37997_p	CsPK_gmep_24996_p	      0
+ 74-  7:	CsPK_gmep_37999_p	CsPK_gmep_24997_p	  4e-52
+ 74-  8:	CsPK_gmep_38000_p	CsPK_gmep_24998_p	 5e-134
+ 74-  9:	CsPK_gmep_38001_p	CsPK_gmep_24999_p	 1e-162
+ 74- 10:	CsPK_gmep_38002_p	CsPK_gmep_25001_p	      0
+ 74- 11:	CsPK_gmep_38003_p	CsPK_gmep_25002_p	  1e-46
+ 74- 12:	CsPK_gmep_38004_p	CsPK_gmep_25003_p	      0
+## Alignment 75: score=295.0 e_value=2.2e-12 N=6 pk10&pk2 plus
+ 75-  0:	CsPK_gmep_67117_p	CsPK_gmep_33814_p	 1e-148
+ 75-  1:	CsPK_gmep_67118_p	CsPK_gmep_33815_p	      0
+ 75-  2:	CsPK_gmep_67124_p	CsPK_gmep_33820_p	  4e-70
+ 75-  3:	CsPK_gmep_67125_p	CsPK_gmep_33821_p	  2e-38
+ 75-  4:	CsPK_gmep_67126_p	CsPK_gmep_33822_p	 9e-130
+ 75-  5:	CsPK_gmep_67127_p	CsPK_gmep_33823_p	  3e-93
+## Alignment 76: score=293.0 e_value=1.3e-10 N=6 pk10&pk2 plus
+ 76-  0:	CsPK_gmep_67176_p	CsPK_gmep_33802_p	  2e-41
+ 76-  1:	CsPK_gmep_67180_p	CsPK_gmep_33803_p	      0
+ 76-  2:	CsPK_gmep_67182_p	CsPK_gmep_33805_p	      0
+ 76-  3:	CsPK_gmep_67186_p	CsPK_gmep_33808_p	  8e-42
+ 76-  4:	CsPK_gmep_67187_p	CsPK_gmep_33809_p	  2e-46
+ 76-  5:	CsPK_gmep_67188_p	CsPK_gmep_33810_p	 8e-120
+## Alignment 77: score=250.0 e_value=6.9e-06 N=5 pk10&pk2 plus
+ 77-  0:	CsPK_gmep_37442_p	CsPK_gmep_62856_p	      0
+ 77-  1:	CsPK_gmep_37443_p	CsPK_gmep_62857_p	      0
+ 77-  2:	CsPK_gmep_37444_p	CsPK_gmep_62858_p	      0
+ 77-  3:	CsPK_gmep_37445_p	CsPK_gmep_62859_p	      0
+ 77-  4:	CsPK_gmep_37446_p	CsPK_gmep_62860_p	  1e-67
+## Alignment 78: score=746.0 e_value=2.6e-35 N=15 pk10&pk2 minus
+ 78-  0:	CsPK_gmep_8408_p	CsPK_gmep_4155_p	 2e-150
+ 78-  1:	CsPK_gmep_8410_p	CsPK_gmep_4153_p	      0
+ 78-  2:	CsPK_gmep_8411_p	CsPK_gmep_4152_p	  5e-74
+ 78-  3:	CsPK_gmep_8413_p	CsPK_gmep_4151_p	      0
+ 78-  4:	CsPK_gmep_8414_p	CsPK_gmep_4149_p	 4e-123
+ 78-  5:	CsPK_gmep_8415_p	CsPK_gmep_4148_p	 7e-130
+ 78-  6:	CsPK_gmep_8416_p	CsPK_gmep_4147_p	  2e-73
+ 78-  7:	CsPK_gmep_8417_p	CsPK_gmep_4146_p	      0
+ 78-  8:	CsPK_gmep_8418_p	CsPK_gmep_4145_p	      0
+ 78-  9:	CsPK_gmep_8419_p	CsPK_gmep_4144_p	 7e-178
+ 78- 10:	CsPK_gmep_8420_p	CsPK_gmep_4143_p	 5e-133
+ 78- 11:	CsPK_gmep_8421_p	CsPK_gmep_4142_p	  3e-21
+ 78- 12:	CsPK_gmep_8423_p	CsPK_gmep_4140_p	      0
+ 78- 13:	CsPK_gmep_8424_p	CsPK_gmep_4139_p	      0
+ 78- 14:	CsPK_gmep_8425_p	CsPK_gmep_4138_p	      0
+## Alignment 79: score=540.0 e_value=4.5e-24 N=11 pk10&pk2 minus
+ 79-  0:	CsPK_gmep_8702_p	CsPK_gmep_8738_p	      0
+ 79-  1:	CsPK_gmep_8705_p	CsPK_gmep_8737_p	 5e-106
+ 79-  2:	CsPK_gmep_8706_p	CsPK_gmep_8736_p	      0
+ 79-  3:	CsPK_gmep_8707_p	CsPK_gmep_8735_p	 1e-110
+ 79-  4:	CsPK_gmep_8708_p	CsPK_gmep_8733_p	      0
+ 79-  5:	CsPK_gmep_8709_p	CsPK_gmep_8730_p	      0
+ 79-  6:	CsPK_gmep_8710_p	CsPK_gmep_8727_p	 4e-124
+ 79-  7:	CsPK_gmep_8712_p	CsPK_gmep_8725_p	 3e-120
+ 79-  8:	CsPK_gmep_8713_p	CsPK_gmep_8723_p	  1e-86
+ 79-  9:	CsPK_gmep_8714_p	CsPK_gmep_8722_p	  4e-72
+ 79- 10:	CsPK_gmep_8716_p	CsPK_gmep_8721_p	      0
+## Alignment 80: score=497.0 e_value=1.7e-20 N=10 pk10&pk2 minus
+ 80-  0:	CsPK_gmep_16716_p	CsPK_gmep_37228_p	      0
+ 80-  1:	CsPK_gmep_16717_p	CsPK_gmep_37226_p	      0
+ 80-  2:	CsPK_gmep_16718_p	CsPK_gmep_37225_p	      0
+ 80-  3:	CsPK_gmep_16719_p	CsPK_gmep_37224_p	 1e-171
+ 80-  4:	CsPK_gmep_16720_p	CsPK_gmep_37223_p	 3e-104
+ 80-  5:	CsPK_gmep_16721_p	CsPK_gmep_37222_p	      0
+ 80-  6:	CsPK_gmep_16722_p	CsPK_gmep_37221_p	      0
+ 80-  7:	CsPK_gmep_16725_p	CsPK_gmep_37220_p	  7e-81
+ 80-  8:	CsPK_gmep_16726_p	CsPK_gmep_37219_p	      0
+ 80-  9:	CsPK_gmep_16727_p	CsPK_gmep_37218_p	      0
+## Alignment 81: score=445.0 e_value=3.6e-17 N=9 pk10&pk2 minus
+ 81-  0:	CsPK_gmep_83178_p	CsPK_gmep_7752_p	      0
+ 81-  1:	CsPK_gmep_83181_p	CsPK_gmep_7749_p	 3e-140
+ 81-  2:	CsPK_gmep_83182_p	CsPK_gmep_7748_p	  3e-81
+ 81-  3:	CsPK_gmep_83183_p	CsPK_gmep_7747_p	  2e-73
+ 81-  4:	CsPK_gmep_83184_p	CsPK_gmep_7746_p	  2e-50
+ 81-  5:	CsPK_gmep_83185_p	CsPK_gmep_7744_p	      0
+ 81-  6:	CsPK_gmep_83186_p	CsPK_gmep_7743_p	      0
+ 81-  7:	CsPK_gmep_83188_p	CsPK_gmep_7742_p	 3e-150
+ 81-  8:	CsPK_gmep_83190_p	CsPK_gmep_7740_p	  1e-46
+## Alignment 82: score=298.0 e_value=5.5e-08 N=6 pk10&pk2 minus
+ 82-  0:	CsPK_gmep_63658_p	CsPK_gmep_28391_p	      0
+ 82-  1:	CsPK_gmep_63660_p	CsPK_gmep_28390_p	  2e-40
+ 82-  2:	CsPK_gmep_63661_p	CsPK_gmep_28389_p	      0
+ 82-  3:	CsPK_gmep_63662_p	CsPK_gmep_28388_p	  2e-49
+ 82-  4:	CsPK_gmep_63663_p	CsPK_gmep_28387_p	  8e-27
+ 82-  5:	CsPK_gmep_63665_p	CsPK_gmep_28386_p	      0
+## Alignment 83: score=543.0 e_value=2.2e-23 N=11 pk10&pk3 plus
+ 83-  0:	CsPK_gmep_30871_p	CsPK_gmep_9602_p	      0
+ 83-  1:	CsPK_gmep_30873_p	CsPK_gmep_9603_p	      0
+ 83-  2:	CsPK_gmep_30876_p	CsPK_gmep_9604_p	  6e-42
+ 83-  3:	CsPK_gmep_30877_p	CsPK_gmep_9605_p	      0
+ 83-  4:	CsPK_gmep_30878_p	CsPK_gmep_9606_p	  3e-76
+ 83-  5:	CsPK_gmep_30879_p	CsPK_gmep_9607_p	  7e-84
+ 83-  6:	CsPK_gmep_30882_p	CsPK_gmep_9608_p	  2e-21
+ 83-  7:	CsPK_gmep_30883_p	CsPK_gmep_9610_p	 5e-148
+ 83-  8:	CsPK_gmep_30884_p	CsPK_gmep_9612_p	 2e-106
+ 83-  9:	CsPK_gmep_30885_p	CsPK_gmep_9613_p	  2e-58
+ 83- 10:	CsPK_gmep_30886_p	CsPK_gmep_9614_p	 1e-171
+## Alignment 84: score=273.0 e_value=1.6e-11 N=6 pk10&pk3 plus
+ 84-  0:	CsPK_gmep_17566_p	CsPK_gmep_75177_p	      0
+ 84-  1:	CsPK_gmep_17568_p	CsPK_gmep_75178_p	      0
+ 84-  2:	CsPK_gmep_17574_p	CsPK_gmep_75182_p	  2e-64
+ 84-  3:	CsPK_gmep_17575_p	CsPK_gmep_75183_p	 2e-110
+ 84-  4:	CsPK_gmep_17577_p	CsPK_gmep_75186_p	      0
+ 84-  5:	CsPK_gmep_17593_p	CsPK_gmep_75206_p	  4e-18
+## Alignment 85: score=693.0 e_value=4.2e-34 N=14 pk10&pk3 minus
+ 85-  0:	CsPK_gmep_24765_p	CsPK_gmep_66649_p	  5e-94
+ 85-  1:	CsPK_gmep_24766_p	CsPK_gmep_66648_p	 5e-114
+ 85-  2:	CsPK_gmep_24767_p	CsPK_gmep_66647_p	 8e-176
+ 85-  3:	CsPK_gmep_24769_p	CsPK_gmep_66646_p	      0
+ 85-  4:	CsPK_gmep_24770_p	CsPK_gmep_66644_p	 2e-119
+ 85-  5:	CsPK_gmep_24771_p	CsPK_gmep_66643_p	  1e-72
+ 85-  6:	CsPK_gmep_24772_p	CsPK_gmep_66642_p	 7e-149
+ 85-  7:	CsPK_gmep_24773_p	CsPK_gmep_66641_p	      0
+ 85-  8:	CsPK_gmep_24776_p	CsPK_gmep_66640_p	 3e-122
+ 85-  9:	CsPK_gmep_24777_p	CsPK_gmep_66639_p	      0
+ 85- 10:	CsPK_gmep_24779_p	CsPK_gmep_66637_p	      0
+ 85- 11:	CsPK_gmep_24780_p	CsPK_gmep_66636_p	      0
+ 85- 12:	CsPK_gmep_24782_p	CsPK_gmep_66635_p	      0
+ 85- 13:	CsPK_gmep_24784_p	CsPK_gmep_66633_p	 7e-117
+## Alignment 86: score=250.0 e_value=5e-06 N=5 pk10&pk3 minus
+ 86-  0:	CsPK_gmep_66780_p	CsPK_gmep_66734_p	      0
+ 86-  1:	CsPK_gmep_66781_p	CsPK_gmep_66733_p	      0
+ 86-  2:	CsPK_gmep_66782_p	CsPK_gmep_66732_p	  8e-17
+ 86-  3:	CsPK_gmep_66783_p	CsPK_gmep_66731_p	      0
+ 86-  4:	CsPK_gmep_66784_p	CsPK_gmep_66730_p	 2e-128
+## Alignment 87: score=446.0 e_value=1e-16 N=9 pk10&pk4 plus
+ 87-  0:	CsPK_gmep_65042_p	CsPK_gmep_11155_p	      0
+ 87-  1:	CsPK_gmep_65043_p	CsPK_gmep_11156_p	 2e-108
+ 87-  2:	CsPK_gmep_65044_p	CsPK_gmep_11158_p	      0
+ 87-  3:	CsPK_gmep_65045_p	CsPK_gmep_11160_p	 2e-145
+ 87-  4:	CsPK_gmep_65046_p	CsPK_gmep_11162_p	 1e-127
+ 87-  5:	CsPK_gmep_65047_p	CsPK_gmep_11163_p	  2e-82
+ 87-  6:	CsPK_gmep_65049_p	CsPK_gmep_11164_p	 6e-154
+ 87-  7:	CsPK_gmep_65050_p	CsPK_gmep_11165_p	 4e-165
+ 87-  8:	CsPK_gmep_65051_p	CsPK_gmep_11166_p	      0
+## Alignment 88: score=348.0 e_value=2.6e-11 N=7 pk10&pk4 plus
+ 88-  0:	CsPK_gmep_54710_p	CsPK_gmep_1626_p	  4e-73
+ 88-  1:	CsPK_gmep_54711_p	CsPK_gmep_1627_p	 8e-134
+ 88-  2:	CsPK_gmep_54713_p	CsPK_gmep_1628_p	 8e-126
+ 88-  3:	CsPK_gmep_54714_p	CsPK_gmep_1629_p	 6e-110
+ 88-  4:	CsPK_gmep_54715_p	CsPK_gmep_1630_p	      0
+ 88-  5:	CsPK_gmep_54716_p	CsPK_gmep_1631_p	      0
+ 88-  6:	CsPK_gmep_54717_p	CsPK_gmep_1633_p	  1e-28
+## Alignment 89: score=395.0 e_value=1.8e-15 N=8 pk10&pk4 minus
+ 89-  0:	CsPK_gmep_17524_p	CsPK_gmep_56212_p	      0
+ 89-  1:	CsPK_gmep_17525_p	CsPK_gmep_56211_p	 2e-117
+ 89-  2:	CsPK_gmep_17527_p	CsPK_gmep_56208_p	  9e-86
+ 89-  3:	CsPK_gmep_17529_p	CsPK_gmep_56207_p	      0
+ 89-  4:	CsPK_gmep_17530_p	CsPK_gmep_56206_p	      0
+ 89-  5:	CsPK_gmep_17531_p	CsPK_gmep_56205_p	      0
+ 89-  6:	CsPK_gmep_17534_p	CsPK_gmep_56202_p	      0
+ 89-  7:	CsPK_gmep_17535_p	CsPK_gmep_56201_p	 4e-130
+## Alignment 90: score=344.0 e_value=6.5e-12 N=7 pk10&pk4 minus
+ 90-  0:	CsPK_gmep_26386_p	CsPK_gmep_68430_p	      0
+ 90-  1:	CsPK_gmep_26387_p	CsPK_gmep_68429_p	  3e-44
+ 90-  2:	CsPK_gmep_26391_p	CsPK_gmep_68426_p	      0
+ 90-  3:	CsPK_gmep_26392_p	CsPK_gmep_68425_p	  4e-43
+ 90-  4:	CsPK_gmep_26394_p	CsPK_gmep_68423_p	      0
+ 90-  5:	CsPK_gmep_26395_p	CsPK_gmep_68421_p	      0
+ 90-  6:	CsPK_gmep_26396_p	CsPK_gmep_68419_p	      0
+## Alignment 91: score=300.0 e_value=7.5e-09 N=6 pk10&pk4 minus
+ 91-  0:	CsPK_gmep_11588_p	CsPK_gmep_44254_p	  3e-75
+ 91-  1:	CsPK_gmep_11589_p	CsPK_gmep_44253_p	      0
+ 91-  2:	CsPK_gmep_11590_p	CsPK_gmep_44252_p	  3e-95
+ 91-  3:	CsPK_gmep_11591_p	CsPK_gmep_44251_p	  3e-64
+ 91-  4:	CsPK_gmep_11592_p	CsPK_gmep_44250_p	  2e-51
+ 91-  5:	CsPK_gmep_11593_p	CsPK_gmep_44249_p	  4e-35
+## Alignment 92: score=298.0 e_value=8.2e-09 N=6 pk10&pk4 minus
+ 92-  0:	CsPK_gmep_63605_p	CsPK_gmep_47478_p	      0
+ 92-  1:	CsPK_gmep_63606_p	CsPK_gmep_47475_p	      0
+ 92-  2:	CsPK_gmep_63607_p	CsPK_gmep_47474_p	      0
+ 92-  3:	CsPK_gmep_63608_p	CsPK_gmep_47473_p	      0
+ 92-  4:	CsPK_gmep_63609_p	CsPK_gmep_47472_p	  4e-90
+ 92-  5:	CsPK_gmep_63610_p	CsPK_gmep_47471_p	  2e-49
+## Alignment 93: score=369.0 e_value=3.3e-16 N=8 pk10&pk5 plus
+ 93-  0:	CsPK_gmep_64990_p	CsPK_gmep_287_p	  8e-99
+ 93-  1:	CsPK_gmep_64992_p	CsPK_gmep_288_p	  5e-51
+ 93-  2:	CsPK_gmep_64993_p	CsPK_gmep_295_p	 2e-158
+ 93-  3:	CsPK_gmep_64994_p	CsPK_gmep_296_p	 3e-159
+ 93-  4:	CsPK_gmep_64995_p	CsPK_gmep_297_p	  1e-68
+ 93-  5:	CsPK_gmep_64996_p	CsPK_gmep_298_p	      0
+ 93-  6:	CsPK_gmep_64997_p	CsPK_gmep_299_p	  4e-54
+ 93-  7:	CsPK_gmep_65000_p	CsPK_gmep_324_p	  1e-44
+## Alignment 94: score=299.0 e_value=1e-07 N=6 pk10&pk5 plus
+ 94-  0:	CsPK_gmep_32266_p	CsPK_gmep_12750_p	      0
+ 94-  1:	CsPK_gmep_32267_p	CsPK_gmep_12751_p	      0
+ 94-  2:	CsPK_gmep_32268_p	CsPK_gmep_12752_p	 2e-119
+ 94-  3:	CsPK_gmep_32269_p	CsPK_gmep_12753_p	      0
+ 94-  4:	CsPK_gmep_32270_p	CsPK_gmep_12755_p	      0
+ 94-  5:	CsPK_gmep_32271_p	CsPK_gmep_12756_p	  3e-62
+## Alignment 95: score=296.0 e_value=3.7e-08 N=6 pk10&pk5 plus
+ 95-  0:	CsPK_gmep_38968_p	CsPK_gmep_39492_p	 5e-100
+ 95-  1:	CsPK_gmep_38969_p	CsPK_gmep_39493_p	  3e-84
+ 95-  2:	CsPK_gmep_38970_p	CsPK_gmep_39495_p	      0
+ 95-  3:	CsPK_gmep_38972_p	CsPK_gmep_39496_p	      0
+ 95-  4:	CsPK_gmep_38973_p	CsPK_gmep_39499_p	      0
+ 95-  5:	CsPK_gmep_38974_p	CsPK_gmep_39500_p	 2e-121
+## Alignment 96: score=397.0 e_value=6.6e-16 N=8 pk10&pk6 plus
+ 96-  0:	CsPK_gmep_75784_p	CsPK_gmep_34349_p	      0
+ 96-  1:	CsPK_gmep_75785_p	CsPK_gmep_34352_p	 3e-134
+ 96-  2:	CsPK_gmep_75786_p	CsPK_gmep_34353_p	 3e-125
+ 96-  3:	CsPK_gmep_75787_p	CsPK_gmep_34354_p	 2e-134
+ 96-  4:	CsPK_gmep_75788_p	CsPK_gmep_34355_p	 6e-147
+ 96-  5:	CsPK_gmep_75789_p	CsPK_gmep_34356_p	  6e-75
+ 96-  6:	CsPK_gmep_75790_p	CsPK_gmep_34357_p	  7e-72
+ 96-  7:	CsPK_gmep_75791_p	CsPK_gmep_34359_p	 8e-130
+## Alignment 97: score=347.0 e_value=6.3e-12 N=7 pk10&pk6 plus
+ 97-  0:	CsPK_gmep_10196_p	CsPK_gmep_40768_p	      0
+ 97-  1:	CsPK_gmep_10198_p	CsPK_gmep_40770_p	      0
+ 97-  2:	CsPK_gmep_10199_p	CsPK_gmep_40771_p	  7e-93
+ 97-  3:	CsPK_gmep_10200_p	CsPK_gmep_40772_p	  1e-89
+ 97-  4:	CsPK_gmep_10201_p	CsPK_gmep_40774_p	  6e-76
+ 97-  5:	CsPK_gmep_10202_p	CsPK_gmep_40775_p	      0
+ 97-  6:	CsPK_gmep_10204_p	CsPK_gmep_40776_p	  9e-89
+## Alignment 98: score=292.0 e_value=4.9e-10 N=6 pk10&pk6 plus
+ 98-  0:	CsPK_gmep_30837_p	CsPK_gmep_29447_p	  2e-53
+ 98-  1:	CsPK_gmep_30839_p	CsPK_gmep_29448_p	 2e-168
+ 98-  2:	CsPK_gmep_30840_p	CsPK_gmep_29449_p	 2e-157
+ 98-  3:	CsPK_gmep_30841_p	CsPK_gmep_29450_p	      0
+ 98-  4:	CsPK_gmep_30843_p	CsPK_gmep_29451_p	      0
+ 98-  5:	CsPK_gmep_30850_p	CsPK_gmep_29452_p	  6e-43
+## Alignment 99: score=291.0 e_value=7.4e-10 N=6 pk10&pk6 plus
+ 99-  0:	CsPK_gmep_67558_p	CsPK_gmep_49438_p	  2e-40
+ 99-  1:	CsPK_gmep_67559_p	CsPK_gmep_49440_p	 6e-160
+ 99-  2:	CsPK_gmep_67561_p	CsPK_gmep_49441_p	      0
+ 99-  3:	CsPK_gmep_67568_p	CsPK_gmep_49445_p	      0
+ 99-  4:	CsPK_gmep_67570_p	CsPK_gmep_49446_p	      0
+ 99-  5:	CsPK_gmep_67571_p	CsPK_gmep_49447_p	      0
+## Alignment 100: score=494.0 e_value=7e-20 N=10 pk10&pk6 minus
+100-  0:	CsPK_gmep_37967_p	CsPK_gmep_69389_p	  2e-60
+100-  1:	CsPK_gmep_37969_p	CsPK_gmep_69387_p	  3e-50
+100-  2:	CsPK_gmep_37970_p	CsPK_gmep_69386_p	 3e-131
+100-  3:	CsPK_gmep_37974_p	CsPK_gmep_69385_p	 1e-147
+100-  4:	CsPK_gmep_37975_p	CsPK_gmep_69384_p	      0
+100-  5:	CsPK_gmep_37976_p	CsPK_gmep_69383_p	 2e-149
+100-  6:	CsPK_gmep_37977_p	CsPK_gmep_69382_p	  5e-86
+100-  7:	CsPK_gmep_37978_p	CsPK_gmep_69381_p	      0
+100-  8:	CsPK_gmep_37980_p	CsPK_gmep_69380_p	  1e-18
+100-  9:	CsPK_gmep_37982_p	CsPK_gmep_69379_p	 9e-164
+## Alignment 101: score=395.0 e_value=1.1e-15 N=8 pk10&pk6 minus
+101-  0:	CsPK_gmep_34690_p	CsPK_gmep_72789_p	 6e-157
+101-  1:	CsPK_gmep_34693_p	CsPK_gmep_72785_p	      0
+101-  2:	CsPK_gmep_34694_p	CsPK_gmep_72783_p	 1e-172
+101-  3:	CsPK_gmep_34695_p	CsPK_gmep_72782_p	 7e-131
+101-  4:	CsPK_gmep_34696_p	CsPK_gmep_72781_p	      0
+101-  5:	CsPK_gmep_34698_p	CsPK_gmep_72780_p	      0
+101-  6:	CsPK_gmep_34699_p	CsPK_gmep_72779_p	      0
+101-  7:	CsPK_gmep_34700_p	CsPK_gmep_72778_p	  2e-94
+## Alignment 102: score=298.0 e_value=1.5e-09 N=6 pk10&pk6 minus
+102-  0:	CsPK_gmep_37983_p	CsPK_gmep_25027_p	      0
+102-  1:	CsPK_gmep_37984_p	CsPK_gmep_25026_p	      0
+102-  2:	CsPK_gmep_37985_p	CsPK_gmep_25024_p	 3e-113
+102-  3:	CsPK_gmep_37986_p	CsPK_gmep_25023_p	 2e-117
+102-  4:	CsPK_gmep_37987_p	CsPK_gmep_25022_p	      0
+102-  5:	CsPK_gmep_37989_p	CsPK_gmep_25021_p	      0
+## Alignment 103: score=340.0 e_value=6.4e-11 N=7 pk10&pk7 plus
+103-  0:	CsPK_gmep_17291_p	CsPK_gmep_14055_p	 3e-135
+103-  1:	CsPK_gmep_17292_p	CsPK_gmep_14056_p	 7e-134
+103-  2:	CsPK_gmep_17295_p	CsPK_gmep_14057_p	 4e-154
+103-  3:	CsPK_gmep_17297_p	CsPK_gmep_14059_p	 1e-106
+103-  4:	CsPK_gmep_17298_p	CsPK_gmep_14061_p	  1e-84
+103-  5:	CsPK_gmep_17302_p	CsPK_gmep_14062_p	  3e-90
+103-  6:	CsPK_gmep_17306_p	CsPK_gmep_14063_p	      0
+## Alignment 104: score=298.0 e_value=1.5e-09 N=6 pk10&pk7 plus
+104-  0:	CsPK_gmep_80261_p	CsPK_gmep_59880_p	 1e-106
+104-  1:	CsPK_gmep_80262_p	CsPK_gmep_59881_p	 7e-100
+104-  2:	CsPK_gmep_80263_p	CsPK_gmep_59882_p	  2e-70
+104-  3:	CsPK_gmep_80264_p	CsPK_gmep_59884_p	  2e-64
+104-  4:	CsPK_gmep_80266_p	CsPK_gmep_59885_p	      0
+104-  5:	CsPK_gmep_80267_p	CsPK_gmep_59886_p	      0
+## Alignment 105: score=298.0 e_value=6.2e-09 N=6 pk10&pk7 plus
+105-  0:	CsPK_gmep_74890_p	CsPK_gmep_59925_p	 3e-148
+105-  1:	CsPK_gmep_74891_p	CsPK_gmep_59926_p	  2e-66
+105-  2:	CsPK_gmep_74892_p	CsPK_gmep_59927_p	 2e-121
+105-  3:	CsPK_gmep_74893_p	CsPK_gmep_59928_p	      0
+105-  4:	CsPK_gmep_74895_p	CsPK_gmep_59929_p	  5e-14
+105-  5:	CsPK_gmep_74896_p	CsPK_gmep_59931_p	 3e-141
+## Alignment 106: score=250.0 e_value=1e-05 N=5 pk10&pk7 plus
+106-  0:	CsPK_gmep_63617_p	CsPK_gmep_53955_p	      0
+106-  1:	CsPK_gmep_63618_p	CsPK_gmep_53956_p	      0
+106-  2:	CsPK_gmep_63619_p	CsPK_gmep_53957_p	      0
+106-  3:	CsPK_gmep_63620_p	CsPK_gmep_53958_p	      0
+106-  4:	CsPK_gmep_63621_p	CsPK_gmep_53959_p	      0
+## Alignment 107: score=250.0 e_value=5.1e-07 N=5 pk10&pk7 plus
+107-  0:	CsPK_gmep_5822_p	CsPK_gmep_13323_p	      0
+107-  1:	CsPK_gmep_5823_p	CsPK_gmep_13324_p	 2e-150
+107-  2:	CsPK_gmep_5824_p	CsPK_gmep_13325_p	      0
+107-  3:	CsPK_gmep_5825_p	CsPK_gmep_13326_p	  1e-45
+107-  4:	CsPK_gmep_5826_p	CsPK_gmep_13327_p	  3e-65
+## Alignment 108: score=931.0 e_value=7.5e-55 N=19 pk10&pk7 minus
+108-  0:	CsPK_gmep_83703_p	CsPK_gmep_23986_p	      0
+108-  1:	CsPK_gmep_83705_p	CsPK_gmep_23984_p	      0
+108-  2:	CsPK_gmep_83706_p	CsPK_gmep_23982_p	      0
+108-  3:	CsPK_gmep_83707_p	CsPK_gmep_23981_p	  3e-72
+108-  4:	CsPK_gmep_83708_p	CsPK_gmep_23980_p	  5e-96
+108-  5:	CsPK_gmep_83709_p	CsPK_gmep_23979_p	      0
+108-  6:	CsPK_gmep_83710_p	CsPK_gmep_23977_p	  3e-70
+108-  7:	CsPK_gmep_83711_p	CsPK_gmep_23976_p	      0
+108-  8:	CsPK_gmep_83712_p	CsPK_gmep_23975_p	 1e-127
+108-  9:	CsPK_gmep_83713_p	CsPK_gmep_23973_p	      0
+108- 10:	CsPK_gmep_83714_p	CsPK_gmep_23972_p	 3e-140
+108- 11:	CsPK_gmep_83715_p	CsPK_gmep_23970_p	 2e-171
+108- 12:	CsPK_gmep_83716_p	CsPK_gmep_23969_p	      0
+108- 13:	CsPK_gmep_83717_p	CsPK_gmep_23967_p	      0
+108- 14:	CsPK_gmep_83718_p	CsPK_gmep_23966_p	  3e-85
+108- 15:	CsPK_gmep_83720_p	CsPK_gmep_23965_p	      0
+108- 16:	CsPK_gmep_83721_p	CsPK_gmep_23963_p	      0
+108- 17:	CsPK_gmep_83722_p	CsPK_gmep_23962_p	  3e-12
+108- 18:	CsPK_gmep_83724_p	CsPK_gmep_23950_p	  8e-32
+## Alignment 109: score=271.0 e_value=2.6e-08 N=6 pk10&pk7 minus
+109-  0:	CsPK_gmep_26143_p	CsPK_gmep_56496_p	  1e-37
+109-  1:	CsPK_gmep_26148_p	CsPK_gmep_56487_p	      0
+109-  2:	CsPK_gmep_26160_p	CsPK_gmep_56481_p	 1e-103
+109-  3:	CsPK_gmep_26168_p	CsPK_gmep_56477_p	      0
+109-  4:	CsPK_gmep_26170_p	CsPK_gmep_56476_p	  2e-60
+109-  5:	CsPK_gmep_26172_p	CsPK_gmep_56473_p	  2e-53
+## Alignment 110: score=694.0 e_value=4.1e-33 N=14 pk10&pk8 plus
+110-  0:	CsPK_gmep_62758_p	CsPK_gmep_62926_p	 3e-109
+110-  1:	CsPK_gmep_62759_p	CsPK_gmep_62927_p	      0
+110-  2:	CsPK_gmep_62761_p	CsPK_gmep_62929_p	 2e-135
+110-  3:	CsPK_gmep_62763_p	CsPK_gmep_62930_p	      0
+110-  4:	CsPK_gmep_62764_p	CsPK_gmep_62931_p	      0
+110-  5:	CsPK_gmep_62765_p	CsPK_gmep_62932_p	      0
+110-  6:	CsPK_gmep_62766_p	CsPK_gmep_62933_p	      0
+110-  7:	CsPK_gmep_62768_p	CsPK_gmep_62935_p	 7e-121
+110-  8:	CsPK_gmep_62769_p	CsPK_gmep_62937_p	      0
+110-  9:	CsPK_gmep_62770_p	CsPK_gmep_62938_p	 1e-162
+110- 10:	CsPK_gmep_62771_p	CsPK_gmep_62939_p	  3e-97
+110- 11:	CsPK_gmep_62772_p	CsPK_gmep_62940_p	 2e-151
+110- 12:	CsPK_gmep_62774_p	CsPK_gmep_62942_p	      0
+110- 13:	CsPK_gmep_62775_p	CsPK_gmep_62944_p	      0
+## Alignment 111: score=445.0 e_value=2.2e-18 N=9 pk10&pk8 plus
+111-  0:	CsPK_gmep_83277_p	CsPK_gmep_20318_p	  5e-55
+111-  1:	CsPK_gmep_83278_p	CsPK_gmep_20320_p	  1e-70
+111-  2:	CsPK_gmep_83281_p	CsPK_gmep_20321_p	      0
+111-  3:	CsPK_gmep_83282_p	CsPK_gmep_20322_p	      0
+111-  4:	CsPK_gmep_83283_p	CsPK_gmep_20323_p	 2e-127
+111-  5:	CsPK_gmep_83284_p	CsPK_gmep_20324_p	      0
+111-  6:	CsPK_gmep_83285_p	CsPK_gmep_20327_p	      0
+111-  7:	CsPK_gmep_83286_p	CsPK_gmep_20328_p	      0
+111-  8:	CsPK_gmep_83287_p	CsPK_gmep_20329_p	 2e-157
+## Alignment 112: score=391.0 e_value=1.1e-14 N=8 pk10&pk8 plus
+112-  0:	CsPK_gmep_74253_p	CsPK_gmep_27253_p	      0
+112-  1:	CsPK_gmep_74255_p	CsPK_gmep_27254_p	      0
+112-  2:	CsPK_gmep_74256_p	CsPK_gmep_27255_p	      0
+112-  3:	CsPK_gmep_74257_p	CsPK_gmep_27256_p	  8e-45
+112-  4:	CsPK_gmep_74261_p	CsPK_gmep_27257_p	 2e-147
+112-  5:	CsPK_gmep_74262_p	CsPK_gmep_27258_p	      0
+112-  6:	CsPK_gmep_74264_p	CsPK_gmep_27259_p	      0
+112-  7:	CsPK_gmep_74269_p	CsPK_gmep_27262_p	      0
+## Alignment 113: score=392.0 e_value=6.6e-15 N=8 pk10&pk8 minus
+113-  0:	CsPK_gmep_31099_p	CsPK_gmep_51355_p	      0
+113-  1:	CsPK_gmep_31100_p	CsPK_gmep_51354_p	 6e-179
+113-  2:	CsPK_gmep_31102_p	CsPK_gmep_51353_p	 1e-114
+113-  3:	CsPK_gmep_31103_p	CsPK_gmep_51352_p	 1e-141
+113-  4:	CsPK_gmep_31104_p	CsPK_gmep_51351_p	  2e-73
+113-  5:	CsPK_gmep_31105_p	CsPK_gmep_51350_p	 4e-136
+113-  6:	CsPK_gmep_31106_p	CsPK_gmep_51349_p	      0
+113-  7:	CsPK_gmep_31113_p	CsPK_gmep_51341_p	 1e-126
+## Alignment 114: score=348.0 e_value=3.6e-11 N=7 pk10&pk8 minus
+114-  0:	CsPK_gmep_65026_p	CsPK_gmep_55317_p	 1e-172
+114-  1:	CsPK_gmep_65028_p	CsPK_gmep_55316_p	      0
+114-  2:	CsPK_gmep_65029_p	CsPK_gmep_55315_p	      0
+114-  3:	CsPK_gmep_65030_p	CsPK_gmep_55314_p	      0
+114-  4:	CsPK_gmep_65032_p	CsPK_gmep_55313_p	      0
+114-  5:	CsPK_gmep_65033_p	CsPK_gmep_55312_p	      0
+114-  6:	CsPK_gmep_65034_p	CsPK_gmep_55311_p	  4e-74
+## Alignment 115: score=275.0 e_value=2.5e-11 N=6 pk10&pk8 minus
+115-  0:	CsPK_gmep_6817_p	CsPK_gmep_64953_p	  6e-59
+115-  1:	CsPK_gmep_64955_p	CsPK_gmep_64933_p	      0
+115-  2:	CsPK_gmep_64956_p	CsPK_gmep_64931_p	      0
+115-  3:	CsPK_gmep_64958_p	CsPK_gmep_64927_p	  1e-15
+115-  4:	CsPK_gmep_64960_p	CsPK_gmep_64926_p	      0
+115-  5:	CsPK_gmep_64962_p	CsPK_gmep_64925_p	      0
+## Alignment 116: score=1015.0 e_value=3.9e-65 N=21 pk10&pk9 plus
+116-  0:	CsPK_gmep_25049_p	CsPK_gmep_3682_p	      0
+116-  1:	CsPK_gmep_25050_p	CsPK_gmep_3683_p	  1e-71
+116-  2:	CsPK_gmep_25051_p	CsPK_gmep_3684_p	      0
+116-  3:	CsPK_gmep_25052_p	CsPK_gmep_3685_p	      0
+116-  4:	CsPK_gmep_25053_p	CsPK_gmep_3686_p	 8e-110
+116-  5:	CsPK_gmep_25054_p	CsPK_gmep_3687_p	      0
+116-  6:	CsPK_gmep_25055_p	CsPK_gmep_3688_p	      0
+116-  7:	CsPK_gmep_25056_p	CsPK_gmep_3690_p	      0
+116-  8:	CsPK_gmep_25057_p	CsPK_gmep_3691_p	      0
+116-  9:	CsPK_gmep_25058_p	CsPK_gmep_3692_p	      0
+116- 10:	CsPK_gmep_25059_p	CsPK_gmep_3693_p	  4e-80
+116- 11:	CsPK_gmep_25061_p	CsPK_gmep_3695_p	 8e-120
+116- 12:	CsPK_gmep_25062_p	CsPK_gmep_3696_p	      0
+116- 13:	CsPK_gmep_25063_p	CsPK_gmep_3697_p	      0
+116- 14:	CsPK_gmep_25064_p	CsPK_gmep_3698_p	  2e-95
+116- 15:	CsPK_gmep_25065_p	CsPK_gmep_3699_p	      0
+116- 16:	CsPK_gmep_25066_p	CsPK_gmep_3700_p	      0
+116- 17:	CsPK_gmep_25068_p	CsPK_gmep_3703_p	      0
+116- 18:	CsPK_gmep_25070_p	CsPK_gmep_3704_p	 1e-123
+116- 19:	CsPK_gmep_25072_p	CsPK_gmep_3730_p	      0
+116- 20:	CsPK_gmep_25073_p	CsPK_gmep_3736_p	 1e-129
+## Alignment 117: score=886.0 e_value=1.6e-47 N=18 pk10&pk9 plus
+117-  0:	CsPK_gmep_30801_p	CsPK_gmep_77690_p	      0
+117-  1:	CsPK_gmep_30804_p	CsPK_gmep_77691_p	 2e-129
+117-  2:	CsPK_gmep_30805_p	CsPK_gmep_77693_p	 2e-165
+117-  3:	CsPK_gmep_30806_p	CsPK_gmep_77694_p	  5e-78
+117-  4:	CsPK_gmep_30807_p	CsPK_gmep_77696_p	  9e-86
+117-  5:	CsPK_gmep_30808_p	CsPK_gmep_77697_p	      0
+117-  6:	CsPK_gmep_30810_p	CsPK_gmep_77698_p	      0
+117-  7:	CsPK_gmep_30811_p	CsPK_gmep_77699_p	      0
+117-  8:	CsPK_gmep_30813_p	CsPK_gmep_77700_p	  2e-88
+117-  9:	CsPK_gmep_30814_p	CsPK_gmep_77702_p	      0
+117- 10:	CsPK_gmep_30815_p	CsPK_gmep_77704_p	 4e-156
+117- 11:	CsPK_gmep_30816_p	CsPK_gmep_77705_p	  3e-97
+117- 12:	CsPK_gmep_30817_p	CsPK_gmep_77708_p	      0
+117- 13:	CsPK_gmep_30818_p	CsPK_gmep_77709_p	 4e-133
+117- 14:	CsPK_gmep_30819_p	CsPK_gmep_77712_p	  1e-22
+117- 15:	CsPK_gmep_30820_p	CsPK_gmep_77713_p	  1e-80
+117- 16:	CsPK_gmep_30821_p	CsPK_gmep_77714_p	  9e-12
+117- 17:	CsPK_gmep_30822_p	CsPK_gmep_77717_p	  2e-94
+## Alignment 118: score=395.0 e_value=2.6e-16 N=8 pk10&pk9 plus
+118-  0:	CsPK_gmep_16914_p	CsPK_gmep_80054_p	      0
+118-  1:	CsPK_gmep_16916_p	CsPK_gmep_80057_p	 1e-119
+118-  2:	CsPK_gmep_16917_p	CsPK_gmep_80058_p	      0
+118-  3:	CsPK_gmep_16918_p	CsPK_gmep_80059_p	      0
+118-  4:	CsPK_gmep_16919_p	CsPK_gmep_80061_p	      0
+118-  5:	CsPK_gmep_16922_p	CsPK_gmep_80064_p	      0
+118-  6:	CsPK_gmep_16923_p	CsPK_gmep_80065_p	  4e-66
+118-  7:	CsPK_gmep_16924_p	CsPK_gmep_80066_p	      0
+## Alignment 119: score=347.0 e_value=8.7e-11 N=7 pk10&pk9 plus
+119-  0:	CsPK_gmep_80278_p	CsPK_gmep_73222_p	 6e-146
+119-  1:	CsPK_gmep_80279_p	CsPK_gmep_73224_p	  6e-22
+119-  2:	CsPK_gmep_80280_p	CsPK_gmep_73225_p	 8e-103
+119-  3:	CsPK_gmep_80281_p	CsPK_gmep_73226_p	  1e-54
+119-  4:	CsPK_gmep_80282_p	CsPK_gmep_73229_p	  1e-72
+119-  5:	CsPK_gmep_80283_p	CsPK_gmep_73230_p	  5e-88
+119-  6:	CsPK_gmep_80284_p	CsPK_gmep_73231_p	      0
+## Alignment 120: score=250.0 e_value=3.5e-06 N=5 pk10&pk9 plus
+120-  0:	CsPK_gmep_74339_p	CsPK_gmep_13184_p	 1e-134
+120-  1:	CsPK_gmep_74340_p	CsPK_gmep_13185_p	  1e-84
+120-  2:	CsPK_gmep_74341_p	CsPK_gmep_13186_p	  3e-98
+120-  3:	CsPK_gmep_74342_p	CsPK_gmep_13187_p	      0
+120-  4:	CsPK_gmep_74343_p	CsPK_gmep_13188_p	      0
+## Alignment 121: score=545.0 e_value=1.9e-23 N=11 pk10&pk9 minus
+121-  0:	CsPK_gmep_48865_p	CsPK_gmep_48940_p	 2e-148
+121-  1:	CsPK_gmep_48866_p	CsPK_gmep_48936_p	  3e-25
+121-  2:	CsPK_gmep_48867_p	CsPK_gmep_48935_p	  2e-81
+121-  3:	CsPK_gmep_48868_p	CsPK_gmep_48934_p	 9e-118
+121-  4:	CsPK_gmep_48869_p	CsPK_gmep_48933_p	      0
+121-  5:	CsPK_gmep_48871_p	CsPK_gmep_48931_p	      0
+121-  6:	CsPK_gmep_48872_p	CsPK_gmep_48930_p	      0
+121-  7:	CsPK_gmep_48873_p	CsPK_gmep_48928_p	      0
+121-  8:	CsPK_gmep_48874_p	CsPK_gmep_48927_p	  3e-59
+121-  9:	CsPK_gmep_48875_p	CsPK_gmep_48926_p	  4e-97
+121- 10:	CsPK_gmep_48876_p	CsPK_gmep_48925_p	      0
+## Alignment 122: score=494.0 e_value=1.9e-21 N=10 pk10&pk9 minus
+122-  0:	CsPK_gmep_10252_p	CsPK_gmep_77987_p	 4e-132
+122-  1:	CsPK_gmep_10254_p	CsPK_gmep_77986_p	      0
+122-  2:	CsPK_gmep_10255_p	CsPK_gmep_77984_p	 1e-144
+122-  3:	CsPK_gmep_10256_p	CsPK_gmep_77983_p	      0
+122-  4:	CsPK_gmep_10257_p	CsPK_gmep_77982_p	      0
+122-  5:	CsPK_gmep_10258_p	CsPK_gmep_77980_p	      0
+122-  6:	CsPK_gmep_10261_p	CsPK_gmep_77978_p	 9e-153
+122-  7:	CsPK_gmep_10262_p	CsPK_gmep_77977_p	      0
+122-  8:	CsPK_gmep_10263_p	CsPK_gmep_77976_p	      0
+122-  9:	CsPK_gmep_10264_p	CsPK_gmep_77974_p	      0
+## Alignment 123: score=441.0 e_value=7.9e-17 N=9 pk2&pk2 plus
+123-  0:	CsPK_gmep_45805_p	CsPK_gmep_45821_p	  6e-74
+123-  1:	CsPK_gmep_45807_p	CsPK_gmep_45824_p	  4e-39
+123-  2:	CsPK_gmep_45809_p	CsPK_gmep_45825_p	      0
+123-  3:	CsPK_gmep_45810_p	CsPK_gmep_45827_p	 3e-147
+123-  4:	CsPK_gmep_45813_p	CsPK_gmep_45829_p	      0
+123-  5:	CsPK_gmep_45814_p	CsPK_gmep_45830_p	 2e-170
+123-  6:	CsPK_gmep_45816_p	CsPK_gmep_45831_p	      0
+123-  7:	CsPK_gmep_45817_p	CsPK_gmep_45833_p	      0
+123-  8:	CsPK_gmep_45818_p	CsPK_gmep_45835_p	      0
+## Alignment 124: score=399.0 e_value=2.4e-14 N=8 pk2&pk2 plus
+124-  0:	CsPK_gmep_46616_p	CsPK_gmep_46644_p	  1e-54
+124-  1:	CsPK_gmep_46617_p	CsPK_gmep_46646_p	 2e-105
+124-  2:	CsPK_gmep_46618_p	CsPK_gmep_46647_p	 2e-154
+124-  3:	CsPK_gmep_46619_p	CsPK_gmep_46648_p	 2e-108
+124-  4:	CsPK_gmep_46620_p	CsPK_gmep_46649_p	 2e-102
+124-  5:	CsPK_gmep_46621_p	CsPK_gmep_46650_p	      0
+124-  6:	CsPK_gmep_46622_p	CsPK_gmep_46651_p	      0
+124-  7:	CsPK_gmep_46623_p	CsPK_gmep_46652_p	 5e-146
+## Alignment 125: score=385.0 e_value=3.5e-17 N=8 pk2&pk2 plus
+125-  0:	CsPK_gmep_45884_p	CsPK_gmep_45901_p	      0
+125-  1:	CsPK_gmep_45886_p	CsPK_gmep_45909_p	  3e-75
+125-  2:	CsPK_gmep_45887_p	CsPK_gmep_45911_p	  3e-68
+125-  3:	CsPK_gmep_45893_p	CsPK_gmep_45916_p	      0
+125-  4:	CsPK_gmep_45894_p	CsPK_gmep_45917_p	      0
+125-  5:	CsPK_gmep_45895_p	CsPK_gmep_45920_p	 6e-128
+125-  6:	CsPK_gmep_45896_p	CsPK_gmep_45921_p	      0
+125-  7:	CsPK_gmep_45897_p	CsPK_gmep_45922_p	      0
+## Alignment 126: score=284.0 e_value=3.8e-10 N=6 pk2&pk2 plus
+126-  0:	CsPK_gmep_1291_p	CsPK_gmep_45817_p	      0
+126-  1:	CsPK_gmep_1294_p	CsPK_gmep_45822_p	  4e-53
+126-  2:	CsPK_gmep_1297_p	CsPK_gmep_45826_p	  2e-87
+126-  3:	CsPK_gmep_1302_p	CsPK_gmep_45828_p	  4e-65
+126-  4:	CsPK_gmep_1305_p	CsPK_gmep_45833_p	      0
+126-  5:	CsPK_gmep_1307_p	CsPK_gmep_45834_p	      0
+## Alignment 127: score=393.0 e_value=2e-14 N=8 pk2&pk2 minus
+127-  0:	CsPK_gmep_30402_p	CsPK_gmep_30451_p	 6e-130
+127-  1:	CsPK_gmep_30406_p	CsPK_gmep_30449_p	  3e-99
+127-  2:	CsPK_gmep_30407_p	CsPK_gmep_30448_p	  1e-62
+127-  3:	CsPK_gmep_30411_p	CsPK_gmep_30447_p	 1e-178
+127-  4:	CsPK_gmep_30412_p	CsPK_gmep_30445_p	  1e-61
+127-  5:	CsPK_gmep_30413_p	CsPK_gmep_30444_p	  2e-90
+127-  6:	CsPK_gmep_30414_p	CsPK_gmep_30443_p	  7e-82
+127-  7:	CsPK_gmep_30415_p	CsPK_gmep_30442_p	 8e-147
+## Alignment 128: score=350.0 e_value=8.3e-11 N=7 pk2&pk2 minus
+128-  0:	CsPK_gmep_37211_p	CsPK_gmep_37247_p	  9e-84
+128-  1:	CsPK_gmep_37212_p	CsPK_gmep_37246_p	      0
+128-  2:	CsPK_gmep_37213_p	CsPK_gmep_37245_p	  2e-53
+128-  3:	CsPK_gmep_37214_p	CsPK_gmep_37244_p	  2e-93
+128-  4:	CsPK_gmep_37215_p	CsPK_gmep_37243_p	 1e-118
+128-  5:	CsPK_gmep_37216_p	CsPK_gmep_37242_p	  1e-36
+128-  6:	CsPK_gmep_37217_p	CsPK_gmep_37241_p	  2e-84
+## Alignment 129: score=292.0 e_value=2.2e-10 N=6 pk2&pk3 plus
+129-  0:	CsPK_gmep_74186_p	CsPK_gmep_9197_p	 4e-154
+129-  1:	CsPK_gmep_74192_p	CsPK_gmep_9198_p	 3e-127
+129-  2:	CsPK_gmep_74195_p	CsPK_gmep_9200_p	      0
+129-  3:	CsPK_gmep_74196_p	CsPK_gmep_9202_p	      0
+129-  4:	CsPK_gmep_74197_p	CsPK_gmep_9203_p	      0
+129-  5:	CsPK_gmep_74198_p	CsPK_gmep_9204_p	 2e-142
+## Alignment 130: score=278.0 e_value=1.4e-10 N=6 pk2&pk3 plus
+130-  0:	CsPK_gmep_45810_p	CsPK_gmep_45733_p	  1e-78
+130-  1:	CsPK_gmep_45816_p	CsPK_gmep_45734_p	      0
+130-  2:	CsPK_gmep_45822_p	CsPK_gmep_45739_p	  2e-51
+130-  3:	CsPK_gmep_45825_p	CsPK_gmep_45743_p	      0
+130-  4:	CsPK_gmep_45833_p	CsPK_gmep_45753_p	      0
+130-  5:	CsPK_gmep_45834_p	CsPK_gmep_45754_p	      0
+## Alignment 131: score=273.0 e_value=2.3e-11 N=6 pk2&pk3 plus
+131-  0:	CsPK_gmep_45422_p	CsPK_gmep_45322_p	  2e-78
+131-  1:	CsPK_gmep_45437_p	CsPK_gmep_45324_p	      0
+131-  2:	CsPK_gmep_45450_p	CsPK_gmep_45325_p	      0
+131-  3:	CsPK_gmep_45451_p	CsPK_gmep_45326_p	      0
+131-  4:	CsPK_gmep_45452_p	CsPK_gmep_45327_p	      0
+131-  5:	CsPK_gmep_45453_p	CsPK_gmep_45329_p	 5e-156
+## Alignment 132: score=487.0 e_value=7e-22 N=10 pk2&pk3 minus
+132-  0:	CsPK_gmep_45817_p	CsPK_gmep_45754_p	      0
+132-  1:	CsPK_gmep_45820_p	CsPK_gmep_45753_p	 1e-151
+132-  2:	CsPK_gmep_45821_p	CsPK_gmep_45751_p	  1e-91
+132-  3:	CsPK_gmep_45822_p	CsPK_gmep_45749_p	 3e-111
+132-  4:	CsPK_gmep_45823_p	CsPK_gmep_45748_p	  1e-74
+132-  5:	CsPK_gmep_45824_p	CsPK_gmep_45747_p	  7e-65
+132-  6:	CsPK_gmep_45828_p	CsPK_gmep_45742_p	      0
+132-  7:	CsPK_gmep_45829_p	CsPK_gmep_45736_p	      0
+132-  8:	CsPK_gmep_45830_p	CsPK_gmep_45735_p	 5e-147
+132-  9:	CsPK_gmep_45831_p	CsPK_gmep_45734_p	      0
+## Alignment 133: score=439.0 e_value=4.3e-18 N=9 pk2&pk3 minus
+133-  0:	CsPK_gmep_57728_p	CsPK_gmep_10462_p	      0
+133-  1:	CsPK_gmep_57730_p	CsPK_gmep_10461_p	  7e-34
+133-  2:	CsPK_gmep_57733_p	CsPK_gmep_10458_p	 1e-147
+133-  3:	CsPK_gmep_57734_p	CsPK_gmep_10457_p	 5e-135
+133-  4:	CsPK_gmep_57735_p	CsPK_gmep_10455_p	      0
+133-  5:	CsPK_gmep_57738_p	CsPK_gmep_10454_p	  7e-51
+133-  6:	CsPK_gmep_57739_p	CsPK_gmep_10453_p	 1e-168
+133-  7:	CsPK_gmep_57740_p	CsPK_gmep_10452_p	 2e-119
+133-  8:	CsPK_gmep_57741_p	CsPK_gmep_10446_p	 4e-156
+## Alignment 134: score=381.0 e_value=3.1e-15 N=8 pk2&pk3 minus
+134-  0:	CsPK_gmep_45803_p	CsPK_gmep_45753_p	      0
+134-  1:	CsPK_gmep_45805_p	CsPK_gmep_45751_p	  6e-74
+134-  2:	CsPK_gmep_45807_p	CsPK_gmep_45749_p	  5e-53
+134-  3:	CsPK_gmep_45808_p	CsPK_gmep_45742_p	 4e-164
+134-  4:	CsPK_gmep_45811_p	CsPK_gmep_45739_p	 6e-158
+134-  5:	CsPK_gmep_45813_p	CsPK_gmep_45736_p	      0
+134-  6:	CsPK_gmep_45814_p	CsPK_gmep_45735_p	 4e-155
+134-  7:	CsPK_gmep_45822_p	CsPK_gmep_45733_p	  5e-71
+## Alignment 135: score=257.0 e_value=8.7e-11 N=6 pk2&pk3 minus
+135-  0:	CsPK_gmep_45433_p	CsPK_gmep_45345_p	      0
+135-  1:	CsPK_gmep_45434_p	CsPK_gmep_45344_p	      0
+135-  2:	CsPK_gmep_45439_p	CsPK_gmep_45339_p	  6e-27
+135-  3:	CsPK_gmep_45440_p	CsPK_gmep_45332_p	 3e-135
+135-  4:	CsPK_gmep_45448_p	CsPK_gmep_45322_p	      0
+135-  5:	CsPK_gmep_45470_p	CsPK_gmep_45297_p	  2e-14
+## Alignment 136: score=250.0 e_value=4.5e-08 N=5 pk2&pk3 minus
+136-  0:	CsPK_gmep_59199_p	CsPK_gmep_59188_p	 4e-125
+136-  1:	CsPK_gmep_59200_p	CsPK_gmep_59187_p	  1e-60
+136-  2:	CsPK_gmep_59201_p	CsPK_gmep_59186_p	      0
+136-  3:	CsPK_gmep_59202_p	CsPK_gmep_59185_p	      0
+136-  4:	CsPK_gmep_59203_p	CsPK_gmep_59184_p	      0
+## Alignment 137: score=846.0 e_value=7.7e-47 N=17 pk2&pk4 plus
+137-  0:	CsPK_gmep_15297_p	CsPK_gmep_15274_p	      0
+137-  1:	CsPK_gmep_15298_p	CsPK_gmep_15275_p	 4e-109
+137-  2:	CsPK_gmep_15299_p	CsPK_gmep_15277_p	  6e-67
+137-  3:	CsPK_gmep_15301_p	CsPK_gmep_15278_p	      0
+137-  4:	CsPK_gmep_15302_p	CsPK_gmep_15279_p	  4e-87
+137-  5:	CsPK_gmep_15303_p	CsPK_gmep_15280_p	      0
+137-  6:	CsPK_gmep_15304_p	CsPK_gmep_15281_p	 1e-120
+137-  7:	CsPK_gmep_15305_p	CsPK_gmep_15282_p	      0
+137-  8:	CsPK_gmep_15306_p	CsPK_gmep_15283_p	      0
+137-  9:	CsPK_gmep_15307_p	CsPK_gmep_15285_p	      0
+137- 10:	CsPK_gmep_15308_p	CsPK_gmep_15287_p	 2e-142
+137- 11:	CsPK_gmep_15309_p	CsPK_gmep_15288_p	      0
+137- 12:	CsPK_gmep_15310_p	CsPK_gmep_15289_p	      0
+137- 13:	CsPK_gmep_15311_p	CsPK_gmep_15290_p	  3e-32
+137- 14:	CsPK_gmep_15312_p	CsPK_gmep_15291_p	      0
+137- 15:	CsPK_gmep_15313_p	CsPK_gmep_15292_p	      0
+137- 16:	CsPK_gmep_15314_p	CsPK_gmep_15293_p	      0
+## Alignment 138: score=274.0 e_value=3.8e-12 N=6 pk2&pk4 plus
+138-  0:	CsPK_gmep_30336_p	CsPK_gmep_57945_p	 3e-105
+138-  1:	CsPK_gmep_30338_p	CsPK_gmep_57946_p	  5e-63
+138-  2:	CsPK_gmep_30339_p	CsPK_gmep_57947_p	  4e-31
+138-  3:	CsPK_gmep_30340_p	CsPK_gmep_57949_p	      0
+138-  4:	CsPK_gmep_30341_p	CsPK_gmep_57950_p	 7e-130
+138-  5:	CsPK_gmep_30366_p	CsPK_gmep_57954_p	  2e-35
+## Alignment 139: score=299.0 e_value=2.8e-08 N=6 pk2&pk4 minus
+139-  0:	CsPK_gmep_41291_p	CsPK_gmep_26994_p	      0
+139-  1:	CsPK_gmep_41292_p	CsPK_gmep_26993_p	      0
+139-  2:	CsPK_gmep_41293_p	CsPK_gmep_26992_p	 5e-110
+139-  3:	CsPK_gmep_41294_p	CsPK_gmep_26991_p	 2e-113
+139-  4:	CsPK_gmep_41295_p	CsPK_gmep_26989_p	 2e-105
+139-  5:	CsPK_gmep_41296_p	CsPK_gmep_26988_p	  2e-55
+## Alignment 140: score=298.0 e_value=2.9e-09 N=6 pk2&pk4 minus
+140-  0:	CsPK_gmep_77459_p	CsPK_gmep_43078_p	 5e-135
+140-  1:	CsPK_gmep_77460_p	CsPK_gmep_43077_p	  7e-78
+140-  2:	CsPK_gmep_77461_p	CsPK_gmep_43076_p	      0
+140-  3:	CsPK_gmep_77463_p	CsPK_gmep_43075_p	 5e-177
+140-  4:	CsPK_gmep_77464_p	CsPK_gmep_43073_p	 3e-175
+140-  5:	CsPK_gmep_77465_p	CsPK_gmep_43072_p	      0
+## Alignment 141: score=296.0 e_value=2.2e-09 N=6 pk2&pk4 minus
+141-  0:	CsPK_gmep_705_p	CsPK_gmep_29118_p	      0
+141-  1:	CsPK_gmep_706_p	CsPK_gmep_29115_p	      0
+141-  2:	CsPK_gmep_707_p	CsPK_gmep_29113_p	      0
+141-  3:	CsPK_gmep_708_p	CsPK_gmep_29111_p	      0
+141-  4:	CsPK_gmep_709_p	CsPK_gmep_29110_p	      0
+141-  5:	CsPK_gmep_710_p	CsPK_gmep_29109_p	 4e-114
+## Alignment 142: score=292.0 e_value=4.8e-09 N=6 pk2&pk4 minus
+142-  0:	CsPK_gmep_55753_p	CsPK_gmep_28580_p	      0
+142-  1:	CsPK_gmep_55757_p	CsPK_gmep_28579_p	  4e-78
+142-  2:	CsPK_gmep_55758_p	CsPK_gmep_28577_p	  1e-86
+142-  3:	CsPK_gmep_55760_p	CsPK_gmep_28576_p	  8e-72
+142-  4:	CsPK_gmep_55762_p	CsPK_gmep_28574_p	      0
+142-  5:	CsPK_gmep_55765_p	CsPK_gmep_28573_p	  1e-50
+## Alignment 143: score=250.0 e_value=5.1e-07 N=5 pk2&pk4 minus
+143-  0:	CsPK_gmep_30424_p	CsPK_gmep_57933_p	      0
+143-  1:	CsPK_gmep_30425_p	CsPK_gmep_57932_p	      0
+143-  2:	CsPK_gmep_30426_p	CsPK_gmep_57931_p	  5e-34
+143-  3:	CsPK_gmep_30427_p	CsPK_gmep_57930_p	  2e-76
+143-  4:	CsPK_gmep_30428_p	CsPK_gmep_57929_p	      0
+## Alignment 144: score=597.0 e_value=4.3e-27 N=12 pk2&pk5 plus
+144-  0:	CsPK_gmep_31430_p	CsPK_gmep_43209_p	 8e-180
+144-  1:	CsPK_gmep_31431_p	CsPK_gmep_43210_p	 4e-152
+144-  2:	CsPK_gmep_31432_p	CsPK_gmep_43211_p	      0
+144-  3:	CsPK_gmep_31434_p	CsPK_gmep_43212_p	      0
+144-  4:	CsPK_gmep_31435_p	CsPK_gmep_43213_p	  7e-57
+144-  5:	CsPK_gmep_31436_p	CsPK_gmep_43214_p	      0
+144-  6:	CsPK_gmep_31437_p	CsPK_gmep_43215_p	      0
+144-  7:	CsPK_gmep_31438_p	CsPK_gmep_43216_p	      0
+144-  8:	CsPK_gmep_31439_p	CsPK_gmep_43217_p	      0
+144-  9:	CsPK_gmep_31440_p	CsPK_gmep_43219_p	  2e-81
+144- 10:	CsPK_gmep_31441_p	CsPK_gmep_43221_p	      0
+144- 11:	CsPK_gmep_31442_p	CsPK_gmep_43222_p	      0
+## Alignment 145: score=346.0 e_value=7.2e-12 N=7 pk2&pk5 minus
+145-  0:	CsPK_gmep_83482_p	CsPK_gmep_13230_p	      0
+145-  1:	CsPK_gmep_83483_p	CsPK_gmep_13229_p	 3e-158
+145-  2:	CsPK_gmep_83485_p	CsPK_gmep_13228_p	 9e-121
+145-  3:	CsPK_gmep_83486_p	CsPK_gmep_13227_p	 2e-179
+145-  4:	CsPK_gmep_83489_p	CsPK_gmep_13226_p	      0
+145-  5:	CsPK_gmep_83490_p	CsPK_gmep_13224_p	  1e-38
+145-  6:	CsPK_gmep_83491_p	CsPK_gmep_13223_p	      0
+## Alignment 146: score=464.0 e_value=7e-22 N=10 pk2&pk6 plus
+146-  0:	CsPK_gmep_8755_p	CsPK_gmep_52953_p	      0
+146-  1:	CsPK_gmep_8760_p	CsPK_gmep_52956_p	      0
+146-  2:	CsPK_gmep_8761_p	CsPK_gmep_52958_p	 1e-116
+146-  3:	CsPK_gmep_8762_p	CsPK_gmep_52959_p	      0
+146-  4:	CsPK_gmep_8763_p	CsPK_gmep_52960_p	 1e-171
+146-  5:	CsPK_gmep_8764_p	CsPK_gmep_52961_p	      0
+146-  6:	CsPK_gmep_8786_p	CsPK_gmep_52964_p	  2e-47
+146-  7:	CsPK_gmep_8789_p	CsPK_gmep_52969_p	  2e-83
+146-  8:	CsPK_gmep_8790_p	CsPK_gmep_52974_p	 2e-122
+146-  9:	CsPK_gmep_8793_p	CsPK_gmep_52976_p	      0
+## Alignment 147: score=373.0 e_value=1e-20 N=8 pk2&pk6 plus
+147-  0:	CsPK_gmep_58420_p	CsPK_gmep_37052_p	  1e-81
+147-  1:	CsPK_gmep_58427_p	CsPK_gmep_37078_p	      0
+147-  2:	CsPK_gmep_58428_p	CsPK_gmep_37079_p	      0
+147-  3:	CsPK_gmep_58429_p	CsPK_gmep_37081_p	  2e-88
+147-  4:	CsPK_gmep_58430_p	CsPK_gmep_37082_p	  2e-79
+147-  5:	CsPK_gmep_58432_p	CsPK_gmep_37083_p	 3e-117
+147-  6:	CsPK_gmep_58433_p	CsPK_gmep_37084_p	 6e-135
+147-  7:	CsPK_gmep_58434_p	CsPK_gmep_37085_p	      0
+## Alignment 148: score=350.0 e_value=4.5e-11 N=7 pk2&pk6 plus
+148-  0:	CsPK_gmep_1169_p	CsPK_gmep_66118_p	      0
+148-  1:	CsPK_gmep_1170_p	CsPK_gmep_66119_p	      0
+148-  2:	CsPK_gmep_1171_p	CsPK_gmep_66120_p	 2e-173
+148-  3:	CsPK_gmep_1172_p	CsPK_gmep_66121_p	 4e-149
+148-  4:	CsPK_gmep_1173_p	CsPK_gmep_66122_p	      0
+148-  5:	CsPK_gmep_1174_p	CsPK_gmep_66123_p	  4e-67
+148-  6:	CsPK_gmep_1175_p	CsPK_gmep_66124_p	 9e-155
+## Alignment 149: score=250.0 e_value=2.5e-07 N=5 pk2&pk6 plus
+149-  0:	CsPK_gmep_61234_p	CsPK_gmep_82261_p	 3e-133
+149-  1:	CsPK_gmep_61235_p	CsPK_gmep_82262_p	  2e-78
+149-  2:	CsPK_gmep_61236_p	CsPK_gmep_82263_p	      0
+149-  3:	CsPK_gmep_61237_p	CsPK_gmep_82264_p	      0
+149-  4:	CsPK_gmep_61238_p	CsPK_gmep_82265_p	      0
+## Alignment 150: score=394.0 e_value=9.9e-14 N=8 pk2&pk6 minus
+150-  0:	CsPK_gmep_30945_p	CsPK_gmep_64722_p	      0
+150-  1:	CsPK_gmep_30946_p	CsPK_gmep_64720_p	      0
+150-  2:	CsPK_gmep_30948_p	CsPK_gmep_64719_p	      0
+150-  3:	CsPK_gmep_30950_p	CsPK_gmep_64718_p	 4e-173
+150-  4:	CsPK_gmep_30951_p	CsPK_gmep_64717_p	 6e-100
+150-  5:	CsPK_gmep_30954_p	CsPK_gmep_64716_p	      0
+150-  6:	CsPK_gmep_30955_p	CsPK_gmep_64714_p	      0
+150-  7:	CsPK_gmep_30956_p	CsPK_gmep_64713_p	      0
+## Alignment 151: score=394.0 e_value=3.7e-14 N=8 pk2&pk6 minus
+151-  0:	CsPK_gmep_8812_p	CsPK_gmep_55345_p	 6e-169
+151-  1:	CsPK_gmep_8814_p	CsPK_gmep_55343_p	 7e-168
+151-  2:	CsPK_gmep_8816_p	CsPK_gmep_55342_p	      0
+151-  3:	CsPK_gmep_8819_p	CsPK_gmep_55341_p	      0
+151-  4:	CsPK_gmep_8820_p	CsPK_gmep_55340_p	      0
+151-  5:	CsPK_gmep_8821_p	CsPK_gmep_55339_p	  1e-94
+151-  6:	CsPK_gmep_8822_p	CsPK_gmep_55338_p	 4e-133
+151-  7:	CsPK_gmep_8823_p	CsPK_gmep_55335_p	      0
+## Alignment 152: score=348.0 e_value=4.4e-11 N=7 pk2&pk6 minus
+152-  0:	CsPK_gmep_46572_p	CsPK_gmep_20393_p	      0
+152-  1:	CsPK_gmep_46573_p	CsPK_gmep_20392_p	      0
+152-  2:	CsPK_gmep_46574_p	CsPK_gmep_20391_p	      0
+152-  3:	CsPK_gmep_46575_p	CsPK_gmep_20390_p	  1e-59
+152-  4:	CsPK_gmep_46576_p	CsPK_gmep_20389_p	 4e-100
+152-  5:	CsPK_gmep_46578_p	CsPK_gmep_20387_p	      0
+152-  6:	CsPK_gmep_46579_p	CsPK_gmep_20385_p	  1e-55
+## Alignment 153: score=343.0 e_value=3.9e-12 N=7 pk2&pk6 minus
+153-  0:	CsPK_gmep_17475_p	CsPK_gmep_77502_p	      0
+153-  1:	CsPK_gmep_17476_p	CsPK_gmep_77501_p	  2e-77
+153-  2:	CsPK_gmep_17478_p	CsPK_gmep_77500_p	  4e-58
+153-  3:	CsPK_gmep_17479_p	CsPK_gmep_77499_p	 5e-103
+153-  4:	CsPK_gmep_17484_p	CsPK_gmep_77497_p	  2e-96
+153-  5:	CsPK_gmep_17486_p	CsPK_gmep_77495_p	  3e-64
+153-  6:	CsPK_gmep_17488_p	CsPK_gmep_77493_p	      0
+## Alignment 154: score=298.0 e_value=3.9e-09 N=6 pk2&pk6 minus
+154-  0:	CsPK_gmep_28397_p	CsPK_gmep_19208_p	 6e-107
+154-  1:	CsPK_gmep_28398_p	CsPK_gmep_19207_p	  7e-72
+154-  2:	CsPK_gmep_28399_p	CsPK_gmep_19206_p	      0
+154-  3:	CsPK_gmep_28401_p	CsPK_gmep_19205_p	      0
+154-  4:	CsPK_gmep_28403_p	CsPK_gmep_19203_p	      0
+154-  5:	CsPK_gmep_28404_p	CsPK_gmep_19202_p	      0
+## Alignment 155: score=398.0 e_value=1.2e-14 N=8 pk2&pk7 plus
+155-  0:	CsPK_gmep_32025_p	CsPK_gmep_58937_p	      0
+155-  1:	CsPK_gmep_32026_p	CsPK_gmep_58938_p	      0
+155-  2:	CsPK_gmep_32028_p	CsPK_gmep_58939_p	  1e-62
+155-  3:	CsPK_gmep_32029_p	CsPK_gmep_58940_p	  3e-78
+155-  4:	CsPK_gmep_32030_p	CsPK_gmep_58941_p	      0
+155-  5:	CsPK_gmep_32031_p	CsPK_gmep_58942_p	      0
+155-  6:	CsPK_gmep_32032_p	CsPK_gmep_58944_p	 5e-124
+155-  7:	CsPK_gmep_32033_p	CsPK_gmep_58945_p	      0
+## Alignment 156: score=355.0 e_value=4.6e-17 N=8 pk2&pk7 plus
+156-  0:	CsPK_gmep_82338_p	CsPK_gmep_38405_p	  1e-48
+156-  1:	CsPK_gmep_82339_p	CsPK_gmep_38406_p	 1e-176
+156-  2:	CsPK_gmep_82342_p	CsPK_gmep_38412_p	      0
+156-  3:	CsPK_gmep_82343_p	CsPK_gmep_38413_p	      0
+156-  4:	CsPK_gmep_82344_p	CsPK_gmep_38415_p	      0
+156-  5:	CsPK_gmep_82354_p	CsPK_gmep_38432_p	      0
+156-  6:	CsPK_gmep_82356_p	CsPK_gmep_38456_p	  1e-56
+156-  7:	CsPK_gmep_82357_p	CsPK_gmep_38457_p	  6e-52
+## Alignment 157: score=296.0 e_value=8.1e-08 N=6 pk2&pk7 plus
+157-  0:	CsPK_gmep_1155_p	CsPK_gmep_77103_p	      0
+157-  1:	CsPK_gmep_1156_p	CsPK_gmep_77105_p	      0
+157-  2:	CsPK_gmep_1157_p	CsPK_gmep_77106_p	  7e-83
+157-  3:	CsPK_gmep_1160_p	CsPK_gmep_77108_p	 2e-121
+157-  4:	CsPK_gmep_1162_p	CsPK_gmep_77109_p	 1e-110
+157-  5:	CsPK_gmep_1163_p	CsPK_gmep_77110_p	      0
+## Alignment 158: score=274.0 e_value=6.2e-12 N=6 pk2&pk7 plus
+158-  0:	CsPK_gmep_73733_p	CsPK_gmep_59935_p	  8e-30
+158-  1:	CsPK_gmep_73734_p	CsPK_gmep_59937_p	      0
+158-  2:	CsPK_gmep_73735_p	CsPK_gmep_59938_p	  9e-85
+158-  3:	CsPK_gmep_73736_p	CsPK_gmep_59939_p	 3e-153
+158-  4:	CsPK_gmep_73737_p	CsPK_gmep_59940_p	  2e-89
+158-  5:	CsPK_gmep_73741_p	CsPK_gmep_64459_p	 2e-174
+## Alignment 159: score=323.0 e_value=1.7e-14 N=7 pk2&pk7 minus
+159-  0:	CsPK_gmep_25145_p	CsPK_gmep_44720_p	 3e-139
+159-  1:	CsPK_gmep_25148_p	CsPK_gmep_44719_p	 4e-155
+159-  2:	CsPK_gmep_25151_p	CsPK_gmep_44715_p	      0
+159-  3:	CsPK_gmep_25152_p	CsPK_gmep_44714_p	      0
+159-  4:	CsPK_gmep_25153_p	CsPK_gmep_44713_p	  1e-67
+159-  5:	CsPK_gmep_25166_p	CsPK_gmep_44690_p	      0
+159-  6:	CsPK_gmep_25167_p	CsPK_gmep_44689_p	 1e-115
+## Alignment 160: score=297.0 e_value=3.1e-09 N=6 pk2&pk7 minus
+160-  0:	CsPK_gmep_7813_p	CsPK_gmep_48820_p	  2e-98
+160-  1:	CsPK_gmep_7814_p	CsPK_gmep_48819_p	  2e-84
+160-  2:	CsPK_gmep_7816_p	CsPK_gmep_48816_p	      0
+160-  3:	CsPK_gmep_7817_p	CsPK_gmep_48815_p	  6e-72
+160-  4:	CsPK_gmep_7819_p	CsPK_gmep_48814_p	      0
+160-  5:	CsPK_gmep_7820_p	CsPK_gmep_48813_p	 6e-106
+## Alignment 161: score=283.0 e_value=1.5e-10 N=6 pk2&pk7 minus
+161-  0:	CsPK_gmep_6083_p	CsPK_gmep_56456_p	 2e-125
+161-  1:	CsPK_gmep_6084_p	CsPK_gmep_56455_p	  3e-95
+161-  2:	CsPK_gmep_6085_p	CsPK_gmep_56454_p	      0
+161-  3:	CsPK_gmep_6086_p	CsPK_gmep_56453_p	 5e-129
+161-  4:	CsPK_gmep_6089_p	CsPK_gmep_56451_p	      0
+161-  5:	CsPK_gmep_6105_p	CsPK_gmep_56445_p	  4e-34
+## Alignment 162: score=277.0 e_value=1.7e-08 N=6 pk2&pk7 minus
+162-  0:	CsPK_gmep_45805_p	CsPK_gmep_2797_p	  3e-26
+162-  1:	CsPK_gmep_45808_p	CsPK_gmep_2796_p	  1e-91
+162-  2:	CsPK_gmep_45813_p	CsPK_gmep_2791_p	  1e-84
+162-  3:	CsPK_gmep_45822_p	CsPK_gmep_2783_p	  2e-52
+162-  4:	CsPK_gmep_45826_p	CsPK_gmep_2781_p	 8e-124
+162-  5:	CsPK_gmep_45833_p	CsPK_gmep_2778_p	      0
+## Alignment 163: score=697.0 e_value=5.3e-37 N=14 pk2&pk8 plus
+163-  0:	CsPK_gmep_10561_p	CsPK_gmep_15388_p	 7e-113
+163-  1:	CsPK_gmep_10563_p	CsPK_gmep_15389_p	      0
+163-  2:	CsPK_gmep_10564_p	CsPK_gmep_15390_p	      0
+163-  3:	CsPK_gmep_10565_p	CsPK_gmep_15391_p	      0
+163-  4:	CsPK_gmep_10566_p	CsPK_gmep_15392_p	      0
+163-  5:	CsPK_gmep_10567_p	CsPK_gmep_15393_p	      0
+163-  6:	CsPK_gmep_10568_p	CsPK_gmep_15394_p	      0
+163-  7:	CsPK_gmep_10569_p	CsPK_gmep_15395_p	      0
+163-  8:	CsPK_gmep_10570_p	CsPK_gmep_15396_p	      0
+163-  9:	CsPK_gmep_10571_p	CsPK_gmep_15397_p	      0
+163- 10:	CsPK_gmep_10572_p	CsPK_gmep_15398_p	      0
+163- 11:	CsPK_gmep_10573_p	CsPK_gmep_15401_p	      0
+163- 12:	CsPK_gmep_10574_p	CsPK_gmep_15402_p	  2e-78
+163- 13:	CsPK_gmep_10575_p	CsPK_gmep_15403_p	      0
+## Alignment 164: score=448.0 e_value=5.3e-18 N=9 pk2&pk8 plus
+164-  0:	CsPK_gmep_10540_p	CsPK_gmep_15452_p	  4e-66
+164-  1:	CsPK_gmep_10541_p	CsPK_gmep_15453_p	      0
+164-  2:	CsPK_gmep_10542_p	CsPK_gmep_15454_p	      0
+164-  3:	CsPK_gmep_10543_p	CsPK_gmep_15455_p	      0
+164-  4:	CsPK_gmep_10544_p	CsPK_gmep_15456_p	      0
+164-  5:	CsPK_gmep_10546_p	CsPK_gmep_15459_p	      0
+164-  6:	CsPK_gmep_10547_p	CsPK_gmep_15460_p	      0
+164-  7:	CsPK_gmep_10548_p	CsPK_gmep_15461_p	 4e-137
+164-  8:	CsPK_gmep_10549_p	CsPK_gmep_15462_p	  3e-76
+## Alignment 165: score=398.0 e_value=8e-14 N=8 pk2&pk8 plus
+165-  0:	CsPK_gmep_17444_p	CsPK_gmep_35394_p	  4e-91
+165-  1:	CsPK_gmep_17445_p	CsPK_gmep_35395_p	 2e-176
+165-  2:	CsPK_gmep_17446_p	CsPK_gmep_35396_p	  3e-64
+165-  3:	CsPK_gmep_17447_p	CsPK_gmep_35397_p	      0
+165-  4:	CsPK_gmep_17448_p	CsPK_gmep_35398_p	  3e-90
+165-  5:	CsPK_gmep_17450_p	CsPK_gmep_35399_p	  4e-35
+165-  6:	CsPK_gmep_17451_p	CsPK_gmep_35400_p	 4e-102
+165-  7:	CsPK_gmep_17453_p	CsPK_gmep_35401_p	      0
+## Alignment 166: score=344.0 e_value=4.8e-13 N=7 pk2&pk8 plus
+166-  0:	CsPK_gmep_18565_p	CsPK_gmep_33115_p	  3e-81
+166-  1:	CsPK_gmep_18566_p	CsPK_gmep_33116_p	      0
+166-  2:	CsPK_gmep_18567_p	CsPK_gmep_33118_p	  3e-71
+166-  3:	CsPK_gmep_18568_p	CsPK_gmep_33119_p	  5e-38
+166-  4:	CsPK_gmep_18570_p	CsPK_gmep_33121_p	      0
+166-  5:	CsPK_gmep_18572_p	CsPK_gmep_33126_p	 2e-110
+166-  6:	CsPK_gmep_18573_p	CsPK_gmep_33127_p	 2e-178
+## Alignment 167: score=298.0 e_value=3.1e-09 N=6 pk2&pk8 plus
+167-  0:	CsPK_gmep_60919_p	CsPK_gmep_33947_p	 3e-166
+167-  1:	CsPK_gmep_60921_p	CsPK_gmep_33950_p	      0
+167-  2:	CsPK_gmep_60922_p	CsPK_gmep_33951_p	  8e-74
+167-  3:	CsPK_gmep_60923_p	CsPK_gmep_33952_p	 5e-107
+167-  4:	CsPK_gmep_60924_p	CsPK_gmep_33953_p	  6e-60
+167-  5:	CsPK_gmep_60925_p	CsPK_gmep_33954_p	  2e-54
+## Alignment 168: score=250.0 e_value=3.5e-06 N=5 pk2&pk8 plus
+168-  0:	CsPK_gmep_54755_p	CsPK_gmep_62243_p	      0
+168-  1:	CsPK_gmep_54756_p	CsPK_gmep_62244_p	  7e-63
+168-  2:	CsPK_gmep_54757_p	CsPK_gmep_62245_p	      0
+168-  3:	CsPK_gmep_54758_p	CsPK_gmep_62246_p	 7e-107
+168-  4:	CsPK_gmep_54759_p	CsPK_gmep_62247_p	      0
+## Alignment 169: score=494.0 e_value=8.1e-22 N=10 pk2&pk8 minus
+169-  0:	CsPK_gmep_31832_p	CsPK_gmep_35728_p	      0
+169-  1:	CsPK_gmep_31833_p	CsPK_gmep_35727_p	  5e-83
+169-  2:	CsPK_gmep_31834_p	CsPK_gmep_35726_p	  1e-61
+169-  3:	CsPK_gmep_31835_p	CsPK_gmep_35725_p	  4e-18
+169-  4:	CsPK_gmep_31836_p	CsPK_gmep_35724_p	      0
+169-  5:	CsPK_gmep_31842_p	CsPK_gmep_35722_p	 2e-138
+169-  6:	CsPK_gmep_31843_p	CsPK_gmep_35721_p	      0
+169-  7:	CsPK_gmep_31844_p	CsPK_gmep_35720_p	 2e-110
+169-  8:	CsPK_gmep_31846_p	CsPK_gmep_35719_p	 1e-115
+169-  9:	CsPK_gmep_31847_p	CsPK_gmep_35718_p	      0
+## Alignment 170: score=299.0 e_value=3.4e-08 N=6 pk2&pk8 minus
+170-  0:	CsPK_gmep_6849_p	CsPK_gmep_35448_p	 3e-134
+170-  1:	CsPK_gmep_6851_p	CsPK_gmep_35446_p	      0
+170-  2:	CsPK_gmep_6852_p	CsPK_gmep_35445_p	      0
+170-  3:	CsPK_gmep_6853_p	CsPK_gmep_35444_p	      0
+170-  4:	CsPK_gmep_6854_p	CsPK_gmep_35443_p	      0
+170-  5:	CsPK_gmep_6855_p	CsPK_gmep_35442_p	 4e-141
+## Alignment 171: score=296.0 e_value=1e-08 N=6 pk2&pk8 minus
+171-  0:	CsPK_gmep_9945_p	CsPK_gmep_33941_p	      0
+171-  1:	CsPK_gmep_9946_p	CsPK_gmep_33939_p	  2e-44
+171-  2:	CsPK_gmep_9947_p	CsPK_gmep_33938_p	      0
+171-  3:	CsPK_gmep_9948_p	CsPK_gmep_33935_p	 4e-127
+171-  4:	CsPK_gmep_9949_p	CsPK_gmep_33934_p	      0
+171-  5:	CsPK_gmep_9950_p	CsPK_gmep_33932_p	      0
+## Alignment 172: score=295.0 e_value=7.1e-10 N=6 pk2&pk8 minus
+172-  0:	CsPK_gmep_46565_p	CsPK_gmep_20403_p	 2e-173
+172-  1:	CsPK_gmep_46566_p	CsPK_gmep_20402_p	  1e-94
+172-  2:	CsPK_gmep_46567_p	CsPK_gmep_20401_p	 1e-130
+172-  3:	CsPK_gmep_46568_p	CsPK_gmep_20396_p	      0
+172-  4:	CsPK_gmep_46569_p	CsPK_gmep_20395_p	  5e-35
+172-  5:	CsPK_gmep_46571_p	CsPK_gmep_20394_p	  2e-66
+## Alignment 173: score=544.0 e_value=2.3e-25 N=11 pk2&pk9 minus
+173-  0:	CsPK_gmep_66319_p	CsPK_gmep_52860_p	      0
+173-  1:	CsPK_gmep_66320_p	CsPK_gmep_52859_p	  8e-54
+173-  2:	CsPK_gmep_66321_p	CsPK_gmep_52857_p	 4e-118
+173-  3:	CsPK_gmep_66322_p	CsPK_gmep_52856_p	 1e-159
+173-  4:	CsPK_gmep_66323_p	CsPK_gmep_52855_p	      0
+173-  5:	CsPK_gmep_66324_p	CsPK_gmep_52854_p	 2e-103
+173-  6:	CsPK_gmep_66325_p	CsPK_gmep_52853_p	      0
+173-  7:	CsPK_gmep_66326_p	CsPK_gmep_52850_p	      0
+173-  8:	CsPK_gmep_66328_p	CsPK_gmep_52849_p	  2e-51
+173-  9:	CsPK_gmep_66331_p	CsPK_gmep_52848_p	      0
+173- 10:	CsPK_gmep_66332_p	CsPK_gmep_52847_p	      0
+## Alignment 174: score=348.0 e_value=9.6e-12 N=7 pk2&pk9 minus
+174-  0:	CsPK_gmep_74626_p	CsPK_gmep_15613_p	      0
+174-  1:	CsPK_gmep_74628_p	CsPK_gmep_15612_p	 6e-121
+174-  2:	CsPK_gmep_74629_p	CsPK_gmep_15611_p	  3e-95
+174-  3:	CsPK_gmep_74630_p	CsPK_gmep_15610_p	  4e-56
+174-  4:	CsPK_gmep_74631_p	CsPK_gmep_15608_p	  5e-89
+174-  5:	CsPK_gmep_74632_p	CsPK_gmep_15607_p	      0
+174-  6:	CsPK_gmep_74633_p	CsPK_gmep_15606_p	  5e-71
+## Alignment 175: score=250.0 e_value=7.9e-06 N=5 pk2&pk9 minus
+175-  0:	CsPK_gmep_6115_p	CsPK_gmep_6135_p	      0
+175-  1:	CsPK_gmep_6116_p	CsPK_gmep_6134_p	  3e-83
+175-  2:	CsPK_gmep_6117_p	CsPK_gmep_6133_p	  3e-63
+175-  3:	CsPK_gmep_6118_p	CsPK_gmep_6132_p	      0
+175-  4:	CsPK_gmep_6119_p	CsPK_gmep_6131_p	      0
+## Alignment 176: score=347.0 e_value=3.1e-11 N=7 pk3&pk3 plus
+176-  0:	CsPK_gmep_45925_p	CsPK_gmep_45964_p	      0
+176-  1:	CsPK_gmep_45926_p	CsPK_gmep_45965_p	 8e-146
+176-  2:	CsPK_gmep_45927_p	CsPK_gmep_45966_p	      0
+176-  3:	CsPK_gmep_45928_p	CsPK_gmep_45967_p	      0
+176-  4:	CsPK_gmep_45929_p	CsPK_gmep_45968_p	      0
+176-  5:	CsPK_gmep_45930_p	CsPK_gmep_45969_p	  2e-95
+176-  6:	CsPK_gmep_45934_p	CsPK_gmep_45972_p	      0
+## Alignment 177: score=345.0 e_value=4e-13 N=7 pk3&pk3 plus
+177-  0:	CsPK_gmep_18361_p	CsPK_gmep_18341_p	      0
+177-  1:	CsPK_gmep_18364_p	CsPK_gmep_18342_p	  9e-71
+177-  2:	CsPK_gmep_18365_p	CsPK_gmep_18344_p	      0
+177-  3:	CsPK_gmep_18367_p	CsPK_gmep_18345_p	  6e-77
+177-  4:	CsPK_gmep_18368_p	CsPK_gmep_18346_p	      0
+177-  5:	CsPK_gmep_18369_p	CsPK_gmep_18347_p	  3e-91
+177-  6:	CsPK_gmep_18370_p	CsPK_gmep_18349_p	  3e-84
+## Alignment 178: score=300.0 e_value=5.4e-09 N=6 pk3&pk3 plus
+178-  0:	CsPK_gmep_60349_p	CsPK_gmep_26304_p	      0
+178-  1:	CsPK_gmep_60350_p	CsPK_gmep_26305_p	  4e-69
+178-  2:	CsPK_gmep_60351_p	CsPK_gmep_26306_p	 5e-137
+178-  3:	CsPK_gmep_60352_p	CsPK_gmep_26307_p	  7e-45
+178-  4:	CsPK_gmep_60353_p	CsPK_gmep_26308_p	  5e-81
+178-  5:	CsPK_gmep_60354_p	CsPK_gmep_26309_p	 4e-179
+## Alignment 179: score=298.0 e_value=1.4e-08 N=6 pk3&pk3 minus
+179-  0:	CsPK_gmep_31657_p	CsPK_gmep_54206_p	  2e-46
+179-  1:	CsPK_gmep_31658_p	CsPK_gmep_54204_p	      0
+179-  2:	CsPK_gmep_31659_p	CsPK_gmep_54203_p	  6e-49
+179-  3:	CsPK_gmep_31660_p	CsPK_gmep_54202_p	      0
+179-  4:	CsPK_gmep_31661_p	CsPK_gmep_54201_p	      0
+179-  5:	CsPK_gmep_31663_p	CsPK_gmep_54200_p	  3e-12
+## Alignment 180: score=344.0 e_value=2.2e-11 N=7 pk3&pk4 plus
+180-  0:	CsPK_gmep_74935_p	CsPK_gmep_1769_p	      0
+180-  1:	CsPK_gmep_74937_p	CsPK_gmep_1770_p	      0
+180-  2:	CsPK_gmep_74938_p	CsPK_gmep_1771_p	  9e-62
+180-  3:	CsPK_gmep_74940_p	CsPK_gmep_1772_p	      0
+180-  4:	CsPK_gmep_74944_p	CsPK_gmep_1773_p	  2e-89
+180-  5:	CsPK_gmep_74945_p	CsPK_gmep_1774_p	  2e-99
+180-  6:	CsPK_gmep_74946_p	CsPK_gmep_1776_p	 1e-123
+## Alignment 181: score=344.0 e_value=2.9e-12 N=7 pk3&pk4 plus
+181-  0:	CsPK_gmep_53514_p	CsPK_gmep_10771_p	      0
+181-  1:	CsPK_gmep_53516_p	CsPK_gmep_10774_p	 2e-143
+181-  2:	CsPK_gmep_53517_p	CsPK_gmep_10775_p	  1e-83
+181-  3:	CsPK_gmep_53519_p	CsPK_gmep_10777_p	      0
+181-  4:	CsPK_gmep_53523_p	CsPK_gmep_10780_p	 9e-114
+181-  5:	CsPK_gmep_53524_p	CsPK_gmep_10781_p	  2e-77
+181-  6:	CsPK_gmep_53525_p	CsPK_gmep_10782_p	 3e-112
+## Alignment 182: score=344.0 e_value=2.4e-11 N=7 pk3&pk4 minus
+182-  0:	CsPK_gmep_25334_p	CsPK_gmep_57842_p	      0
+182-  1:	CsPK_gmep_25336_p	CsPK_gmep_57839_p	 3e-178
+182-  2:	CsPK_gmep_25337_p	CsPK_gmep_57837_p	  4e-52
+182-  3:	CsPK_gmep_25338_p	CsPK_gmep_57834_p	      0
+182-  4:	CsPK_gmep_25339_p	CsPK_gmep_57833_p	      0
+182-  5:	CsPK_gmep_25340_p	CsPK_gmep_57831_p	 2e-103
+182-  6:	CsPK_gmep_25341_p	CsPK_gmep_57830_p	      0
+## Alignment 183: score=297.0 e_value=1.3e-08 N=6 pk3&pk4 minus
+183-  0:	CsPK_gmep_45264_p	CsPK_gmep_39726_p	  4e-57
+183-  1:	CsPK_gmep_45267_p	CsPK_gmep_39725_p	  5e-94
+183-  2:	CsPK_gmep_45269_p	CsPK_gmep_39723_p	  4e-59
+183-  3:	CsPK_gmep_45270_p	CsPK_gmep_39722_p	      0
+183-  4:	CsPK_gmep_45271_p	CsPK_gmep_39721_p	  3e-87
+183-  5:	CsPK_gmep_45272_p	CsPK_gmep_39720_p	  1e-64
+## Alignment 184: score=250.0 e_value=1.9e-06 N=5 pk3&pk4 minus
+184-  0:	CsPK_gmep_9248_p	CsPK_gmep_58058_p	 1e-171
+184-  1:	CsPK_gmep_9249_p	CsPK_gmep_58057_p	  4e-86
+184-  2:	CsPK_gmep_9250_p	CsPK_gmep_58056_p	      0
+184-  3:	CsPK_gmep_9251_p	CsPK_gmep_58055_p	      0
+184-  4:	CsPK_gmep_9252_p	CsPK_gmep_58054_p	 2e-124
+## Alignment 185: score=350.0 e_value=4.2e-14 N=7 pk3&pk5 plus
+185-  0:	CsPK_gmep_59591_p	CsPK_gmep_72952_p	 4e-111
+185-  1:	CsPK_gmep_59592_p	CsPK_gmep_72953_p	 1e-133
+185-  2:	CsPK_gmep_59593_p	CsPK_gmep_72954_p	      0
+185-  3:	CsPK_gmep_59594_p	CsPK_gmep_72955_p	      0
+185-  4:	CsPK_gmep_59595_p	CsPK_gmep_72956_p	  3e-31
+185-  5:	CsPK_gmep_59596_p	CsPK_gmep_72957_p	  6e-81
+185-  6:	CsPK_gmep_59597_p	CsPK_gmep_72958_p	 4e-156
+## Alignment 186: score=675.0 e_value=5e-37 N=14 pk3&pk6 plus
+186-  0:	CsPK_gmep_31874_p	CsPK_gmep_34004_p	  2e-78
+186-  1:	CsPK_gmep_31875_p	CsPK_gmep_34005_p	  2e-82
+186-  2:	CsPK_gmep_31881_p	CsPK_gmep_34007_p	  2e-56
+186-  3:	CsPK_gmep_31882_p	CsPK_gmep_34008_p	  3e-30
+186-  4:	CsPK_gmep_31886_p	CsPK_gmep_34011_p	  3e-41
+186-  5:	CsPK_gmep_31887_p	CsPK_gmep_34012_p	  9e-58
+186-  6:	CsPK_gmep_31888_p	CsPK_gmep_34013_p	  5e-83
+186-  7:	CsPK_gmep_31890_p	CsPK_gmep_34014_p	  4e-85
+186-  8:	CsPK_gmep_31896_p	CsPK_gmep_34028_p	 2e-145
+186-  9:	CsPK_gmep_31897_p	CsPK_gmep_34029_p	 5e-149
+186- 10:	CsPK_gmep_31898_p	CsPK_gmep_34031_p	  7e-77
+186- 11:	CsPK_gmep_31899_p	CsPK_gmep_34032_p	  5e-69
+186- 12:	CsPK_gmep_31900_p	CsPK_gmep_34033_p	      0
+186- 13:	CsPK_gmep_31903_p	CsPK_gmep_34034_p	 2e-179
+## Alignment 187: score=435.0 e_value=4.5e-19 N=9 pk3&pk6 plus
+187-  0:	CsPK_gmep_31321_p	CsPK_gmep_72861_p	      0
+187-  1:	CsPK_gmep_31328_p	CsPK_gmep_72873_p	      0
+187-  2:	CsPK_gmep_31330_p	CsPK_gmep_72874_p	  6e-96
+187-  3:	CsPK_gmep_31331_p	CsPK_gmep_72875_p	 1e-167
+187-  4:	CsPK_gmep_31332_p	CsPK_gmep_72876_p	      0
+187-  5:	CsPK_gmep_31333_p	CsPK_gmep_72878_p	 2e-127
+187-  6:	CsPK_gmep_31334_p	CsPK_gmep_72880_p	      0
+187-  7:	CsPK_gmep_31335_p	CsPK_gmep_72881_p	  4e-53
+187-  8:	CsPK_gmep_31337_p	CsPK_gmep_72882_p	  9e-65
+## Alignment 188: score=425.0 e_value=3.1e-24 N=9 pk3&pk6 plus
+188-  0:	CsPK_gmep_16664_p	CsPK_gmep_20197_p	  6e-85
+188-  1:	CsPK_gmep_16681_p	CsPK_gmep_20216_p	  1e-92
+188-  2:	CsPK_gmep_16683_p	CsPK_gmep_20217_p	      0
+188-  3:	CsPK_gmep_16684_p	CsPK_gmep_20219_p	  2e-45
+188-  4:	CsPK_gmep_16685_p	CsPK_gmep_20221_p	  4e-51
+188-  5:	CsPK_gmep_16687_p	CsPK_gmep_20223_p	      0
+188-  6:	CsPK_gmep_16688_p	CsPK_gmep_20224_p	  3e-50
+188-  7:	CsPK_gmep_16689_p	CsPK_gmep_20226_p	      0
+188-  8:	CsPK_gmep_16691_p	CsPK_gmep_20229_p	  2e-84
+## Alignment 189: score=398.0 e_value=1.7e-13 N=8 pk3&pk6 plus
+189-  0:	CsPK_gmep_29391_p	CsPK_gmep_50897_p	      0
+189-  1:	CsPK_gmep_29392_p	CsPK_gmep_50898_p	 7e-125
+189-  2:	CsPK_gmep_29394_p	CsPK_gmep_50899_p	  4e-90
+189-  3:	CsPK_gmep_29395_p	CsPK_gmep_50900_p	 2e-149
+189-  4:	CsPK_gmep_29397_p	CsPK_gmep_50902_p	      0
+189-  5:	CsPK_gmep_29398_p	CsPK_gmep_50903_p	      0
+189-  6:	CsPK_gmep_29399_p	CsPK_gmep_50904_p	  8e-51
+189-  7:	CsPK_gmep_29400_p	CsPK_gmep_50905_p	 2e-144
+## Alignment 190: score=394.0 e_value=2.3e-15 N=8 pk3&pk6 plus
+190-  0:	CsPK_gmep_45026_p	CsPK_gmep_3947_p	 4e-173
+190-  1:	CsPK_gmep_45027_p	CsPK_gmep_3948_p	 8e-121
+190-  2:	CsPK_gmep_45029_p	CsPK_gmep_3949_p	 2e-144
+190-  3:	CsPK_gmep_45030_p	CsPK_gmep_3950_p	 2e-169
+190-  4:	CsPK_gmep_45032_p	CsPK_gmep_3951_p	 2e-152
+190-  5:	CsPK_gmep_45034_p	CsPK_gmep_3954_p	  5e-93
+190-  6:	CsPK_gmep_45037_p	CsPK_gmep_3955_p	      0
+190-  7:	CsPK_gmep_45038_p	CsPK_gmep_3956_p	  2e-85
+## Alignment 191: score=392.0 e_value=3.6e-15 N=8 pk3&pk6 plus
+191-  0:	CsPK_gmep_76451_p	CsPK_gmep_10980_p	  3e-34
+191-  1:	CsPK_gmep_76452_p	CsPK_gmep_10984_p	      0
+191-  2:	CsPK_gmep_76453_p	CsPK_gmep_10986_p	  7e-81
+191-  3:	CsPK_gmep_76455_p	CsPK_gmep_10989_p	  3e-99
+191-  4:	CsPK_gmep_76457_p	CsPK_gmep_10990_p	 5e-171
+191-  5:	CsPK_gmep_76458_p	CsPK_gmep_10992_p	      0
+191-  6:	CsPK_gmep_76459_p	CsPK_gmep_10993_p	      0
+191-  7:	CsPK_gmep_76460_p	CsPK_gmep_10994_p	  8e-94
+## Alignment 192: score=359.0 e_value=1.8e-18 N=8 pk3&pk6 plus
+192-  0:	CsPK_gmep_54273_p	CsPK_gmep_53106_p	      0
+192-  1:	CsPK_gmep_54284_p	CsPK_gmep_53119_p	 7e-106
+192-  2:	CsPK_gmep_54310_p	CsPK_gmep_53134_p	 5e-119
+192-  3:	CsPK_gmep_54312_p	CsPK_gmep_53135_p	 5e-116
+192-  4:	CsPK_gmep_54313_p	CsPK_gmep_53136_p	 8e-102
+192-  5:	CsPK_gmep_54314_p	CsPK_gmep_53138_p	  2e-74
+192-  6:	CsPK_gmep_54315_p	CsPK_gmep_53139_p	      0
+192-  7:	CsPK_gmep_54316_p	CsPK_gmep_53142_p	  1e-31
+## Alignment 193: score=296.0 e_value=4.2e-10 N=6 pk3&pk6 plus
+193-  0:	CsPK_gmep_31366_p	CsPK_gmep_72864_p	  5e-99
+193-  1:	CsPK_gmep_31367_p	CsPK_gmep_72865_p	 2e-170
+193-  2:	CsPK_gmep_31368_p	CsPK_gmep_72866_p	  3e-86
+193-  3:	CsPK_gmep_31373_p	CsPK_gmep_72867_p	 3e-172
+193-  4:	CsPK_gmep_31374_p	CsPK_gmep_72868_p	      0
+193-  5:	CsPK_gmep_31375_p	CsPK_gmep_72869_p	  7e-32
+## Alignment 194: score=250.0 e_value=1.6e-06 N=5 pk3&pk6 plus
+194-  0:	CsPK_gmep_74967_p	CsPK_gmep_37827_p	 3e-103
+194-  1:	CsPK_gmep_74968_p	CsPK_gmep_37828_p	 5e-115
+194-  2:	CsPK_gmep_74969_p	CsPK_gmep_37829_p	  4e-72
+194-  3:	CsPK_gmep_74970_p	CsPK_gmep_37830_p	  4e-60
+194-  4:	CsPK_gmep_74971_p	CsPK_gmep_37831_p	      0
+## Alignment 195: score=298.0 e_value=1.4e-08 N=6 pk3&pk6 minus
+195-  0:	CsPK_gmep_58765_p	CsPK_gmep_33998_p	      0
+195-  1:	CsPK_gmep_58766_p	CsPK_gmep_33997_p	      0
+195-  2:	CsPK_gmep_58767_p	CsPK_gmep_33996_p	 2e-102
+195-  3:	CsPK_gmep_58768_p	CsPK_gmep_33995_p	 4e-131
+195-  4:	CsPK_gmep_58769_p	CsPK_gmep_33993_p	      0
+195-  5:	CsPK_gmep_58770_p	CsPK_gmep_33991_p	  6e-62
+## Alignment 196: score=376.0 e_value=2.4e-18 N=8 pk3&pk7 plus
+196-  0:	CsPK_gmep_25743_p	CsPK_gmep_41810_p	  4e-36
+196-  1:	CsPK_gmep_83870_p	CsPK_gmep_41829_p	 2e-104
+196-  2:	CsPK_gmep_83873_p	CsPK_gmep_41831_p	  1e-91
+196-  3:	CsPK_gmep_83876_p	CsPK_gmep_41832_p	      0
+196-  4:	CsPK_gmep_83877_p	CsPK_gmep_41834_p	      0
+196-  5:	CsPK_gmep_83878_p	CsPK_gmep_41835_p	      0
+196-  6:	CsPK_gmep_83880_p	CsPK_gmep_41837_p	      0
+196-  7:	CsPK_gmep_83881_p	CsPK_gmep_41838_p	  1e-67
+## Alignment 197: score=250.0 e_value=3.9e-07 N=5 pk3&pk7 plus
+197-  0:	CsPK_gmep_7972_p	CsPK_gmep_11494_p	  9e-68
+197-  1:	CsPK_gmep_7973_p	CsPK_gmep_11495_p	 1e-100
+197-  2:	CsPK_gmep_7974_p	CsPK_gmep_11496_p	 2e-101
+197-  3:	CsPK_gmep_7975_p	CsPK_gmep_11497_p	  2e-85
+197-  4:	CsPK_gmep_7976_p	CsPK_gmep_11498_p	      0
+## Alignment 198: score=683.0 e_value=9.4e-34 N=14 pk3&pk7 minus
+198-  0:	CsPK_gmep_30507_p	CsPK_gmep_12829_p	 2e-168
+198-  1:	CsPK_gmep_30516_p	CsPK_gmep_12824_p	      0
+198-  2:	CsPK_gmep_30517_p	CsPK_gmep_12823_p	  4e-43
+198-  3:	CsPK_gmep_30518_p	CsPK_gmep_12821_p	      0
+198-  4:	CsPK_gmep_30519_p	CsPK_gmep_12819_p	 1e-139
+198-  5:	CsPK_gmep_30521_p	CsPK_gmep_12818_p	 4e-107
+198-  6:	CsPK_gmep_30522_p	CsPK_gmep_12816_p	      0
+198-  7:	CsPK_gmep_30523_p	CsPK_gmep_12815_p	      0
+198-  8:	CsPK_gmep_30524_p	CsPK_gmep_12814_p	 2e-155
+198-  9:	CsPK_gmep_30525_p	CsPK_gmep_12813_p	  8e-21
+198- 10:	CsPK_gmep_30526_p	CsPK_gmep_12812_p	      0
+198- 11:	CsPK_gmep_30527_p	CsPK_gmep_12811_p	  1e-42
+198- 12:	CsPK_gmep_30528_p	CsPK_gmep_12809_p	      0
+198- 13:	CsPK_gmep_30531_p	CsPK_gmep_12804_p	      0
+## Alignment 199: score=447.0 e_value=9.9e-18 N=9 pk3&pk7 minus
+199-  0:	CsPK_gmep_9413_p	CsPK_gmep_32408_p	  4e-39
+199-  1:	CsPK_gmep_9414_p	CsPK_gmep_32407_p	      0
+199-  2:	CsPK_gmep_9415_p	CsPK_gmep_32406_p	  1e-21
+199-  3:	CsPK_gmep_9417_p	CsPK_gmep_32405_p	 3e-160
+199-  4:	CsPK_gmep_9419_p	CsPK_gmep_32404_p	      0
+199-  5:	CsPK_gmep_9420_p	CsPK_gmep_32403_p	  6e-46
+199-  6:	CsPK_gmep_9421_p	CsPK_gmep_32402_p	 2e-174
+199-  7:	CsPK_gmep_9422_p	CsPK_gmep_32401_p	      0
+199-  8:	CsPK_gmep_9423_p	CsPK_gmep_32399_p	      0
+## Alignment 200: score=349.0 e_value=6.3e-11 N=7 pk3&pk7 minus
+200-  0:	CsPK_gmep_59598_p	CsPK_gmep_3352_p	 1e-140
+200-  1:	CsPK_gmep_59599_p	CsPK_gmep_3351_p	  2e-35
+200-  2:	CsPK_gmep_59600_p	CsPK_gmep_3350_p	  2e-67
+200-  3:	CsPK_gmep_59601_p	CsPK_gmep_3349_p	 3e-118
+200-  4:	CsPK_gmep_59603_p	CsPK_gmep_3348_p	 3e-115
+200-  5:	CsPK_gmep_59604_p	CsPK_gmep_3347_p	      0
+200-  6:	CsPK_gmep_59605_p	CsPK_gmep_3346_p	 6e-107
+## Alignment 201: score=296.0 e_value=5.5e-08 N=6 pk3&pk7 minus
+201-  0:	CsPK_gmep_922_p	CsPK_gmep_39815_p	 3e-165
+201-  1:	CsPK_gmep_923_p	CsPK_gmep_39813_p	      0
+201-  2:	CsPK_gmep_925_p	CsPK_gmep_39812_p	  9e-87
+201-  3:	CsPK_gmep_927_p	CsPK_gmep_39811_p	  1e-68
+201-  4:	CsPK_gmep_929_p	CsPK_gmep_39810_p	 2e-106
+201-  5:	CsPK_gmep_930_p	CsPK_gmep_39809_p	  3e-65
+## Alignment 202: score=293.0 e_value=1e-08 N=6 pk3&pk7 minus
+202-  0:	CsPK_gmep_38605_p	CsPK_gmep_72647_p	      0
+202-  1:	CsPK_gmep_38607_p	CsPK_gmep_72646_p	  7e-69
+202-  2:	CsPK_gmep_38610_p	CsPK_gmep_72643_p	  1e-66
+202-  3:	CsPK_gmep_38611_p	CsPK_gmep_72641_p	      0
+202-  4:	CsPK_gmep_38614_p	CsPK_gmep_72640_p	  9e-98
+202-  5:	CsPK_gmep_38616_p	CsPK_gmep_72638_p	  3e-73
+## Alignment 203: score=447.0 e_value=3.4e-17 N=9 pk3&pk8 plus
+203-  0:	CsPK_gmep_7995_p	CsPK_gmep_14496_p	  5e-35
+203-  1:	CsPK_gmep_7996_p	CsPK_gmep_14497_p	 2e-145
+203-  2:	CsPK_gmep_7997_p	CsPK_gmep_14498_p	  7e-80
+203-  3:	CsPK_gmep_7998_p	CsPK_gmep_14499_p	      0
+203-  4:	CsPK_gmep_7999_p	CsPK_gmep_14501_p	 1e-155
+203-  5:	CsPK_gmep_8000_p	CsPK_gmep_14503_p	  4e-86
+203-  6:	CsPK_gmep_8001_p	CsPK_gmep_14504_p	      0
+203-  7:	CsPK_gmep_8002_p	CsPK_gmep_14505_p	 4e-159
+203-  8:	CsPK_gmep_8003_p	CsPK_gmep_14507_p	  2e-42
+## Alignment 204: score=296.0 e_value=1.1e-08 N=6 pk3&pk8 plus
+204-  0:	CsPK_gmep_2126_p	CsPK_gmep_40673_p	 2e-107
+204-  1:	CsPK_gmep_2127_p	CsPK_gmep_40674_p	      0
+204-  2:	CsPK_gmep_2128_p	CsPK_gmep_40675_p	      0
+204-  3:	CsPK_gmep_2129_p	CsPK_gmep_40677_p	 4e-140
+204-  4:	CsPK_gmep_2131_p	CsPK_gmep_40678_p	  2e-64
+204-  5:	CsPK_gmep_2132_p	CsPK_gmep_40681_p	      0
+## Alignment 205: score=295.0 e_value=5.3e-09 N=6 pk3&pk8 plus
+205-  0:	CsPK_gmep_74134_p	CsPK_gmep_32772_p	 2e-180
+205-  1:	CsPK_gmep_74137_p	CsPK_gmep_32773_p	 5e-139
+205-  2:	CsPK_gmep_74139_p	CsPK_gmep_32774_p	 2e-147
+205-  3:	CsPK_gmep_74141_p	CsPK_gmep_32775_p	      0
+205-  4:	CsPK_gmep_74143_p	CsPK_gmep_32776_p	 5e-166
+205-  5:	CsPK_gmep_74144_p	CsPK_gmep_32777_p	      0
+## Alignment 206: score=294.0 e_value=4.1e-10 N=6 pk3&pk8 plus
+206-  0:	CsPK_gmep_59545_p	CsPK_gmep_48294_p	  3e-59
+206-  1:	CsPK_gmep_59547_p	CsPK_gmep_48295_p	 2e-134
+206-  2:	CsPK_gmep_59553_p	CsPK_gmep_48299_p	      0
+206-  3:	CsPK_gmep_59554_p	CsPK_gmep_48300_p	  4e-94
+206-  4:	CsPK_gmep_59555_p	CsPK_gmep_48301_p	  5e-74
+206-  5:	CsPK_gmep_59556_p	CsPK_gmep_48302_p	      0
+## Alignment 207: score=281.0 e_value=5.4e-11 N=6 pk3&pk8 plus
+207-  0:	CsPK_gmep_58680_p	CsPK_gmep_81592_p	      0
+207-  1:	CsPK_gmep_30461_p	CsPK_gmep_81596_p	  4e-90
+207-  2:	CsPK_gmep_30462_p	CsPK_gmep_81597_p	  9e-77
+207-  3:	CsPK_gmep_30464_p	CsPK_gmep_81598_p	  6e-92
+207-  4:	CsPK_gmep_30465_p	CsPK_gmep_81599_p	      0
+207-  5:	CsPK_gmep_30466_p	CsPK_gmep_81600_p	  2e-14
+## Alignment 208: score=398.0 e_value=9.2e-14 N=8 pk3&pk8 minus
+208-  0:	CsPK_gmep_60362_p	CsPK_gmep_19087_p	 3e-103
+208-  1:	CsPK_gmep_60363_p	CsPK_gmep_19086_p	  2e-63
+208-  2:	CsPK_gmep_60364_p	CsPK_gmep_19085_p	 2e-132
+208-  3:	CsPK_gmep_60365_p	CsPK_gmep_19084_p	 1e-101
+208-  4:	CsPK_gmep_60366_p	CsPK_gmep_19081_p	  2e-67
+208-  5:	CsPK_gmep_60367_p	CsPK_gmep_19080_p	      0
+208-  6:	CsPK_gmep_60368_p	CsPK_gmep_19079_p	  4e-13
+208-  7:	CsPK_gmep_60369_p	CsPK_gmep_19078_p	      0
+## Alignment 209: score=300.0 e_value=1.7e-08 N=6 pk3&pk8 minus
+209-  0:	CsPK_gmep_59453_p	CsPK_gmep_65954_p	  3e-46
+209-  1:	CsPK_gmep_59454_p	CsPK_gmep_65953_p	      0
+209-  2:	CsPK_gmep_59455_p	CsPK_gmep_65952_p	 4e-155
+209-  3:	CsPK_gmep_59456_p	CsPK_gmep_65951_p	 5e-109
+209-  4:	CsPK_gmep_59457_p	CsPK_gmep_65950_p	      0
+209-  5:	CsPK_gmep_59458_p	CsPK_gmep_65949_p	 3e-131
+## Alignment 210: score=892.0 e_value=4.6e-47 N=18 pk3&pk9 plus
+210-  0:	CsPK_gmep_57337_p	CsPK_gmep_15740_p	 3e-112
+210-  1:	CsPK_gmep_57338_p	CsPK_gmep_15743_p	 2e-138
+210-  2:	CsPK_gmep_57339_p	CsPK_gmep_15744_p	 2e-127
+210-  3:	CsPK_gmep_57341_p	CsPK_gmep_15746_p	 3e-118
+210-  4:	CsPK_gmep_57342_p	CsPK_gmep_15747_p	      0
+210-  5:	CsPK_gmep_57345_p	CsPK_gmep_15748_p	      0
+210-  6:	CsPK_gmep_57347_p	CsPK_gmep_15750_p	 1e-127
+210-  7:	CsPK_gmep_57348_p	CsPK_gmep_15751_p	      0
+210-  8:	CsPK_gmep_57349_p	CsPK_gmep_15752_p	  8e-75
+210-  9:	CsPK_gmep_57350_p	CsPK_gmep_15753_p	 9e-110
+210- 10:	CsPK_gmep_57352_p	CsPK_gmep_15755_p	      0
+210- 11:	CsPK_gmep_57354_p	CsPK_gmep_15757_p	      0
+210- 12:	CsPK_gmep_57355_p	CsPK_gmep_15758_p	 1e-140
+210- 13:	CsPK_gmep_57356_p	CsPK_gmep_15759_p	 1e-111
+210- 14:	CsPK_gmep_57357_p	CsPK_gmep_15760_p	  1e-82
+210- 15:	CsPK_gmep_57358_p	CsPK_gmep_15761_p	  1e-75
+210- 16:	CsPK_gmep_57359_p	CsPK_gmep_15762_p	      0
+210- 17:	CsPK_gmep_57360_p	CsPK_gmep_15763_p	      0
+## Alignment 211: score=346.0 e_value=4.1e-12 N=7 pk3&pk9 plus
+211-  0:	CsPK_gmep_8561_p	CsPK_gmep_29227_p	  2e-72
+211-  1:	CsPK_gmep_8562_p	CsPK_gmep_29228_p	  1e-94
+211-  2:	CsPK_gmep_8563_p	CsPK_gmep_29229_p	      0
+211-  3:	CsPK_gmep_8564_p	CsPK_gmep_29230_p	      0
+211-  4:	CsPK_gmep_8566_p	CsPK_gmep_29232_p	 2e-138
+211-  5:	CsPK_gmep_8568_p	CsPK_gmep_29234_p	  2e-76
+211-  6:	CsPK_gmep_8569_p	CsPK_gmep_29237_p	  4e-97
+## Alignment 212: score=333.0 e_value=8.6e-12 N=7 pk3&pk9 plus
+212-  0:	CsPK_gmep_664_p	CsPK_gmep_64121_p	      0
+212-  1:	CsPK_gmep_675_p	CsPK_gmep_64123_p	      0
+212-  2:	CsPK_gmep_676_p	CsPK_gmep_64124_p	 6e-118
+212-  3:	CsPK_gmep_680_p	CsPK_gmep_64125_p	 9e-177
+212-  4:	CsPK_gmep_683_p	CsPK_gmep_64126_p	      0
+212-  5:	CsPK_gmep_685_p	CsPK_gmep_64127_p	      0
+212-  6:	CsPK_gmep_687_p	CsPK_gmep_64129_p	  5e-52
+## Alignment 213: score=298.0 e_value=3.1e-09 N=6 pk3&pk9 plus
+213-  0:	CsPK_gmep_75158_p	CsPK_gmep_70684_p	 3e-147
+213-  1:	CsPK_gmep_75159_p	CsPK_gmep_70685_p	 9e-180
+213-  2:	CsPK_gmep_75162_p	CsPK_gmep_70688_p	  5e-41
+213-  3:	CsPK_gmep_75163_p	CsPK_gmep_70689_p	  6e-35
+213-  4:	CsPK_gmep_75164_p	CsPK_gmep_70690_p	      0
+213-  5:	CsPK_gmep_75165_p	CsPK_gmep_70691_p	      0
+## Alignment 214: score=795.0 e_value=3.5e-41 N=16 pk4&pk4 plus
+214-  0:	CsPK_gmep_1540_p	CsPK_gmep_1584_p	      0
+214-  1:	CsPK_gmep_1541_p	CsPK_gmep_1586_p	      0
+214-  2:	CsPK_gmep_1542_p	CsPK_gmep_1587_p	 3e-149
+214-  3:	CsPK_gmep_1543_p	CsPK_gmep_1588_p	      0
+214-  4:	CsPK_gmep_1544_p	CsPK_gmep_1589_p	  1e-97
+214-  5:	CsPK_gmep_1545_p	CsPK_gmep_1590_p	      0
+214-  6:	CsPK_gmep_1547_p	CsPK_gmep_1591_p	 3e-117
+214-  7:	CsPK_gmep_1548_p	CsPK_gmep_1592_p	      0
+214-  8:	CsPK_gmep_1550_p	CsPK_gmep_1594_p	      0
+214-  9:	CsPK_gmep_1551_p	CsPK_gmep_1595_p	      0
+214- 10:	CsPK_gmep_1552_p	CsPK_gmep_1596_p	 2e-167
+214- 11:	CsPK_gmep_1555_p	CsPK_gmep_1597_p	      0
+214- 12:	CsPK_gmep_1556_p	CsPK_gmep_1598_p	      0
+214- 13:	CsPK_gmep_1557_p	CsPK_gmep_1599_p	 1e-146
+214- 14:	CsPK_gmep_1558_p	CsPK_gmep_1600_p	      0
+214- 15:	CsPK_gmep_1559_p	CsPK_gmep_1601_p	      0
+## Alignment 215: score=391.0 e_value=7.8e-17 N=8 pk4&pk4 plus
+215-  0:	CsPK_gmep_56147_p	CsPK_gmep_43745_p	  3e-86
+215-  1:	CsPK_gmep_56148_p	CsPK_gmep_43754_p	      0
+215-  2:	CsPK_gmep_56149_p	CsPK_gmep_43755_p	      0
+215-  3:	CsPK_gmep_56150_p	CsPK_gmep_43756_p	      0
+215-  4:	CsPK_gmep_56151_p	CsPK_gmep_43757_p	  2e-44
+215-  5:	CsPK_gmep_56152_p	CsPK_gmep_43758_p	      0
+215-  6:	CsPK_gmep_56154_p	CsPK_gmep_43759_p	 2e-146
+215-  7:	CsPK_gmep_56155_p	CsPK_gmep_43760_p	  8e-57
+## Alignment 216: score=293.0 e_value=6.5e-08 N=6 pk4&pk4 plus
+216-  0:	CsPK_gmep_1517_p	CsPK_gmep_1603_p	      0
+216-  1:	CsPK_gmep_1522_p	CsPK_gmep_1608_p	  2e-92
+216-  2:	CsPK_gmep_1524_p	CsPK_gmep_1611_p	  2e-87
+216-  3:	CsPK_gmep_1525_p	CsPK_gmep_1613_p	      0
+216-  4:	CsPK_gmep_1526_p	CsPK_gmep_1614_p	      0
+216-  5:	CsPK_gmep_1527_p	CsPK_gmep_1615_p	      0
+## Alignment 217: score=598.0 e_value=3.8e-26 N=12 pk4&pk4 minus
+217-  0:	CsPK_gmep_43892_p	CsPK_gmep_43956_p	      0
+217-  1:	CsPK_gmep_43893_p	CsPK_gmep_43955_p	      0
+217-  2:	CsPK_gmep_43894_p	CsPK_gmep_43954_p	 1e-138
+217-  3:	CsPK_gmep_43895_p	CsPK_gmep_43953_p	      0
+217-  4:	CsPK_gmep_43896_p	CsPK_gmep_43952_p	  4e-91
+217-  5:	CsPK_gmep_43897_p	CsPK_gmep_43951_p	      0
+217-  6:	CsPK_gmep_43898_p	CsPK_gmep_43950_p	 1e-125
+217-  7:	CsPK_gmep_43899_p	CsPK_gmep_43949_p	      0
+217-  8:	CsPK_gmep_43900_p	CsPK_gmep_43948_p	      0
+217-  9:	CsPK_gmep_43901_p	CsPK_gmep_43947_p	      0
+217- 10:	CsPK_gmep_43903_p	CsPK_gmep_43944_p	 1e-168
+217- 11:	CsPK_gmep_43904_p	CsPK_gmep_43943_p	      0
+## Alignment 218: score=299.0 e_value=1.9e-08 N=6 pk4&pk4 minus
+218-  0:	CsPK_gmep_70377_p	CsPK_gmep_28006_p	  2e-35
+218-  1:	CsPK_gmep_70378_p	CsPK_gmep_28005_p	  5e-72
+218-  2:	CsPK_gmep_70380_p	CsPK_gmep_28004_p	      0
+218-  3:	CsPK_gmep_70381_p	CsPK_gmep_28003_p	  2e-55
+218-  4:	CsPK_gmep_70382_p	CsPK_gmep_28002_p	 5e-155
+218-  5:	CsPK_gmep_70383_p	CsPK_gmep_28001_p	      0
+## Alignment 219: score=295.0 e_value=3.2e-10 N=6 pk4&pk4 minus
+219-  0:	CsPK_gmep_43872_p	CsPK_gmep_43909_p	  6e-60
+219-  1:	CsPK_gmep_43878_p	CsPK_gmep_43908_p	      0
+219-  2:	CsPK_gmep_43879_p	CsPK_gmep_43907_p	  4e-54
+219-  3:	CsPK_gmep_43880_p	CsPK_gmep_43906_p	      0
+219-  4:	CsPK_gmep_43881_p	CsPK_gmep_43905_p	  2e-12
+219-  5:	CsPK_gmep_43882_p	CsPK_gmep_43904_p	  1e-92
+## Alignment 220: score=348.0 e_value=6.7e-12 N=7 pk4&pk5 plus
+220-  0:	CsPK_gmep_82946_p	CsPK_gmep_22452_p	 2e-177
+220-  1:	CsPK_gmep_82947_p	CsPK_gmep_22455_p	      0
+220-  2:	CsPK_gmep_82948_p	CsPK_gmep_22456_p	  3e-48
+220-  3:	CsPK_gmep_82949_p	CsPK_gmep_22457_p	 9e-142
+220-  4:	CsPK_gmep_82950_p	CsPK_gmep_22458_p	 1e-107
+220-  5:	CsPK_gmep_82951_p	CsPK_gmep_22459_p	  4e-68
+220-  6:	CsPK_gmep_82952_p	CsPK_gmep_22460_p	      0
+## Alignment 221: score=395.0 e_value=8.4e-16 N=8 pk4&pk5 minus
+221-  0:	CsPK_gmep_24128_p	CsPK_gmep_14147_p	      0
+221-  1:	CsPK_gmep_24129_p	CsPK_gmep_14143_p	 2e-127
+221-  2:	CsPK_gmep_24130_p	CsPK_gmep_14142_p	  1e-84
+221-  3:	CsPK_gmep_24131_p	CsPK_gmep_14140_p	      0
+221-  4:	CsPK_gmep_24133_p	CsPK_gmep_14139_p	      0
+221-  5:	CsPK_gmep_24134_p	CsPK_gmep_14138_p	  2e-59
+221-  6:	CsPK_gmep_24135_p	CsPK_gmep_14137_p	 8e-115
+221-  7:	CsPK_gmep_24136_p	CsPK_gmep_14136_p	      0
+## Alignment 222: score=995.0 e_value=6.3e-56 N=20 pk4&pk6 plus
+222-  0:	CsPK_gmep_71057_p	CsPK_gmep_19255_p	 2e-106
+222-  1:	CsPK_gmep_71058_p	CsPK_gmep_19256_p	  1e-23
+222-  2:	CsPK_gmep_71059_p	CsPK_gmep_19257_p	      0
+222-  3:	CsPK_gmep_71060_p	CsPK_gmep_19260_p	  5e-78
+222-  4:	CsPK_gmep_71062_p	CsPK_gmep_19261_p	 4e-156
+222-  5:	CsPK_gmep_71063_p	CsPK_gmep_19262_p	 1e-106
+222-  6:	CsPK_gmep_71064_p	CsPK_gmep_19263_p	      0
+222-  7:	CsPK_gmep_71065_p	CsPK_gmep_19264_p	  8e-62
+222-  8:	CsPK_gmep_71066_p	CsPK_gmep_19265_p	      0
+222-  9:	CsPK_gmep_71067_p	CsPK_gmep_19266_p	  2e-22
+222- 10:	CsPK_gmep_71068_p	CsPK_gmep_19267_p	  2e-57
+222- 11:	CsPK_gmep_71069_p	CsPK_gmep_19268_p	 7e-142
+222- 12:	CsPK_gmep_71070_p	CsPK_gmep_19269_p	 3e-143
+222- 13:	CsPK_gmep_71072_p	CsPK_gmep_19271_p	  9e-89
+222- 14:	CsPK_gmep_71073_p	CsPK_gmep_19272_p	  5e-38
+222- 15:	CsPK_gmep_71074_p	CsPK_gmep_19273_p	      0
+222- 16:	CsPK_gmep_71075_p	CsPK_gmep_19274_p	      0
+222- 17:	CsPK_gmep_71076_p	CsPK_gmep_19275_p	  4e-71
+222- 18:	CsPK_gmep_71077_p	CsPK_gmep_19277_p	      0
+222- 19:	CsPK_gmep_71078_p	CsPK_gmep_19278_p	      0
+## Alignment 223: score=648.0 e_value=2.6e-41 N=14 pk4&pk6 plus
+223-  0:	CsPK_gmep_68916_p	CsPK_gmep_68776_p	      0
+223-  1:	CsPK_gmep_68917_p	CsPK_gmep_68777_p	      0
+223-  2:	CsPK_gmep_68918_p	CsPK_gmep_68778_p	      0
+223-  3:	CsPK_gmep_68932_p	CsPK_gmep_68801_p	      0
+223-  4:	CsPK_gmep_68933_p	CsPK_gmep_68804_p	      0
+223-  5:	CsPK_gmep_68935_p	CsPK_gmep_68805_p	      0
+223-  6:	CsPK_gmep_68936_p	CsPK_gmep_68806_p	  6e-66
+223-  7:	CsPK_gmep_68937_p	CsPK_gmep_68807_p	      0
+223-  8:	CsPK_gmep_68939_p	CsPK_gmep_68809_p	      0
+223-  9:	CsPK_gmep_68940_p	CsPK_gmep_68810_p	  9e-92
+223- 10:	CsPK_gmep_68942_p	CsPK_gmep_68813_p	  3e-87
+223- 11:	CsPK_gmep_68943_p	CsPK_gmep_68814_p	      0
+223- 12:	CsPK_gmep_68949_p	CsPK_gmep_68839_p	      0
+223- 13:	CsPK_gmep_68950_p	CsPK_gmep_68840_p	  1e-92
+## Alignment 224: score=299.0 e_value=1.7e-09 N=6 pk4&pk6 plus
+224-  0:	CsPK_gmep_43836_p	CsPK_gmep_5094_p	 4e-117
+224-  1:	CsPK_gmep_43837_p	CsPK_gmep_5095_p	      0
+224-  2:	CsPK_gmep_43838_p	CsPK_gmep_5096_p	      0
+224-  3:	CsPK_gmep_43840_p	CsPK_gmep_5097_p	      0
+224-  4:	CsPK_gmep_43841_p	CsPK_gmep_5098_p	      0
+224-  5:	CsPK_gmep_43842_p	CsPK_gmep_5099_p	      0
+## Alignment 225: score=250.0 e_value=1.5e-06 N=5 pk4&pk6 plus
+225-  0:	CsPK_gmep_69545_p	CsPK_gmep_10962_p	      0
+225-  1:	CsPK_gmep_69546_p	CsPK_gmep_10963_p	      0
+225-  2:	CsPK_gmep_69547_p	CsPK_gmep_10964_p	 3e-176
+225-  3:	CsPK_gmep_69548_p	CsPK_gmep_10965_p	 4e-174
+225-  4:	CsPK_gmep_69549_p	CsPK_gmep_10966_p	      0
+## Alignment 226: score=643.0 e_value=5.9e-29 N=13 pk4&pk6 minus
+226-  0:	CsPK_gmep_1680_p	CsPK_gmep_6388_p	  3e-64
+226-  1:	CsPK_gmep_1681_p	CsPK_gmep_6387_p	  5e-96
+226-  2:	CsPK_gmep_1683_p	CsPK_gmep_6386_p	      0
+226-  3:	CsPK_gmep_1685_p	CsPK_gmep_6385_p	      0
+226-  4:	CsPK_gmep_1686_p	CsPK_gmep_6384_p	      0
+226-  5:	CsPK_gmep_1688_p	CsPK_gmep_6382_p	      0
+226-  6:	CsPK_gmep_1690_p	CsPK_gmep_6380_p	 5e-147
+226-  7:	CsPK_gmep_1691_p	CsPK_gmep_6379_p	  5e-60
+226-  8:	CsPK_gmep_1692_p	CsPK_gmep_6378_p	      0
+226-  9:	CsPK_gmep_1695_p	CsPK_gmep_6376_p	      0
+226- 10:	CsPK_gmep_1696_p	CsPK_gmep_6375_p	      0
+226- 11:	CsPK_gmep_1697_p	CsPK_gmep_6373_p	  7e-41
+226- 12:	CsPK_gmep_1698_p	CsPK_gmep_6372_p	  2e-42
+## Alignment 227: score=597.0 e_value=4.6e-28 N=12 pk4&pk6 minus
+227-  0:	CsPK_gmep_28405_p	CsPK_gmep_19201_p	 5e-133
+227-  1:	CsPK_gmep_28406_p	CsPK_gmep_19200_p	      0
+227-  2:	CsPK_gmep_28407_p	CsPK_gmep_19198_p	  1e-56
+227-  3:	CsPK_gmep_28408_p	CsPK_gmep_19197_p	      0
+227-  4:	CsPK_gmep_28409_p	CsPK_gmep_19196_p	      0
+227-  5:	CsPK_gmep_28410_p	CsPK_gmep_19195_p	 5e-110
+227-  6:	CsPK_gmep_28411_p	CsPK_gmep_19194_p	  1e-64
+227-  7:	CsPK_gmep_28412_p	CsPK_gmep_19193_p	      0
+227-  8:	CsPK_gmep_28414_p	CsPK_gmep_19191_p	      0
+227-  9:	CsPK_gmep_28415_p	CsPK_gmep_19190_p	  9e-78
+227- 10:	CsPK_gmep_28416_p	CsPK_gmep_19189_p	 1e-112
+227- 11:	CsPK_gmep_28417_p	CsPK_gmep_19187_p	  4e-90
+## Alignment 228: score=297.0 e_value=2.3e-08 N=6 pk4&pk6 minus
+228-  0:	CsPK_gmep_26841_p	CsPK_gmep_63833_p	      0
+228-  1:	CsPK_gmep_26842_p	CsPK_gmep_63831_p	 3e-166
+228-  2:	CsPK_gmep_26843_p	CsPK_gmep_63829_p	  2e-44
+228-  3:	CsPK_gmep_26845_p	CsPK_gmep_63828_p	  4e-89
+228-  4:	CsPK_gmep_26846_p	CsPK_gmep_63827_p	  4e-59
+228-  5:	CsPK_gmep_26847_p	CsPK_gmep_63826_p	  2e-33
+## Alignment 229: score=399.0 e_value=1.8e-14 N=8 pk4&pk7 minus
+229-  0:	CsPK_gmep_15238_p	CsPK_gmep_15209_p	      0
+229-  1:	CsPK_gmep_15239_p	CsPK_gmep_15208_p	      0
+229-  2:	CsPK_gmep_15240_p	CsPK_gmep_15207_p	      0
+229-  3:	CsPK_gmep_15241_p	CsPK_gmep_15206_p	      0
+229-  4:	CsPK_gmep_15242_p	CsPK_gmep_15205_p	      0
+229-  5:	CsPK_gmep_15243_p	CsPK_gmep_15204_p	      0
+229-  6:	CsPK_gmep_15244_p	CsPK_gmep_15203_p	      0
+229-  7:	CsPK_gmep_15246_p	CsPK_gmep_15201_p	 5e-164
+## Alignment 230: score=331.0 e_value=1.7e-15 N=7 pk4&pk7 minus
+230-  0:	CsPK_gmep_26553_p	CsPK_gmep_26607_p	 4e-173
+230-  1:	CsPK_gmep_26555_p	CsPK_gmep_26605_p	  7e-76
+230-  2:	CsPK_gmep_26556_p	CsPK_gmep_26604_p	      0
+230-  3:	CsPK_gmep_26557_p	CsPK_gmep_26602_p	      0
+230-  4:	CsPK_gmep_26558_p	CsPK_gmep_26601_p	      0
+230-  5:	CsPK_gmep_26559_p	CsPK_gmep_26600_p	      0
+230-  6:	CsPK_gmep_20914_p	CsPK_gmep_26586_p	  3e-14
+## Alignment 231: score=644.0 e_value=1.5e-30 N=13 pk4&pk8 plus
+231-  0:	CsPK_gmep_68892_p	CsPK_gmep_68860_p	      0
+231-  1:	CsPK_gmep_68893_p	CsPK_gmep_68861_p	      0
+231-  2:	CsPK_gmep_68894_p	CsPK_gmep_68863_p	  1e-95
+231-  3:	CsPK_gmep_68895_p	CsPK_gmep_68864_p	      0
+231-  4:	CsPK_gmep_68896_p	CsPK_gmep_68865_p	      0
+231-  5:	CsPK_gmep_68899_p	CsPK_gmep_68867_p	      0
+231-  6:	CsPK_gmep_68901_p	CsPK_gmep_68870_p	      0
+231-  7:	CsPK_gmep_68902_p	CsPK_gmep_68871_p	      0
+231-  8:	CsPK_gmep_68904_p	CsPK_gmep_68873_p	      0
+231-  9:	CsPK_gmep_68905_p	CsPK_gmep_68874_p	      0
+231- 10:	CsPK_gmep_68906_p	CsPK_gmep_68875_p	      0
+231- 11:	CsPK_gmep_68907_p	CsPK_gmep_68876_p	      0
+231- 12:	CsPK_gmep_68908_p	CsPK_gmep_68877_p	 7e-154
+## Alignment 232: score=644.0 e_value=1.7e-30 N=13 pk4&pk8 plus
+232-  0:	CsPK_gmep_28091_p	CsPK_gmep_73120_p	      0
+232-  1:	CsPK_gmep_28094_p	CsPK_gmep_73121_p	  1e-30
+232-  2:	CsPK_gmep_28095_p	CsPK_gmep_73122_p	  6e-46
+232-  3:	CsPK_gmep_28097_p	CsPK_gmep_73124_p	 2e-173
+232-  4:	CsPK_gmep_28098_p	CsPK_gmep_73125_p	      0
+232-  5:	CsPK_gmep_28099_p	CsPK_gmep_73126_p	  4e-50
+232-  6:	CsPK_gmep_28100_p	CsPK_gmep_73127_p	  5e-49
+232-  7:	CsPK_gmep_28101_p	CsPK_gmep_73128_p	  2e-67
+232-  8:	CsPK_gmep_28102_p	CsPK_gmep_73130_p	      0
+232-  9:	CsPK_gmep_28103_p	CsPK_gmep_73131_p	      0
+232- 10:	CsPK_gmep_28104_p	CsPK_gmep_73132_p	      0
+232- 11:	CsPK_gmep_28107_p	CsPK_gmep_73133_p	      0
+232- 12:	CsPK_gmep_28108_p	CsPK_gmep_73134_p	 5e-115
+## Alignment 233: score=348.0 e_value=1.2e-11 N=7 pk4&pk8 plus
+233-  0:	CsPK_gmep_1528_p	CsPK_gmep_42478_p	      0
+233-  1:	CsPK_gmep_1530_p	CsPK_gmep_42479_p	 9e-106
+233-  2:	CsPK_gmep_1532_p	CsPK_gmep_42481_p	      0
+233-  3:	CsPK_gmep_1533_p	CsPK_gmep_42482_p	 2e-102
+233-  4:	CsPK_gmep_1534_p	CsPK_gmep_42483_p	      0
+233-  5:	CsPK_gmep_1535_p	CsPK_gmep_42484_p	  8e-79
+233-  6:	CsPK_gmep_1536_p	CsPK_gmep_42485_p	  6e-92
+## Alignment 234: score=298.0 e_value=6.1e-08 N=6 pk4&pk8 plus
+234-  0:	CsPK_gmep_82872_p	CsPK_gmep_40967_p	 1e-161
+234-  1:	CsPK_gmep_82873_p	CsPK_gmep_40968_p	  4e-70
+234-  2:	CsPK_gmep_82874_p	CsPK_gmep_40969_p	      0
+234-  3:	CsPK_gmep_82875_p	CsPK_gmep_40971_p	      0
+234-  4:	CsPK_gmep_82876_p	CsPK_gmep_40972_p	 9e-113
+234-  5:	CsPK_gmep_82878_p	CsPK_gmep_40973_p	      0
+## Alignment 235: score=398.0 e_value=2.6e-14 N=8 pk4&pk8 minus
+235-  0:	CsPK_gmep_32571_p	CsPK_gmep_81175_p	  1e-79
+235-  1:	CsPK_gmep_32572_p	CsPK_gmep_81174_p	  6e-62
+235-  2:	CsPK_gmep_32573_p	CsPK_gmep_81173_p	      0
+235-  3:	CsPK_gmep_32575_p	CsPK_gmep_81172_p	      0
+235-  4:	CsPK_gmep_32576_p	CsPK_gmep_81171_p	 2e-166
+235-  5:	CsPK_gmep_32577_p	CsPK_gmep_81170_p	      0
+235-  6:	CsPK_gmep_32578_p	CsPK_gmep_81168_p	      0
+235-  7:	CsPK_gmep_32579_p	CsPK_gmep_81167_p	  5e-74
+## Alignment 236: score=445.0 e_value=1.2e-18 N=9 pk4&pk9 plus
+236-  0:	CsPK_gmep_44967_p	CsPK_gmep_70642_p	      0
+236-  1:	CsPK_gmep_44968_p	CsPK_gmep_70645_p	      0
+236-  2:	CsPK_gmep_44970_p	CsPK_gmep_70646_p	 5e-110
+236-  3:	CsPK_gmep_44971_p	CsPK_gmep_70647_p	 1e-100
+236-  4:	CsPK_gmep_44972_p	CsPK_gmep_70648_p	  3e-22
+236-  5:	CsPK_gmep_44973_p	CsPK_gmep_70649_p	      0
+236-  6:	CsPK_gmep_44975_p	CsPK_gmep_70650_p	 5e-172
+236-  7:	CsPK_gmep_44977_p	CsPK_gmep_70652_p	      0
+236-  8:	CsPK_gmep_44978_p	CsPK_gmep_70653_p	  4e-69
+## Alignment 237: score=350.0 e_value=2e-11 N=7 pk4&pk9 plus
+237-  0:	CsPK_gmep_28546_p	CsPK_gmep_77727_p	 9e-108
+237-  1:	CsPK_gmep_28547_p	CsPK_gmep_77728_p	      0
+237-  2:	CsPK_gmep_28548_p	CsPK_gmep_77729_p	  6e-60
+237-  3:	CsPK_gmep_28549_p	CsPK_gmep_77730_p	  3e-91
+237-  4:	CsPK_gmep_28550_p	CsPK_gmep_77731_p	      0
+237-  5:	CsPK_gmep_28551_p	CsPK_gmep_77732_p	 3e-110
+237-  6:	CsPK_gmep_28552_p	CsPK_gmep_77733_p	      0
+## Alignment 238: score=428.0 e_value=7.8e-20 N=9 pk4&pk9 minus
+238-  0:	CsPK_gmep_16145_p	CsPK_gmep_29049_p	  3e-29
+238-  1:	CsPK_gmep_16146_p	CsPK_gmep_29048_p	      0
+238-  2:	CsPK_gmep_16147_p	CsPK_gmep_29047_p	  3e-91
+238-  3:	CsPK_gmep_16148_p	CsPK_gmep_29045_p	  3e-49
+238-  4:	CsPK_gmep_16149_p	CsPK_gmep_29044_p	      0
+238-  5:	CsPK_gmep_16150_p	CsPK_gmep_29043_p	  8e-50
+238-  6:	CsPK_gmep_16152_p	CsPK_gmep_29042_p	 3e-153
+238-  7:	CsPK_gmep_16153_p	CsPK_gmep_29041_p	  2e-40
+238-  8:	CsPK_gmep_16174_p	CsPK_gmep_29037_p	 4e-163
+## Alignment 239: score=300.0 e_value=2e-08 N=6 pk4&pk9 minus
+239-  0:	CsPK_gmep_1743_p	CsPK_gmep_42404_p	  7e-95
+239-  1:	CsPK_gmep_1744_p	CsPK_gmep_42403_p	      0
+239-  2:	CsPK_gmep_1745_p	CsPK_gmep_42402_p	      0
+239-  3:	CsPK_gmep_1746_p	CsPK_gmep_42401_p	  4e-77
+239-  4:	CsPK_gmep_1747_p	CsPK_gmep_42400_p	 1e-174
+239-  5:	CsPK_gmep_1748_p	CsPK_gmep_42399_p	  5e-69
+## Alignment 240: score=1266.0 e_value=4.7e-89 N=26 pk5&pk5 plus
+240-  0:	CsPK_gmep_29585_p	CsPK_gmep_29641_p	      0
+240-  1:	CsPK_gmep_29586_p	CsPK_gmep_29643_p	      0
+240-  2:	CsPK_gmep_29587_p	CsPK_gmep_29644_p	      0
+240-  3:	CsPK_gmep_29603_p	CsPK_gmep_29652_p	 5e-140
+240-  4:	CsPK_gmep_29607_p	CsPK_gmep_29655_p	  4e-38
+240-  5:	CsPK_gmep_29608_p	CsPK_gmep_29656_p	      0
+240-  6:	CsPK_gmep_29609_p	CsPK_gmep_29657_p	      0
+240-  7:	CsPK_gmep_29611_p	CsPK_gmep_29658_p	  2e-85
+240-  8:	CsPK_gmep_29612_p	CsPK_gmep_29659_p	      0
+240-  9:	CsPK_gmep_29613_p	CsPK_gmep_29660_p	 1e-136
+240- 10:	CsPK_gmep_29614_p	CsPK_gmep_29661_p	      0
+240- 11:	CsPK_gmep_29615_p	CsPK_gmep_29662_p	  1e-72
+240- 12:	CsPK_gmep_29616_p	CsPK_gmep_29663_p	 1e-120
+240- 13:	CsPK_gmep_29617_p	CsPK_gmep_29664_p	 2e-107
+240- 14:	CsPK_gmep_29618_p	CsPK_gmep_29665_p	      0
+240- 15:	CsPK_gmep_29619_p	CsPK_gmep_29666_p	      0
+240- 16:	CsPK_gmep_29620_p	CsPK_gmep_29667_p	      0
+240- 17:	CsPK_gmep_29621_p	CsPK_gmep_29668_p	 5e-156
+240- 18:	CsPK_gmep_29622_p	CsPK_gmep_29669_p	  2e-74
+240- 19:	CsPK_gmep_29624_p	CsPK_gmep_29671_p	      0
+240- 20:	CsPK_gmep_29625_p	CsPK_gmep_29672_p	  5e-72
+240- 21:	CsPK_gmep_29626_p	CsPK_gmep_29673_p	      0
+240- 22:	CsPK_gmep_29627_p	CsPK_gmep_29674_p	      0
+240- 23:	CsPK_gmep_29628_p	CsPK_gmep_29675_p	  2e-51
+240- 24:	CsPK_gmep_29633_p	CsPK_gmep_29688_p	      0
+240- 25:	CsPK_gmep_29634_p	CsPK_gmep_29690_p	      0
+## Alignment 241: score=744.0 e_value=1.3e-36 N=15 pk5&pk5 plus
+241-  0:	CsPK_gmep_71328_p	CsPK_gmep_71349_p	      0
+241-  1:	CsPK_gmep_71329_p	CsPK_gmep_71350_p	  2e-71
+241-  2:	CsPK_gmep_71330_p	CsPK_gmep_71352_p	      0
+241-  3:	CsPK_gmep_71331_p	CsPK_gmep_71353_p	  5e-83
+241-  4:	CsPK_gmep_71332_p	CsPK_gmep_71355_p	      0
+241-  5:	CsPK_gmep_71333_p	CsPK_gmep_71356_p	      0
+241-  6:	CsPK_gmep_71334_p	CsPK_gmep_71357_p	      0
+241-  7:	CsPK_gmep_71335_p	CsPK_gmep_71360_p	      0
+241-  8:	CsPK_gmep_71336_p	CsPK_gmep_71361_p	      0
+241-  9:	CsPK_gmep_71337_p	CsPK_gmep_71362_p	      0
+241- 10:	CsPK_gmep_71338_p	CsPK_gmep_71364_p	      0
+241- 11:	CsPK_gmep_71339_p	CsPK_gmep_71365_p	      0
+241- 12:	CsPK_gmep_71340_p	CsPK_gmep_71366_p	      0
+241- 13:	CsPK_gmep_71341_p	CsPK_gmep_71367_p	      0
+241- 14:	CsPK_gmep_71343_p	CsPK_gmep_71369_p	      0
+## Alignment 242: score=493.0 e_value=4.8e-21 N=10 pk5&pk5 plus
+242-  0:	CsPK_gmep_29519_p	CsPK_gmep_29543_p	      0
+242-  1:	CsPK_gmep_29524_p	CsPK_gmep_29548_p	  4e-76
+242-  2:	CsPK_gmep_29525_p	CsPK_gmep_29549_p	      0
+242-  3:	CsPK_gmep_29526_p	CsPK_gmep_29550_p	 5e-131
+242-  4:	CsPK_gmep_29527_p	CsPK_gmep_29551_p	      0
+242-  5:	CsPK_gmep_29528_p	CsPK_gmep_29552_p	      0
+242-  6:	CsPK_gmep_29530_p	CsPK_gmep_29553_p	      0
+242-  7:	CsPK_gmep_29531_p	CsPK_gmep_29556_p	      0
+242-  8:	CsPK_gmep_29532_p	CsPK_gmep_29557_p	 1e-105
+242-  9:	CsPK_gmep_29533_p	CsPK_gmep_29558_p	      0
+## Alignment 243: score=291.0 e_value=2.6e-09 N=6 pk5&pk5 plus
+243-  0:	CsPK_gmep_29905_p	CsPK_gmep_29953_p	  9e-88
+243-  1:	CsPK_gmep_29907_p	CsPK_gmep_29954_p	      0
+243-  2:	CsPK_gmep_29908_p	CsPK_gmep_29956_p	      0
+243-  3:	CsPK_gmep_29909_p	CsPK_gmep_29957_p	  3e-68
+243-  4:	CsPK_gmep_29912_p	CsPK_gmep_29961_p	      0
+243-  5:	CsPK_gmep_29917_p	CsPK_gmep_29965_p	 3e-107
+## Alignment 244: score=644.0 e_value=5.3e-29 N=13 pk5&pk5 minus
+244-  0:	CsPK_gmep_322_p	CsPK_gmep_389_p	 6e-166
+244-  1:	CsPK_gmep_323_p	CsPK_gmep_388_p	      0
+244-  2:	CsPK_gmep_325_p	CsPK_gmep_387_p	  3e-93
+244-  3:	CsPK_gmep_326_p	CsPK_gmep_386_p	      0
+244-  4:	CsPK_gmep_327_p	CsPK_gmep_385_p	  4e-65
+244-  5:	CsPK_gmep_328_p	CsPK_gmep_384_p	      0
+244-  6:	CsPK_gmep_330_p	CsPK_gmep_383_p	      0
+244-  7:	CsPK_gmep_331_p	CsPK_gmep_382_p	      0
+244-  8:	CsPK_gmep_332_p	CsPK_gmep_381_p	      0
+244-  9:	CsPK_gmep_333_p	CsPK_gmep_380_p	      0
+244- 10:	CsPK_gmep_334_p	CsPK_gmep_377_p	      0
+244- 11:	CsPK_gmep_335_p	CsPK_gmep_375_p	      0
+244- 12:	CsPK_gmep_337_p	CsPK_gmep_374_p	      0
+## Alignment 245: score=547.0 e_value=3e-23 N=11 pk5&pk5 minus
+245-  0:	CsPK_gmep_338_p	CsPK_gmep_373_p	      0
+245-  1:	CsPK_gmep_339_p	CsPK_gmep_372_p	      0
+245-  2:	CsPK_gmep_340_p	CsPK_gmep_370_p	  1e-29
+245-  3:	CsPK_gmep_341_p	CsPK_gmep_369_p	 1e-101
+245-  4:	CsPK_gmep_342_p	CsPK_gmep_368_p	      0
+245-  5:	CsPK_gmep_345_p	CsPK_gmep_366_p	      0
+245-  6:	CsPK_gmep_346_p	CsPK_gmep_365_p	      0
+245-  7:	CsPK_gmep_347_p	CsPK_gmep_364_p	 9e-138
+245-  8:	CsPK_gmep_348_p	CsPK_gmep_363_p	      0
+245-  9:	CsPK_gmep_349_p	CsPK_gmep_362_p	      0
+245- 10:	CsPK_gmep_350_p	CsPK_gmep_361_p	 1e-120
+## Alignment 246: score=298.0 e_value=2.8e-08 N=6 pk5&pk5 minus
+246-  0:	CsPK_gmep_29810_p	CsPK_gmep_29846_p	  7e-49
+246-  1:	CsPK_gmep_29812_p	CsPK_gmep_29843_p	  4e-37
+246-  2:	CsPK_gmep_29813_p	CsPK_gmep_29842_p	      0
+246-  3:	CsPK_gmep_29814_p	CsPK_gmep_29841_p	  3e-39
+246-  4:	CsPK_gmep_29815_p	CsPK_gmep_29840_p	      0
+246-  5:	CsPK_gmep_29816_p	CsPK_gmep_29839_p	  3e-86
+## Alignment 247: score=400.0 e_value=1.4e-13 N=8 pk5&pk6 plus
+247-  0:	CsPK_gmep_26914_p	CsPK_gmep_5021_p	  6e-33
+247-  1:	CsPK_gmep_26915_p	CsPK_gmep_5022_p	  5e-98
+247-  2:	CsPK_gmep_26916_p	CsPK_gmep_5023_p	      0
+247-  3:	CsPK_gmep_26917_p	CsPK_gmep_5024_p	      0
+247-  4:	CsPK_gmep_26918_p	CsPK_gmep_5025_p	 1e-144
+247-  5:	CsPK_gmep_26919_p	CsPK_gmep_5026_p	      0
+247-  6:	CsPK_gmep_26920_p	CsPK_gmep_5027_p	 3e-128
+247-  7:	CsPK_gmep_26921_p	CsPK_gmep_5028_p	      0
+## Alignment 248: score=398.0 e_value=1.1e-13 N=8 pk5&pk6 plus
+248-  0:	CsPK_gmep_27596_p	CsPK_gmep_5001_p	 5e-125
+248-  1:	CsPK_gmep_27597_p	CsPK_gmep_5002_p	      0
+248-  2:	CsPK_gmep_27598_p	CsPK_gmep_5003_p	  9e-24
+248-  3:	CsPK_gmep_27600_p	CsPK_gmep_5005_p	  1e-92
+248-  4:	CsPK_gmep_27601_p	CsPK_gmep_5006_p	      0
+248-  5:	CsPK_gmep_27602_p	CsPK_gmep_5007_p	 1e-176
+248-  6:	CsPK_gmep_27603_p	CsPK_gmep_5008_p	 3e-169
+248-  7:	CsPK_gmep_27604_p	CsPK_gmep_5010_p	 1e-134
+## Alignment 249: score=250.0 e_value=1.4e-06 N=5 pk5&pk6 plus
+249-  0:	CsPK_gmep_80173_p	CsPK_gmep_6744_p	      0
+249-  1:	CsPK_gmep_80174_p	CsPK_gmep_6745_p	      0
+249-  2:	CsPK_gmep_80175_p	CsPK_gmep_6746_p	  3e-78
+249-  3:	CsPK_gmep_80176_p	CsPK_gmep_6747_p	      0
+249-  4:	CsPK_gmep_80177_p	CsPK_gmep_6748_p	 4e-157
+## Alignment 250: score=369.0 e_value=6.2e-17 N=8 pk5&pk6 minus
+250-  0:	CsPK_gmep_15890_p	CsPK_gmep_34479_p	      0
+250-  1:	CsPK_gmep_15892_p	CsPK_gmep_34478_p	  2e-45
+250-  2:	CsPK_gmep_15893_p	CsPK_gmep_34476_p	 2e-128
+250-  3:	CsPK_gmep_15894_p	CsPK_gmep_34475_p	      0
+250-  4:	CsPK_gmep_15896_p	CsPK_gmep_34474_p	  1e-66
+250-  5:	CsPK_gmep_15897_p	CsPK_gmep_34472_p	 7e-120
+250-  6:	CsPK_gmep_15898_p	CsPK_gmep_34468_p	  3e-11
+250-  7:	CsPK_gmep_15923_p	CsPK_gmep_34467_p	  5e-74
+## Alignment 251: score=294.0 e_value=4.1e-08 N=6 pk5&pk6 minus
+251-  0:	CsPK_gmep_29534_p	CsPK_gmep_37163_p	      0
+251-  1:	CsPK_gmep_29536_p	CsPK_gmep_37160_p	 9e-119
+251-  2:	CsPK_gmep_29537_p	CsPK_gmep_37156_p	  2e-36
+251-  3:	CsPK_gmep_29538_p	CsPK_gmep_37155_p	 5e-140
+251-  4:	CsPK_gmep_29540_p	CsPK_gmep_37154_p	  2e-75
+251-  5:	CsPK_gmep_29541_p	CsPK_gmep_37153_p	  8e-51
+## Alignment 252: score=296.0 e_value=3.2e-08 N=6 pk5&pk7 plus
+252-  0:	CsPK_gmep_13234_p	CsPK_gmep_41578_p	 5e-171
+252-  1:	CsPK_gmep_13235_p	CsPK_gmep_41579_p	      0
+252-  2:	CsPK_gmep_13236_p	CsPK_gmep_41580_p	      0
+252-  3:	CsPK_gmep_13238_p	CsPK_gmep_41584_p	      0
+252-  4:	CsPK_gmep_13239_p	CsPK_gmep_41585_p	      0
+252-  5:	CsPK_gmep_13240_p	CsPK_gmep_41587_p	      0
+## Alignment 253: score=448.0 e_value=2.4e-16 N=9 pk5&pk7 minus
+253-  0:	CsPK_gmep_77206_p	CsPK_gmep_53670_p	  8e-93
+253-  1:	CsPK_gmep_77207_p	CsPK_gmep_53668_p	  5e-73
+253-  2:	CsPK_gmep_77208_p	CsPK_gmep_53667_p	  5e-42
+253-  3:	CsPK_gmep_77209_p	CsPK_gmep_53666_p	  6e-34
+253-  4:	CsPK_gmep_77211_p	CsPK_gmep_53664_p	  2e-57
+253-  5:	CsPK_gmep_77212_p	CsPK_gmep_53663_p	      0
+253-  6:	CsPK_gmep_77213_p	CsPK_gmep_53662_p	  3e-92
+253-  7:	CsPK_gmep_77214_p	CsPK_gmep_53661_p	      0
+253-  8:	CsPK_gmep_77215_p	CsPK_gmep_53660_p	  2e-95
+## Alignment 254: score=384.0 e_value=2.8e-18 N=8 pk5&pk7 minus
+254-  0:	CsPK_gmep_57620_p	CsPK_gmep_57617_p	 5e-157
+254-  1:	CsPK_gmep_57621_p	CsPK_gmep_57615_p	      0
+254-  2:	CsPK_gmep_57635_p	CsPK_gmep_57606_p	  7e-52
+254-  3:	CsPK_gmep_57636_p	CsPK_gmep_57605_p	 3e-113
+254-  4:	CsPK_gmep_57637_p	CsPK_gmep_57604_p	  1e-23
+254-  5:	CsPK_gmep_57638_p	CsPK_gmep_57603_p	 1e-150
+254-  6:	CsPK_gmep_57639_p	CsPK_gmep_57602_p	 6e-144
+254-  7:	CsPK_gmep_57640_p	CsPK_gmep_57599_p	  2e-82
+## Alignment 255: score=350.0 e_value=3.1e-10 N=7 pk5&pk7 minus
+255-  0:	CsPK_gmep_56079_p	CsPK_gmep_42121_p	 4e-148
+255-  1:	CsPK_gmep_56080_p	CsPK_gmep_42120_p	      0
+255-  2:	CsPK_gmep_56081_p	CsPK_gmep_42119_p	  1e-57
+255-  3:	CsPK_gmep_56082_p	CsPK_gmep_42118_p	 5e-110
+255-  4:	CsPK_gmep_56083_p	CsPK_gmep_42117_p	 1e-105
+255-  5:	CsPK_gmep_56084_p	CsPK_gmep_42116_p	      0
+255-  6:	CsPK_gmep_56085_p	CsPK_gmep_42115_p	 8e-180
+## Alignment 256: score=695.0 e_value=1.1e-33 N=14 pk5&pk8 plus
+256-  0:	CsPK_gmep_2851_p	CsPK_gmep_51290_p	      0
+256-  1:	CsPK_gmep_2852_p	CsPK_gmep_51291_p	      0
+256-  2:	CsPK_gmep_2854_p	CsPK_gmep_51293_p	 1e-118
+256-  3:	CsPK_gmep_2855_p	CsPK_gmep_51297_p	 2e-110
+256-  4:	CsPK_gmep_2856_p	CsPK_gmep_51298_p	      0
+256-  5:	CsPK_gmep_2857_p	CsPK_gmep_51299_p	  7e-95
+256-  6:	CsPK_gmep_2858_p	CsPK_gmep_51300_p	 1e-107
+256-  7:	CsPK_gmep_2860_p	CsPK_gmep_51301_p	      0
+256-  8:	CsPK_gmep_2861_p	CsPK_gmep_51302_p	 1e-105
+256-  9:	CsPK_gmep_2862_p	CsPK_gmep_51303_p	 2e-103
+256- 10:	CsPK_gmep_2863_p	CsPK_gmep_51304_p	      0
+256- 11:	CsPK_gmep_2864_p	CsPK_gmep_51305_p	      0
+256- 12:	CsPK_gmep_2865_p	CsPK_gmep_51306_p	  7e-44
+256- 13:	CsPK_gmep_2866_p	CsPK_gmep_51307_p	      0
+## Alignment 257: score=449.0 e_value=6.5e-20 N=9 pk5&pk8 plus
+257-  0:	CsPK_gmep_41095_p	CsPK_gmep_33855_p	      0
+257-  1:	CsPK_gmep_41096_p	CsPK_gmep_33856_p	      0
+257-  2:	CsPK_gmep_41097_p	CsPK_gmep_33857_p	      0
+257-  3:	CsPK_gmep_41098_p	CsPK_gmep_33858_p	      0
+257-  4:	CsPK_gmep_41100_p	CsPK_gmep_33860_p	      0
+257-  5:	CsPK_gmep_41101_p	CsPK_gmep_33861_p	      0
+257-  6:	CsPK_gmep_41102_p	CsPK_gmep_33862_p	      0
+257-  7:	CsPK_gmep_41103_p	CsPK_gmep_33863_p	      0
+257-  8:	CsPK_gmep_41104_p	CsPK_gmep_33864_p	      0
+## Alignment 258: score=384.0 e_value=2.6e-17 N=8 pk5&pk8 plus
+258-  0:	CsPK_gmep_29876_p	CsPK_gmep_48536_p	      0
+258-  1:	CsPK_gmep_29892_p	CsPK_gmep_48541_p	 8e-103
+258-  2:	CsPK_gmep_29893_p	CsPK_gmep_48542_p	      0
+258-  3:	CsPK_gmep_29895_p	CsPK_gmep_48543_p	 3e-132
+258-  4:	CsPK_gmep_29896_p	CsPK_gmep_48544_p	      0
+258-  5:	CsPK_gmep_29897_p	CsPK_gmep_48545_p	  2e-97
+258-  6:	CsPK_gmep_29898_p	CsPK_gmep_48546_p	      0
+258-  7:	CsPK_gmep_29899_p	CsPK_gmep_48547_p	  9e-26
+## Alignment 259: score=331.0 e_value=1.3e-13 N=7 pk5&pk9 plus
+259-  0:	CsPK_gmep_56066_p	CsPK_gmep_73405_p	  7e-75
+259-  1:	CsPK_gmep_56069_p	CsPK_gmep_73420_p	 7e-160
+259-  2:	CsPK_gmep_56070_p	CsPK_gmep_73421_p	  4e-94
+259-  3:	CsPK_gmep_56074_p	CsPK_gmep_73422_p	  1e-90
+259-  4:	CsPK_gmep_56075_p	CsPK_gmep_73425_p	 1e-115
+259-  5:	CsPK_gmep_56076_p	CsPK_gmep_73426_p	      0
+259-  6:	CsPK_gmep_56077_p	CsPK_gmep_73427_p	  4e-78
+## Alignment 260: score=346.0 e_value=1.4e-14 N=7 pk6&pk6 plus
+260-  0:	CsPK_gmep_78346_p	CsPK_gmep_78398_p	  1e-43
+260-  1:	CsPK_gmep_78347_p	CsPK_gmep_78399_p	  1e-64
+260-  2:	CsPK_gmep_78348_p	CsPK_gmep_78400_p	      0
+260-  3:	CsPK_gmep_78349_p	CsPK_gmep_78401_p	 2e-106
+260-  4:	CsPK_gmep_78353_p	CsPK_gmep_78403_p	      0
+260-  5:	CsPK_gmep_78355_p	CsPK_gmep_78404_p	      0
+260-  6:	CsPK_gmep_78356_p	CsPK_gmep_78405_p	 7e-146
+## Alignment 261: score=296.0 e_value=8.2e-08 N=6 pk6&pk6 plus
+261-  0:	CsPK_gmep_6406_p	CsPK_gmep_6466_p	  9e-86
+261-  1:	CsPK_gmep_6408_p	CsPK_gmep_6467_p	 3e-174
+261-  2:	CsPK_gmep_6409_p	CsPK_gmep_6468_p	      0
+261-  3:	CsPK_gmep_6410_p	CsPK_gmep_6471_p	      0
+261-  4:	CsPK_gmep_6411_p	CsPK_gmep_6472_p	      0
+261-  5:	CsPK_gmep_6412_p	CsPK_gmep_6474_p	 2e-148
+## Alignment 262: score=496.0 e_value=4.8e-21 N=10 pk6&pk6 minus
+262-  0:	CsPK_gmep_34951_p	CsPK_gmep_34983_p	      0
+262-  1:	CsPK_gmep_34952_p	CsPK_gmep_34982_p	      0
+262-  2:	CsPK_gmep_34953_p	CsPK_gmep_34981_p	      0
+262-  3:	CsPK_gmep_34954_p	CsPK_gmep_34980_p	      0
+262-  4:	CsPK_gmep_34956_p	CsPK_gmep_34978_p	      0
+262-  5:	CsPK_gmep_34957_p	CsPK_gmep_34977_p	      0
+262-  6:	CsPK_gmep_34961_p	CsPK_gmep_34974_p	  4e-86
+262-  7:	CsPK_gmep_34962_p	CsPK_gmep_34973_p	      0
+262-  8:	CsPK_gmep_34963_p	CsPK_gmep_34972_p	 8e-104
+262-  9:	CsPK_gmep_34964_p	CsPK_gmep_34971_p	      0
+## Alignment 263: score=483.0 e_value=1.6e-22 N=10 pk6&pk6 minus
+263-  0:	CsPK_gmep_6324_p	CsPK_gmep_6370_p	      0
+263-  1:	CsPK_gmep_6325_p	CsPK_gmep_6368_p	  1e-92
+263-  2:	CsPK_gmep_6326_p	CsPK_gmep_6367_p	 3e-119
+263-  3:	CsPK_gmep_6328_p	CsPK_gmep_6366_p	      0
+263-  4:	CsPK_gmep_6329_p	CsPK_gmep_6365_p	      0
+263-  5:	CsPK_gmep_6331_p	CsPK_gmep_6364_p	 8e-145
+263-  6:	CsPK_gmep_6333_p	CsPK_gmep_6363_p	      0
+263-  7:	CsPK_gmep_6334_p	CsPK_gmep_6359_p	  2e-61
+263-  8:	CsPK_gmep_6335_p	CsPK_gmep_6358_p	  4e-59
+263-  9:	CsPK_gmep_6340_p	CsPK_gmep_6347_p	 3e-129
+## Alignment 264: score=335.0 e_value=1.8e-13 N=7 pk6&pk6 minus
+264-  0:	CsPK_gmep_36474_p	CsPK_gmep_36514_p	 2e-174
+264-  1:	CsPK_gmep_36486_p	CsPK_gmep_36510_p	      0
+264-  2:	CsPK_gmep_36487_p	CsPK_gmep_36509_p	      0
+264-  3:	CsPK_gmep_36488_p	CsPK_gmep_36507_p	      0
+264-  4:	CsPK_gmep_36489_p	CsPK_gmep_36506_p	      0
+264-  5:	CsPK_gmep_36490_p	CsPK_gmep_36505_p	 1e-115
+264-  6:	CsPK_gmep_36494_p	CsPK_gmep_36501_p	      0
+## Alignment 265: score=322.0 e_value=1.1e-12 N=7 pk6&pk6 minus
+265-  0:	CsPK_gmep_6741_p	CsPK_gmep_64916_p	  1e-19
+265-  1:	CsPK_gmep_6755_p	CsPK_gmep_6785_p	  4e-22
+265-  2:	CsPK_gmep_6756_p	CsPK_gmep_6777_p	  6e-82
+265-  3:	CsPK_gmep_6757_p	CsPK_gmep_6776_p	 2e-118
+265-  4:	CsPK_gmep_6759_p	CsPK_gmep_6775_p	      0
+265-  5:	CsPK_gmep_6765_p	CsPK_gmep_6774_p	  1e-91
+265-  6:	CsPK_gmep_6768_p	CsPK_gmep_6772_p	 5e-172
+## Alignment 266: score=348.0 e_value=4e-11 N=7 pk6&pk7 plus
+266-  0:	CsPK_gmep_62185_p	CsPK_gmep_22243_p	  6e-83
+266-  1:	CsPK_gmep_62186_p	CsPK_gmep_22244_p	  2e-33
+266-  2:	CsPK_gmep_62187_p	CsPK_gmep_22246_p	      0
+266-  3:	CsPK_gmep_62188_p	CsPK_gmep_22247_p	      0
+266-  4:	CsPK_gmep_62189_p	CsPK_gmep_22248_p	 3e-108
+266-  5:	CsPK_gmep_62191_p	CsPK_gmep_22249_p	      0
+266-  6:	CsPK_gmep_62192_p	CsPK_gmep_22250_p	 3e-146
+## Alignment 267: score=299.0 e_value=8.4e-09 N=6 pk6&pk7 plus
+267-  0:	CsPK_gmep_4380_p	CsPK_gmep_37416_p	      0
+267-  1:	CsPK_gmep_4382_p	CsPK_gmep_37418_p	  2e-77
+267-  2:	CsPK_gmep_4383_p	CsPK_gmep_37419_p	  2e-55
+267-  3:	CsPK_gmep_4384_p	CsPK_gmep_37420_p	      0
+267-  4:	CsPK_gmep_4385_p	CsPK_gmep_37421_p	      0
+267-  5:	CsPK_gmep_4386_p	CsPK_gmep_37422_p	      0
+## Alignment 268: score=298.0 e_value=6.9e-10 N=6 pk6&pk7 plus
+268-  0:	CsPK_gmep_23474_p	CsPK_gmep_52479_p	 2e-177
+268-  1:	CsPK_gmep_23475_p	CsPK_gmep_52480_p	      0
+268-  2:	CsPK_gmep_23476_p	CsPK_gmep_52481_p	  3e-76
+268-  3:	CsPK_gmep_23477_p	CsPK_gmep_52482_p	      0
+268-  4:	CsPK_gmep_23479_p	CsPK_gmep_52485_p	      0
+268-  5:	CsPK_gmep_23480_p	CsPK_gmep_52486_p	 9e-180
+## Alignment 269: score=292.0 e_value=2.1e-10 N=6 pk6&pk7 plus
+269-  0:	CsPK_gmep_7534_p	CsPK_gmep_32642_p	      0
+269-  1:	CsPK_gmep_7535_p	CsPK_gmep_32643_p	 9e-147
+269-  2:	CsPK_gmep_7536_p	CsPK_gmep_32646_p	  2e-66
+269-  3:	CsPK_gmep_7541_p	CsPK_gmep_32647_p	  9e-48
+269-  4:	CsPK_gmep_7542_p	CsPK_gmep_32650_p	  6e-83
+269-  5:	CsPK_gmep_7543_p	CsPK_gmep_32651_p	  2e-67
+## Alignment 270: score=288.0 e_value=8.6e-08 N=6 pk6&pk7 plus
+270-  0:	CsPK_gmep_33739_p	CsPK_gmep_72517_p	 2e-142
+270-  1:	CsPK_gmep_33741_p	CsPK_gmep_72518_p	      0
+270-  2:	CsPK_gmep_33743_p	CsPK_gmep_72522_p	  2e-89
+270-  3:	CsPK_gmep_33748_p	CsPK_gmep_72523_p	  6e-67
+270-  4:	CsPK_gmep_33749_p	CsPK_gmep_72525_p	  2e-69
+270-  5:	CsPK_gmep_33753_p	CsPK_gmep_72529_p	      0
+## Alignment 271: score=527.0 e_value=8.5e-26 N=11 pk6&pk7 minus
+271-  0:	CsPK_gmep_5613_p	CsPK_gmep_53920_p	  7e-95
+271-  1:	CsPK_gmep_63407_p	CsPK_gmep_53911_p	      0
+271-  2:	CsPK_gmep_63411_p	CsPK_gmep_53910_p	  2e-41
+271-  3:	CsPK_gmep_63412_p	CsPK_gmep_53909_p	  3e-73
+271-  4:	CsPK_gmep_63413_p	CsPK_gmep_53908_p	  4e-60
+271-  5:	CsPK_gmep_63414_p	CsPK_gmep_53907_p	  6e-33
+271-  6:	CsPK_gmep_63415_p	CsPK_gmep_53906_p	 6e-130
+271-  7:	CsPK_gmep_63416_p	CsPK_gmep_53905_p	 4e-146
+271-  8:	CsPK_gmep_63419_p	CsPK_gmep_53904_p	 9e-116
+271-  9:	CsPK_gmep_63420_p	CsPK_gmep_53903_p	  8e-51
+271- 10:	CsPK_gmep_63422_p	CsPK_gmep_53902_p	      0
+## Alignment 272: score=673.0 e_value=4.2e-35 N=14 pk6&pk8 plus
+272-  0:	CsPK_gmep_19728_p	CsPK_gmep_42554_p	  2e-48
+272-  1:	CsPK_gmep_19731_p	CsPK_gmep_42557_p	      0
+272-  2:	CsPK_gmep_19732_p	CsPK_gmep_42558_p	  9e-50
+272-  3:	CsPK_gmep_19733_p	CsPK_gmep_42559_p	      0
+272-  4:	CsPK_gmep_19734_p	CsPK_gmep_42576_p	      0
+272-  5:	CsPK_gmep_19738_p	CsPK_gmep_42582_p	      0
+272-  6:	CsPK_gmep_19740_p	CsPK_gmep_42583_p	      0
+272-  7:	CsPK_gmep_19742_p	CsPK_gmep_42584_p	 3e-157
+272-  8:	CsPK_gmep_19743_p	CsPK_gmep_42585_p	      0
+272-  9:	CsPK_gmep_19744_p	CsPK_gmep_42586_p	      0
+272- 10:	CsPK_gmep_19745_p	CsPK_gmep_42588_p	 2e-113
+272- 11:	CsPK_gmep_19747_p	CsPK_gmep_42589_p	  7e-48
+272- 12:	CsPK_gmep_19748_p	CsPK_gmep_42590_p	  1e-92
+272- 13:	CsPK_gmep_19749_p	CsPK_gmep_42591_p	  9e-74
+## Alignment 273: score=644.0 e_value=8.6e-30 N=13 pk6&pk8 plus
+273-  0:	CsPK_gmep_40748_p	CsPK_gmep_40678_p	  2e-64
+273-  1:	CsPK_gmep_40749_p	CsPK_gmep_40681_p	      0
+273-  2:	CsPK_gmep_40751_p	CsPK_gmep_40683_p	 2e-134
+273-  3:	CsPK_gmep_40753_p	CsPK_gmep_40685_p	 3e-110
+273-  4:	CsPK_gmep_40754_p	CsPK_gmep_40686_p	  1e-64
+273-  5:	CsPK_gmep_40755_p	CsPK_gmep_40687_p	      0
+273-  6:	CsPK_gmep_40756_p	CsPK_gmep_40688_p	      0
+273-  7:	CsPK_gmep_40757_p	CsPK_gmep_40689_p	  1e-90
+273-  8:	CsPK_gmep_40758_p	CsPK_gmep_40690_p	  1e-37
+273-  9:	CsPK_gmep_40759_p	CsPK_gmep_40691_p	  2e-99
+273- 10:	CsPK_gmep_40761_p	CsPK_gmep_40693_p	 2e-121
+273- 11:	CsPK_gmep_40762_p	CsPK_gmep_40694_p	      0
+273- 12:	CsPK_gmep_40763_p	CsPK_gmep_40696_p	  2e-82
+## Alignment 274: score=591.0 e_value=9e-27 N=12 pk6&pk8 plus
+274-  0:	CsPK_gmep_64785_p	CsPK_gmep_69816_p	      0
+274-  1:	CsPK_gmep_64786_p	CsPK_gmep_69817_p	      0
+274-  2:	CsPK_gmep_64787_p	CsPK_gmep_69818_p	 7e-127
+274-  3:	CsPK_gmep_64788_p	CsPK_gmep_69819_p	      0
+274-  4:	CsPK_gmep_64789_p	CsPK_gmep_69820_p	      0
+274-  5:	CsPK_gmep_64790_p	CsPK_gmep_69822_p	 3e-146
+274-  6:	CsPK_gmep_64794_p	CsPK_gmep_69824_p	  2e-66
+274-  7:	CsPK_gmep_64795_p	CsPK_gmep_69826_p	  6e-20
+274-  8:	CsPK_gmep_64797_p	CsPK_gmep_69827_p	  9e-74
+274-  9:	CsPK_gmep_64799_p	CsPK_gmep_69828_p	  6e-53
+274- 10:	CsPK_gmep_64800_p	CsPK_gmep_69830_p	 8e-139
+274- 11:	CsPK_gmep_64802_p	CsPK_gmep_69831_p	      0
+## Alignment 275: score=447.0 e_value=4e-18 N=9 pk6&pk8 plus
+275-  0:	CsPK_gmep_13362_p	CsPK_gmep_62718_p	      0
+275-  1:	CsPK_gmep_13363_p	CsPK_gmep_62719_p	 7e-117
+275-  2:	CsPK_gmep_13366_p	CsPK_gmep_62722_p	      0
+275-  3:	CsPK_gmep_13367_p	CsPK_gmep_62723_p	  7e-65
+275-  4:	CsPK_gmep_13368_p	CsPK_gmep_62725_p	      0
+275-  5:	CsPK_gmep_13369_p	CsPK_gmep_62726_p	      0
+275-  6:	CsPK_gmep_13370_p	CsPK_gmep_62727_p	  3e-96
+275-  7:	CsPK_gmep_13371_p	CsPK_gmep_62728_p	      0
+275-  8:	CsPK_gmep_13372_p	CsPK_gmep_62729_p	  3e-45
+## Alignment 276: score=399.0 e_value=1.7e-13 N=8 pk6&pk8 plus
+276-  0:	CsPK_gmep_62216_p	CsPK_gmep_14465_p	  1e-72
+276-  1:	CsPK_gmep_62217_p	CsPK_gmep_14466_p	      0
+276-  2:	CsPK_gmep_62219_p	CsPK_gmep_14468_p	 9e-167
+276-  3:	CsPK_gmep_62220_p	CsPK_gmep_14469_p	      0
+276-  4:	CsPK_gmep_62221_p	CsPK_gmep_14470_p	      0
+276-  5:	CsPK_gmep_62222_p	CsPK_gmep_14471_p	      0
+276-  6:	CsPK_gmep_62223_p	CsPK_gmep_14472_p	      0
+276-  7:	CsPK_gmep_62224_p	CsPK_gmep_14473_p	 4e-103
+## Alignment 277: score=691.0 e_value=1.1e-34 N=14 pk6&pk8 minus
+277-  0:	CsPK_gmep_78779_p	CsPK_gmep_64882_p	  2e-87
+277-  1:	CsPK_gmep_78780_p	CsPK_gmep_64881_p	      0
+277-  2:	CsPK_gmep_78781_p	CsPK_gmep_64880_p	  5e-66
+277-  3:	CsPK_gmep_78782_p	CsPK_gmep_64878_p	  2e-97
+277-  4:	CsPK_gmep_78787_p	CsPK_gmep_64877_p	  4e-92
+277-  5:	CsPK_gmep_78788_p	CsPK_gmep_64876_p	 5e-163
+277-  6:	CsPK_gmep_78790_p	CsPK_gmep_64875_p	      0
+277-  7:	CsPK_gmep_78791_p	CsPK_gmep_64874_p	      0
+277-  8:	CsPK_gmep_78793_p	CsPK_gmep_64872_p	  2e-68
+277-  9:	CsPK_gmep_78794_p	CsPK_gmep_64871_p	      0
+277- 10:	CsPK_gmep_78795_p	CsPK_gmep_64870_p	  7e-74
+277- 11:	CsPK_gmep_78796_p	CsPK_gmep_64869_p	 4e-110
+277- 12:	CsPK_gmep_78797_p	CsPK_gmep_64868_p	      0
+277- 13:	CsPK_gmep_78798_p	CsPK_gmep_64865_p	      0
+## Alignment 278: score=441.0 e_value=2.7e-18 N=9 pk6&pk8 minus
+278-  0:	CsPK_gmep_83363_p	CsPK_gmep_49204_p	      0
+278-  1:	CsPK_gmep_83364_p	CsPK_gmep_49203_p	      0
+278-  2:	CsPK_gmep_83365_p	CsPK_gmep_49199_p	      0
+278-  3:	CsPK_gmep_83366_p	CsPK_gmep_49198_p	      0
+278-  4:	CsPK_gmep_83367_p	CsPK_gmep_49195_p	      0
+278-  5:	CsPK_gmep_83368_p	CsPK_gmep_49194_p	      0
+278-  6:	CsPK_gmep_83369_p	CsPK_gmep_49190_p	 2e-142
+278-  7:	CsPK_gmep_83370_p	CsPK_gmep_49189_p	      0
+278-  8:	CsPK_gmep_83372_p	CsPK_gmep_49188_p	 1e-132
+## Alignment 279: score=394.0 e_value=1.6e-15 N=8 pk6&pk8 minus
+279-  0:	CsPK_gmep_34937_p	CsPK_gmep_14294_p	      0
+279-  1:	CsPK_gmep_34938_p	CsPK_gmep_14293_p	 4e-124
+279-  2:	CsPK_gmep_34939_p	CsPK_gmep_14292_p	 2e-128
+279-  3:	CsPK_gmep_34940_p	CsPK_gmep_14291_p	 5e-176
+279-  4:	CsPK_gmep_34942_p	CsPK_gmep_14290_p	      0
+279-  5:	CsPK_gmep_34943_p	CsPK_gmep_14286_p	 6e-159
+279-  6:	CsPK_gmep_34945_p	CsPK_gmep_14285_p	      0
+279-  7:	CsPK_gmep_34947_p	CsPK_gmep_14283_p	  9e-99
+## Alignment 280: score=1138.0 e_value=1.8e-66 N=23 pk6&pk9 plus
+280-  0:	CsPK_gmep_12341_p	CsPK_gmep_12412_p	  2e-62
+280-  1:	CsPK_gmep_12342_p	CsPK_gmep_12413_p	 1e-105
+280-  2:	CsPK_gmep_12343_p	CsPK_gmep_12414_p	      0
+280-  3:	CsPK_gmep_12344_p	CsPK_gmep_12415_p	      0
+280-  4:	CsPK_gmep_12345_p	CsPK_gmep_12416_p	      0
+280-  5:	CsPK_gmep_12347_p	CsPK_gmep_12418_p	      0
+280-  6:	CsPK_gmep_12348_p	CsPK_gmep_12419_p	 2e-113
+280-  7:	CsPK_gmep_12351_p	CsPK_gmep_12420_p	 6e-169
+280-  8:	CsPK_gmep_12355_p	CsPK_gmep_12421_p	      0
+280-  9:	CsPK_gmep_12356_p	CsPK_gmep_12422_p	      0
+280- 10:	CsPK_gmep_12357_p	CsPK_gmep_12423_p	 9e-175
+280- 11:	CsPK_gmep_12358_p	CsPK_gmep_12424_p	      0
+280- 12:	CsPK_gmep_12359_p	CsPK_gmep_12425_p	      0
+280- 13:	CsPK_gmep_12360_p	CsPK_gmep_12426_p	      0
+280- 14:	CsPK_gmep_12361_p	CsPK_gmep_12427_p	      0
+280- 15:	CsPK_gmep_12362_p	CsPK_gmep_12428_p	      0
+280- 16:	CsPK_gmep_12366_p	CsPK_gmep_12432_p	 3e-100
+280- 17:	CsPK_gmep_12367_p	CsPK_gmep_12433_p	      0
+280- 18:	CsPK_gmep_12370_p	CsPK_gmep_12436_p	      0
+280- 19:	CsPK_gmep_12371_p	CsPK_gmep_12437_p	 8e-176
+280- 20:	CsPK_gmep_12372_p	CsPK_gmep_12438_p	      0
+280- 21:	CsPK_gmep_12373_p	CsPK_gmep_12440_p	  4e-94
+280- 22:	CsPK_gmep_12374_p	CsPK_gmep_12441_p	  1e-31
+## Alignment 281: score=298.0 e_value=1.3e-09 N=6 pk6&pk9 plus
+281-  0:	CsPK_gmep_35374_p	CsPK_gmep_68240_p	      0
+281-  1:	CsPK_gmep_35375_p	CsPK_gmep_68241_p	      0
+281-  2:	CsPK_gmep_35376_p	CsPK_gmep_68242_p	 5e-152
+281-  3:	CsPK_gmep_35377_p	CsPK_gmep_68243_p	      0
+281-  4:	CsPK_gmep_35379_p	CsPK_gmep_68244_p	  4e-97
+281-  5:	CsPK_gmep_35380_p	CsPK_gmep_68246_p	      0
+## Alignment 282: score=250.0 e_value=8.5e-07 N=5 pk6&pk9 plus
+282-  0:	CsPK_gmep_82048_p	CsPK_gmep_39887_p	  2e-64
+282-  1:	CsPK_gmep_82049_p	CsPK_gmep_39888_p	 1e-114
+282-  2:	CsPK_gmep_82050_p	CsPK_gmep_39889_p	  1e-85
+282-  3:	CsPK_gmep_82051_p	CsPK_gmep_39890_p	 2e-175
+282-  4:	CsPK_gmep_82052_p	CsPK_gmep_39891_p	      0
+## Alignment 283: score=250.0 e_value=1e-05 N=5 pk6&pk9 plus
+283-  0:	CsPK_gmep_4381_p	CsPK_gmep_68253_p	      0
+283-  1:	CsPK_gmep_4382_p	CsPK_gmep_68254_p	  2e-77
+283-  2:	CsPK_gmep_4383_p	CsPK_gmep_68255_p	  2e-55
+283-  3:	CsPK_gmep_4384_p	CsPK_gmep_68256_p	      0
+283-  4:	CsPK_gmep_4385_p	CsPK_gmep_68257_p	      0
+## Alignment 284: score=548.0 e_value=1.4e-23 N=11 pk6&pk9 minus
+284-  0:	CsPK_gmep_36543_p	CsPK_gmep_36587_p	      0
+284-  1:	CsPK_gmep_36544_p	CsPK_gmep_36586_p	      0
+284-  2:	CsPK_gmep_36545_p	CsPK_gmep_36584_p	      0
+284-  3:	CsPK_gmep_36546_p	CsPK_gmep_36583_p	 3e-131
+284-  4:	CsPK_gmep_36547_p	CsPK_gmep_36581_p	      0
+284-  5:	CsPK_gmep_36548_p	CsPK_gmep_36580_p	  1e-49
+284-  6:	CsPK_gmep_36549_p	CsPK_gmep_36579_p	      0
+284-  7:	CsPK_gmep_36550_p	CsPK_gmep_36578_p	 2e-134
+284-  8:	CsPK_gmep_36551_p	CsPK_gmep_36577_p	  6e-52
+284-  9:	CsPK_gmep_36552_p	CsPK_gmep_36576_p	      0
+284- 10:	CsPK_gmep_36553_p	CsPK_gmep_36575_p	      0
+## Alignment 285: score=327.0 e_value=7.6e-15 N=7 pk6&pk9 minus
+285-  0:	CsPK_gmep_82204_p	CsPK_gmep_82472_p	 1e-173
+285-  1:	CsPK_gmep_82207_p	CsPK_gmep_82470_p	      0
+285-  2:	CsPK_gmep_82209_p	CsPK_gmep_82467_p	  3e-82
+285-  3:	CsPK_gmep_82210_p	CsPK_gmep_82466_p	 9e-138
+285-  4:	CsPK_gmep_82211_p	CsPK_gmep_82464_p	  3e-94
+285-  5:	CsPK_gmep_82212_p	CsPK_gmep_82463_p	      0
+285-  6:	CsPK_gmep_52188_p	CsPK_gmep_82456_p	  5e-35
+## Alignment 286: score=260.0 e_value=5.9e-11 N=6 pk6&pk9 minus
+286-  0:	CsPK_gmep_12339_p	CsPK_gmep_12409_p	  5e-89
+286-  1:	CsPK_gmep_12359_p	CsPK_gmep_12403_p	      0
+286-  2:	CsPK_gmep_12362_p	CsPK_gmep_12389_p	      0
+286-  3:	CsPK_gmep_12364_p	CsPK_gmep_12388_p	      0
+286-  4:	CsPK_gmep_12365_p	CsPK_gmep_12382_p	      0
+286-  5:	CsPK_gmep_12367_p	CsPK_gmep_12379_p	      0
+## Alignment 287: score=297.0 e_value=3.4e-08 N=6 pk7&pk7 plus
+287-  0:	CsPK_gmep_12608_p	CsPK_gmep_40387_p	 2e-110
+287-  1:	CsPK_gmep_12609_p	CsPK_gmep_40388_p	  8e-86
+287-  2:	CsPK_gmep_12610_p	CsPK_gmep_40389_p	      0
+287-  3:	CsPK_gmep_12611_p	CsPK_gmep_40391_p	      0
+287-  4:	CsPK_gmep_12613_p	CsPK_gmep_40392_p	      0
+287-  5:	CsPK_gmep_12615_p	CsPK_gmep_40393_p	      0
+## Alignment 288: score=295.0 e_value=2.8e-08 N=6 pk7&pk7 plus
+288-  0:	CsPK_gmep_25536_p	CsPK_gmep_25558_p	      0
+288-  1:	CsPK_gmep_25538_p	CsPK_gmep_25559_p	      0
+288-  2:	CsPK_gmep_25539_p	CsPK_gmep_25560_p	  9e-59
+288-  3:	CsPK_gmep_25541_p	CsPK_gmep_25561_p	 4e-122
+288-  4:	CsPK_gmep_25544_p	CsPK_gmep_25563_p	 1e-151
+288-  5:	CsPK_gmep_25546_p	CsPK_gmep_25565_p	 4e-105
+## Alignment 289: score=1037.0 e_value=4.1e-57 N=21 pk7&pk7 minus
+289-  0:	CsPK_gmep_53793_p	CsPK_gmep_53885_p	      0
+289-  1:	CsPK_gmep_53794_p	CsPK_gmep_53884_p	      0
+289-  2:	CsPK_gmep_53795_p	CsPK_gmep_53883_p	      0
+289-  3:	CsPK_gmep_53798_p	CsPK_gmep_53880_p	 3e-145
+289-  4:	CsPK_gmep_53800_p	CsPK_gmep_53879_p	 2e-129
+289-  5:	CsPK_gmep_53802_p	CsPK_gmep_53877_p	  3e-71
+289-  6:	CsPK_gmep_53803_p	CsPK_gmep_53876_p	  1e-95
+289-  7:	CsPK_gmep_53806_p	CsPK_gmep_53875_p	      0
+289-  8:	CsPK_gmep_53808_p	CsPK_gmep_53872_p	      0
+289-  9:	CsPK_gmep_53809_p	CsPK_gmep_53871_p	 2e-104
+289- 10:	CsPK_gmep_53810_p	CsPK_gmep_53870_p	  4e-48
+289- 11:	CsPK_gmep_53811_p	CsPK_gmep_53869_p	 2e-133
+289- 12:	CsPK_gmep_53812_p	CsPK_gmep_53868_p	      0
+289- 13:	CsPK_gmep_53813_p	CsPK_gmep_53867_p	  2e-52
+289- 14:	CsPK_gmep_53814_p	CsPK_gmep_53866_p	      0
+289- 15:	CsPK_gmep_53815_p	CsPK_gmep_53864_p	  3e-56
+289- 16:	CsPK_gmep_53817_p	CsPK_gmep_53862_p	 4e-167
+289- 17:	CsPK_gmep_53818_p	CsPK_gmep_53861_p	 8e-105
+289- 18:	CsPK_gmep_53819_p	CsPK_gmep_53860_p	 8e-123
+289- 19:	CsPK_gmep_53821_p	CsPK_gmep_53858_p	  7e-73
+289- 20:	CsPK_gmep_53824_p	CsPK_gmep_53855_p	      0
+## Alignment 290: score=397.0 e_value=5.1e-14 N=8 pk7&pk7 minus
+290-  0:	CsPK_gmep_44065_p	CsPK_gmep_25446_p	 2e-117
+290-  1:	CsPK_gmep_44066_p	CsPK_gmep_25445_p	      0
+290-  2:	CsPK_gmep_44067_p	CsPK_gmep_25443_p	 9e-173
+290-  3:	CsPK_gmep_44068_p	CsPK_gmep_25442_p	  5e-69
+290-  4:	CsPK_gmep_44069_p	CsPK_gmep_25441_p	  2e-69
+290-  5:	CsPK_gmep_44070_p	CsPK_gmep_25438_p	      0
+290-  6:	CsPK_gmep_44071_p	CsPK_gmep_25437_p	      0
+290-  7:	CsPK_gmep_44072_p	CsPK_gmep_25436_p	      0
+## Alignment 291: score=341.0 e_value=5.6e-12 N=7 pk7&pk7 minus
+291-  0:	CsPK_gmep_25454_p	CsPK_gmep_25502_p	 2e-143
+291-  1:	CsPK_gmep_25455_p	CsPK_gmep_25501_p	 1e-152
+291-  2:	CsPK_gmep_25457_p	CsPK_gmep_25499_p	      0
+291-  3:	CsPK_gmep_25458_p	CsPK_gmep_25493_p	      0
+291-  4:	CsPK_gmep_25459_p	CsPK_gmep_25492_p	      0
+291-  5:	CsPK_gmep_25460_p	CsPK_gmep_25491_p	  1e-54
+291-  6:	CsPK_gmep_25463_p	CsPK_gmep_25487_p	  7e-80
+## Alignment 292: score=334.0 e_value=1.5e-14 N=7 pk7&pk7 minus
+292-  0:	CsPK_gmep_49946_p	CsPK_gmep_50007_p	      0
+292-  1:	CsPK_gmep_49947_p	CsPK_gmep_50006_p	 1e-141
+292-  2:	CsPK_gmep_49948_p	CsPK_gmep_50004_p	  3e-93
+292-  3:	CsPK_gmep_49949_p	CsPK_gmep_50002_p	  2e-88
+292-  4:	CsPK_gmep_49950_p	CsPK_gmep_50001_p	 5e-177
+292-  5:	CsPK_gmep_49951_p	CsPK_gmep_50000_p	      0
+292-  6:	CsPK_gmep_49966_p	CsPK_gmep_49989_p	  2e-29
+## Alignment 293: score=298.0 e_value=5.2e-09 N=6 pk7&pk7 minus
+293-  0:	CsPK_gmep_79703_p	CsPK_gmep_26624_p	      0
+293-  1:	CsPK_gmep_79704_p	CsPK_gmep_26623_p	      0
+293-  2:	CsPK_gmep_79705_p	CsPK_gmep_26622_p	  4e-91
+293-  3:	CsPK_gmep_79706_p	CsPK_gmep_26621_p	      0
+293-  4:	CsPK_gmep_79708_p	CsPK_gmep_26618_p	      0
+293-  5:	CsPK_gmep_79709_p	CsPK_gmep_26617_p	  2e-63
+## Alignment 294: score=290.0 e_value=3.6e-10 N=6 pk7&pk7 minus
+294-  0:	CsPK_gmep_56431_p	CsPK_gmep_19619_p	      0
+294-  1:	CsPK_gmep_56433_p	CsPK_gmep_19617_p	      0
+294-  2:	CsPK_gmep_56434_p	CsPK_gmep_19616_p	 4e-135
+294-  3:	CsPK_gmep_56435_p	CsPK_gmep_19615_p	      0
+294-  4:	CsPK_gmep_56437_p	CsPK_gmep_19611_p	      0
+294-  5:	CsPK_gmep_56444_p	CsPK_gmep_19609_p	 3e-108
+## Alignment 295: score=344.0 e_value=1.2e-11 N=7 pk7&pk8 plus
+295-  0:	CsPK_gmep_14032_p	CsPK_gmep_19148_p	  5e-73
+295-  1:	CsPK_gmep_14033_p	CsPK_gmep_19149_p	  6e-22
+295-  2:	CsPK_gmep_14039_p	CsPK_gmep_19150_p	      0
+295-  3:	CsPK_gmep_14040_p	CsPK_gmep_19151_p	 5e-172
+295-  4:	CsPK_gmep_14041_p	CsPK_gmep_19152_p	      0
+295-  5:	CsPK_gmep_14042_p	CsPK_gmep_19154_p	  6e-78
+295-  6:	CsPK_gmep_14043_p	CsPK_gmep_19155_p	      0
+## Alignment 296: score=296.0 e_value=1.3e-09 N=6 pk7&pk8 plus
+296-  0:	CsPK_gmep_76976_p	CsPK_gmep_67840_p	      0
+296-  1:	CsPK_gmep_76978_p	CsPK_gmep_67841_p	 7e-166
+296-  2:	CsPK_gmep_76979_p	CsPK_gmep_67843_p	      0
+296-  3:	CsPK_gmep_76980_p	CsPK_gmep_67844_p	      0
+296-  4:	CsPK_gmep_76982_p	CsPK_gmep_67845_p	      0
+296-  5:	CsPK_gmep_76983_p	CsPK_gmep_67847_p	  3e-46
+## Alignment 297: score=295.0 e_value=3.9e-09 N=6 pk7&pk8 plus
+297-  0:	CsPK_gmep_24010_p	CsPK_gmep_79750_p	 7e-138
+297-  1:	CsPK_gmep_24011_p	CsPK_gmep_79756_p	      0
+297-  2:	CsPK_gmep_24012_p	CsPK_gmep_79757_p	  4e-90
+297-  3:	CsPK_gmep_24013_p	CsPK_gmep_79758_p	      0
+297-  4:	CsPK_gmep_24014_p	CsPK_gmep_79759_p	      0
+297-  5:	CsPK_gmep_24015_p	CsPK_gmep_79760_p	  2e-54
+## Alignment 298: score=293.0 e_value=8.1e-09 N=6 pk7&pk8 plus
+298-  0:	CsPK_gmep_25547_p	CsPK_gmep_25566_p	      0
+298-  1:	CsPK_gmep_25548_p	CsPK_gmep_25567_p	 6e-118
+298-  2:	CsPK_gmep_25549_p	CsPK_gmep_25569_p	 3e-162
+298-  3:	CsPK_gmep_25553_p	CsPK_gmep_25570_p	      0
+298-  4:	CsPK_gmep_25555_p	CsPK_gmep_25573_p	  7e-22
+298-  5:	CsPK_gmep_25556_p	CsPK_gmep_25575_p	      0
+## Alignment 299: score=250.0 e_value=3.3e-06 N=5 pk7&pk8 plus
+299-  0:	CsPK_gmep_3336_p	CsPK_gmep_19005_p	      0
+299-  1:	CsPK_gmep_3337_p	CsPK_gmep_19006_p	      0
+299-  2:	CsPK_gmep_3338_p	CsPK_gmep_19007_p	 3e-124
+299-  3:	CsPK_gmep_3339_p	CsPK_gmep_19008_p	      0
+299-  4:	CsPK_gmep_3340_p	CsPK_gmep_19009_p	      0
+## Alignment 300: score=449.0 e_value=9.9e-18 N=9 pk7&pk8 minus
+300-  0:	CsPK_gmep_38340_p	CsPK_gmep_82231_p	 6e-112
+300-  1:	CsPK_gmep_38341_p	CsPK_gmep_82230_p	 1e-127
+300-  2:	CsPK_gmep_38342_p	CsPK_gmep_82229_p	      0
+300-  3:	CsPK_gmep_38343_p	CsPK_gmep_82228_p	      0
+300-  4:	CsPK_gmep_38344_p	CsPK_gmep_82227_p	      0
+300-  5:	CsPK_gmep_38345_p	CsPK_gmep_82226_p	  1e-89
+300-  6:	CsPK_gmep_38346_p	CsPK_gmep_82225_p	  7e-33
+300-  7:	CsPK_gmep_38348_p	CsPK_gmep_82224_p	      0
+300-  8:	CsPK_gmep_38349_p	CsPK_gmep_82223_p	      0
+## Alignment 301: score=398.0 e_value=3.7e-16 N=8 pk7&pk8 minus
+301-  0:	CsPK_gmep_43173_p	CsPK_gmep_63894_p	  8e-84
+301-  1:	CsPK_gmep_43174_p	CsPK_gmep_63893_p	      0
+301-  2:	CsPK_gmep_43175_p	CsPK_gmep_63892_p	      0
+301-  3:	CsPK_gmep_43176_p	CsPK_gmep_63891_p	      0
+301-  4:	CsPK_gmep_43178_p	CsPK_gmep_63889_p	 6e-127
+301-  5:	CsPK_gmep_43180_p	CsPK_gmep_63887_p	      0
+301-  6:	CsPK_gmep_43181_p	CsPK_gmep_63886_p	      0
+301-  7:	CsPK_gmep_43182_p	CsPK_gmep_63885_p	      0
+## Alignment 302: score=691.0 e_value=7.9e-32 N=14 pk7&pk9 plus
+302-  0:	CsPK_gmep_52386_p	CsPK_gmep_11815_p	  4e-67
+302-  1:	CsPK_gmep_52387_p	CsPK_gmep_11816_p	      0
+302-  2:	CsPK_gmep_52388_p	CsPK_gmep_11820_p	      0
+302-  3:	CsPK_gmep_52390_p	CsPK_gmep_11821_p	      0
+302-  4:	CsPK_gmep_52392_p	CsPK_gmep_11822_p	 4e-124
+302-  5:	CsPK_gmep_52394_p	CsPK_gmep_11823_p	      0
+302-  6:	CsPK_gmep_52395_p	CsPK_gmep_11824_p	      0
+302-  7:	CsPK_gmep_52396_p	CsPK_gmep_11825_p	      0
+302-  8:	CsPK_gmep_52397_p	CsPK_gmep_11826_p	      0
+302-  9:	CsPK_gmep_52398_p	CsPK_gmep_11827_p	 5e-102
+302- 10:	CsPK_gmep_52399_p	CsPK_gmep_11828_p	  1e-83
+302- 11:	CsPK_gmep_52400_p	CsPK_gmep_11829_p	      0
+302- 12:	CsPK_gmep_52401_p	CsPK_gmep_11830_p	 2e-105
+302- 13:	CsPK_gmep_52404_p	CsPK_gmep_11834_p	      0
+## Alignment 303: score=347.0 e_value=8.3e-11 N=7 pk7&pk9 plus
+303-  0:	CsPK_gmep_30030_p	CsPK_gmep_30104_p	  5e-53
+303-  1:	CsPK_gmep_30034_p	CsPK_gmep_30105_p	  1e-38
+303-  2:	CsPK_gmep_30035_p	CsPK_gmep_30106_p	 1e-154
+303-  3:	CsPK_gmep_30036_p	CsPK_gmep_30107_p	      0
+303-  4:	CsPK_gmep_30037_p	CsPK_gmep_30108_p	  3e-99
+303-  5:	CsPK_gmep_30038_p	CsPK_gmep_30109_p	  1e-97
+303-  6:	CsPK_gmep_30039_p	CsPK_gmep_30110_p	 2e-106
+## Alignment 304: score=300.0 e_value=8.2e-09 N=6 pk7&pk9 plus
+304-  0:	CsPK_gmep_37416_p	CsPK_gmep_68252_p	      0
+304-  1:	CsPK_gmep_37417_p	CsPK_gmep_68253_p	      0
+304-  2:	CsPK_gmep_37418_p	CsPK_gmep_68254_p	 1e-116
+304-  3:	CsPK_gmep_37419_p	CsPK_gmep_68255_p	  3e-84
+304-  4:	CsPK_gmep_37420_p	CsPK_gmep_68256_p	      0
+304-  5:	CsPK_gmep_37421_p	CsPK_gmep_68257_p	      0
+## Alignment 305: score=295.0 e_value=2.1e-08 N=6 pk7&pk9 plus
+305-  0:	CsPK_gmep_41361_p	CsPK_gmep_49159_p	      0
+305-  1:	CsPK_gmep_41363_p	CsPK_gmep_49160_p	      0
+305-  2:	CsPK_gmep_41367_p	CsPK_gmep_49162_p	      0
+305-  3:	CsPK_gmep_41369_p	CsPK_gmep_49163_p	 3e-153
+305-  4:	CsPK_gmep_41370_p	CsPK_gmep_49164_p	  2e-92
+305-  5:	CsPK_gmep_41371_p	CsPK_gmep_49165_p	      0
+## Alignment 306: score=270.0 e_value=1.7e-10 N=6 pk7&pk9 plus
+306-  0:	CsPK_gmep_44051_p	CsPK_gmep_44080_p	      0
+306-  1:	CsPK_gmep_44052_p	CsPK_gmep_44081_p	      0
+306-  2:	CsPK_gmep_44053_p	CsPK_gmep_44088_p	  6e-76
+306-  3:	CsPK_gmep_44055_p	CsPK_gmep_44093_p	 8e-167
+306-  4:	CsPK_gmep_44056_p	CsPK_gmep_44098_p	  1e-95
+306-  5:	CsPK_gmep_44073_p	CsPK_gmep_44113_p	  1e-41
+## Alignment 307: score=489.0 e_value=1.6e-20 N=10 pk7&pk9 minus
+307-  0:	CsPK_gmep_51487_p	CsPK_gmep_11851_p	      0
+307-  1:	CsPK_gmep_51492_p	CsPK_gmep_11850_p	      0
+307-  2:	CsPK_gmep_51493_p	CsPK_gmep_11848_p	 5e-123
+307-  3:	CsPK_gmep_51494_p	CsPK_gmep_11845_p	 2e-134
+307-  4:	CsPK_gmep_51496_p	CsPK_gmep_11843_p	 5e-128
+307-  5:	CsPK_gmep_51497_p	CsPK_gmep_11842_p	  2e-61
+307-  6:	CsPK_gmep_51498_p	CsPK_gmep_11841_p	 5e-151
+307-  7:	CsPK_gmep_51500_p	CsPK_gmep_11840_p	 4e-149
+307-  8:	CsPK_gmep_51501_p	CsPK_gmep_11837_p	 3e-145
+307-  9:	CsPK_gmep_51502_p	CsPK_gmep_11836_p	      0
+## Alignment 308: score=321.0 e_value=5.5e-14 N=7 pk7&pk9 minus
+308-  0:	CsPK_gmep_66513_p	CsPK_gmep_3870_p	  3e-54
+308-  1:	CsPK_gmep_66515_p	CsPK_gmep_3844_p	      0
+308-  2:	CsPK_gmep_66518_p	CsPK_gmep_3839_p	 2e-180
+308-  3:	CsPK_gmep_66519_p	CsPK_gmep_3838_p	      0
+308-  4:	CsPK_gmep_66520_p	CsPK_gmep_3837_p	      0
+308-  5:	CsPK_gmep_66521_p	CsPK_gmep_3836_p	      0
+308-  6:	CsPK_gmep_66522_p	CsPK_gmep_3835_p	  2e-88
+## Alignment 309: score=298.0 e_value=1.1e-08 N=6 pk7&pk9 minus
+309-  0:	CsPK_gmep_41787_p	CsPK_gmep_48070_p	      0
+309-  1:	CsPK_gmep_41788_p	CsPK_gmep_48068_p	      0
+309-  2:	CsPK_gmep_41789_p	CsPK_gmep_48067_p	 7e-112
+309-  3:	CsPK_gmep_41790_p	CsPK_gmep_48066_p	      0
+309-  4:	CsPK_gmep_41791_p	CsPK_gmep_48065_p	  2e-61
+309-  5:	CsPK_gmep_41793_p	CsPK_gmep_48063_p	  3e-89
+## Alignment 310: score=599.0 e_value=4.2e-26 N=12 pk8&pk8 plus
+310-  0:	CsPK_gmep_80967_p	CsPK_gmep_81009_p	      0
+310-  1:	CsPK_gmep_80968_p	CsPK_gmep_81010_p	  2e-52
+310-  2:	CsPK_gmep_80970_p	CsPK_gmep_81012_p	  2e-47
+310-  3:	CsPK_gmep_80971_p	CsPK_gmep_81013_p	      0
+310-  4:	CsPK_gmep_80972_p	CsPK_gmep_81014_p	      0
+310-  5:	CsPK_gmep_80973_p	CsPK_gmep_81015_p	 8e-178
+310-  6:	CsPK_gmep_80974_p	CsPK_gmep_81016_p	  1e-88
+310-  7:	CsPK_gmep_80975_p	CsPK_gmep_81017_p	      0
+310-  8:	CsPK_gmep_80976_p	CsPK_gmep_81018_p	      0
+310-  9:	CsPK_gmep_80977_p	CsPK_gmep_81019_p	  3e-34
+310- 10:	CsPK_gmep_80978_p	CsPK_gmep_81020_p	      0
+310- 11:	CsPK_gmep_80979_p	CsPK_gmep_81021_p	  1e-64
+## Alignment 311: score=593.0 e_value=4e-27 N=12 pk8&pk8 plus
+311-  0:	CsPK_gmep_15349_p	CsPK_gmep_15432_p	  3e-59
+311-  1:	CsPK_gmep_15350_p	CsPK_gmep_15433_p	 2e-114
+311-  2:	CsPK_gmep_15353_p	CsPK_gmep_15437_p	      0
+311-  3:	CsPK_gmep_15354_p	CsPK_gmep_15438_p	      0
+311-  4:	CsPK_gmep_15355_p	CsPK_gmep_15439_p	      0
+311-  5:	CsPK_gmep_15356_p	CsPK_gmep_15440_p	      0
+311-  6:	CsPK_gmep_15358_p	CsPK_gmep_15442_p	      0
+311-  7:	CsPK_gmep_15359_p	CsPK_gmep_15443_p	      0
+311-  8:	CsPK_gmep_15360_p	CsPK_gmep_15445_p	      0
+311-  9:	CsPK_gmep_15363_p	CsPK_gmep_15446_p	 3e-128
+311- 10:	CsPK_gmep_15364_p	CsPK_gmep_15447_p	  1e-58
+311- 11:	CsPK_gmep_15365_p	CsPK_gmep_15448_p	 1e-142
+## Alignment 312: score=443.0 e_value=1.1e-19 N=9 pk8&pk8 plus
+312-  0:	CsPK_gmep_11694_p	CsPK_gmep_11717_p	 3e-122
+312-  1:	CsPK_gmep_11695_p	CsPK_gmep_11719_p	      0
+312-  2:	CsPK_gmep_11700_p	CsPK_gmep_11722_p	      0
+312-  3:	CsPK_gmep_11702_p	CsPK_gmep_11724_p	      0
+312-  4:	CsPK_gmep_11703_p	CsPK_gmep_11725_p	  3e-95
+312-  5:	CsPK_gmep_11704_p	CsPK_gmep_11726_p	      0
+312-  6:	CsPK_gmep_11705_p	CsPK_gmep_11727_p	 4e-145
+312-  7:	CsPK_gmep_11707_p	CsPK_gmep_11728_p	  1e-25
+312-  8:	CsPK_gmep_11708_p	CsPK_gmep_11729_p	      0
+## Alignment 313: score=298.0 e_value=1.6e-08 N=6 pk8&pk8 plus
+313-  0:	CsPK_gmep_80884_p	CsPK_gmep_7357_p	      0
+313-  1:	CsPK_gmep_80886_p	CsPK_gmep_7359_p	 7e-135
+313-  2:	CsPK_gmep_80887_p	CsPK_gmep_7361_p	  7e-76
+313-  3:	CsPK_gmep_80888_p	CsPK_gmep_7362_p	 8e-100
+313-  4:	CsPK_gmep_80889_p	CsPK_gmep_7363_p	      0
+313-  5:	CsPK_gmep_80890_p	CsPK_gmep_7364_p	      0
+## Alignment 314: score=250.0 e_value=9.1e-08 N=5 pk8&pk8 plus
+314-  0:	CsPK_gmep_62871_p	CsPK_gmep_42491_p	      0
+314-  1:	CsPK_gmep_62872_p	CsPK_gmep_42492_p	 1e-130
+314-  2:	CsPK_gmep_62873_p	CsPK_gmep_42493_p	  1e-88
+314-  3:	CsPK_gmep_62874_p	CsPK_gmep_42494_p	  6e-53
+314-  4:	CsPK_gmep_62875_p	CsPK_gmep_42495_p	  1e-29
+## Alignment 315: score=819.0 e_value=2.6e-45 N=17 pk8&pk8 minus
+315-  0:	CsPK_gmep_51072_p	CsPK_gmep_51162_p	  3e-92
+315-  1:	CsPK_gmep_51074_p	CsPK_gmep_51158_p	 7e-106
+315-  2:	CsPK_gmep_51075_p	CsPK_gmep_51157_p	 2e-180
+315-  3:	CsPK_gmep_51076_p	CsPK_gmep_51156_p	 1e-131
+315-  4:	CsPK_gmep_51077_p	CsPK_gmep_51155_p	 9e-143
+315-  5:	CsPK_gmep_51078_p	CsPK_gmep_51154_p	      0
+315-  6:	CsPK_gmep_51079_p	CsPK_gmep_51153_p	      0
+315-  7:	CsPK_gmep_51082_p	CsPK_gmep_51150_p	      0
+315-  8:	CsPK_gmep_51085_p	CsPK_gmep_51149_p	 9e-110
+315-  9:	CsPK_gmep_51087_p	CsPK_gmep_51147_p	  7e-64
+315- 10:	CsPK_gmep_51088_p	CsPK_gmep_51146_p	 4e-180
+315- 11:	CsPK_gmep_51089_p	CsPK_gmep_51145_p	  7e-33
+315- 12:	CsPK_gmep_51090_p	CsPK_gmep_51144_p	  6e-46
+315- 13:	CsPK_gmep_51102_p	CsPK_gmep_51143_p	      0
+315- 14:	CsPK_gmep_51103_p	CsPK_gmep_51141_p	 8e-165
+315- 15:	CsPK_gmep_51111_p	CsPK_gmep_51135_p	      0
+315- 16:	CsPK_gmep_51112_p	CsPK_gmep_51130_p	  2e-70
+## Alignment 316: score=341.0 e_value=7.8e-12 N=7 pk8&pk8 minus
+316-  0:	CsPK_gmep_5469_p	CsPK_gmep_5446_p	      0
+316-  1:	CsPK_gmep_5470_p	CsPK_gmep_5445_p	 3e-162
+316-  2:	CsPK_gmep_5471_p	CsPK_gmep_5444_p	      0
+316-  3:	CsPK_gmep_5474_p	CsPK_gmep_5443_p	 6e-166
+316-  4:	CsPK_gmep_5475_p	CsPK_gmep_5442_p	      0
+316-  5:	CsPK_gmep_5479_p	CsPK_gmep_5438_p	      0
+316-  6:	CsPK_gmep_5484_p	CsPK_gmep_5435_p	 4e-135
+## Alignment 317: score=545.0 e_value=1.2e-25 N=11 pk8&pk9 plus
+317-  0:	CsPK_gmep_68751_p	CsPK_gmep_70722_p	      0
+317-  1:	CsPK_gmep_68757_p	CsPK_gmep_70723_p	      0
+317-  2:	CsPK_gmep_68758_p	CsPK_gmep_70724_p	  1e-96
+317-  3:	CsPK_gmep_68759_p	CsPK_gmep_70725_p	      0
+317-  4:	CsPK_gmep_68760_p	CsPK_gmep_70726_p	 4e-136
+317-  5:	CsPK_gmep_68761_p	CsPK_gmep_70727_p	      0
+317-  6:	CsPK_gmep_68762_p	CsPK_gmep_70728_p	 9e-180
+317-  7:	CsPK_gmep_68763_p	CsPK_gmep_70729_p	      0
+317-  8:	CsPK_gmep_68764_p	CsPK_gmep_70730_p	  1e-65
+317-  9:	CsPK_gmep_68765_p	CsPK_gmep_70731_p	 6e-133
+317- 10:	CsPK_gmep_68766_p	CsPK_gmep_70732_p	      0
+## Alignment 318: score=497.0 e_value=3.6e-21 N=10 pk8&pk9 plus
+318-  0:	CsPK_gmep_7661_p	CsPK_gmep_48435_p	      0
+318-  1:	CsPK_gmep_7662_p	CsPK_gmep_48437_p	 1e-153
+318-  2:	CsPK_gmep_7663_p	CsPK_gmep_48438_p	 3e-155
+318-  3:	CsPK_gmep_7664_p	CsPK_gmep_48439_p	      0
+318-  4:	CsPK_gmep_7666_p	CsPK_gmep_48440_p	      0
+318-  5:	CsPK_gmep_7667_p	CsPK_gmep_48441_p	 9e-118
+318-  6:	CsPK_gmep_7668_p	CsPK_gmep_48442_p	  7e-70
+318-  7:	CsPK_gmep_7670_p	CsPK_gmep_48443_p	 6e-150
+318-  8:	CsPK_gmep_7671_p	CsPK_gmep_48444_p	 6e-156
+318-  9:	CsPK_gmep_7672_p	CsPK_gmep_48445_p	 9e-141
+## Alignment 319: score=495.0 e_value=4.5e-21 N=10 pk8&pk9 plus
+319-  0:	CsPK_gmep_20165_p	CsPK_gmep_81809_p	 4e-161
+319-  1:	CsPK_gmep_20166_p	CsPK_gmep_81810_p	  2e-44
+319-  2:	CsPK_gmep_20167_p	CsPK_gmep_81811_p	  2e-72
+319-  3:	CsPK_gmep_20168_p	CsPK_gmep_81814_p	      0
+319-  4:	CsPK_gmep_20169_p	CsPK_gmep_81815_p	  2e-57
+319-  5:	CsPK_gmep_20170_p	CsPK_gmep_81816_p	      0
+319-  6:	CsPK_gmep_20171_p	CsPK_gmep_81818_p	 4e-116
+319-  7:	CsPK_gmep_20172_p	CsPK_gmep_81819_p	 7e-102
+319-  8:	CsPK_gmep_20173_p	CsPK_gmep_81822_p	      0
+319-  9:	CsPK_gmep_20174_p	CsPK_gmep_81823_p	      0
+## Alignment 320: score=397.0 e_value=2e-14 N=8 pk8&pk9 plus
+320-  0:	CsPK_gmep_34316_p	CsPK_gmep_49130_p	 1e-108
+320-  1:	CsPK_gmep_34317_p	CsPK_gmep_49131_p	      0
+320-  2:	CsPK_gmep_34318_p	CsPK_gmep_49132_p	      0
+320-  3:	CsPK_gmep_34320_p	CsPK_gmep_49136_p	 4e-162
+320-  4:	CsPK_gmep_34321_p	CsPK_gmep_49137_p	 4e-123
+320-  5:	CsPK_gmep_34322_p	CsPK_gmep_49138_p	      0
+320-  6:	CsPK_gmep_34323_p	CsPK_gmep_49139_p	      0
+320-  7:	CsPK_gmep_34324_p	CsPK_gmep_49140_p	 2e-109
+## Alignment 321: score=389.0 e_value=3.1e-15 N=8 pk8&pk9 plus
+321-  0:	CsPK_gmep_77590_p	CsPK_gmep_77666_p	  2e-49
+321-  1:	CsPK_gmep_77591_p	CsPK_gmep_77667_p	  1e-71
+321-  2:	CsPK_gmep_77603_p	CsPK_gmep_77671_p	      0
+321-  3:	CsPK_gmep_77604_p	CsPK_gmep_77672_p	      0
+321-  4:	CsPK_gmep_77605_p	CsPK_gmep_77673_p	      0
+321-  5:	CsPK_gmep_77606_p	CsPK_gmep_77674_p	 6e-127
+321-  6:	CsPK_gmep_77607_p	CsPK_gmep_77675_p	  2e-74
+321-  7:	CsPK_gmep_77608_p	CsPK_gmep_77676_p	      0
+## Alignment 322: score=348.0 e_value=5.3e-12 N=7 pk8&pk9 plus
+322-  0:	CsPK_gmep_13156_p	CsPK_gmep_64062_p	      0
+322-  1:	CsPK_gmep_13157_p	CsPK_gmep_64064_p	      0
+322-  2:	CsPK_gmep_13158_p	CsPK_gmep_64065_p	      0
+322-  3:	CsPK_gmep_13159_p	CsPK_gmep_64066_p	 2e-130
+322-  4:	CsPK_gmep_13160_p	CsPK_gmep_64067_p	 9e-173
+322-  5:	CsPK_gmep_13161_p	CsPK_gmep_64068_p	  1e-38
+322-  6:	CsPK_gmep_13163_p	CsPK_gmep_64069_p	  9e-74
+## Alignment 323: score=250.0 e_value=3.4e-06 N=5 pk8&pk9 plus
+323-  0:	CsPK_gmep_57222_p	CsPK_gmep_52087_p	      0
+323-  1:	CsPK_gmep_57223_p	CsPK_gmep_52088_p	 1e-117
+323-  2:	CsPK_gmep_57224_p	CsPK_gmep_52089_p	  9e-76
+323-  3:	CsPK_gmep_57225_p	CsPK_gmep_52090_p	  9e-64
+323-  4:	CsPK_gmep_57226_p	CsPK_gmep_52091_p	  1e-88
+## Alignment 324: score=593.0 e_value=9.5e-27 N=12 pk8&pk9 minus
+324-  0:	CsPK_gmep_14550_p	CsPK_gmep_56390_p	 6e-130
+324-  1:	CsPK_gmep_14552_p	CsPK_gmep_56387_p	 2e-138
+324-  2:	CsPK_gmep_14554_p	CsPK_gmep_56384_p	      0
+324-  3:	CsPK_gmep_14556_p	CsPK_gmep_56382_p	  5e-62
+324-  4:	CsPK_gmep_14557_p	CsPK_gmep_56381_p	      0
+324-  5:	CsPK_gmep_14558_p	CsPK_gmep_56380_p	      0
+324-  6:	CsPK_gmep_14559_p	CsPK_gmep_56379_p	      0
+324-  7:	CsPK_gmep_14560_p	CsPK_gmep_56378_p	  3e-71
+324-  8:	CsPK_gmep_14561_p	CsPK_gmep_56377_p	      0
+324-  9:	CsPK_gmep_14562_p	CsPK_gmep_56375_p	      0
+324- 10:	CsPK_gmep_14563_p	CsPK_gmep_56374_p	      0
+324- 11:	CsPK_gmep_14565_p	CsPK_gmep_56373_p	      0
+## Alignment 325: score=535.0 e_value=2.1e-24 N=11 pk8&pk9 minus
+325-  0:	CsPK_gmep_79148_p	CsPK_gmep_50740_p	      0
+325-  1:	CsPK_gmep_79149_p	CsPK_gmep_50737_p	      0
+325-  2:	CsPK_gmep_79150_p	CsPK_gmep_50736_p	 2e-110
+325-  3:	CsPK_gmep_79151_p	CsPK_gmep_50735_p	 1e-120
+325-  4:	CsPK_gmep_79152_p	CsPK_gmep_50734_p	  1e-61
+325-  5:	CsPK_gmep_79154_p	CsPK_gmep_50727_p	 2e-142
+325-  6:	CsPK_gmep_79155_p	CsPK_gmep_50726_p	      0
+325-  7:	CsPK_gmep_79156_p	CsPK_gmep_50725_p	 2e-114
+325-  8:	CsPK_gmep_79158_p	CsPK_gmep_50723_p	 5e-156
+325-  9:	CsPK_gmep_79159_p	CsPK_gmep_50720_p	      0
+325- 10:	CsPK_gmep_79164_p	CsPK_gmep_50719_p	 1e-144
+## Alignment 326: score=296.0 e_value=7e-09 N=6 pk8&pk9 minus
+326-  0:	CsPK_gmep_40084_p	CsPK_gmep_19398_p	 2e-158
+326-  1:	CsPK_gmep_40085_p	CsPK_gmep_19397_p	      0
+326-  2:	CsPK_gmep_40087_p	CsPK_gmep_19396_p	      0
+326-  3:	CsPK_gmep_40088_p	CsPK_gmep_19395_p	 6e-102
+326-  4:	CsPK_gmep_40090_p	CsPK_gmep_19394_p	 8e-142
+326-  5:	CsPK_gmep_40091_p	CsPK_gmep_19391_p	  4e-51
+## Alignment 327: score=349.0 e_value=9.1e-11 N=7 pk9&pk9 plus
+327-  0:	CsPK_gmep_15684_p	CsPK_gmep_15722_p	      0
+327-  1:	CsPK_gmep_15685_p	CsPK_gmep_15723_p	 7e-151
+327-  2:	CsPK_gmep_15686_p	CsPK_gmep_15724_p	      0
+327-  3:	CsPK_gmep_15687_p	CsPK_gmep_15725_p	      0
+327-  4:	CsPK_gmep_15688_p	CsPK_gmep_15727_p	      0
+327-  5:	CsPK_gmep_15689_p	CsPK_gmep_15728_p	      0
+327-  6:	CsPK_gmep_15690_p	CsPK_gmep_15729_p	      0
+## Alignment 328: score=297.0 e_value=1.2e-09 N=6 pk9&pk9 plus
+328-  0:	CsPK_gmep_23206_p	CsPK_gmep_12196_p	 3e-112
+328-  1:	CsPK_gmep_23207_p	CsPK_gmep_12198_p	  1e-96
+328-  2:	CsPK_gmep_23208_p	CsPK_gmep_12199_p	 1e-154
+328-  3:	CsPK_gmep_23209_p	CsPK_gmep_12200_p	  8e-66
+328-  4:	CsPK_gmep_23212_p	CsPK_gmep_12201_p	      0
+328-  5:	CsPK_gmep_23213_p	CsPK_gmep_12202_p	      0
+## Alignment 329: score=547.0 e_value=2.1e-24 N=11 pk9&pk9 minus
+329-  0:	CsPK_gmep_72265_p	CsPK_gmep_72320_p	  5e-95
+329-  1:	CsPK_gmep_72266_p	CsPK_gmep_72319_p	 5e-101
+329-  2:	CsPK_gmep_72267_p	CsPK_gmep_72318_p	      0
+329-  3:	CsPK_gmep_72268_p	CsPK_gmep_72317_p	      0
+329-  4:	CsPK_gmep_72269_p	CsPK_gmep_72316_p	 7e-120
+329-  5:	CsPK_gmep_72270_p	CsPK_gmep_72315_p	 1e-151
+329-  6:	CsPK_gmep_72272_p	CsPK_gmep_72313_p	 4e-164
+329-  7:	CsPK_gmep_72273_p	CsPK_gmep_72312_p	      0
+329-  8:	CsPK_gmep_72275_p	CsPK_gmep_72310_p	      0
+329-  9:	CsPK_gmep_72277_p	CsPK_gmep_72309_p	  1e-91
+329- 10:	CsPK_gmep_72278_p	CsPK_gmep_72308_p	  7e-27
+## Alignment 330: score=543.0 e_value=2.7e-23 N=11 pk9&pk9 minus
+330-  0:	CsPK_gmep_72286_p	CsPK_gmep_16432_p	 6e-147
+330-  1:	CsPK_gmep_72287_p	CsPK_gmep_16430_p	  8e-39
+330-  2:	CsPK_gmep_72289_p	CsPK_gmep_16428_p	 6e-109
+330-  3:	CsPK_gmep_72291_p	CsPK_gmep_16427_p	      0
+330-  4:	CsPK_gmep_72293_p	CsPK_gmep_16425_p	 3e-107
+330-  5:	CsPK_gmep_72294_p	CsPK_gmep_16422_p	 8e-134
+330-  6:	CsPK_gmep_72295_p	CsPK_gmep_16421_p	      0
+330-  7:	CsPK_gmep_72296_p	CsPK_gmep_16420_p	 5e-105
+330-  8:	CsPK_gmep_72297_p	CsPK_gmep_16418_p	  3e-39
+330-  9:	CsPK_gmep_72298_p	CsPK_gmep_16417_p	 9e-130
+330- 10:	CsPK_gmep_72299_p	CsPK_gmep_16416_p	 1e-125
+## Alignment 331: score=530.0 e_value=3e-27 N=11 pk9&pk9 minus
+331-  0:	CsPK_gmep_71890_p	CsPK_gmep_4248_p	  4e-34
+331-  1:	CsPK_gmep_71902_p	CsPK_gmep_4245_p	      0
+331-  2:	CsPK_gmep_71903_p	CsPK_gmep_4244_p	      0
+331-  3:	CsPK_gmep_71904_p	CsPK_gmep_4243_p	 2e-102
+331-  4:	CsPK_gmep_71905_p	CsPK_gmep_4242_p	      0
+331-  5:	CsPK_gmep_71907_p	CsPK_gmep_4233_p	 2e-150
+331-  6:	CsPK_gmep_71908_p	CsPK_gmep_4232_p	 7e-157
+331-  7:	CsPK_gmep_71909_p	CsPK_gmep_4231_p	  7e-68
+331-  8:	CsPK_gmep_71911_p	CsPK_gmep_4229_p	      0
+331-  9:	CsPK_gmep_71912_p	CsPK_gmep_4228_p	      0
+331- 10:	CsPK_gmep_71913_p	CsPK_gmep_4227_p	  1e-99
+## Alignment 332: score=297.0 e_value=4.9e-08 N=6 pk9&pk9 minus
+332-  0:	CsPK_gmep_63277_p	CsPK_gmep_63305_p	 4e-178
+332-  1:	CsPK_gmep_63279_p	CsPK_gmep_63303_p	      0
+332-  2:	CsPK_gmep_63280_p	CsPK_gmep_63301_p	  3e-65
+332-  3:	CsPK_gmep_63281_p	CsPK_gmep_63300_p	  1e-71
+332-  4:	CsPK_gmep_63282_p	CsPK_gmep_63298_p	      0
+332-  5:	CsPK_gmep_63283_p	CsPK_gmep_63297_p	  3e-55
+## Alignment 333: score=297.0 e_value=6.9e-08 N=6 pk9&pk9 minus
+333-  0:	CsPK_gmep_70712_p	CsPK_gmep_11912_p	      0
+333-  1:	CsPK_gmep_70713_p	CsPK_gmep_11911_p	      0
+333-  2:	CsPK_gmep_70715_p	CsPK_gmep_11910_p	      0
+333-  3:	CsPK_gmep_70716_p	CsPK_gmep_11909_p	  1e-51
+333-  4:	CsPK_gmep_70717_p	CsPK_gmep_11908_p	      0
+333-  5:	CsPK_gmep_70720_p	CsPK_gmep_11906_p	  3e-45
+## Alignment 334: score=297.0 e_value=3.6e-11 N=6 pk9&pk9 minus
+334-  0:	CsPK_gmep_39878_p	CsPK_gmep_81960_p	  3e-63
+334-  1:	CsPK_gmep_39881_p	CsPK_gmep_81958_p	      0
+334-  2:	CsPK_gmep_39882_p	CsPK_gmep_81956_p	      0
+334-  3:	CsPK_gmep_39883_p	CsPK_gmep_81955_p	  2e-50
+334-  4:	CsPK_gmep_39884_p	CsPK_gmep_81954_p	 6e-170
+334-  5:	CsPK_gmep_39885_p	CsPK_gmep_81953_p	  4e-45

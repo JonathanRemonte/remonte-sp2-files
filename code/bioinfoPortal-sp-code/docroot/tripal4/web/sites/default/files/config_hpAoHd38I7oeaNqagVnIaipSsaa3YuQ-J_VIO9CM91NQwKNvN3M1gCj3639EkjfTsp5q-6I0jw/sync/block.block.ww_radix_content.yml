@@ -1,0 +1,32 @@
+uuid: 37ab67b9-4fd2-4db1-b2af-3ff474ec2f24
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+    - user
+  theme:
+    - ww_radix
+_core:
+  default_config_hash: erQSEZF2XUjNmgTl0uNRBzmg18ZGXwUcw2FhApoeuHk
+id: ww_radix_content
+theme: ww_radix
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  label_display: '0'
+  provider: system
+visibility:
+  user_role:
+    id: user_role
+    negate: false
+    context_mapping:
+      user: '@user.current_user_context:current_user'
+    roles:
+      authenticated: authenticated
+      content_editor: content_editor
+      administrator: administrator

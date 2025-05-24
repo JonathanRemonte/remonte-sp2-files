@@ -1,0 +1,17 @@
+uuid: d7756c5a-666f-4ce1-9742-dbaf033c093d
+langcode: en
+status: true
+dependencies: {  }
+third_party_settings:
+  tripal:
+    chado_base_table: arraydesign
+id: array_design
+label: 'Array Design'
+termIdSpace: EFO
+termAccession: '0000269'
+help_text: 'Use the array design page to describe the systematic arrangement of similar objects, usually in rows and columns, used by an instrument to perform an assay.'
+category: Expression
+title_format: '[array_design_name]'
+url_format: 'array_design/[TripalEntity__entity_id]'
+hide_empty_field: true
+ajax_field: true

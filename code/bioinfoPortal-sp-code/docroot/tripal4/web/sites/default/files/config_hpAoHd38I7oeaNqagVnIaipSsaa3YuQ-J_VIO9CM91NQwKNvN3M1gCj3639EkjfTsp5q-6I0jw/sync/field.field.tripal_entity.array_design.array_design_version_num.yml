@@ -1,0 +1,24 @@
+uuid: 61bb9a7f-364f-49bf-af5f-354820973232
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_version_num
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_version_num
+field_name: array_design_version_num
+entity_type: tripal_entity
+bundle: array_design
+label: 'Array Version'
+description: 'A version number is an information content entity which is a sequence of characters borne by part of each of a class of manufactured products or its packaging and indicates its order within a set of other products having the same name.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: IAO
+  termAccession: '0000129'
+  debug: false
+field_type: chado_text_type_default

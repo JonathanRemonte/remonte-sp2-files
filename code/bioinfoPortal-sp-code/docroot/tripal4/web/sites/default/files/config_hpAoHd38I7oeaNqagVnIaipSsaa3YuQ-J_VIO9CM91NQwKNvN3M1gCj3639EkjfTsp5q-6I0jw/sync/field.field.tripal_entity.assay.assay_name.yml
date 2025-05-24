@@ -1,0 +1,24 @@
+uuid: f6eb8e35-374b-4384-acde-4e335225e3e1
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_name
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_name
+field_name: assay_name
+entity_type: tripal_entity
+bundle: assay
+label: Name
+description: 'The name of the item.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: name
+  debug: false
+field_type: chado_text_type_default

@@ -1,0 +1,83 @@
+uuid: 5cca1eba-e4a8-4668-9f31-f52b3a1b6322
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.genetic_map.genetic_map_contact
+    - field.field.tripal_entity.genetic_map.genetic_map_dbxref_ann
+    - field.field.tripal_entity.genetic_map.genetic_map_description
+    - field.field.tripal_entity.genetic_map.genetic_map_name
+    - field.field.tripal_entity.genetic_map.genetic_map_pub
+    - field.field.tripal_entity.genetic_map.genetic_map_unit_type
+    - tripal.content_type.genetic_map
+  module:
+    - tripal_chado
+    - user
+id: tripal_entity.genetic_map.default
+targetEntityType: tripal_entity
+bundle: genetic_map
+mode: default
+content:
+  genetic_map_contact:
+    type: chado_contact_formatter_default
+    label: above
+    settings:
+      token_string: '[name]'
+    third_party_settings: {  }
+    weight: 30
+    region: content
+  genetic_map_dbxref_ann:
+    type: chado_dbxref_formatter_default
+    label: above
+    settings:
+      token_string: '[db_urlprefix]'
+    third_party_settings: {  }
+    weight: 68
+    region: content
+  genetic_map_description:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 15
+    region: content
+  genetic_map_name:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  genetic_map_pub:
+    type: chado_pub_formatter_default
+    label: above
+    settings:
+      token_string: '[uniquename]'
+    third_party_settings: {  }
+    weight: 35
+    region: content
+  genetic_map_unit_type:
+    type: chado_unit_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -4
+    region: content
+  uid:
+    type: author
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

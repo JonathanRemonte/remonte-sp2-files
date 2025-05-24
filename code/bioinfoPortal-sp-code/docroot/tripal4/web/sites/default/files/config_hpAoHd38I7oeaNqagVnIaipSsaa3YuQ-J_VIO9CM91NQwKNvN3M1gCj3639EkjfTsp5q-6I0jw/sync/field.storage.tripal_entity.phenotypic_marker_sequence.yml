@@ -1,0 +1,25 @@
+uuid: 9e130234-38a8-401a-a78d-5e5cf7d6d2f7
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.phenotypic_marker_sequence
+field_name: phenotypic_marker_sequence
+entity_type: tripal_entity
+type: chado_sequence_type_default
+settings:
+  termIdSpace: data
+  termAccession: '2044'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: feature
+    base_column: residues
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

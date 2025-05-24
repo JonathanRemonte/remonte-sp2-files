@@ -1,0 +1,69 @@
+uuid: 59587593-c952-469e-b92f-72eedbebc48a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.study.study_contact
+    - field.field.tripal_entity.study.study_dbxref
+    - field.field.tripal_entity.study.study_description
+    - field.field.tripal_entity.study.study_name
+    - field.field.tripal_entity.study.study_pub
+    - tripal.content_type.study
+  module:
+    - tripal_chado
+id: tripal_entity.study.default
+targetEntityType: tripal_entity
+bundle: study
+mode: default
+content:
+  study_contact:
+    type: chado_contact_widget_default
+    weight: 20
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  study_dbxref:
+    type: chado_dbxref_widget_default
+    weight: 68
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  study_description:
+    type: chado_text_type_widget
+    weight: 15
+    region: content
+    settings:
+      filter_format: basic_html
+    third_party_settings: {  }
+  study_name:
+    type: chado_text_type_widget
+    weight: 10
+    region: content
+    settings:
+      filter_format: plain_text
+    third_party_settings: {  }
+  study_pub:
+    type: chado_pub_widget_default
+    weight: 15
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: -4
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 5
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

@@ -1,0 +1,190 @@
+uuid: 8636141b-afde-4360-81c5-934c4609c451
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.array_design.array_design_dbxref
+    - field.field.tripal_entity.array_design.array_design_description
+    - field.field.tripal_entity.array_design.array_design_dimensions
+    - field.field.tripal_entity.array_design.array_design_element_dims
+    - field.field.tripal_entity.array_design.array_design_manufacturer
+    - field.field.tripal_entity.array_design.array_design_name
+    - field.field.tripal_entity.array_design.array_design_num_array_columns
+    - field.field.tripal_entity.array_design.array_design_num_array_rows
+    - field.field.tripal_entity.array_design.array_design_num_grid_columns
+    - field.field.tripal_entity.array_design.array_design_num_grid_rows
+    - field.field.tripal_entity.array_design.array_design_num_of_elements
+    - field.field.tripal_entity.array_design.array_design_num_sub_columns
+    - field.field.tripal_entity.array_design.array_design_num_sub_rows
+    - field.field.tripal_entity.array_design.array_design_platform_type
+    - field.field.tripal_entity.array_design.array_design_protocol
+    - field.field.tripal_entity.array_design.array_design_substrate_type
+    - field.field.tripal_entity.array_design.array_design_version_num
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+    - user
+id: tripal_entity.array_design.default
+targetEntityType: tripal_entity
+bundle: array_design
+mode: default
+content:
+  array_design_dbxref:
+    type: chado_dbxref_formatter_default
+    label: above
+    settings:
+      token_string: '[db_urlprefix]'
+    third_party_settings: {  }
+    weight: 68
+    region: content
+  array_design_description:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 15
+    region: content
+  array_design_dimensions:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 50
+    region: content
+  array_design_element_dims:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 51
+    region: content
+  array_design_manufacturer:
+    type: chado_contact_formatter_default
+    label: above
+    settings:
+      token_string: '[name]'
+    third_party_settings: {  }
+    weight: 20
+    region: content
+  array_design_name:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  array_design_num_array_columns:
+    type: chado_integer_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+      thousand_separator: ''
+    third_party_settings: {  }
+    weight: 53
+    region: content
+  array_design_num_array_rows:
+    type: chado_integer_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+      thousand_separator: ''
+    third_party_settings: {  }
+    weight: 54
+    region: content
+  array_design_num_grid_columns:
+    type: chado_integer_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+      thousand_separator: ''
+    third_party_settings: {  }
+    weight: 55
+    region: content
+  array_design_num_grid_rows:
+    type: chado_integer_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+      thousand_separator: ''
+    third_party_settings: {  }
+    weight: 56
+    region: content
+  array_design_num_of_elements:
+    type: chado_integer_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+      thousand_separator: ''
+    third_party_settings: {  }
+    weight: 52
+    region: content
+  array_design_num_sub_columns:
+    type: chado_integer_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+      thousand_separator: ''
+    third_party_settings: {  }
+    weight: 57
+    region: content
+  array_design_num_sub_rows:
+    type: chado_integer_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+      thousand_separator: ''
+    third_party_settings: {  }
+    weight: 58
+    region: content
+  array_design_platform_type:
+    type: chado_additional_type_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 25
+    region: content
+  array_design_protocol:
+    type: chado_protocol_formatter_default
+    label: above
+    settings:
+      token_string: '[name]'
+    third_party_settings: {  }
+    weight: 35
+    region: content
+  array_design_substrate_type:
+    type: chado_additional_type_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 30
+    region: content
+  array_design_version_num:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 45
+    region: content
+  title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -4
+    region: content
+  uid:
+    type: author
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }

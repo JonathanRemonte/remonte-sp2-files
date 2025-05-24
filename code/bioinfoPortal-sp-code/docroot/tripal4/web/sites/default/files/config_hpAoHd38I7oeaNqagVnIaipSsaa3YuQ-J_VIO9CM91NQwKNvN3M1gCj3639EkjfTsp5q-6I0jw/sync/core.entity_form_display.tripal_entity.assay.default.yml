@@ -1,0 +1,113 @@
+uuid: 0243ce39-e53b-4d6a-b56a-ebde32c3df37
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.assay.assay_array_design
+    - field.field.tripal_entity.assay.assay_arraybatchidentifier
+    - field.field.tripal_entity.assay.assay_arrayidentifier
+    - field.field.tripal_entity.assay.assay_biomaterial
+    - field.field.tripal_entity.assay.assay_dbxref
+    - field.field.tripal_entity.assay.assay_description
+    - field.field.tripal_entity.assay.assay_name
+    - field.field.tripal_entity.assay.assay_operator
+    - field.field.tripal_entity.assay.assay_project
+    - field.field.tripal_entity.assay.assay_protocol
+    - field.field.tripal_entity.assay.assay_study
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.default
+targetEntityType: tripal_entity
+bundle: assay
+mode: default
+content:
+  assay_array_design:
+    type: chado_array_design_widget_default
+    weight: 20
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  assay_arraybatchidentifier:
+    type: chado_text_type_widget
+    weight: 40
+    region: content
+    settings:
+      filter_format: basic_html
+    third_party_settings: {  }
+  assay_arrayidentifier:
+    type: chado_text_type_widget
+    weight: 35
+    region: content
+    settings:
+      filter_format: basic_html
+    third_party_settings: {  }
+  assay_biomaterial:
+    type: chado_biomaterial_widget_default
+    weight: 55
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  assay_dbxref:
+    type: chado_dbxref_widget_default
+    weight: 68
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  assay_description:
+    type: chado_text_type_widget
+    weight: 15
+    region: content
+    settings:
+      filter_format: basic_html
+    third_party_settings: {  }
+  assay_name:
+    type: chado_text_type_widget
+    weight: 10
+    region: content
+    settings:
+      filter_format: plain_text
+    third_party_settings: {  }
+  assay_operator:
+    type: chado_contact_widget_default
+    weight: 45
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  assay_project:
+    type: chado_project_widget_default
+    weight: 60
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  assay_protocol:
+    type: chado_protocol_widget_default
+    weight: 25
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  assay_study:
+    type: chado_study_widget_default
+    weight: 30
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: -4
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 5
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

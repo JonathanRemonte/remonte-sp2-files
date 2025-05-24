@@ -1,0 +1,24 @@
+uuid: 9b3513d7-78de-4899-8f42-b9059f8c8a14
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.genome_annotation_prog_version
+    - tripal.content_type.genome_annotation
+  module:
+    - tripal_chado
+id: tripal_entity.genome_annotation.genome_annotation_prog_version
+field_name: genome_annotation_prog_version
+entity_type: tripal_entity
+bundle: genome_annotation
+label: 'Program Version'
+description: 'The version of the program, pipeline, workflow or method used to perform this analysis. (e.g. TBLASTX 2.0MP-WashU [09-Nov-2000]. Enter "n/a" if no version is available or applicable.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: IAO
+  termAccession: '0000129'
+  debug: false
+field_type: chado_string_type_default

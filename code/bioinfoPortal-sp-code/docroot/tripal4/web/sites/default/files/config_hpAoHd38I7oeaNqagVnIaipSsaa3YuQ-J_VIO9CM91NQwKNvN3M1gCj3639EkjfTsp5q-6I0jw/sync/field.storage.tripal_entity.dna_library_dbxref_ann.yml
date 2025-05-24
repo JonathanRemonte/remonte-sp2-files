@@ -1,0 +1,26 @@
+uuid: aeb9191f-9109-4fdc-b5a0-66bdf4edb75e
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.dna_library_dbxref_ann
+field_name: dna_library_dbxref_ann
+entity_type: tripal_entity
+type: chado_dbxref_type_default
+settings:
+  termIdSpace: SBO
+  termAccession: '0000552'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: library
+    linker_table: library_dbxref
+    linker_fkey_column: dbxref_id
+module: tripal_chado
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

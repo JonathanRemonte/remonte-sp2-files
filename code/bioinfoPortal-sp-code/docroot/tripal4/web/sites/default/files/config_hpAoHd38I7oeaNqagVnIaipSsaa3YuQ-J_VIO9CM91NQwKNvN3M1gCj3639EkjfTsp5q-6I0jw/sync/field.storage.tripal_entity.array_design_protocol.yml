@@ -1,0 +1,26 @@
+uuid: 9782c1ee-0e86-4ba5-b7ce-f49d40a0bfb9
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.array_design_protocol
+field_name: array_design_protocol
+entity_type: tripal_entity
+type: chado_protocol_type_default
+settings:
+  termIdSpace: data
+  termAccession: '1047'
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: arraydesign
+    linker_table: arraydesign
+    linker_fkey_column: protocol_id
+module: tripal_chado
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

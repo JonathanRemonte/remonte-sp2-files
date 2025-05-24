@@ -1,0 +1,24 @@
+uuid: 76a8c4e8-de2f-4a5c-a079-81f2862ed0e9
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.array_design_name
+    - tripal.content_type.array_design
+  module:
+    - tripal_chado
+id: tripal_entity.array_design.array_design_name
+field_name: array_design_name
+entity_type: tripal_entity
+bundle: array_design
+label: Name
+description: 'The name of the item.'
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: name
+  debug: false
+field_type: chado_text_type_default

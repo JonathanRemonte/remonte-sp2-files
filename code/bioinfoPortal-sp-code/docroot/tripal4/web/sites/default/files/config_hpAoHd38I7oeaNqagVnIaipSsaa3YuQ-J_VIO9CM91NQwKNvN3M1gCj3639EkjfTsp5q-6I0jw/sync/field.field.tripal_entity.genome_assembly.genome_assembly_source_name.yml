@@ -1,0 +1,24 @@
+uuid: 52bd04c1-e220-422e-9f11-0b285c1a2304
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.genome_assembly_source_name
+    - tripal.content_type.genome_assembly
+  module:
+    - tripal_chado
+id: tripal_entity.genome_assembly.genome_assembly_source_name
+field_name: genome_assembly_source_name
+entity_type: tripal_entity
+bundle: genome_assembly
+label: 'Data Source Name'
+description: 'The name of the source where data was obtained for this analysis.'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: schema
+  termAccession: name
+  debug: false
+field_type: chado_string_type_default

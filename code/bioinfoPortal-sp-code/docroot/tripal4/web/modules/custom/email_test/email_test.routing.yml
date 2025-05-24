@@ -1,0 +1,8 @@
+email_test.send:
+  path: '/email-test/send'
+  defaults:
+    _controller: '\Drupal\email_test\Controller\EmailTestController::send'
+    _title: 'Send Email Test'
+  requirements:
+    _permission: 'access content'
+  methods: [GET, POST]

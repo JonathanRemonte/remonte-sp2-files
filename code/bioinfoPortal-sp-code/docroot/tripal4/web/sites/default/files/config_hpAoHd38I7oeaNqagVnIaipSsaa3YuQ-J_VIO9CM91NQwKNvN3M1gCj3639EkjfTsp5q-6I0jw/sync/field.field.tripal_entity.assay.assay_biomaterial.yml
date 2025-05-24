@@ -1,0 +1,24 @@
+uuid: a89b5088-1398-4091-978c-f5dbaf001ee0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.tripal_entity.assay_biomaterial
+    - tripal.content_type.assay
+  module:
+    - tripal_chado
+id: tripal_entity.assay.assay_biomaterial
+field_name: assay_biomaterial
+entity_type: tripal_entity
+bundle: assay
+label: Biosample
+description: 'A biological sample used in this assay'
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  termIdSpace: NCIT
+  termAccession: C70699
+  debug: false
+field_type: chado_biomaterial_type_default

@@ -1,0 +1,26 @@
+uuid: 33c90cf5-4f97-4ab2-96a4-bf8ffec5434b
+langcode: en
+status: true
+dependencies:
+  module:
+    - tripal
+    - tripal_chado
+id: tripal_entity.genome_assembly_project
+field_name: genome_assembly_project
+entity_type: tripal_entity
+type: chado_project_type_default
+settings:
+  termIdSpace: NCIT
+  termAccession: C47885
+  storage_plugin_id: chado_storage
+  storage_plugin_settings:
+    base_table: analysis
+    linker_table: project_analysis
+    linker_fkey_column: project_id
+module: tripal_chado
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

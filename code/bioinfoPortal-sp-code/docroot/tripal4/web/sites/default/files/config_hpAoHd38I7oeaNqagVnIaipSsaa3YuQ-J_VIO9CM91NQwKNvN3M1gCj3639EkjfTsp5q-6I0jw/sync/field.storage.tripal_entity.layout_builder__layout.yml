@@ -1,0 +1,19 @@
+uuid: 2c9544fe-364f-4e4c-a6cd-e297d478f000
+langcode: en
+status: true
+dependencies:
+  module:
+    - layout_builder
+    - tripal
+id: tripal_entity.layout_builder__layout
+field_name: layout_builder__layout
+entity_type: tripal_entity
+type: layout_section
+settings: {  }
+module: layout_builder
+locked: true
+cardinality: 1
+translatable: false
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

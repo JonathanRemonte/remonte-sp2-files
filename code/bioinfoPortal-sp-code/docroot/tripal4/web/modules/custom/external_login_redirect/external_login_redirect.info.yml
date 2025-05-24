@@ -1,0 +1,7 @@
+name: 'External Login Redirect'
+type: module
+description: 'Redirects users to external site with JWT via POST.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - user

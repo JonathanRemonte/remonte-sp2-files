@@ -1,0 +1,74 @@
+uuid: 7244aa68-0644-4dd7-9536-b202290b339b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.tripal_entity.phylotree.phylotree_analysis
+    - field.field.tripal_entity.phylotree.phylotree_comment
+    - field.field.tripal_entity.phylotree.phylotree_dbxref
+    - field.field.tripal_entity.phylotree.phylotree_name
+    - field.field.tripal_entity.phylotree.phylotree_type
+    - tripal.content_type.phylotree
+  module:
+    - tripal_chado
+    - user
+id: tripal_entity.phylotree.default
+targetEntityType: tripal_entity
+bundle: phylotree
+mode: default
+content:
+  phylotree_analysis:
+    type: chado_analysis_formatter_default
+    label: above
+    settings:
+      token_string: '[name]'
+    third_party_settings: {  }
+    weight: 25
+    region: content
+  phylotree_comment:
+    type: chado_text_type_formatter
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 30
+    region: content
+  phylotree_dbxref:
+    type: chado_dbxref_formatter_default
+    label: above
+    settings:
+      token_string: '[db_urlprefix]'
+    third_party_settings: {  }
+    weight: 68
+    region: content
+  phylotree_name:
+    type: chado_string_type_formatter
+    label: above
+    settings:
+      field_prefix: ''
+      field_suffix: ''
+    third_party_settings: {  }
+    weight: 10
+    region: content
+  phylotree_type:
+    type: chado_additional_type_formatter_default
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 20
+    region: content
+  title:
+    type: string
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    weight: -4
+    region: content
+  uid:
+    type: author
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden: {  }
