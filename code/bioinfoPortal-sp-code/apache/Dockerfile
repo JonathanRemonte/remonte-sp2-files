@@ -44,6 +44,11 @@ RUN apt-get install -y --no-install-recommends \
     vim-tiny \
     msmtp && ln -s /usr/bin/msmtp /usr/sbin/sendmail
 
+# Install Node.js (LTS) and npm using NodeSource
+RUN curl -fsSL https://deb.nodesource.com/setup_lts.x | bash - && \
+    apt-get install -y nodejs && \
+    npm install -g npm@latest
+
 # Configure msmtp with SMTP credentials
 RUN echo "defaults" > /etc/msmtprc && \
     echo "auth on" >> /etc/msmtprc && \

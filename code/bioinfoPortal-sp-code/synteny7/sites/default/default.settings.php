@@ -249,7 +249,21 @@
  *   );
  * @endcode
  */
-$databases = array();
+$databases = array(
+  'default' => 
+  array (
+    'default' => 
+    array (
+      'database' => getenv('DB_NAME7'),
+      'username' => getenv('DB_USERNAME'),
+      'password' => getenv('DB_PASSWORD'),
+      'host' => 'postgres',
+      'port' => '5432',
+      'driver' => 'pgsql',
+      'prefix' => ''
+    ),
+  ),
+);
 
 /**
  * Quoting of identifiers in MySQL.
