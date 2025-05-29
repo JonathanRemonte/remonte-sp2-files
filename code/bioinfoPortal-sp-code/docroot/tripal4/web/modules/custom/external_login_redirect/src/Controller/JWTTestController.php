@@ -7,8 +7,17 @@ use Firebase\JWT\JWT;
 use Firebase\JWT\Key;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Response;
+use Dotenv\Dotenv;
 
 class JWTTestController extends ControllerBase {
+  private function loadEnv() {
+    static $loaded = false;
+    if (!$loaded) {
+      $dotenv = \Dotenv\Dotenv::createImmutable(DRUPAL_ROOT);
+      $dotenv->load();
+      $loaded = true;
+    }
+  }
 
   public function generate() {
     $current_user = \Drupal::currentUser();
@@ -36,8 +45,8 @@ class JWTTestController extends ControllerBase {
       'email' => $user->getEmail(),
       'iat' => time(),
       'exp' => time() + 300,
-      'iss' => 'http://localhost:8080',
-      'aud' => 'http://localhost:8081',
+      'iss' => getenv('DOMAIN_ADD') . ':8080',
+      'aud' => getenv('DOMAIN_ADD') . ':8081',
     ];
 
     try {
