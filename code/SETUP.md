@@ -23,8 +23,8 @@
 6. Run `docker compose build` and `docker compose up -d` in /home/admin/bioinformatics
 7. Enter php-apache container by `docker exec -it php-apache bash` then run `composer install`
 8. Copy both backup sql files into the postgres container using these commands:
-`docker cp /home/admin/bioinformatics/drupaldb_backup.sql postgres:/drupaldb_backup.sql`
-`docker cp /home/admin/bioinformatics/drupal7db_backup.sql postgres:/drupal7db_backup.sql`
+`docker cp /home/admin/drupaldb_backup.sql postgres:/drupaldb_backup.sql`
+`docker cp /home/admin/drupal7db_backup.sql postgres:/drupal7db_backup.sql`
 9. Import the backup for drupaldb first inside the postgres container by running 
 `docker exec -it postgres bash`
 `psql -U drupal -d drupaldb -f /drupaldb_backup.sql`
@@ -45,4 +45,4 @@
 12. Ensure proper file permissions to synteny7 settings.php
 `chmod 644 sites/default/settings.php`
 `chmod 755 sites/default`
-12. Return to project root and run docker commands `docker compose build` and `docker compose up -d`
+13. Return to project root and run docker commands `docker compose build` and `docker compose up -d`
