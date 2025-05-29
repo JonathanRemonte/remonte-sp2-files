@@ -42,7 +42,14 @@
 `npm run dev`
 `cd ../../../../`
 `vendor/bin/drush cr`
-12. Ensure proper file permissions to synteny7 settings.php
+12. Ensure proper file permissions to synteny7 settings.php (for database access)
+`docker exec -it synteny bash`
+`cd /sites/default/`
+`cp default.settings.php settings.php`
 `chmod 644 sites/default/settings.php`
 `chmod 755 sites/default`
-13. Return to project root and run docker commands `docker compose build` and `docker compose up -d`
+13. Ensure proper file ownership and permissions to private.key (for jwt generation and sending)
+`docker exec -it php-apache bash`
+`cd /var/www/private_keys`
+`chown www-data:www-data /var/www/private_keys/private.key`
+`chmod 400 /var/www/private_keys/private.key`

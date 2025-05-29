@@ -65,7 +65,7 @@ class RedirectController extends ControllerBase {
       return new JsonResponse(['token' => $jwt]);
     }
     catch (\Exception $e) {
-      return new JsonResponse(['error' => 'Token generation failed'], 500);
+      return new JsonResponse(['error' => 'Token generation failed', 'message' => $e->getMessage()], 500);
     }
   }
 }
