@@ -4,20 +4,10 @@ namespace Drupal\external_login_redirect\Controller;
 
 use Drupal\Core\Controller\ControllerBase;
 use Firebase\JWT\JWT;
-use Firebase\JWT\Key;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Symfony\Component\HttpFoundation\Response;
-use Dotenv\Dotenv;
 
 class JWTTestController extends ControllerBase {
-  private function loadEnv() {
-    static $loaded = false;
-    if (!$loaded) {
-      $dotenv = \Dotenv\Dotenv::createImmutable(DRUPAL_ROOT);
-      $dotenv->load();
-      $loaded = true;
-    }
-  }
 
   public function generate() {
     $current_user = \Drupal::currentUser();
@@ -52,7 +42,8 @@ class JWTTestController extends ControllerBase {
     try {
       $jwt = JWT::encode($payload, $privateKey, 'RS256');
       return new JsonResponse(['jwt' => $jwt]);
-    } catch (\Exception $e) {
+    }
+    catch (\Exception $e) {
       return new JsonResponse(['error' => $e->getMessage()], Response::HTTP_INTERNAL_SERVER_ERROR);
     }
   }

@@ -6,26 +6,14 @@ use Drupal\Core\Controller\ControllerBase;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpFoundation\JsonResponse;
 use Firebase\JWT\JWT;
-use Firebase\JWT\Key;
-use Dotenv\Dotenv;
 
 class RedirectController extends ControllerBase {
-  private function loadEnv() {
-    static $loaded = false;
-    if (!$loaded) {
-      $dotenv = \Dotenv\Dotenv::createImmutable(DRUPAL_ROOT);
-      $dotenv->load();
-      $loaded = true;
-    }
-  }
 
   private function generateJwtForUser($user) {
-    $this->loadEnv();
-
     $privateKeyPath = '/var/www/private_keys/private.key';
     $privateKey = file_get_contents($privateKeyPath);
     $account = \Drupal\user\Entity\User::load($user->id());
-  
+
     $payload = [
       'sub' => $user->id(),
       'name' => $user->getDisplayName(),
@@ -36,25 +24,21 @@ class RedirectController extends ControllerBase {
       'aud' => 'https://snpseek-mern.vercel.app',
     ];
 
-    if (!openssl_pkey_get_private($privateKey)) {
-      throw new \Exception("Invalid private key");
-    }
-  
     return JWT::encode($payload, $privateKey, 'RS256');
   }
 
   public function handleRedirect() {
     $user = $this->currentUser();
-  
-    if ($user->isAnonymous()) {   
+
+    if ($user->isAnonymous()) {
       return $this->redirect('<front>');
     }
-  
+
     $account = \Drupal\user\Entity\User::load($user->id());
     $jwt = $this->generateJwtForUser($user);
-  
+
     $externalUrl = 'https://snpseek-mern.vercel.app';
-  
+
     $html = <<<HTML
     <html><body>
     <form id="redirectForm" action="$externalUrl" method="post">
@@ -65,21 +49,23 @@ class RedirectController extends ControllerBase {
     <script>document.getElementById('redirectForm').submit();</script>
     </body></html>
     HTML;
-  
+
     return new Response($html);
-  }    
+  }
 
   public function getIframeJwt() {
-      $user = $this->currentUser();
-      if ($user->isAnonymous()) {
-        return new JsonResponse(['error' => 'Unauthorized'], 403);
-      }
-    
-      try {
-        $jwt = $this->generateJwtForUser($user);
-        return new JsonResponse(['token' => $jwt]);
-      } catch (\Exception $e) {
-        return new JsonResponse(['error' => 'Token generation failed'], 500);
-      }
+    $user = $this->currentUser();
+
+    if ($user->isAnonymous()) {
+      return new JsonResponse(['error' => 'Unauthorized'], 403);
+    }
+
+    try {
+      $jwt = $this->generateJwtForUser($user);
+      return new JsonResponse(['token' => $jwt]);
+    }
+    catch (\Exception $e) {
+      return new JsonResponse(['error' => 'Token generation failed'], 500);
+    }
   }
 }
