@@ -61,7 +61,7 @@
     "extra": {
         "drupal-scaffold": {
             "locations": {
-                "web-root": "/var/www/bioinformatics/docroot/tripal4/web/"
+                "web-root": "web/"
             }
         },
         "installer-paths": {
