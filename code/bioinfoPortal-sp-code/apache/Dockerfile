@@ -123,12 +123,6 @@ RUN echo "ServerName 13.250.212.83" >> /etc/apache2/apache2.conf
 # This makes /var/www/docroot/ the Drupal root, containing composer.json, web/, etc.
 COPY ./docroot/tripal4/ /var/www/docroot/
 
-WORKDIR /var/www/docroot
-RUN composer install -vvv \
-    --no-interaction \
-    --no-progress \
-    --no-suggest
-
 # Install theme dependencies and build assets
 # This path should still be correct as web/ is inside the Drupal root.
 WORKDIR /var/www/docroot/web/themes/custom/ww_radix
