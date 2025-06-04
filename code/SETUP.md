@@ -9,6 +9,10 @@
 * Tripal 4
 * Composer 2.2.6
 * Docker Desktop 4.33.1
+### Resources:
+* Video Documentations (https://drive.google.com/drive/folders/1ln0jWyyKofZmXFdVFZRmR0RDVQF0t2fn?usp=sharing)
+* Website Navigation Demo (https://drive.google.com/drive/folders/1puqB8IQuD3E1MisvCegWgQNf5Y4YhJjY?usp=sharing)
+
 
 ## Instructions
 1. Clone the project from GitHub
