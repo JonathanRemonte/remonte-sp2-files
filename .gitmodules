@@ -1,6 +1,0 @@
-[submodule "code/bioinfoPortal-sp-code/synteny7/sites/all/modules/tripal"]
-	path = code/bioinfoPortal-sp-code/synteny7/sites/all/modules/tripal
-	url = https://github.com/tripal/tripal.git
-[submodule "code/bioinfoPortal-sp-code/synteny7/sites/all/modules/tripal_synview"]
-	path = code/bioinfoPortal-sp-code/synteny7/sites/all/modules/tripal_synview
-	url = https://github.com/tripal/tripal_synview.git

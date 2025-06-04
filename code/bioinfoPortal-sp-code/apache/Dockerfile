@@ -1,5 +1,5 @@
 # Use the PHP-Apache image
-ARG PHP_VERSION="8.1"
+ARG PHP_VERSION="8.2"
 FROM php:${PHP_VERSION}-apache
 
 ARG SMTP_USER
@@ -116,6 +116,48 @@ WORKDIR /var/www/docroot
 
 # Add ServerName directive
 RUN echo "ServerName 13.250.212.83" >> /etc/apache2/apache2.conf
+
+# Copy application code
+# This assumes your project root (where docker-compose.yml is) is the context.
+# We copy the contents of host's ./docroot/tripal4/ into image's /var/www/docroot/
+# This makes /var/www/docroot/ the Drupal root, containing composer.json, web/, etc.
+COPY ./docroot/tripal4/ /var/www/docroot/
+
+# Install theme dependencies and build assets
+# This path should still be correct as web/ is inside the Drupal root.
+WORKDIR /var/www/docroot/web/themes/custom/ww_radix
+RUN npm install
+RUN npm run dev
+
+# Return to the main application directory
+WORKDIR /var/www/docroot
+
+# Set up Drupal settings file and directories if they don't exist
+# Path adjusted to web/sites/default
+RUN if [ ! -f /var/www/docroot/web/sites/default/settings.php ] && [ -f /var/www/docroot/web/sites/default/default.settings.php ]; then \
+      cp /var/www/docroot/web/sites/default/default.settings.php /var/www/docroot/web/sites/default/settings.php; \
+    fi
+# Ensure correct ownership and permissions for Drupal's sites directory
+RUN mkdir -p /var/www/docroot/web/sites/default/files && \
+    chown -R www-data:www-data /var/www/docroot/web/sites/default && \
+    chmod 644 /var/www/docroot/web/sites/default/settings.php && \
+    chmod -R 755 /var/www/docroot/web/sites/default/files
+
+# Ensure private keys are present and set permissions 
+# This relies on the volume mount in docker-compose.yml for /var/www/private_keys.
+# The keys directory should be created if it doesn't exist to avoid chown errors.
+RUN mkdir -p /var/www/private_keys && \
+    if [ -f /var/www/private_keys/private.key ]; then \
+    chown www-data:www-data /var/www/private_keys/private.key && \
+    chmod 400 /var/www/private_keys/private.key; \
+    fi
+
+# Enable full PHP error reporting for debugging
+RUN echo "error_reporting = E_ALL" > /usr/local/etc/php/conf.d/zzz-php-errors.ini && \
+    echo "display_errors = On" >> /usr/local/etc/php/conf.d/zzz-php-errors.ini && \
+    echo "display_startup_errors = On" >> /usr/local/etc/php/conf.d/zzz-php-errors.ini && \
+    echo "log_errors = On" >> /usr/local/etc/php/conf.d/zzz-php-errors.ini && \
+    echo "error_log = /dev/stderr" >> /usr/local/etc/php/conf.d/zzz-php-errors.ini
 
 # Expose Apache port
 EXPOSE 80

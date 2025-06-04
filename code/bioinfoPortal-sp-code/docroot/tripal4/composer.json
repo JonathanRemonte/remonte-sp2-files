@@ -38,7 +38,8 @@
         "drupal/view_unpublished": "^1.3",
         "drush/drush": "^12.5",
         "firebase/php-jwt": "^6.11",
-        "tripal/tripal": "^4.0@alpha"
+        "tripal/tripal": "^4.0@alpha",
+        "vlucas/phpdotenv": "^5.6"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -60,7 +61,7 @@
     "extra": {
         "drupal-scaffold": {
             "locations": {
-                "web-root": "/var/www/bioinformatics/docroot/tripal4/web/"
+                "web-root": "web/"
             }
         },
         "installer-paths": {
