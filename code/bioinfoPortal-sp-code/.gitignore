@@ -47,3 +47,6 @@ Thumbs.db
 *.log
 *.sql
 *.sqlite
+
+# Ignore Windows ADS files
+*Zone.Identifier
